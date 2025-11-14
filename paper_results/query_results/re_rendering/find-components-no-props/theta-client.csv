@@ -1,0 +1,5 @@
+"col0"
+"demos/demo-react-native/src/App.tsx:<22,13>--<49,1>~~~component_no_props"
+"react-native/verification-tool/src/App.tsx:<69,13>--<225,1>~~~component_no_props"
+"react-native/verification-tool/src/App.tsx:<72,23>--<82,3>~~~component_no_props"
+"react-native/verification-tool/src/screen/live-preview-screen/live-preview-screen.tsx:<25,5>--<133,1>~~~component_no_props"

@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Navbar/>           |
+| <CNotif ... on } /> |
+| <CSwitc ... e) } /> |
+| <CSwitc ... e) } /> |
+| <Footer/>           |

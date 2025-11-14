@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Dialog ... Header> |
+| <Dialog ... Header> |
+| <Dialog ... Footer> |
+| <Dialog ... Header> |
+| <Dialog ... Footer> |

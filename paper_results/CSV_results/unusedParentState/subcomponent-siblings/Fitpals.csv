@@ -1,0 +1,16 @@
+|        sibling        |
++-----------------------+
+| <Navbar ... uth} />   |
+| <HomePage />          |
+| <FindPal />           |
+| <YourActivity />      |
+| <JoinedActivities />  |
+| <LoginPage />         |
+| <Premium />           |
+| <Contact />           |
+| <RegisterPage />      |
+| <ForgotPassword />    |
+| <Footer />            |
+| <Form\r\n ...      /> |
+| <Result ... ata} />   |
+| <Activi ...      />   |

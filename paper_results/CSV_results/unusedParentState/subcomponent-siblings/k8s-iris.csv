@@ -1,0 +1,11 @@
+|       sibling       |
++---------------------+
+| <AppToolbar />      |
+| <Contex ... Menu /> |
+| <AppMainMenu />     |
+| <AppEditors />      |
+| <Cluste ... ror} /> |
+| <AppContent />      |
+| <NoContextError />  |
+| <Resour ...      /> |
+| <Toolba ... oolbar> |

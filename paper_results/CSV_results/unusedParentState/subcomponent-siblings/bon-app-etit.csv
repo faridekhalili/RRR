@@ -1,0 +1,16 @@
+|       sibling       |
++---------------------+
+| <Navbar/>           |
+| <IndexP ... tags}/> |
+| <Recipe/>           |
+| <Login/>            |
+| <Registration/>     |
+| <Profile/>          |
+| <PostNe ... tags}/> |
+| <Footer/>           |
+| <FormTi ... cipe"/> |
+| <InputT ... nput}/> |
+| <Button ... ture}/> |
+| <InputD ... put} /> |
+| <InputP ... nput}/> |
+| <InputI ... put} /> |

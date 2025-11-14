@@ -1,0 +1,16 @@
+|       sibling       |
++---------------------+
+| <LoginHeader/>      |
+| <Input  ... mail"/> |
+| <Input  ... enha"/> |
+| <Submit ... trar"/> |
+| <FormStatus/>       |
+| <Footer/>           |
+| <LoginHeader/>      |
+| <Input  ... nome"/> |
+| <Input  ... mail"/> |
+| <Input  ... enha"/> |
+| <Input  ... enha"/> |
+| <Submit ... trar"/> |
+| <FormStatus/>       |
+| <Footer/>           |

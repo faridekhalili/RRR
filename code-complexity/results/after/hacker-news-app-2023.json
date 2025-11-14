@@ -1,0 +1,149 @@
+{
+  "project": {
+    "numFiles": 5,
+    "sloc": {
+      "physical": 181,
+      "logical": 323
+    },
+    "cyclomatic": {
+      "value": 79,
+      "density": 24.458204334365323
+    },
+    "halstead": {
+      "distinctOperators": 80,
+      "totalOperators": 965,
+      "distinctOperands": 320,
+      "totalOperands": 1266,
+      "vocabulary": 400,
+      "length": 2231,
+      "estimatedLength": 3328.771237954945,
+      "volume": 19284.44315938741,
+      "difficulty": 158.25,
+      "effort": 3051763.1299730577,
+      "time": 169542.39610961432,
+      "bugs": 6.4281477197958035
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/hacker-news-app-2023/src/App.js": {
+      "sloc": {
+        "physical": 14,
+        "logical": 13
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 15.384615384615385
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 35,
+        "distinctOperands": 25,
+        "totalOperands": 43,
+        "vocabulary": 36,
+        "length": 78,
+        "estimatedLength": 167.17882283189007,
+        "volume": 403.2541501125003,
+        "difficulty": 9.459999999999999,
+        "effort": 3814.7842600642525,
+        "time": 211.93245889245847,
+        "bugs": 0.1344180500375001
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hacker-news-app-2023/src/App.test.js": {
+      "sloc": {
+        "physical": 10,
+        "logical": 10
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 29,
+        "distinctOperands": 24,
+        "totalOperands": 36,
+        "vocabulary": 34,
+        "length": 65,
+        "estimatedLength": 155.88872502451932,
+        "volume": 330.6850846812721,
+        "difficulty": 7.5,
+        "effort": 2480.1381351095406,
+        "time": 137.78545195053005,
+        "bugs": 0.11022836156042402
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hacker-news-app-2023/src/NewsPage.js": {
+      "sloc": {
+        "physical": 131,
+        "logical": 275
+      },
+      "cyclomatic": {
+        "value": 70,
+        "density": 25.454545454545453
+      },
+      "halstead": {
+        "distinctOperators": 36,
+        "totalOperators": 819,
+        "distinctOperands": 219,
+        "totalOperands": 1084,
+        "vocabulary": 255,
+        "length": 1903,
+        "estimatedLength": 1982.5707001982994,
+        "volume": 15213.254590342407,
+        "difficulty": 89.0958904109589,
+        "effort": 1355438.4637751644,
+        "time": 75302.13687639803,
+        "bugs": 5.071084863447469
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hacker-news-app-2023/src/index.js": {
+      "sloc": {
+        "physical": 8,
+        "logical": 9
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 22.22222222222222
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 34,
+        "distinctOperands": 21,
+        "totalOperands": 43,
+        "vocabulary": 31,
+        "length": 77,
+        "estimatedLength": 136.16184010614157,
+        "volume": 381.47311589978943,
+        "difficulty": 10.238095238095237,
+        "effort": 3905.5580913549866,
+        "time": 216.97544951972148,
+        "bugs": 0.1271577052999298
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hacker-news-app-2023/src/components/NewsCard.js": {
+      "sloc": {
+        "physical": 18,
+        "logical": 16
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 18.75
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 48,
+        "distinctOperands": 31,
+        "totalOperands": 60,
+        "vocabulary": 44,
+        "length": 108,
+        "estimatedLength": 217.98463765702255,
+        "volume": 589.6186148128281,
+        "difficulty": 12.580645161290324,
+        "effort": 7417.782573451709,
+        "time": 412.0990318584283,
+        "bugs": 0.1965395382709427
+      }
+    }
+  }
+}

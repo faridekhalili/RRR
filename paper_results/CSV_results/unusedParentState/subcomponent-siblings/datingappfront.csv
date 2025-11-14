@@ -1,0 +1,18 @@
+|       sibling       |
++---------------------+
+| <Switch ...      /> |
+| <Switch ...      /> |
+| <Switch ...      /> |
+| <Choice ... ion} /> |
+| <CheckB ...      /> |
+| <CheckB ...      /> |
+| <RadioG ...      /> |
+| <RadioG ...      /> |
+| <DropDo ...      /> |
+| <DropDo ...      /> |
+| <Rating ...      /> |
+| <Rating ...      /> |
+| <Valida ...      /> |
+| <ShowVa ...      /> |
+| <ShowMe ...      /> |
+| <InboxR ...      /> |

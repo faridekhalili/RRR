@@ -1,0 +1,30 @@
+|       sibling       |
++---------------------+
+| <HeartPressed />    |
+| <HeartUnpressed />  |
+| <PostCo ...      /> |
+| <GithubSvg />       |
+| <TagInf ...      /> |
+| <TagInf ...      /> |
+| <AddTag />          |
+| <PostLi ... sts} /> |
+| <PostLi ... lts} /> |
+| <RepoLi ... lts} /> |
+| <UserLi ... lts} /> |
+| <TopicT ... pic} /> |
+| <TopicT ... pic} /> |
+| <TopicT ... pic} /> |
+| <TopicT ... pic} /> |
+| <TopicT ... pic} /> |
+| <TopicT ... pic} /> |
+| <TopicT ... pic} /> |
+| <TopicT ... pic} /> |
+| <TopicT ...      /> |
+| <TopicT ... pic} /> |
+| <LanTag ... Lan} /> |
+| <LanTag ... Lan} /> |
+| <LanTag ... Lan} /> |
+| <LanTag ... Lan} /> |
+| <LanTag ... Lan} /> |
+| <Button ... lan} /> |
+| <PostLi ... sts} /> |

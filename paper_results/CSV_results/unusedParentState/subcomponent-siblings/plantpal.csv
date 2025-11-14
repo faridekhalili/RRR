@@ -1,0 +1,19 @@
+|       sibling        |
++----------------------+
+| <Text>{ ... </Text>  |
+| <Button ...      />  |
+| <Text s ... </Text>  |
+| <View s ... 8 }} />  |
+| <View s ... 5 }} />  |
+| <Button ...      />  |
+| <PlantI ... ame} />  |
+| <View s ... 0 }} />  |
+| <View s ... </View>  |
+| <Text s ... </Text>  |
+| <Text s ... </Text>  |
+| <View s ... 0 }} />  |
+| <View s ... </View>  |
+| <View\n  ... </View> |
+| <Text s ... </Text>  |
+| <View s ... 0 }} />  |
+| <Activi ... ity} />  |

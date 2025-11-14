@@ -1,0 +1,13 @@
+|       sibling        |
++----------------------+
+| <Sidebar />          |
+| <Main A ... ata} />  |
+| <Mobile ...      />  |
+| <Home A ... KEY} />  |
+| <Test data={data} /> |
+| <Wishli ... ist} />  |
+| <Top AP ... KEY} />  |
+| <Genres ... KEY} />  |
+| <GenreP ... KEY} />  |
+| <Rating ... KEY} />  |
+| <NotFound />         |

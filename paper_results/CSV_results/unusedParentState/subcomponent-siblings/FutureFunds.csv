@@ -1,0 +1,18 @@
+|       sibling       |
++---------------------+
+| <Home />            |
+| <Home />            |
+| <Cacula ... ser} /> |
+| <NavBar />          |
+| <TestPage />        |
+| <NavBar2 />         |
+| <Toolti ... ooltip> |
+| <Toolti ... ooltip> |
+| <Toolti ... ooltip> |
+| <Static ...      /> |
+| <Toolti ... ooltip> |
+| <Static ...      /> |
+| <Features />        |
+| <Footer />          |
+| <PieCha ...      /> |
+| <NavBar />          |

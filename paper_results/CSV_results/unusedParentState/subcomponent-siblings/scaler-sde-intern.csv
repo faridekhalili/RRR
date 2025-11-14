@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Layout />          |
+| <Partcipants />     |
+| <Update ...      /> |
+| <Spinner />         |
+| <Interv ...      /> |

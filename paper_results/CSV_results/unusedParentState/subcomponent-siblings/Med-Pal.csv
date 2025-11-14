@@ -1,0 +1,33 @@
+|         sibling          |
++--------------------------+
+| <AddApp ... mit} />      |
+| <Navbar ... rue' />      |
+| <Sidenav />              |
+| <Footer/>                |
+| <Navbar ... rue' />      |
+| <Sidenav />              |
+| <LoadingCircle />        |
+| <AllCha ... \t\t\t\t\t/> |
+| <Footer />               |
+| <Navbar ... rue' />      |
+| <Footer />               |
+| <Navbar ... alse'/>      |
+| <Sidenav />              |
+| <LoadingCircle />        |
+| <Tips />                 |
+| <Prescr ... ull} />      |
+| <LoadingCircle />        |
+| <AllCha ... 230} />      |
+| <LoadingCircle />        |
+| <Navbar />               |
+| <Navbar />               |
+| <Navbar ... rue' />      |
+| <Sidenav />              |
+| <LoadingCircle />        |
+| <Footer />               |
+| <Navbar ... rue' />      |
+| <Sidenav/>               |
+| <Footer/>                |
+| <Navbar ... rue' />      |
+| <Sidenav />              |
+| <Footer />               |

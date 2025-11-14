@@ -1,0 +1,78 @@
+|       sibling       |
++---------------------+
+| <AdminAddProduct/>  |
+| <AdminTableUser/>   |
+| <AdminOrder/>       |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Rating ...      /> |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Rating ...      /> |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Rating ...      /> |
+| <CarouselDeals />   |
+| <Carousel1 />       |
+| <Popula ... tion /> |
+| <BikeCycling />     |
+| <Footer />          |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Rating ...      /> |
+| <TimerComponent />  |
+| <OverlayTwo />      |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Rating ...      /> |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Star rating={5} /> |
+| <Star rating={4} /> |
+| <Star rating={3} /> |
+| <Star rating={2} /> |
+| <Star rating={1} /> |
+| <Rating ...      /> |

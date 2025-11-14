@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Loader />          |
+| <Loader />          |
+| <Loader />          |
+| <Circle ...      /> |
+| <TabVie ... ={0} /> |
+| <ChatLi ... tem} /> |

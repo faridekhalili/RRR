@@ -1,0 +1,34 @@
+|       sibling        |
++----------------------+
+| <FullSc ... Layout>  |
+| <NavBar ... ops} />  |
+| <FlexCo ... tainer>  |
+| <Row>\n  ...  </Row> |
+| <Custom ... Button>  |
+| <Row>\n  ...  </Row> |
+| <Col>\n  ...  </Col> |
+| <Flippy ... tal" />  |
+| <Custom ... Button>  |
+| <Col>\n  ...  </Col> |
+| <Flippy ... tal" />  |
+| <Custom ... Button>  |
+| <Col>\n  ...  </Col> |
+| <Flippy ... tal" />  |
+| <Custom ... Button>  |
+| <Custom ... Button>  |
+| <Spinne ... {70} />  |
+| <Row>\n  ...  </Row> |
+| <FlashB ... Button>  |
+| <FlashB ... Button>  |
+| <FlashB ... Button>  |
+| <NavBar ... ops} />  |
+| <FullSc ...      />  |
+| <FlexCo ... tainer>  |
+| <Row>\n  ...  </Row> |
+| <Custom ... Button>  |
+| <FlexCo ... tainer>  |
+| <Row>\n  ...  </Row> |
+| <Custom ... Button>  |
+| <Modal\n ...      /> |
+| <Modal\n ...      /> |
+| <GameView />         |

@@ -1,0 +1,7 @@
+"col0"
+"src/components/tickets/CustomerTicketList.js:<16,17>--<16,32>~~~set_state_to_assignment_current???{varName:tickets}"
+"src/components/tickets/CustomerTicketList.js:<52,32>--<52,51>~~~set_state_to_assignment_current???{varName:openOnly}"
+"src/components/tickets/CustomerTicketList.js:<53,32>--<53,52>~~~set_state_to_assignment_current???{varName:openOnly}"
+"src/components/tickets/EmployeeTicketList.js:<15,21>--<15,36>~~~set_state_to_assignment_current???{varName:tickets}"
+"src/components/tickets/EmployeeTicketList.js:<61,32>--<61,49>~~~set_state_to_assignment_current???{varName:emergency}"
+"src/components/tickets/EmployeeTicketList.js:<62,32>--<62,50>~~~set_state_to_assignment_current???{varName:emergency}"

@@ -1,0 +1,10 @@
+|      sibling      |
++-------------------+
+| <PaymentPage/>    |
+| <Loader/>         |
+| <KidsCrousel/>    |
+| <Loader/>         |
+| <Carousel/>       |
+| <Loader/>         |
+| <WomensCarousel/> |
+| <Loader/>         |

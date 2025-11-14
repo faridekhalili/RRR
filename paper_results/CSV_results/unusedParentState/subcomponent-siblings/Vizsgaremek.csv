@@ -1,0 +1,24 @@
+|       sibling        |
++----------------------+
+| <Navbar />           |
+| <Checko ...      />  |
+| <Footer />           |
+| <Navbar />           |
+| <Newsletter />       |
+| <Footer />           |
+| <Navbar />           |
+| <Produc ... ort} />  |
+| <Newsletter />       |
+| <Footer />           |
+| <Navbar />           |
+| <Newsletter />       |
+| <Footer />           |
+| <Navbar />           |
+| <LikeBu ... Button>  |
+| <Popup\n ...      /> |
+| <Newsletter />       |
+| <Footer />           |
+| <Checko ... tem} />  |
+| <Navbar />           |
+| <Produc ... tem} />  |
+| <Navbar />           |

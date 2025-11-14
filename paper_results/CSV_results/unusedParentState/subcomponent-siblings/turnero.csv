@@ -1,0 +1,46 @@
+|       sibling        |
++----------------------+
+| <Button ...      />  |
+| <Button ...      />  |
+| <Loading3 />         |
+| <TestVi ... ate} />  |
+| <TabPan ... bPanel>  |
+| <BasicTable />       |
+| <TabPan ... bPanel>  |
+| <BasicTableActive /> |
+| <InputL ... on"} />  |
+| <InputL ... on"} />  |
+| <Button ...      />  |
+| <Button ...      />  |
+| <Button ...      />  |
+| <Button ...      />  |
+| <Loading3 />         |
+| <NotFound />         |
+| <InputL ... on"} />  |
+| <InputL ... on"} />  |
+| <Button ...      />  |
+| <Button ...      />  |
+| <Button ...      />  |
+| <Button ...      />  |
+| <Loading3 />         |
+| <Button ... rimary>  |
+| <Multip ...      />  |
+| <Button ... rimary>  |
+| <Button ... rimary>  |
+| <Loading3 />         |
+| <NotFound />         |
+| <InputL ... on"} />  |
+| <InputL ... on"} />  |
+| <Button ...      />  |
+| <Button ...      />  |
+| <Button ...      />  |
+| <Button ...      />  |
+| <Loading3 />         |
+| <NotFound />         |
+| <Sucess />           |
+| <Button ... rimary>  |
+| <Button ...      />  |
+| <Loading3 />         |
+| <Loading />          |
+| <MsgErr ...      />  |
+| <Button ...      />  |

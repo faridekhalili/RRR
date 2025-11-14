@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <PortectedRoutes /> |
+| <Pokedex />         |
+| <PokeInfo />        |
+| <Header />          |
+| <IsLoading />       |
+| <CardPo ... url} /> |

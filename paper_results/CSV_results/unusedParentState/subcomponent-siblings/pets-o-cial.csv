@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <Topbar/>           |
+| <Sidebar/>          |
+| <PetTim ... {pet}/> |
+| <Topbar />          |
+| <Sideba ... name}/> |
+| <Feed u ... ame} /> |
+| <Profil ... ser} /> |

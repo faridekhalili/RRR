@@ -1,0 +1,15 @@
+|       sibling        |
++----------------------+
+| <Header />           |
+| <TextBu ...      />  |
+| <TextBu ...      />  |
+| <Sectio ... ection>  |
+| <Note \n ...      /> |
+| <Header />           |
+| <TextBu ... Back}/>  |
+| <NoteIt ...      />  |
+| <NoteIt ...      />  |
+| <Button ...      />  |
+| <Button ... te } />  |
+| <Button ... In } />  |
+| <Button ... gnUp}/>  |

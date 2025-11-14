@@ -1,0 +1,15 @@
+|       sibling        |
++----------------------+
+| <ShoppingCart />     |
+| <item.i ... rue" />  |
+| <HeroSe ... bile />  |
+| <HeroSection />      |
+| <FooterMobile />     |
+| <Footer />           |
+| <LoadingSpinner />   |
+| <ServicesContent />  |
+| <AboutUsContent />   |
+| <TestimoniContent /> |
+| <NewsLe ... tion />  |
+| <Servic ... bile />  |
+| <AboutU ... bile />  |

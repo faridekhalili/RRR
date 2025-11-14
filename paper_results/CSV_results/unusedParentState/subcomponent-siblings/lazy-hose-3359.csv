@@ -1,0 +1,5 @@
+|       sibling       |
++---------------------+
+| <Detail ... tton /> |
+| <CashOn ... tton /> |
+| <Paymen ... ={3} /> |

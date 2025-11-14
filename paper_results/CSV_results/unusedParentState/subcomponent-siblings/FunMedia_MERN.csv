@@ -1,0 +1,11 @@
+|        sibling        |
++-----------------------+
+| <Loader/>             |
+| <Post\r\n ...      /> |
+| <Post\r\n ...      /> |
+| <User i ... ._id}/>   |
+| <User\r\n ...      /> |
+| <User \r ...      />  |
+| <User\r\n ...      /> |
+| <Loader/>             |
+| <Post\r\n ...      /> |

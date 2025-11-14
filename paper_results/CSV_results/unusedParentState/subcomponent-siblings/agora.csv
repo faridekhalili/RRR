@@ -1,0 +1,27 @@
+|       sibling        |
++----------------------+
+| <Action ...      />  |
+| <Action ...      />  |
+| <CardIn ...      />  |
+| <Post\n  ...      /> |
+| <Footer ... se } />  |
+| <FooterMobile />     |
+| <MenuMobile />       |
+| <MenuDe ...      />  |
+| <NavbarMobile />     |
+| <FooterDesktop />    |
+| <MenuMobile />       |
+| <NavbarMobile />     |
+| <FooterDesktop />    |
+| <Result ...      />  |
+| <Commen ...      />  |
+| <HomeLo ... Layout>  |
+| <Select ...      />  |
+| <Select ...      />  |
+| <Select ...      />  |
+| <Checkb ...      />  |
+| <Textfi ...      />  |
+| <Textfi ...      />  |
+| <TextAr ...      />  |
+| <Matrix ...      />  |
+| <Pagina ...      />  |

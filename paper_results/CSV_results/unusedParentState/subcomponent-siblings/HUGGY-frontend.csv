@@ -1,0 +1,16 @@
+|       sibling       |
++---------------------+
+| <Carous ... elItem> |
+| <AutoSi ...      /> |
+| <Carous ... elItem> |
+| <AutoSi ...      /> |
+| <Carous ... elItem> |
+| <AutoSi ...      /> |
+| <Carous ... elItem> |
+| <AutoSi ...      /> |
+| <Custom ...      /> |
+| <Custom ...      /> |
+| <ProfileCard />     |
+| <HomeCa ...      /> |
+| <HomeSe ...      /> |
+| <Conten ...      /> |

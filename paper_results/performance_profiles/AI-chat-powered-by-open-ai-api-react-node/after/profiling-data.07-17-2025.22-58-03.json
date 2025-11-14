@@ -1,0 +1,563 @@
+{
+  "version": 5,
+  "dataForRoots": [
+    {
+      "commitData": [
+        {
+          "changeDescriptions": [
+            [
+              2,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              3,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              4,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ]
+          ],
+          "duration": 1.7,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              1,
+              1.7
+            ],
+            [
+              2,
+              1.6
+            ],
+            [
+              3,
+              0.2
+            ],
+            [
+              4,
+              0.2
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              1,
+              0.1
+            ],
+            [
+              2,
+              0.6
+            ],
+            [
+              3,
+              0.1
+            ],
+            [
+              4,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Normal",
+          "timestamp": 5.5,
+          "updaters": [
+            {
+              "displayName": "createRoot()",
+              "id": 1,
+              "key": null,
+              "type": 11,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        }
+      ],
+      "displayName": "Memo(App)",
+      "initialTreeBaseDurations": [],
+      "operations": [
+        [
+          1,
+          1,
+          26,
+          9,
+          77,
+          101,
+          109,
+          111,
+          40,
+          65,
+          112,
+          112,
+          41,
+          11,
+          67,
+          104,
+          97,
+          116,
+          77,
+          101,
+          115,
+          115,
+          97,
+          103,
+          101,
+          1,
+          48,
+          1,
+          49,
+          1,
+          1,
+          11,
+          0,
+          3,
+          1,
+          1,
+          4,
+          1,
+          1000,
+          1,
+          2,
+          8,
+          1,
+          0,
+          1,
+          0,
+          7,
+          2,
+          1,
+          4,
+          2,
+          900,
+          1,
+          3,
+          5,
+          2,
+          2,
+          2,
+          3,
+          4,
+          3,
+          100,
+          1,
+          4,
+          5,
+          2,
+          2,
+          2,
+          4,
+          4,
+          4,
+          100
+        ]
+      ],
+      "rootID": 1,
+      "snapshots": []
+    }
+  ],
+  "timelineData": [
+    {
+      "batchUIDToMeasuresKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11.899999976158142,
+              "duration": 3
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11.899999976158142,
+              "duration": 1.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13.799999952316284,
+              "duration": 1.100000023841858
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13.899999976158142,
+              "duration": 0
+            }
+          ]
+        ]
+      ],
+      "componentMeasures": [
+        {
+          "componentName": "Memo(App)",
+          "duration": 0.3999999761581421,
+          "timestamp": 12.199999988079071,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "ChatMessage",
+          "duration": 0.10000002384185791,
+          "timestamp": 12.899999976158142,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "ChatMessage",
+          "duration": 0,
+          "timestamp": 13.099999964237213,
+          "type": "render",
+          "warning": null
+        }
+      ],
+      "duration": 24.899999976158142,
+      "flamechart": [],
+      "internalModuleSourceToRanges": [],
+      "laneToLabelKeyValueArray": [
+        [
+          1,
+          "Sync"
+        ],
+        [
+          2,
+          "InputContinuousHydration"
+        ],
+        [
+          4,
+          "InputContinuous"
+        ],
+        [
+          8,
+          "DefaultHydration"
+        ],
+        [
+          16,
+          "Default"
+        ],
+        [
+          32,
+          "TransitionHydration"
+        ],
+        [
+          64,
+          "Transition"
+        ],
+        [
+          128,
+          "Transition"
+        ],
+        [
+          256,
+          "Transition"
+        ],
+        [
+          512,
+          "Transition"
+        ],
+        [
+          1024,
+          "Transition"
+        ],
+        [
+          2048,
+          "Transition"
+        ],
+        [
+          4096,
+          "Transition"
+        ],
+        [
+          8192,
+          "Transition"
+        ],
+        [
+          16384,
+          "Transition"
+        ],
+        [
+          32768,
+          "Transition"
+        ],
+        [
+          65536,
+          "Transition"
+        ],
+        [
+          131072,
+          "Transition"
+        ],
+        [
+          262144,
+          "Transition"
+        ],
+        [
+          524288,
+          "Transition"
+        ],
+        [
+          1048576,
+          "Transition"
+        ],
+        [
+          2097152,
+          "Transition"
+        ],
+        [
+          4194304,
+          "Retry"
+        ],
+        [
+          8388608,
+          "Retry"
+        ],
+        [
+          16777216,
+          "Retry"
+        ],
+        [
+          33554432,
+          "Retry"
+        ],
+        [
+          67108864,
+          "Retry"
+        ],
+        [
+          134217728,
+          "SelectiveHydration"
+        ],
+        [
+          268435456,
+          "IdleHydration"
+        ],
+        [
+          536870912,
+          "Idle"
+        ],
+        [
+          1073741824,
+          "Offscreen"
+        ]
+      ],
+      "laneToReactMeasureKeyValueArray": [
+        [
+          1,
+          []
+        ],
+        [
+          2,
+          []
+        ],
+        [
+          4,
+          []
+        ],
+        [
+          8,
+          []
+        ],
+        [
+          16,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11.899999976158142,
+              "duration": 3
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11.899999976158142,
+              "duration": 1.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13.799999952316284,
+              "duration": 1.100000023841858
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13.899999976158142,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          32,
+          []
+        ],
+        [
+          64,
+          []
+        ],
+        [
+          128,
+          []
+        ],
+        [
+          256,
+          []
+        ],
+        [
+          512,
+          []
+        ],
+        [
+          1024,
+          []
+        ],
+        [
+          2048,
+          []
+        ],
+        [
+          4096,
+          []
+        ],
+        [
+          8192,
+          []
+        ],
+        [
+          16384,
+          []
+        ],
+        [
+          32768,
+          []
+        ],
+        [
+          65536,
+          []
+        ],
+        [
+          131072,
+          []
+        ],
+        [
+          262144,
+          []
+        ],
+        [
+          524288,
+          []
+        ],
+        [
+          1048576,
+          []
+        ],
+        [
+          2097152,
+          []
+        ],
+        [
+          4194304,
+          []
+        ],
+        [
+          8388608,
+          []
+        ],
+        [
+          16777216,
+          []
+        ],
+        [
+          33554432,
+          []
+        ],
+        [
+          67108864,
+          []
+        ],
+        [
+          134217728,
+          []
+        ],
+        [
+          268435456,
+          []
+        ],
+        [
+          536870912,
+          []
+        ],
+        [
+          1073741824,
+          []
+        ]
+      ],
+      "nativeEvents": [],
+      "networkMeasures": [],
+      "otherUserTimingMarks": [],
+      "reactVersion": "18.2.0",
+      "schedulingEvents": [
+        {
+          "lanes": [
+            16
+          ],
+          "timestamp": 10,
+          "type": "schedule-render",
+          "warning": null
+        }
+      ],
+      "snapshots": [],
+      "snapshotHeight": 0,
+      "startTime": 35.5,
+      "suspenseEvents": [],
+      "thrownErrors": []
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+|     sibling      |
++------------------+
+| <Navbar />       |
+| <RegisterForm /> |
+| <LoginForm />    |
+| <AddMealForm />  |
+| <Footer />       |

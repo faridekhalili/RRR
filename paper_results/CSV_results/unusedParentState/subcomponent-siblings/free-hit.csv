@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Header ... mes} /> |
+| <GridVi ... cts} /> |
+| <ListVi ... cts} /> |
+| <Header />          |
+| <Loader />          |
+| <Pagina ... ges} /> |

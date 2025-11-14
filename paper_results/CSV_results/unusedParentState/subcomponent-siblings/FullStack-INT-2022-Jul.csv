@@ -1,0 +1,24 @@
+|       sibling       |
++---------------------+
+| <Card />            |
+| <Paragraph />       |
+| <LogoutButton />    |
+| <Greeting />        |
+| <Page404 />         |
+| <Login />           |
+| <Layout />          |
+| <Home />            |
+| <Pricing />         |
+| <About />           |
+| <Home />            |
+| <Counter />         |
+| <Input/>            |
+| <Output/>           |
+| <CallBack/>         |
+| <List g ... ems} /> |
+| <GoalIt ...      /> |
+| <Header ... Header> |
+| <MyButt ... age} /> |
+| <MyButt ...      /> |
+| <MyButt ... age} /> |
+| <MyButt ...      /> |

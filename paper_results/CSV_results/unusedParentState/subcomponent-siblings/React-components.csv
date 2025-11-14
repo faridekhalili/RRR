@@ -1,0 +1,7 @@
+|         sibling          |
++--------------------------+
+| <Hero\n\t ... </Hero>    |
+| <Number ... \t\t\t\t\t/> |
+| <Number ... \t\t\t\t\t/> |
+| <Blob />                 |
+| <Hacker ... EXT" />      |

@@ -1,0 +1,4 @@
+"col0"
+"exhauster-web-app/src/components/Legend.tsx:<23,9>--<23,61>~~~use_state_to_use_ref"
+"exhauster-web-app/src/hooks/useSocket.js:<8,9>--<8,46>~~~use_state_to_use_ref"
+"exhauster-web-app/src/pages/MainScreen/ExhausterCard/DropDownList/DropDownList.tsx:<26,11>--<26,83>~~~use_state_to_use_ref"

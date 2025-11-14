@@ -1,0 +1,16 @@
+|       sibling        |
++----------------------+
+| <Logo\n  ...      /> |
+| <Breadc ...      />  |
+| <ArrowButton />      |
+| <ArrowButton />      |
+| <ArrowButton />      |
+| <Social ... p-3" />  |
+| <Gap />              |
+| <ArrowButton />      |
+| <CloseIcon />        |
+| <CloseIcon />        |
+| <ArrowButton />      |
+| <CloseIcon />        |
+| <ArrowButton />      |
+| <CloseIcon />        |

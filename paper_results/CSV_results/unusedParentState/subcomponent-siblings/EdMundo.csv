@@ -1,0 +1,11 @@
+|       sibling       |
++---------------------+
+| <EditLessonModal /> |
+| <Navbar ...      /> |
+| <Navbar ...      /> |
+| <Navbar ...      /> |
+| <Navbar ...      /> |
+| <Navbar ...      /> |
+| <Navbar ...      /> |
+| <Navbar ...      /> |
+| <Lesson ... son} /> |

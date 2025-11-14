@@ -1,0 +1,533 @@
+{
+  "project": {
+    "numFiles": 21,
+    "sloc": {
+      "physical": 1727,
+      "logical": 1762
+    },
+    "cyclomatic": {
+      "value": 351,
+      "density": 19.920544835414304
+    },
+    "halstead": {
+      "distinctOperators": 415,
+      "totalOperators": 6450,
+      "distinctOperands": 2109,
+      "totalOperands": 8475,
+      "vocabulary": 2524,
+      "length": 14925,
+      "estimatedLength": 27870.874690599274,
+      "volume": 168674.83071011456,
+      "difficulty": 833.8371266002845,
+      "effort": 140647336.16911134,
+      "time": 7813740.898283963,
+      "bugs": 56.224943570038185
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/App.jsx": {
+      "sloc": {
+        "physical": 47,
+        "logical": 21
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 4.761904761904762
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 107,
+        "distinctOperands": 41,
+        "totalOperands": 151,
+        "vocabulary": 51,
+        "length": 258,
+        "estimatedLength": 273.23515223552226,
+        "volume": 1463.485738228646,
+        "difficulty": 18.414634146341463,
+        "effort": 26949.554447868966,
+        "time": 1497.1974693260536,
+        "bugs": 0.48782857940954866
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/index.js": {
+      "sloc": {
+        "physical": 9,
+        "logical": 10
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 38,
+        "distinctOperands": 23,
+        "totalOperands": 46,
+        "vocabulary": 33,
+        "length": 84,
+        "estimatedLength": 149.27754454988144,
+        "volume": 423.72910602611006,
+        "difficulty": 10,
+        "effort": 4237.291060261101,
+        "time": 235.4050589033945,
+        "bugs": 0.1412430353420367
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/setupTests.js": {
+      "sloc": {
+        "physical": 3,
+        "logical": 2
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 50
+      },
+      "halstead": {
+        "distinctOperators": 1,
+        "totalOperators": 1,
+        "distinctOperands": 3,
+        "totalOperands": 3,
+        "vocabulary": 4,
+        "length": 4,
+        "estimatedLength": 6.339850002884624,
+        "volume": 8,
+        "difficulty": 0.5,
+        "effort": 4,
+        "time": 0.2222222222222222,
+        "bugs": 0.0026666666666666666
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/Layouts/RootLayout.jsx": {
+      "sloc": {
+        "physical": 22,
+        "logical": 50
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 30
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 183,
+        "distinctOperands": 67,
+        "totalOperands": 211,
+        "vocabulary": 89,
+        "length": 394,
+        "estimatedLength": 539.8819379507418,
+        "volume": 2551.4389718007606,
+        "difficulty": 34.64179104477612,
+        "effort": 88386.41572462038,
+        "time": 4910.356429145577,
+        "bugs": 0.8504796572669202
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/Objects/details.jsx": {
+      "sloc": {
+        "physical": 303,
+        "logical": 231
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 0.8658008658008658
+      },
+      "halstead": {
+        "distinctOperators": 12,
+        "totalOperators": 359,
+        "distinctOperands": 172,
+        "totalOperands": 566,
+        "vocabulary": 184,
+        "length": 925,
+        "estimatedLength": 1366.432714865186,
+        "volume": 6959.2948093527375,
+        "difficulty": 19.74418604651163,
+        "effort": 137405.61146838314,
+        "time": 7633.645081576841,
+        "bugs": 2.3197649364509125
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/ChiefPatronsA.jsx": {
+      "sloc": {
+        "physical": 26,
+        "logical": 51
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 29.411764705882355
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 177,
+        "distinctOperands": 67,
+        "totalOperands": 212,
+        "vocabulary": 89,
+        "length": 389,
+        "estimatedLength": 539.8819379507418,
+        "volume": 2519.0603046459287,
+        "difficulty": 34.80597014925373,
+        "effort": 87678.3377676762,
+        "time": 4871.0187648709,
+        "bugs": 0.8396867682153095
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/ChiefPatronsB.jsx": {
+      "sloc": {
+        "physical": 27,
+        "logical": 53
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 28.30188679245283
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 181,
+        "distinctOperands": 69,
+        "totalOperands": 217,
+        "vocabulary": 91,
+        "length": 398,
+        "estimatedLength": 555.8757255668135,
+        "volume": 2590.102266799081,
+        "difficulty": 34.594202898550726,
+        "effort": 89602.52334564358,
+        "time": 4977.917963646865,
+        "bugs": 0.8633674222663603
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/Head.jsx": {
+      "sloc": {
+        "physical": 249,
+        "logical": 227
+      },
+      "cyclomatic": {
+        "value": 51,
+        "density": 22.46696035242291
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 989,
+        "distinctOperands": 231,
+        "totalOperands": 1283,
+        "vocabulary": 260,
+        "length": 2272,
+        "estimatedLength": 2041.4547507681748,
+        "volume": 18226.819671200647,
+        "difficulty": 80.53463203463204,
+        "effort": 1467890.215381737,
+        "time": 81549.4564100965,
+        "bugs": 6.075606557066882
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/ConfChairs.jsx": {
+      "sloc": {
+        "physical": 26,
+        "logical": 55
+      },
+      "cyclomatic": {
+        "value": 17,
+        "density": 30.909090909090907
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 203,
+        "distinctOperands": 72,
+        "totalOperands": 245,
+        "vocabulary": 94,
+        "length": 448,
+        "estimatedLength": 579.9729501355773,
+        "volume": 2936.4558055515818,
+        "difficulty": 37.43055555555556,
+        "effort": 109913.17216613212,
+        "time": 6106.287342562896,
+        "bugs": 0.9788186018505273
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/Info.jsx": {
+      "sloc": {
+        "physical": 23,
+        "logical": 49
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 30.612244897959183
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 171,
+        "distinctOperands": 66,
+        "totalOperands": 198,
+        "vocabulary": 88,
+        "length": 369,
+        "estimatedLength": 531.906682503544,
+        "volume": 2383.530267277163,
+        "difficulty": 33,
+        "effort": 78656.49882014639,
+        "time": 4369.805490008132,
+        "bugs": 0.7945100890923877
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/aboutus.jsx": {
+      "sloc": {
+        "physical": 109,
+        "logical": 122
+      },
+      "cyclomatic": {
+        "value": 33,
+        "density": 27.049180327868854
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 441,
+        "distinctOperands": 173,
+        "totalOperands": 589,
+        "vocabulary": 201,
+        "length": 1030,
+        "estimatedLength": 1494.3602737549818,
+        "volume": 7880.583241914297,
+        "difficulty": 47.664739884393065,
+        "effort": 375625.950363152,
+        "time": 20868.108353508447,
+        "bugs": 2.626861080638099
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/Popup.jsx": {
+      "sloc": {
+        "physical": 19,
+        "logical": 48
+      },
+      "cyclomatic": {
+        "value": 17,
+        "density": 35.41666666666667
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 171,
+        "distinctOperands": 64,
+        "totalOperands": 201,
+        "vocabulary": 86,
+        "length": 372,
+        "estimatedLength": 516,
+        "volume": 2390.5704887491806,
+        "difficulty": 34.546875,
+        "effort": 82586.73985350685,
+        "time": 4588.152214083714,
+        "bugs": 0.7968568295830603
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/chiefGuest.jsx": {
+      "sloc": {
+        "physical": 38,
+        "logical": 64
+      },
+      "cyclomatic": {
+        "value": 18,
+        "density": 28.125
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 237,
+        "distinctOperands": 92,
+        "totalOperands": 284,
+        "vocabulary": 114,
+        "length": 521,
+        "estimatedLength": 743.6860629904995,
+        "volume": 3559.935697379831,
+        "difficulty": 33.95652173913044,
+        "effort": 120883.0338979847,
+        "time": 6715.724105443594,
+        "bugs": 1.1866452324599437
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/Header.jsx": {
+      "sloc": {
+        "physical": 204,
+        "logical": 197
+      },
+      "cyclomatic": {
+        "value": 44,
+        "density": 22.33502538071066
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 838,
+        "distinctOperands": 214,
+        "totalOperands": 1059,
+        "vocabulary": 243,
+        "length": 1897,
+        "estimatedLength": 1881.1764776954785,
+        "volume": 15033.369319340167,
+        "difficulty": 71.75467289719626,
+        "effort": 1078714.4980519996,
+        "time": 59928.58322511109,
+        "bugs": 5.011123106446722
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/hero.jsx": {
+      "sloc": {
+        "physical": 360,
+        "logical": 276
+      },
+      "cyclomatic": {
+        "value": 37,
+        "density": 13.405797101449277
+      },
+      "halstead": {
+        "distinctOperators": 30,
+        "totalOperators": 1359,
+        "distinctOperands": 377,
+        "totalOperands": 2002,
+        "vocabulary": 407,
+        "length": 3361,
+        "estimatedLength": 3483.2772303003467,
+        "volume": 29136.122432118857,
+        "difficulty": 79.65517241379311,
+        "effort": 2320842.8557998124,
+        "time": 128935.71421110068,
+        "bugs": 9.712040810706286
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/error.jsx": {
+      "sloc": {
+        "physical": 20,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 31.914893617021278
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 162,
+        "distinctOperands": 62,
+        "totalOperands": 189,
+        "vocabulary": 84,
+        "length": 351,
+        "estimatedLength": 500.1524900724976,
+        "volume": 2243.7034153953446,
+        "difficulty": 33.53225806451613,
+        "effort": 75236.44194527292,
+        "time": 4179.80233029294,
+        "bugs": 0.7479011384651149
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/index.js": {
+      "sloc": {
+        "physical": 104,
+        "logical": 76
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 2.631578947368421
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 179,
+        "distinctOperands": 57,
+        "totalOperands": 227,
+        "vocabulary": 67,
+        "length": 406,
+        "estimatedLength": 390.8036309490377,
+        "volume": 2462.8322113258555,
+        "difficulty": 19.912280701754387,
+        "effort": 49040.60631324291,
+        "time": 2724.478128513495,
+        "bugs": 0.8209440704419518
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/souvenir.jsx": {
+      "sloc": {
+        "physical": 85,
+        "logical": 54
+      },
+      "cyclomatic": {
+        "value": 10,
+        "density": 18.51851851851852
+      },
+      "halstead": {
+        "distinctOperators": 16,
+        "totalOperators": 220,
+        "distinctOperands": 98,
+        "totalOperands": 294,
+        "vocabulary": 114,
+        "length": 514,
+        "estimatedLength": 754.0769222291339,
+        "volume": 3512.1054672806777,
+        "difficulty": 24,
+        "effort": 84290.53121473626,
+        "time": 4682.80728970757,
+        "bugs": 1.1707018224268926
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/tw.jsx": {
+      "sloc": {
+        "physical": 20,
+        "logical": 43
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 30.23255813953488
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 142,
+        "distinctOperands": 54,
+        "totalOperands": 163,
+        "vocabulary": 75,
+        "length": 305,
+        "estimatedLength": 431.6165626622602,
+        "volume": 1899.7897006012436,
+        "difficulty": 31.694444444444446,
+        "effort": 60212.77912183386,
+        "time": 3345.154395657437,
+        "bugs": 0.6332632335337478
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/sponsors.jsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 40
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 32.5
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 132,
+        "distinctOperands": 48,
+        "totalOperands": 150,
+        "vocabulary": 69,
+        "length": 282,
+        "estimatedLength": 385.3624125497598,
+        "volume": 1722.603896811444,
+        "difficulty": 32.8125,
+        "effort": 56522.940364125505,
+        "time": 3140.163353562528,
+        "bugs": 0.574201298937148
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/csi-conference-frontend/src/components/ud.jsx": {
+      "sloc": {
+        "physical": 18,
+        "logical": 46
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 32.608695652173914
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 160,
+        "distinctOperands": 59,
+        "totalOperands": 185,
+        "vocabulary": 81,
+        "length": 345,
+        "estimatedLength": 476.49408699830917,
+        "volume": 2187.2482509951956,
+        "difficulty": 34.49152542372882,
+        "effort": 75441.52865720718,
+        "time": 4191.19603651151,
+        "bugs": 0.7290827503317319
+      }
+    }
+  }
+}

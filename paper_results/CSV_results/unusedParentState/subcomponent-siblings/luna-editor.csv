@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <Sideba ... TML} /> |
+| <SidebarOptions />  |
+| <Layout ...      /> |
+| <EditorHTML />      |
+| <EditorCSS />       |
+| <EditorJS />        |
+| <Preview />         |

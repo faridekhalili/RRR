@@ -1,0 +1,4 @@
+"col0"
+"client/src/components/todoItemDetailPane.tsx:<12,64>--<93,1>~~~memoize"
+"client/src/components/todoItemListPane.tsx:<56,53>--<258,1>~~~memoize"
+"client/src/layout/sidebar.tsx:<11,35>--<20,1>~~~memoize"

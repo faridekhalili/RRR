@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <AddClientModal />  |
+| <AddProjectModal /> |
+| <Projec ... lue} /> |
+| <Clients />         |

@@ -1,0 +1,14 @@
+|       sibling        |
++----------------------+
+| <Connec ... ion} />  |
+| <Connec ... ion} />  |
+| <User\n  ...      /> |
+| <User k ... ode} />  |
+| <Footer />           |
+| <Connec ... ion} />  |
+| <Connec ... ion} />  |
+| <User\n  ...      /> |
+| <User k ... ode} />  |
+| <Footer />           |
+| <Connec ... ion} />  |
+| <Footer />           |

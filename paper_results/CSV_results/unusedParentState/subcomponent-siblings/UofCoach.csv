@@ -1,0 +1,11 @@
+|       sibling        |
++----------------------+
+| <Search ...      />  |
+| <Search ...      />  |
+| <Input\n ...      /> |
+| <Input\n ...      /> |
+| <Input\n ...      /> |
+| <Toggle ...      />  |
+| <DateTi ... uto" />  |
+| <DateTi ... uto" />  |
+| <Course ... seList>  |

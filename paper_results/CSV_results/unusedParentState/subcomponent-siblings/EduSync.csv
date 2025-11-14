@@ -1,0 +1,15 @@
+|       sibling       |
++---------------------+
+| <Header ... fil} /> |
+| <Footer />          |
+| <Header ... rio} /> |
+| <Footer />          |
+| <Header ... rio} /> |
+| < Footer />         |
+| <Header ... ros} /> |
+| <Button ... var} /> |
+| <Footer />          |
+| <Header ... ora} /> |
+| <Button ... ora} /> |
+| <Footer />          |
+| <Footer />          |

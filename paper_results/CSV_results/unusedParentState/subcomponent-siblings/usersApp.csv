@@ -1,0 +1,13 @@
+|       sibling        |
++----------------------+
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Input\n ...      /> |
+| <Select ...      />  |
+| <Select ...      />  |
+| <Input\n ...      /> |
+| <Input\n ...      /> |
+| <Input\n ...      /> |
+| <Select ...      />  |
+| <Button ... Styled>  |

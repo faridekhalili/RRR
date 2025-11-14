@@ -1,0 +1,3 @@
+"col0"
+"src/App.js:<28,11>--<28,22>~~~set_state_to_assignment_current_value???{varName:input}"
+"src/App.js:<76,28>--<76,51>~~~set_state_to_assignment_current_value???{varName:input}"

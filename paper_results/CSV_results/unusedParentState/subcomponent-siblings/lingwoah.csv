@@ -1,0 +1,18 @@
+|       sibling        |
++----------------------+
+| <HomePage />         |
+| <Register />         |
+| <Privat ... Routes>  |
+| <DashBoard />        |
+| <Privat ... Routes>  |
+| <PlanDetails />      |
+| <Privat ... Routes>  |
+| <PlanPage />         |
+| <Privat ... Routes>  |
+| <MyCalendar />       |
+| <Privat ... Routes>  |
+| <Analytics />        |
+| <Copyri ... 4 }} />  |
+| <Todo\n  ...      /> |
+| <NavBar></NavBar>    |
+| <Plan\n  ...      /> |

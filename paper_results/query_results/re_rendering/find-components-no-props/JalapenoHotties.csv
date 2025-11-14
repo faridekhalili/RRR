@@ -1,0 +1,6 @@
+"col0"
+"src/App.js:<8,1>--<16,1>~~~component_no_props"
+"src/pages/Account.js:<4,8>--<20,1>~~~component_no_props"
+"src/pages/Home.js:<42,8>--<81,1>~~~component_no_props"
+"src/pages/Login.js:<14,8>--<132,1>~~~component_no_props"
+"src/pages/TabsLinks.js:<1,8>--<10,1>~~~component_no_props"

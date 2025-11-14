@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Navbar ... rOut}/> |
+| <Home i ... Auth}/> |
+| <AddBat ... Auth}/> |
+| <Bathro ... Auth}/> |
+| <Review ... Auth}/> |
+| <User i ... Auth}/> |
+| <Invalid />         |
+| <Bathro ...      /> |

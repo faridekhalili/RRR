@@ -1,0 +1,11 @@
+|       sibling       |
++---------------------+
+| <Artist ... ion} /> |
+| <MovieC ... ion} /> |
+| <Icon />            |
+| <Cruz />            |
+| <Cruz />            |
+| <ArtistSelection /> |
+| <MoviesSelection /> |
+| <Navbar ... Navbar> |
+| <Icon />            |

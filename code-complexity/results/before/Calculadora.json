@@ -1,0 +1,149 @@
+{
+  "project": {
+    "numFiles": 5,
+    "sloc": {
+      "physical": 171,
+      "logical": 210
+    },
+    "cyclomatic": {
+      "value": 52,
+      "density": 24.761904761904763
+    },
+    "halstead": {
+      "distinctOperators": 99,
+      "totalOperators": 712,
+      "distinctOperands": 304,
+      "totalOperands": 882,
+      "vocabulary": 403,
+      "length": 1594,
+      "estimatedLength": 3323.914787917765,
+      "volume": 13795.48982947358,
+      "difficulty": 143.61513157894737,
+      "effort": 1981241.0870558782,
+      "time": 110068.94928088212,
+      "bugs": 4.598496609824527
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/Calculadora/src/App.js": {
+      "sloc": {
+        "physical": 101,
+        "logical": 100
+      },
+      "cyclomatic": {
+        "value": 21,
+        "density": 21
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 348,
+        "distinctOperands": 125,
+        "totalOperands": 462,
+        "vocabulary": 154,
+        "length": 810,
+        "estimatedLength": 1072.7307798379616,
+        "volume": 5886.097097962871,
+        "difficulty": 53.592000000000006,
+        "effort": 315447.7156740262,
+        "time": 17524.873093001457,
+        "bugs": 1.9620323659876238
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/Calculadora/src/index.js": {
+      "sloc": {
+        "physical": 12,
+        "logical": 12
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 45,
+        "distinctOperands": 27,
+        "totalOperands": 53,
+        "vocabulary": 41,
+        "length": 98,
+        "estimatedLength": 194.95038758870226,
+        "volume": 525.0400964525722,
+        "difficulty": 13.74074074074074,
+        "effort": 7214.439843848308,
+        "time": 400.8022135471282,
+        "bugs": 0.17501336548419075
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/Calculadora/src/components/ButtonClear.js": {
+      "sloc": {
+        "physical": 18,
+        "logical": 40
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 30
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 130,
+        "distinctOperands": 57,
+        "totalOperands": 150,
+        "vocabulary": 79,
+        "length": 280,
+        "estimatedLength": 460.79831111901467,
+        "volume": 1765.058609489589,
+        "difficulty": 28.947368421052634,
+        "effort": 51093.801853646,
+        "time": 2838.5445474247776,
+        "bugs": 0.588352869829863
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/Calculadora/src/components/Screen.js": {
+      "sloc": {
+        "physical": 17,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 12,
+        "totalOperators": 39,
+        "distinctOperands": 29,
+        "totalOperands": 48,
+        "vocabulary": 41,
+        "length": 87,
+        "estimatedLength": 199.1772208002305,
+        "volume": 466.1070244017733,
+        "difficulty": 9.931034482758621,
+        "effort": 4628.924931990025,
+        "time": 257.16249622166805,
+        "bugs": 0.15536900813392443
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/Calculadora/src/components/Button.js": {
+      "sloc": {
+        "physical": 23,
+        "logical": 43
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 30.23255813953488
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 150,
+        "distinctOperands": 66,
+        "totalOperands": 169,
+        "vocabulary": 88,
+        "length": 319,
+        "estimatedLength": 531.906682503544,
+        "volume": 2060.558686345298,
+        "difficulty": 28.166666666666664,
+        "effort": 58039.06966539256,
+        "time": 3224.392759188476,
+        "bugs": 0.6868528954484328
+      }
+    }
+  }
+}

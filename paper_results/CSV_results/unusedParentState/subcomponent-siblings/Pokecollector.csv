@@ -1,0 +1,14 @@
+|       sibling       |
++---------------------+
+| <Routes />          |
+| <Footer />          |
+| <Loading />         |
+| <AdminC ... ken} /> |
+| <DeckCa ... ate} /> |
+| <EditDe ... eck} /> |
+| <Loading />         |
+| <CardCa ... how} /> |
+| <Loading />         |
+| <CardsL ... age} /> |
+| <Loading />         |
+| <CardsL ... age} /> |

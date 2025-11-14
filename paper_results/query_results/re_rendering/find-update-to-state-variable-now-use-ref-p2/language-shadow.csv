@@ -1,0 +1,6 @@
+"col0"
+"web-ui/src/pages/home.tsx:<31,7>--<31,30>~~~set_state_to_assignment_current???{varName:updateKey}"
+"web-ui/src/pages/home.tsx:<38,7>--<38,30>~~~set_state_to_assignment_current???{varName:updateKey}"
+"web-ui/src/pages/home.tsx:<47,9>--<47,32>~~~set_state_to_assignment_current???{varName:updateKey}"
+"web-ui/src/pages/home.tsx:<58,7>--<58,30>~~~set_state_to_assignment_current???{varName:updateKey}"
+"web-ui/src/pages/home.tsx:<64,7>--<64,30>~~~set_state_to_assignment_current???{varName:updateKey}"

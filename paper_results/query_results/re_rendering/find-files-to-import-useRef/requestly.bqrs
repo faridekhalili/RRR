@@ -1,0 +1,139 @@
+ÒtYapp/src/backend/environment/hooks/useEnvironmentManager.ts:<0,0>--<0,0>~~~import_use_refUapp/src/components/Home/components/Templates/index.tsx:<0,0>--<0,0>~~~import_use_refYapp/src/components/Home/components/WorkspaceCard/index.tsx:<0,0>--<0,0>~~~import_use_refUapp/src/components/Home/contexts/homeScreenContext.tsx:<0,0>--<0,0>~~~import_use_refvapp/src/components/authentication/AuthForm/MagicAuthLinkModal/MagicLinkModalContent.jsx:<0,0>--<0,0>~~~import_use_refRapp/src/components/authentication/AuthForm/index.js:<0,0>--<0,0>~~~import_use_ref_app/src/components/authentication/DesktopSignIn/DesktopSignIn.js:<0,0>--<0,0>~~~import_use_refWapp/src/components/authentication/LoginHandler/index.tsx:<0,0>--<0,0>~~~import_use_refhapp/src/components/common/PinExtensionPopup/hooks/usePinExtensionPopup.ts:<0,0>--<0,0>~~~import_use_refOapp/src/components/common/TestURLModal/index.tsx:<0,0>--<0,0>~~~import_use_refÄapp/src/components/features/mocksV2/MockEditorIndex/Editor/Header/PasswordPopup/PasswordPopup.tsx:<0,0>--<0,0>~~~import_use_refcapp/src/components/features/mocksV2/MockEditorIndex/Editor/index.tsx:<0,0>--<0,0>~~~import_use_reffapp/src/components/features/mocksV2/MockEditorIndex/MockEditorIndex.tsx:<0,0>--<0,0>~~~import_use_ref[app/src/components/features/mocksV2/hooks/useGetMockLogs.tsx:<0,0>--<0,0>~~~import_use_refZapp/src/components/features/rules/RenameGroupModal/index.js:<0,0>--<0,0>~~~import_use_refqapp/src/components/features/rules/RuleBuilder/Body/Columns/AddPairButton/index.tsx:<0,0>--<0,0>~~~import_use_ref[app/src/components/features/rules/RuleBuilder/Help/index.tsx:<0,0>--<0,0>~~~import_use_ref[app/src/components/features/rules/RuleBuilder/RuleBuilder.js:<0,0>--<0,0>~~~import_use_refgapp/src/components/features/rules/RuleBuilder/useExternalRuleCreation.ts:<0,0>--<0,0>~~~import_use_refÅapp/src/components/features/rules/RulePairs/Pairs/ResponseRulePair/GraphqlRequestPayload/index.tsx:<0,0>--<0,0>~~~import_use_refhapp/src/components/features/rules/RulePairs/Pairs/ScriptRulePair/index.js:<0,0>--<0,0>~~~import_use_refGapp/src/components/misc/Invite/index.tsx:<0,0>--<0,0>~~~import_use_refSapp/src/components/misc/ProductWalkthrough/index.tsx:<0,0>--<0,0>~~~import_use_refQapp/src/components/misc/RedirectWithTimer/index.js:<0,0>--<0,0>~~~import_use_ref_app/src/components/misc/SignInViaEmailLink/SignInViaEmailLink.js:<0,0>--<0,0>~~~import_use_ref_app/src/components/misc/SupportPanel/useSlackInviteVisibility.ts:<0,0>--<0,0>~~~import_use_refQapp/src/components/misc/VerifyEmail/VerifyEmail.js:<0,0>--<0,0>~~~import_use_refcapp/src/components/misc/notices/AutomationNotAllowedNotice/index.tsx:<0,0>--<0,0>~~~import_use_refkapp/src/components/misc/notices/ExtensionContextInvalidationNotice/index.tsx:<0,0>--<0,0>~~~import_use_ref£app/src/components/mode-specific/desktop/InterceptTraffic/WebTraffic/TrafficTableV2/NetworkInspector/NetworkTable/VirtualTableV2.tsx:<0,0>--<0,0>~~~import_use_refêapp/src/components/mode-specific/desktop/InterceptTraffic/WebTraffic/TrafficTableV2/Preview/RequestBodyPreview.js:<0,0>--<0,0>~~~import_use_ref|app/src/components/mode-specific/desktop/InterceptTraffic/WebTraffic/TrafficTableV2/index.jsx:<0,0>--<0,0>~~~import_use_ref{app/src/components/mode-specific/desktop/MySources/Sources/InstructionsModal/common/Certs.js:<0,0>--<0,0>~~~import_use_ref{app/src/components/mode-specific/desktop/MySources/Sources/InstructionsModal/common/Proxy.js:<0,0>--<0,0>~~~import_use_refwapp/src/components/mode-specific/desktop/MySources/Sources/LaunchButtonDropDown/index.js:<0,0>--<0,0>~~~import_use_refbapp/src/components/mode-specific/desktop/MySources/Sources/index.js:<0,0>--<0,0>~~~import_use_ref]app/src/components/mode-specific/desktop/UpdateDialog/index.js:<0,0>--<0,0>~~~import_use_refYapp/src/componentsV2/BlockScreen/hooks/useIsUserBlocked.ts:<0,0>--<0,0>~~~import_use_refpapp/src/componentsV2/ContentList/components/ContentListTable/ContentListTable.tsx:<0,0>--<0,0>~~~import_use_refmapp/src/componentsV2/ContentList/components/ContentListTable/context/index.tsx:<0,0>--<0,0>~~~import_use_refWapp/src/componentsV2/banners/PlanExpiredBanner/index.tsx:<0,0>--<0,0>~~~import_use_refjapp/src/componentsV2/modals/CreateWorkspaceModalV2/CreateWorkspaceModal.tsx:<0,0>--<0,0>~~~import_use_refPapp/src/features/apiClient/contexts/apiClient.tsx:<0,0>--<0,0>~~~import_use_refjapp/src/features/apiClient/helpers/modules/sync/useCheckLocalSyncSupport.ts:<0,0>--<0,0>~~~import_use_ref[app/src/features/apiClient/hooks/useApiClientFileImporter.ts:<0,0>--<0,0>~~~import_use_refTapp/src/features/apiClient/hooks/useApiRecord.hook.ts:<0,0>--<0,0>~~~import_use_refZapp/src/features/apiClient/hooks/useParentApiRecord.hook.ts:<0,0>--<0,0>~~~import_use_refYapp/src/features/apiClient/screens/BrunoImporter/index.tsx:<0,0>--<0,0>~~~import_use_refsapp/src/features/apiClient/screens/apiClient/components/clientView/APIClientView.tsx:<0,0>--<0,0>~~~import_use_refΩapp/src/features/apiClient/screens/apiClient/components/clientView/components/request/components/AuthorizationView/AuthorizationForm/hooks/useAuthFormState.ts:<0,0>--<0,0>~~~import_use_refõapp/src/features/apiClient/screens/apiClient/components/clientView/components/request/components/AuthorizationView/index.tsx:<0,0>--<0,0>~~~import_use_refíapp/src/features/apiClient/screens/apiClient/components/clientView/components/request/request-body-state-manager.ts:<0,0>--<0,0>~~~import_use_refçapp/src/features/apiClient/screens/apiClient/components/modals/ApiClientSnippetModal/ApiClientSnippetModal.tsx:<0,0>--<0,0>~~~import_use_refÇapp/src/features/apiClient/screens/apiClient/components/modals/exportModal/ApiClientExportModal.tsx:<0,0>--<0,0>~~~import_use_ref£app/src/features/apiClient/screens/apiClient/components/sidebar/components/collectionsList/newRecordNameInput/NewRecordNameInput.tsx:<0,0>--<0,0>~~~import_use_refxapp/src/features/apiClient/screens/environment/components/VariablesList/VariablesList.tsx:<0,0>--<0,0>~~~import_use_ref¢app/src/features/apiClient/screens/environment/components/environmentsList/components/environmentsListItem/EnvironmentsListItem.tsx:<0,0>--<0,0>~~~import_use_refhapp/src/features/apiClient/store/apiRecords/ApiRecordsContextProvider.tsx:<0,0>--<0,0>~~~import_use_refIapp/src/features/mocks/contexts/modals.tsx:<0,0>--<0,0>~~~import_use_refâapp/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<0,0>--<0,0>~~~import_use_ref`app/src/features/mocks/modals/MockPickerModal/MockPickerIndex.tsx:<0,0>--<0,0>~~~import_use_refÉapp/src/features/mocks/modals/UpdateMocksCollectionModalWrapper/UpdateMocksCollectionModal/index.tsx:<0,0>--<0,0>~~~import_use_refjapp/src/features/mocks/screens/mocksList/components/MocksList/MocksList.tsx:<0,0>--<0,0>~~~import_use_refyapp/src/features/mocks/screens/mocksList/components/MocksList/hooks/useFetchMockRecords.ts:<0,0>--<0,0>~~~import_use_refdapp/src/features/onboarding/components/auth/components/Form/index.tsx:<0,0>--<0,0>~~~import_use_refUapp/src/features/onboarding/components/teams/index.tsx:<0,0>--<0,0>~~~import_use_refÖapp/src/features/onboarding/componentsV2/AcquisitionAnnouncementModal/AcquisitionAnnouncementModal.tsx:<0,0>--<0,0>~~~import_use_refVapp/src/features/onboarding/screens/auth/AuthScreen.tsx:<0,0>--<0,0>~~~import_use_refYapp/src/features/onboarding/screens/auth/context/index.tsx:<0,0>--<0,0>~~~import_use_refáapp/src/features/onboarding/screens/auth/desktopAppAuth/components/AuthInProgress/AuthInProgressCard.tsx:<0,0>--<0,0>~~~import_use_refYapp/src/features/pricing/components/PricingModal/index.tsx:<0,0>--<0,0>~~~import_use_refHapp/src/features/rules/context/modals.tsx:<0,0>--<0,0>~~~import_use_ref`app/src/features/rules/modals/DeleteRecordsModalWrapper/index.tsx:<0,0>--<0,0>~~~import_use_refiapp/src/features/rules/modals/MV3MigrationModal/NotificationCard/index.jsx:<0,0>--<0,0>~~~import_use_ref¢app/src/features/rules/screens/rulesList/components/RulesList/components/ImporterComponents/ModheaderImporter/ModheaderImporter.tsx:<0,0>--<0,0>~~~import_use_refÅapp/src/features/rules/screens/rulesList/components/RulesList/components/RulesTable/RulesTable.tsx:<0,0>--<0,0>~~~import_use_refnapp/src/features/rules/screens/sharedListViewer/hooks/useFetchSharedListData.ts:<0,0>--<0,0>~~~import_use_ref}app/src/features/rules/screens/sharedLists/components/SharedLists/hooks/useFetchSharedLists.ts:<0,0>--<0,0>~~~import_use_reféapp/src/features/rules/screens/sharedLists/components/SharedLists/modals/ImportSharedListFromURLModal/index.jsx:<0,0>--<0,0>~~~import_use_refapp/src/features/sessionBook/components/SessionPlayer/components/PlayerOverlay/PlayerOverlay.tsx:<0,0>--<0,0>~~~import_use_refÜapp/src/features/sessionBook/components/SessionViewerBottomSheet/components/SessionInfo/SessionInfo.tsx:<0,0>--<0,0>~~~import_use_refmapp/src/features/sessionBook/screens/DraftSessionScreen/DraftSessionScreen.tsx:<0,0>--<0,0>~~~import_use_refãapp/src/features/sessionBook/screens/DraftSessionScreen/components/DraftSessionViewer/DraftSessionViewer.tsx:<0,0>--<0,0>~~~import_use_refÉapp/src/features/sessionBook/screens/DraftSessionScreen/components/SessionTrimmer/SessionTrimmer.tsx:<0,0>--<0,0>~~~import_use_refsapp/src/features/sessionBook/screens/DraftSessionScreen/hooks/useSaveDraftSession.ts:<0,0>--<0,0>~~~import_use_refmapp/src/features/sessionBook/screens/SavedSessionScreen/SavedSessionScreen.tsx:<0,0>--<0,0>~~~import_use_refÄapp/src/features/sessionBook/screens/SavedSessionScreen/components/SessionsTitle/SessionTitle.tsx:<0,0>--<0,0>~~~import_use_refapp/src/features/sessionBook/screens/SessionsListScreen/components/SessionsList/SessionsList.tsx:<0,0>--<0,0>~~~import_use_refàapp/src/features/sessionBook/screens/SessionsListScreen/components/SessionsList/hooks/useFetchSessions.ts:<0,0>--<0,0>~~~import_use_refÕapp/src/features/settings/components/BillingTeam/components/BillingDetails/MyBillingTeamDetails/components/AddMembersDrawer/components/InviteMembersForm/InviteMembersForm.tsx:<0,0>--<0,0>~~~import_use_ref∞app/src/features/settings/components/BillingTeam/components/BillingDetails/modals/RequestBillingTeamAccessModal/RequestBillingTeamAccessModal.tsx:<0,0>--<0,0>~~~import_use_ref¢app/src/features/settings/components/BillingTeam/components/BillingDetails/modals/ReviewJoinRequestModal/ReviewJoinRequestModal.tsx:<0,0>--<0,0>~~~import_use_reftapp/src/features/settings/components/BillingTeam/components/UserPlanDetails/index.tsx:<0,0>--<0,0>~~~import_use_refrapp/src/features/settings/components/BillingTeam/hooks/useCheckCurrentTeamAccess.ts:<0,0>--<0,0>~~~import_use_ref]app/src/features/settings/components/DesktopSettings/index.jsx:<0,0>--<0,0>~~~import_use_reftapp/src/features/settings/components/OrgMembers/hooks/useFetchOrganizationMembers.tsx:<0,0>--<0,0>~~~import_use_refäapp/src/features/settings/components/Profile/ManageTeams/TeamViewer/MembersDetails/AddMemberModal/index.jsx:<0,0>--<0,0>~~~import_use_ref®app/src/features/settings/components/Profile/ManageTeams/TeamViewer/MembersDetails/TeamMembersTable/SendInviteButton/SendInviteButton.tsx:<0,0>--<0,0>~~~import_use_refãapp/src/features/settings/components/Profile/ManageTeams/TeamViewer/MembersDetails/TeamMembersTable/index.js:<0,0>--<0,0>~~~import_use_reféapp/src/features/settings/components/Profile/ManageTeams/TeamViewer/TeamSettings/DeleteWorkspaceModal/index.tsx:<0,0>--<0,0>~~~import_use_refxapp/src/features/settings/components/Profile/ManageTeams/TeamViewer/TeamSettings/index.js:<0,0>--<0,0>~~~import_use_refzapp/src/features/settings/components/Profile/ManageTeams/TeamViewer/hooks/useIsTeamAdmin.ts:<0,0>--<0,0>~~~import_use_ref]app/src/features/settings/components/Profile/UserInfo/index.js:<0,0>--<0,0>~~~import_use_ref{app/src/features/settings/components/SessionsBookSettings/components/PageSourceRow/index.tsx:<0,0>--<0,0>~~~import_use_refGapp/src/hooks/useDesktopAppConnection.ts:<0,0>--<0,0>~~~import_use_refDapp/src/hooks/useGoogleOneTapLogin.ts:<0,0>--<0,0>~~~import_use_refHapp/src/hooks/useGrowthbookIntegration.ts:<0,0>--<0,0>~~~import_use_refDapp/src/hooks/useHasUnsavedChanges.ts:<0,0>--<0,0>~~~import_use_refAapp/src/hooks/usePreLoadRemover.js:<0,0>--<0,0>~~~import_use_ref9app/src/hooks/useScript.ts:<0,0>--<0,0>~~~import_use_refaapp/src/layouts/DashboardLayout/MenuHeader/HeaderNotifications.jsx:<0,0>--<0,0>~~~import_use_refXapp/src/layouts/DashboardLayout/MenuHeader/HeaderUser.jsx:<0,0>--<0,0>~~~import_use_refoapp/src/layouts/DashboardLayout/MenuHeader/PremiumPlanBadge/PremiumPlanBadge.tsx:<0,0>--<0,0>~~~import_use_refìapp/src/lib/design-system/components/RQNetworkTable/GenericNetworkTable/components/FiltersToolbar/FiltersToolbar.tsx:<0,0>--<0,0>~~~import_use_refpapp/src/lib/design-system/components/RQNetworkTable/GenericNetworkTable/index.tsx:<0,0>--<0,0>~~~import_use_ref\app/src/lib/design-system/components/RQNetworkTable/index.tsx:<0,0>--<0,0>~~~import_use_refdapp/src/lib/design-system-v2/components/RQBreadcrumb/RQBreadcrumb.tsx:<0,0>--<0,0>~~~import_use_refTapp/src/views/features/rules/RuleEditor/RuleEditor.js:<0,0>--<0,0>~~~import_use_refvapp/src/views/features/rules/RuleEditor/components/Header/ActionButtons/Status/index.js:<0,0>--<0,0>~~~import_use_refvapp/src/views/features/rules/RuleEditor/components/Header/EditorGroupDropdown/index.tsx:<0,0>--<0,0>~~~import_use_refeapp/src/views/features/sessions/ConfigurationPage/ConfigurationPage.js:<0,0>--<0,0>~~~import_use_refcapp/src/views/features/sessions/SessionViewer/DraftSessionViewer.tsx:<0,0>--<0,0>~~~import_use_ref^app/src/views/features/sessions/SessionViewer/PlayerOverlay.tsx:<0,0>--<0,0>~~~import_use_refcapp/src/views/features/sessions/SessionViewer/SavedSessionViewer.tsx:<0,0>--<0,0>~~~import_use_ref_app/src/views/features/sessions/SessionViewer/SessionDetails.tsx:<0,0>--<0,0>~~~import_use_refcapp/src/views/features/sessions/SessionViewer/SessionViewerTitle.tsx:<0,0>--<0,0>~~~import_use_ref~app/src/views/features/sessions/SessionsIndexPageContainer/NetworkSessions/SessionSaveModal.tsx:<0,0>--<0,0>~~~import_use_refsapp/src/views/features/sessions/SessionsIndexPageContainer/NetworkSessions/index.tsx:<0,0>--<0,0>~~~import_use_ref[app/src/views/features/sessions/ShareRecordingModal/index.js:<0,0>--<0,0>~~~import_use_refTapp/src/views/misc/ExtensionInstalledScreen/index.tsx:<0,0>--<0,0>~~~import_use_ref[app/src/views/misc/SeleniumImporter/SeleniumImporterPage.jsx:<0,0>--<0,0>~~~import_use_refbbrowser-extension/common/src/devtools/hooks/useLocalStorageState.ts:<0,0>--<0,0>~~~import_use_refpbrowser-extension/common/src/popup/components/DesktopAppProxy/DesktopAppProxy.tsx:<0,0>--<0,0>~~~import_use_ref\browser-extension/common/src/popup/components/Popup/index.tsx:<0,0>--<0,0>~~~import_use_refvbrowser-extension/common/src/popup/components/SessionRecording/SessionRecordingView.tsx:<0,0>--<0,0>~~~import_use_ref{browser-extension/sessionbear/src/popup/components/SessionRecording/SessionRecordingView.tsx:<0,0>--<0,0>~~~import_use_refú#selectà s YÆá‹“§É⁄¬ëíı€	∂
+êÅ‹∑û†àœ¢Û“±ÇÂ–ÙÖÅ¸˜Ó–≠Üˆ„∫ §!Ù!ﬁ"π#ç$Á$¿%≥&Ò'ç)†*Æ+±,’-Õ./ÿ0°1´2ã3è4˘4Ú5÷6´7±8á9‡9Ë:¡;â<È<“=ı>˜?Â@‚AÒBC˜D‰EFÙGÁH‘I’J‘K›L´N‹OˇPÛQÂR¬S∂T¡UÍVˆWÖY˝Y˜Z‘[œ\ñ]⁄]¢^Ê^ß_‡_¡`ôaàbúcådËdÃe†fñgåhÒh‘i≤jïkÙk◊l’m»n£o˜o“p¥q§rÄsˆsÿ ---
+run:
+  queries:
+   -
+    pack: react-rerendering-detection#1
+    relativeQueryPath: re_rendering/find-files-to-import-useRef.ql
+    relativeBqrsPath: react-rerendering-detection/re_rendering/find-files-to-import-useRef.bqrs
+    metadata: {}
+    queryHelp: null
+  extensionPacks: []
+  packs:
+    react-rerendering-detection#1:
+      name: react-rerendering-detection
+      version: 0.0.0
+      localPath: /Users/faridehkhalili/Documents/research/PaperArtifacts/Reactor/codeql-development/query_running/queries
+      runDataExtensions:
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/data/internal/model.yml
+        index: 0
+        firstRowId: 0
+        rowCount: 0
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 0
+        firstRowId: 75
+        rowCount: 26
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 1
+        firstRowId: 101
+        rowCount: 611
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 2
+        firstRowId: 712
+        rowCount: 32
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 3
+        firstRowId: 744
+        rowCount: 102
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mssql/model.yml
+        index: 0
+        firstRowId: 846
+        rowCount: 34
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mysql/model.yml
+        index: 0
+        firstRowId: 880
+        rowCount: 57
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mysql/model.yml
+        index: 1
+        firstRowId: 937
+        rowCount: 3
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 0
+        firstRowId: 940
+        rowCount: 65
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 1
+        firstRowId: 1005
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 2
+        firstRowId: 1010
+        rowCount: 23
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 0
+        firstRowId: 1033
+        rowCount: 7
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 1
+        firstRowId: 1040
+        rowCount: 248
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 2
+        firstRowId: 1288
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 3
+        firstRowId: 1293
+        rowCount: 2
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/spanner/model.yml
+        index: 0
+        firstRowId: 1295
+        rowCount: 174
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/spanner/model.yml
+        index: 1
+        firstRowId: 1469
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sqlite3/model.yml
+        index: 0
+        firstRowId: 1474
+        rowCount: 15
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sqlite3/model.yml
+        index: 1
+        firstRowId: 1489
+        rowCount: 3
+    codeql/javascript-all#0:
+      name: codeql/javascript-all
+      version: 0.7.1
+      localPath: /Users/faridehkhalili/Documents/Packages/codeql/qlpacks/codeql/javascript-all/0.7.1
+      runDataExtensions: []
+runFileName: null
+relativeBqrsPath: null
+metadata: {}

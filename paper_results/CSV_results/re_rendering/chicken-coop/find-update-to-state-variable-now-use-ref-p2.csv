@@ -1,0 +1,4 @@
+"col0"
+"src/Components/Buttons/InstallPWAButton.js:<11,7>--<11,26>~~~set_state_to_assignment_current???{varName:supportsPWA}"
+"src/Components/Buttons/InstallPWAButton.js:<12,7>--<12,25>~~~set_state_to_assignment_current???{varName:promptInstall}"
+"src/Pages/AvailableClasses/AvailableClasses.js:<21,13>--<21,55>~~~set_state_to_assignment_current???{varName:availableClassrooms}"

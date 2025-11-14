@@ -1,0 +1,5 @@
+"col0"
+"newtab/index.tsx:<17,9>--<17,54>~~~use_state_to_use_ref"
+"newtab/index.tsx:<18,9>--<18,58>~~~use_state_to_use_ref"
+"options/ShortcutItemOption.tsx:<24,9>--<24,64>~~~use_state_to_use_ref"
+"popup.tsx:<4,9>--<4,38>~~~use_state_to_use_ref"

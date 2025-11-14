@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <AppBar ... it'} /> |
+| <Expens ...      /> |
+| <Balanc ...      /> |
+| <Export ...      /> |
+| <AppBar ... it'} /> |
+| <AppBar ... it'} /> |
+| <AppBar ... it'} /> |
+| <AppBar ... it'} /> |

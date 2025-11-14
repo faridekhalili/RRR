@@ -1,0 +1,7 @@
+|     sibling     |
++-----------------+
+| <AdminNavbar /> |
+| <AdminNavbar /> |
+| <AdminNavbar /> |
+| <Homenav/>      |
+| <Homenav />     |

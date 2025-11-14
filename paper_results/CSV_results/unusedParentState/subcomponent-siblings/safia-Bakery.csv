@@ -1,0 +1,8 @@
+|       sibling        |
++----------------------+
+| <Produc ... _id} />  |
+| <Produc ...      />  |
+| <Produc ...      />  |
+| <Produc ...      />  |
+| <Produc ...      />  |
+| <Products el={el} /> |

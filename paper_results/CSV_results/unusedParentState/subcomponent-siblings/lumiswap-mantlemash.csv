@@ -1,0 +1,22 @@
+|       sibling        |
++----------------------+
+| <WrongN ... etwork>  |
+| <Balanc ...      />  |
+| <Balanc ...      />  |
+| <Loader></Loader>    |
+| <Reserv ...      />  |
+| <Reserv ...      />  |
+| <Loader></Loader>    |
+| <Loader></Loader>    |
+| <Button ... Button>  |
+| <WrongN ... etwork>  |
+| <Remove ...      />  |
+| <Loader></Loader>    |
+| <Loader></Loader>    |
+| <Loader></Loader>    |
+| <Button ... Button>  |
+| <WrongN ... etwork>  |
+| <Balanc ...      />  |
+| <Balanc ...      />  |
+| <Button ... Button>  |
+| <Token\n ...      /> |

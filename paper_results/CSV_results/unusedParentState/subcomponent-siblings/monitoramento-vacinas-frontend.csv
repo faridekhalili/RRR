@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Temper ... ratura> |
+| <Title> ... /Title> |
+| <Button ... Button> |
+| <Button ... Button> |
+| <Temper ... ratura> |
+| <Temper ... ratura> |
+| <Title> ... /Title> |
+| <Temper ... | []}/> |
+| <Vacina ... naList> |
+| <Loadin ... ..." /> |

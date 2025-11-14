@@ -1,0 +1,17 @@
+|       sibling       |
++---------------------+
+| <Result ... ={r} /> |
+| <Dialog ... Header> |
+| <RedisT ... Full /> |
+| <RedisT ... one" /> |
+| <Dialog ... Footer> |
+| <Spinne ... pinner> |
+| <CopyTo ...      /> |
+| <DataTy ...      /> |
+| <Reload ... nge} /> |
+| <AddDat ... Add} /> |
+| <Sideba ... Data /> |
+| <LoadingSkeleton /> |
+| <DataKe ... nge} /> |
+| <Sideba ... Data /> |
+| <DisplayDbSize />   |

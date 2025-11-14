@@ -1,0 +1,16 @@
+|       sibling        |
++----------------------+
+| <Logo w ... 4px" />  |
+| <Logo w ... 4px" />  |
+| <Logo w ... 4px" />  |
+| <Info w ... "15" />  |
+| <Chevro ...  })} />  |
+| <Cross  ... w-6" />  |
+| <Text\n  ...      /> |
+| <Rating value={4} /> |
+| <ErrorM ... y-5" />  |
+| <Collap ... llapse>  |
+| <Collap ... llapse>  |
+| <ThemeI ... eme} />  |
+| <Chevro ...      />  |
+| <Cross  ... w-6" />  |

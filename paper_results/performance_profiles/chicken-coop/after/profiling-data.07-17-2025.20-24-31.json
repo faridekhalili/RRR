@@ -1,0 +1,1987 @@
+{
+  "version": 5,
+  "dataForRoots": [
+    {
+      "commitData": [
+        {
+          "changeDescriptions": [
+            [
+              2,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              3,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              5,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              6,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              7,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              8,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              9,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              10,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              11,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              12,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              13,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              14,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              15,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              16,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ]
+          ],
+          "duration": 5.1,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              1,
+              5.1
+            ],
+            [
+              2,
+              5
+            ],
+            [
+              3,
+              4.7
+            ],
+            [
+              4,
+              4.4
+            ],
+            [
+              5,
+              0.4
+            ],
+            [
+              6,
+              0.4
+            ],
+            [
+              7,
+              4
+            ],
+            [
+              8,
+              3.9
+            ],
+            [
+              9,
+              0
+            ],
+            [
+              10,
+              0.5
+            ],
+            [
+              11,
+              0.3
+            ],
+            [
+              12,
+              1.1
+            ],
+            [
+              13,
+              0
+            ],
+            [
+              14,
+              1.1
+            ],
+            [
+              15,
+              0.1
+            ],
+            [
+              16,
+              0.1
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              1,
+              0.1
+            ],
+            [
+              2,
+              0.3
+            ],
+            [
+              3,
+              0.3
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              5,
+              0
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0.1
+            ],
+            [
+              8,
+              0.2
+            ],
+            [
+              9,
+              0
+            ],
+            [
+              10,
+              0.1
+            ],
+            [
+              11,
+              0.2
+            ],
+            [
+              12,
+              0.5
+            ],
+            [
+              13,
+              0
+            ],
+            [
+              14,
+              0.2
+            ],
+            [
+              15,
+              0
+            ],
+            [
+              16,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0.7,
+          "priorityLevel": "Normal",
+          "timestamp": 10.199999988079071,
+          "updaters": [
+            {
+              "displayName": "createRoot()",
+              "id": 1,
+              "key": null,
+              "type": 11,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              11,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              10,
+              {
+                "context": true,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              3,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  1
+                ]
+              }
+            ]
+          ],
+          "duration": 0.5,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              11,
+              0.2
+            ],
+            [
+              10,
+              0.2
+            ],
+            [
+              4,
+              0.3
+            ],
+            [
+              3,
+              0.5
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              11,
+              0.2
+            ],
+            [
+              10,
+              0
+            ],
+            [
+              4,
+              0.1
+            ],
+            [
+              3,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Normal",
+          "timestamp": 17,
+          "updaters": [
+            {
+              "displayName": "f",
+              "id": 3,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              16,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              8,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.4,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              16,
+              0.1
+            ],
+            [
+              8,
+              0.4
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              16,
+              0.1
+            ],
+            [
+              8,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0.2,
+          "priorityLevel": "Normal",
+          "timestamp": 26.799999952316284,
+          "updaters": [
+            {
+              "displayName": "Anonymous",
+              "id": 8,
+              "key": null,
+              "type": 8,
+              "hocDisplayNames": [
+                "Memo"
+              ],
+              "compiledWithForget": false
+            }
+          ]
+        }
+      ],
+      "displayName": "$",
+      "initialTreeBaseDurations": [],
+      "operations": [
+        [
+          1,
+          1,
+          138,
+          1,
+          36,
+          1,
+          102,
+          16,
+          67,
+          111,
+          110,
+          116,
+          101,
+          120,
+          116,
+          46,
+          80,
+          114,
+          111,
+          118,
+          105,
+          100,
+          101,
+          114,
+          15,
+          77,
+          101,
+          109,
+          111,
+          40,
+          65,
+          110,
+          111,
+          110,
+          121,
+          109,
+          111,
+          117,
+          115,
+          41,
+          9,
+          65,
+          110,
+          111,
+          110,
+          121,
+          109,
+          111,
+          117,
+          115,
+          9,
+          77,
+          101,
+          109,
+          111,
+          40,
+          65,
+          112,
+          112,
+          41,
+          17,
+          77,
+          101,
+          109,
+          111,
+          40,
+          84,
+          111,
+          103,
+          103,
+          108,
+          101,
+          84,
+          104,
+          101,
+          109,
+          101,
+          41,
+          19,
+          70,
+          111,
+          114,
+          119,
+          97,
+          114,
+          100,
+          82,
+          101,
+          102,
+          40,
+          83,
+          117,
+          110,
+          73,
+          99,
+          111,
+          110,
+          41,
+          13,
+          80,
+          114,
+          105,
+          109,
+          97,
+          114,
+          121,
+          66,
+          117,
+          116,
+          116,
+          111,
+          110,
+          9,
+          77,
+          101,
+          109,
+          111,
+          40,
+          95,
+          99,
+          51,
+          41,
+          8,
+          77,
+          101,
+          109,
+          111,
+          40,
+          95,
+          99,
+          41,
+          9,
+          65,
+          110,
+          97,
+          108,
+          121,
+          116,
+          105,
+          99,
+          115,
+          1,
+          1,
+          11,
+          0,
+          3,
+          1,
+          1,
+          4,
+          1,
+          2500,
+          1,
+          2,
+          5,
+          1,
+          0,
+          1,
+          0,
+          7,
+          2,
+          1,
+          4,
+          2,
+          2400,
+          1,
+          3,
+          5,
+          2,
+          2,
+          2,
+          0,
+          4,
+          3,
+          2100,
+          1,
+          4,
+          2,
+          3,
+          3,
+          3,
+          0,
+          4,
+          4,
+          1800,
+          1,
+          5,
+          8,
+          4,
+          3,
+          4,
+          0,
+          4,
+          5,
+          199,
+          1,
+          6,
+          5,
+          5,
+          5,
+          5,
+          0,
+          4,
+          6,
+          199,
+          1,
+          7,
+          8,
+          4,
+          0,
+          6,
+          0,
+          4,
+          7,
+          1600,
+          1,
+          8,
+          8,
+          7,
+          7,
+          4,
+          0,
+          4,
+          8,
+          1500,
+          1,
+          9,
+          8,
+          8,
+          8,
+          4,
+          0,
+          4,
+          9,
+          0,
+          1,
+          10,
+          8,
+          8,
+          8,
+          7,
+          0,
+          4,
+          10,
+          300,
+          1,
+          11,
+          6,
+          10,
+          10,
+          8,
+          0,
+          4,
+          11,
+          199,
+          1,
+          12,
+          8,
+          8,
+          8,
+          4,
+          0,
+          4,
+          12,
+          500,
+          1,
+          13,
+          5,
+          12,
+          12,
+          9,
+          0,
+          4,
+          13,
+          0,
+          1,
+          14,
+          8,
+          8,
+          8,
+          10,
+          0,
+          4,
+          14,
+          300,
+          1,
+          15,
+          8,
+          14,
+          14,
+          11,
+          0,
+          4,
+          15,
+          100,
+          1,
+          16,
+          5,
+          8,
+          8,
+          12,
+          0,
+          4,
+          16,
+          100
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          10,
+          199,
+          4,
+          8,
+          1400,
+          4,
+          7,
+          1500,
+          4,
+          3,
+          2000,
+          4,
+          2,
+          2300,
+          4,
+          1,
+          2400
+        ],
+        [
+          1,
+          1,
+          0
+        ]
+      ],
+      "rootID": 1,
+      "snapshots": []
+    }
+  ],
+  "timelineData": [
+    {
+      "batchUIDToMeasuresKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.100000023841858,
+              "duration": 6.899999976158142
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.100000023841858,
+              "duration": 5.199999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17.400000035762787,
+              "duration": 1.5999999642372131
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17.600000023841858,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22.30000001192093,
+              "duration": 0.9000000357627869
+            }
+          ]
+        ],
+        [
+          2,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 23.80000001192093,
+              "duration": 1.300000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 23.80000001192093,
+              "duration": 0.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 24.5,
+              "duration": 0.6000000238418579
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 24.700000047683716,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          3,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 34,
+              "duration": 0.6000000238418579
+            },
+            {
+              "type": "render",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 34,
+              "duration": 0.40000003576278687
+            },
+            {
+              "type": "commit",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 34.40000003576279,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 3,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 34.5,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          4,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4687.400000035763,
+              "duration": 4.899999976158142
+            },
+            {
+              "type": "render",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4687.400000035763,
+              "duration": 2.800000011920929
+            },
+            {
+              "type": "commit",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4690.300000011921,
+              "duration": 2
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 4,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4690.800000011921,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          5,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 5452.900000035763,
+              "duration": 2.099999964237213
+            },
+            {
+              "type": "render",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 5452.900000035763,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "commit",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 5453.800000011921,
+              "duration": 1.199999988079071
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 5,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 5454.5,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 5,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 5454.700000047684,
+              "duration": 0.2999999523162842
+            }
+          ]
+        ],
+        [
+          6,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5459.600000023842,
+              "duration": 0.6000000238418579
+            },
+            {
+              "type": "render",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5459.600000023842,
+              "duration": 0.30000001192092896
+            },
+            {
+              "type": "commit",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5460,
+              "duration": 0.20000004768371582
+            }
+          ]
+        ]
+      ],
+      "componentMeasures": [
+        {
+          "componentName": "$",
+          "duration": 0,
+          "timestamp": 12.400000035762787,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0.20000004768371582,
+          "timestamp": 12.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Anonymous",
+          "duration": 0.10000002384185791,
+          "timestamp": 12.800000011920929,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(App)",
+          "duration": 0.09999996423721313,
+          "timestamp": 13.200000047683716,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0.19999998807907104,
+          "timestamp": 13.300000011920929,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0,
+          "timestamp": 14.300000011920929,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(ToggleTheme)",
+          "duration": 0.10000002384185791,
+          "timestamp": 14.300000011920929,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "ForwardRef(SunIcon)",
+          "duration": 0.19999998807907104,
+          "timestamp": 14.400000035762787,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0.40000003576278687,
+          "timestamp": 15,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "PrimaryButton",
+          "duration": 0,
+          "timestamp": 15.900000035762787,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(_c3)",
+          "duration": 0.10000002384185791,
+          "timestamp": 16.100000023841858,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(_c)",
+          "duration": 0,
+          "timestamp": 17,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Analytics",
+          "duration": 0.10000002384185791,
+          "timestamp": 17.100000023841858,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0,
+          "timestamp": 22.400000035762787,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0.20000004768371582,
+          "timestamp": 22.5,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Analytics",
+          "duration": 0.09999996423721313,
+          "timestamp": 22.700000047683716,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0.09999996423721313,
+          "timestamp": 22.900000035762787,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0.10000002384185791,
+          "timestamp": 23,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0,
+          "timestamp": 23.100000023841858,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0.10000002384185791,
+          "timestamp": 23.100000023841858,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0,
+          "timestamp": 23.200000047683716,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0,
+          "timestamp": 23.30000001192093,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0,
+          "timestamp": 23.30000001192093,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0,
+          "timestamp": 23.30000001192093,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0.19999998807907104,
+          "timestamp": 23.30000001192093,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Analytics",
+          "duration": 0,
+          "timestamp": 23.5,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0.10000002384185791,
+          "timestamp": 23.5,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0,
+          "timestamp": 23.600000023841858,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0,
+          "timestamp": 23.600000023841858,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0,
+          "timestamp": 23.600000023841858,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0.19999998807907104,
+          "timestamp": 23.80000001192093,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(ToggleTheme)",
+          "duration": 0,
+          "timestamp": 24.200000047683716,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "ForwardRef(SunIcon)",
+          "duration": 0.10000002384185791,
+          "timestamp": 24.30000001192093,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0.20000004768371582,
+          "timestamp": 34,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Analytics",
+          "duration": 0,
+          "timestamp": 34.40000003576279,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 1.5,
+          "timestamp": 4687.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "PrimaryButton",
+          "duration": 0.09999996423721313,
+          "timestamp": 4689.700000047684,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0.20000004768371582,
+          "timestamp": 5453,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(ToggleTheme)",
+          "duration": 0,
+          "timestamp": 5453.400000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "ForwardRef(MoonIcon)",
+          "duration": 0,
+          "timestamp": 5453.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0,
+          "timestamp": 5454.800000011921,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0.10000002384185791,
+          "timestamp": 5454.800000011921,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0,
+          "timestamp": 5455,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "duration": 0.09999996423721313,
+          "timestamp": 5459.700000047684,
+          "type": "render",
+          "warning": null
+        }
+      ],
+      "duration": 5470.200000047684,
+      "flamechart": [],
+      "internalModuleSourceToRanges": [],
+      "laneToLabelKeyValueArray": [
+        [
+          1,
+          "Sync"
+        ],
+        [
+          2,
+          "InputContinuousHydration"
+        ],
+        [
+          4,
+          "InputContinuous"
+        ],
+        [
+          8,
+          "DefaultHydration"
+        ],
+        [
+          16,
+          "Default"
+        ],
+        [
+          32,
+          "TransitionHydration"
+        ],
+        [
+          64,
+          "Transition"
+        ],
+        [
+          128,
+          "Transition"
+        ],
+        [
+          256,
+          "Transition"
+        ],
+        [
+          512,
+          "Transition"
+        ],
+        [
+          1024,
+          "Transition"
+        ],
+        [
+          2048,
+          "Transition"
+        ],
+        [
+          4096,
+          "Transition"
+        ],
+        [
+          8192,
+          "Transition"
+        ],
+        [
+          16384,
+          "Transition"
+        ],
+        [
+          32768,
+          "Transition"
+        ],
+        [
+          65536,
+          "Transition"
+        ],
+        [
+          131072,
+          "Transition"
+        ],
+        [
+          262144,
+          "Transition"
+        ],
+        [
+          524288,
+          "Transition"
+        ],
+        [
+          1048576,
+          "Transition"
+        ],
+        [
+          2097152,
+          "Transition"
+        ],
+        [
+          4194304,
+          "Retry"
+        ],
+        [
+          8388608,
+          "Retry"
+        ],
+        [
+          16777216,
+          "Retry"
+        ],
+        [
+          33554432,
+          "Retry"
+        ],
+        [
+          67108864,
+          "Retry"
+        ],
+        [
+          134217728,
+          "SelectiveHydration"
+        ],
+        [
+          268435456,
+          "IdleHydration"
+        ],
+        [
+          536870912,
+          "Idle"
+        ],
+        [
+          1073741824,
+          "Offscreen"
+        ]
+      ],
+      "laneToReactMeasureKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4687.400000035763,
+              "duration": 4.899999976158142
+            },
+            {
+              "type": "render",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4687.400000035763,
+              "duration": 2.800000011920929
+            },
+            {
+              "type": "commit",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4690.300000011921,
+              "duration": 2
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 4,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4690.800000011921,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 5452.900000035763,
+              "duration": 2.099999964237213
+            },
+            {
+              "type": "render",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 5452.900000035763,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "commit",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 5453.800000011921,
+              "duration": 1.199999988079071
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 5,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 5454.5,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 5,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 5454.700000047684,
+              "duration": 0.2999999523162842
+            }
+          ]
+        ],
+        [
+          2,
+          []
+        ],
+        [
+          4,
+          []
+        ],
+        [
+          8,
+          []
+        ],
+        [
+          16,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.100000023841858,
+              "duration": 6.899999976158142
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.100000023841858,
+              "duration": 5.199999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17.400000035762787,
+              "duration": 1.5999999642372131
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17.600000023841858,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22.30000001192093,
+              "duration": 0.9000000357627869
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 23.80000001192093,
+              "duration": 1.300000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 23.80000001192093,
+              "duration": 0.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 24.5,
+              "duration": 0.6000000238418579
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 24.700000047683716,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 34,
+              "duration": 0.6000000238418579
+            },
+            {
+              "type": "render",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 34,
+              "duration": 0.40000003576278687
+            },
+            {
+              "type": "commit",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 34.40000003576279,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 3,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 34.5,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5459.600000023842,
+              "duration": 0.6000000238418579
+            },
+            {
+              "type": "render",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5459.600000023842,
+              "duration": 0.30000001192092896
+            },
+            {
+              "type": "commit",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5460,
+              "duration": 0.20000004768371582
+            }
+          ]
+        ],
+        [
+          32,
+          []
+        ],
+        [
+          64,
+          []
+        ],
+        [
+          128,
+          []
+        ],
+        [
+          256,
+          []
+        ],
+        [
+          512,
+          []
+        ],
+        [
+          1024,
+          []
+        ],
+        [
+          2048,
+          []
+        ],
+        [
+          4096,
+          []
+        ],
+        [
+          8192,
+          []
+        ],
+        [
+          16384,
+          []
+        ],
+        [
+          32768,
+          []
+        ],
+        [
+          65536,
+          []
+        ],
+        [
+          131072,
+          []
+        ],
+        [
+          262144,
+          []
+        ],
+        [
+          524288,
+          []
+        ],
+        [
+          1048576,
+          []
+        ],
+        [
+          2097152,
+          []
+        ],
+        [
+          4194304,
+          []
+        ],
+        [
+          8388608,
+          []
+        ],
+        [
+          16777216,
+          []
+        ],
+        [
+          33554432,
+          []
+        ],
+        [
+          67108864,
+          []
+        ],
+        [
+          134217728,
+          []
+        ],
+        [
+          268435456,
+          []
+        ],
+        [
+          536870912,
+          []
+        ],
+        [
+          1073741824,
+          []
+        ]
+      ],
+      "nativeEvents": [],
+      "networkMeasures": [],
+      "otherUserTimingMarks": [],
+      "reactVersion": "18.2.0",
+      "schedulingEvents": [
+        {
+          "lanes": [
+            16
+          ],
+          "timestamp": 10,
+          "type": "schedule-render",
+          "warning": null
+        },
+        {
+          "componentName": "f",
+          "lanes": [
+            16
+          ],
+          "timestamp": 23.100000023841858,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at f (http://localhost:3000/static/js/bundle.js:8022:20)\n    at $ (http://localhost:3000/static/js/bundle.js:8018:61)"
+        },
+        {
+          "componentName": "f",
+          "lanes": [
+            16
+          ],
+          "timestamp": 23.600000023841858,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at f (http://localhost:3000/static/js/bundle.js:8022:20)\n    at $ (http://localhost:3000/static/js/bundle.js:8018:61)"
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "lanes": [
+            16
+          ],
+          "timestamp": 33.80000001192093,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at http://localhost:3000/static/js/bundle.js:735:82\n    at div (<anonymous>)\n    at App (<anonymous>)\n    at f (http://localhost:3000/static/js/bundle.js:8022:20)\n    at $ (http://localhost:3000/static/js/bundle.js:8018:61)"
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "lanes": [
+            16
+          ],
+          "timestamp": 33.80000001192093,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at http://localhost:3000/static/js/bundle.js:735:82\n    at div (<anonymous>)\n    at App (<anonymous>)\n    at f (http://localhost:3000/static/js/bundle.js:8022:20)\n    at $ (http://localhost:3000/static/js/bundle.js:8018:61)"
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "lanes": [
+            1
+          ],
+          "timestamp": 4687.100000023842,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at http://localhost:3000/static/js/bundle.js:536:76\n    at div (<anonymous>)\n    at div (<anonymous>)\n    at http://localhost:3000/static/js/bundle.js:735:82\n    at div (<anonymous>)\n    at App (<anonymous>)\n    at f (http://localhost:3000/static/js/bundle.js:8022:20)\n    at $ (http://localhost:3000/static/js/bundle.js:8018:61)"
+        },
+        {
+          "componentName": "f",
+          "lanes": [
+            1
+          ],
+          "timestamp": 5452.700000047684,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at f (http://localhost:3000/static/js/bundle.js:8022:20)\n    at $ (http://localhost:3000/static/js/bundle.js:8018:61)"
+        },
+        {
+          "componentName": "f",
+          "lanes": [
+            16
+          ],
+          "timestamp": 5454.900000035763,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at f (http://localhost:3000/static/js/bundle.js:8022:20)\n    at $ (http://localhost:3000/static/js/bundle.js:8018:61)"
+        }
+      ],
+      "snapshots": [],
+      "snapshotHeight": 0,
+      "startTime": 41.09999996423721,
+      "suspenseEvents": [],
+      "thrownErrors": []
+    }
+  ]
+}

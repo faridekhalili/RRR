@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Pagina ... page}/> |
+| <Navbar />          |
+| <Navbar/>           |
+| <Navbar/>           |
+| <Navbar/>           |
+| <Home/>             |

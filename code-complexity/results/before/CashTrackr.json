@@ -1,0 +1,221 @@
+{
+  "project": {
+    "numFiles": 8,
+    "sloc": {
+      "physical": 489,
+      "logical": 666
+    },
+    "cyclomatic": {
+      "value": 153,
+      "density": 22.972972972972975
+    },
+    "halstead": {
+      "distinctOperators": 151,
+      "totalOperators": 1998,
+      "distinctOperands": 655,
+      "totalOperands": 2532,
+      "vocabulary": 806,
+      "length": 4530,
+      "estimatedLength": 7540.412983718398,
+      "volume": 43735.50120923169,
+      "difficulty": 291.85648854961835,
+      "effort": 12764489.807883948,
+      "time": 709138.3226602194,
+      "bugs": 14.57850040307723
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/CashTrackr/src/App.js": {
+      "sloc": {
+        "physical": 81,
+        "logical": 105
+      },
+      "cyclomatic": {
+        "value": 27,
+        "density": 25.71428571428571
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 307,
+        "distinctOperands": 117,
+        "totalOperands": 367,
+        "vocabulary": 145,
+        "length": 674,
+        "estimatedLength": 996.2028843395937,
+        "volume": 4839.258726670066,
+        "difficulty": 43.914529914529915,
+        "effort": 212513.77211650254,
+        "time": 11806.320673139031,
+        "bugs": 1.6130862422233552
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CashTrackr/src/App.test.js": {
+      "sloc": {
+        "physical": 182,
+        "logical": 288
+      },
+      "cyclomatic": {
+        "value": 67,
+        "density": 23.26388888888889
+      },
+      "halstead": {
+        "distinctOperators": 34,
+        "totalOperators": 788,
+        "distinctOperands": 178,
+        "totalOperands": 1053,
+        "vocabulary": 212,
+        "length": 1841,
+        "estimatedLength": 1584.8554873648764,
+        "volume": 14227.10155685085,
+        "difficulty": 100.56741573033709,
+        "effort": 1430782.8369055456,
+        "time": 79487.93538364142,
+        "bugs": 4.74236718561695
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CashTrackr/src/index.js": {
+      "sloc": {
+        "physical": 8,
+        "logical": 9
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 22.22222222222222
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 37,
+        "distinctOperands": 22,
+        "totalOperands": 44,
+        "vocabulary": 32,
+        "length": 81,
+        "estimatedLength": 142.7018117963935,
+        "volume": 405,
+        "difficulty": 10,
+        "effort": 4050,
+        "time": 225,
+        "bugs": 0.135
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CashTrackr/src/setupTests.js": {
+      "sloc": {
+        "physical": 3,
+        "logical": 2
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 50
+      },
+      "halstead": {
+        "distinctOperators": 1,
+        "totalOperators": 1,
+        "distinctOperands": 3,
+        "totalOperands": 3,
+        "vocabulary": 4,
+        "length": 4,
+        "estimatedLength": 6.339850002884624,
+        "volume": 8,
+        "difficulty": 0.5,
+        "effort": 4,
+        "time": 0.2222222222222222,
+        "bugs": 0.0026666666666666666
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CashTrackr/src/components/ExpenseInfo/ExpenseInfo.js": {
+      "sloc": {
+        "physical": 37,
+        "logical": 29
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 10.344827586206897
+      },
+      "halstead": {
+        "distinctOperators": 16,
+        "totalOperators": 122,
+        "distinctOperands": 58,
+        "totalOperands": 165,
+        "vocabulary": 74,
+        "length": 287,
+        "estimatedLength": 433.4905936394403,
+        "volume": 1782.1131159355084,
+        "difficulty": 22.75862068965517,
+        "effort": 40558.4364316357,
+        "time": 2253.246468424206,
+        "bugs": 0.5940377053118361
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CashTrackr/src/components/ExpenseForm/ExpenseForm.js": {
+      "sloc": {
+        "physical": 85,
+        "logical": 99
+      },
+      "cyclomatic": {
+        "value": 19,
+        "density": 19.19191919191919
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 287,
+        "distinctOperands": 112,
+        "totalOperands": 349,
+        "vocabulary": 134,
+        "length": 636,
+        "estimatedLength": 912.1855595557189,
+        "volume": 4494.032725131143,
+        "difficulty": 34.276785714285715,
+        "effort": 154040.99671230765,
+        "time": 8557.833150683759,
+        "bugs": 1.4980109083770476
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CashTrackr/src/components/ExpenseList/ExpenseList.js": {
+      "sloc": {
+        "physical": 29,
+        "logical": 24
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 8.333333333333332
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 73,
+        "distinctOperands": 41,
+        "totalOperands": 94,
+        "vocabulary": 52,
+        "length": 167,
+        "estimatedLength": 278.59270424014034,
+        "volume": 951.9734329295625,
+        "difficulty": 12.609756097560975,
+        "effort": 12004.152800599604,
+        "time": 666.8973778110891,
+        "bugs": 0.3173244776431875
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CashTrackr/src/components/Transaction/Transaction.js": {
+      "sloc": {
+        "physical": 64,
+        "logical": 110
+      },
+      "cyclomatic": {
+        "value": 32,
+        "density": 29.09090909090909
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 383,
+        "distinctOperands": 124,
+        "totalOperands": 457,
+        "vocabulary": 153,
+        "length": 840,
+        "estimatedLength": 1063.992035489192,
+        "volume": 6096.205787861828,
+        "difficulty": 53.439516129032256,
+        "effort": 325778.28752634197,
+        "time": 18098.793751463443,
+        "bugs": 2.032068595953943
+      }
+    }
+  }
+}

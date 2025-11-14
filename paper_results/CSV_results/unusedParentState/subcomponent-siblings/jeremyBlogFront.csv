@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <Login />           |
+| <EmployeeRoute />   |
+| <PostLa ... sts} /> |
+| <PostVi ... sts} /> |
+| <Dashbo ... sts} /> |
+| <AdminRoute />      |
+| <Register />        |
+| <Footer />          |
+| <Search ... sts} /> |
+| <Search ... sts} /> |
+| <PostPr ... orm} /> |

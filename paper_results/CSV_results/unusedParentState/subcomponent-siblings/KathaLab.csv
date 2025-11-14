@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Device ... ceCard> |
+| <Config ... gPanel> |
+| <TextIn ... tInput> |
+| <Toolti ... ooltip> |
+| <Interf ... erface> |
+| <Startu ... mmands> |
+| <Shutdo ... mmands> |
+| <Option ... meters> |

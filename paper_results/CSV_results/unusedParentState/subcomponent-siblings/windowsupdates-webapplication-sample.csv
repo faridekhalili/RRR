@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <SpinnerCommon />   |
+| <SpinnerCommon />   |
+| <Spinne ... Common> |
+| <SpinnerCommon />   |
+| <IconBu ...      /> |
+| <IconBu ...      /> |
+| <IconBu ...      /> |
+| <EditMo ...      /> |

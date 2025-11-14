@@ -1,0 +1,1257 @@
+{
+  "version": 5,
+  "dataForRoots": [
+    {
+      "commitData": [
+        {
+          "changeDescriptions": [
+            [
+              2,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              3,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              6,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              7,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              8,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              10,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              11,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ]
+          ],
+          "duration": 2.5,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              1,
+              2.5
+            ],
+            [
+              2,
+              2.4
+            ],
+            [
+              3,
+              2.2
+            ],
+            [
+              4,
+              2
+            ],
+            [
+              5,
+              2
+            ],
+            [
+              6,
+              2
+            ],
+            [
+              7,
+              1.9
+            ],
+            [
+              8,
+              1.7
+            ],
+            [
+              9,
+              1.7
+            ],
+            [
+              10,
+              1.6
+            ],
+            [
+              11,
+              0.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              1,
+              0.1
+            ],
+            [
+              2,
+              0.2
+            ],
+            [
+              3,
+              0.2
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              5,
+              0
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0.2
+            ],
+            [
+              8,
+              0
+            ],
+            [
+              9,
+              0.1
+            ],
+            [
+              10,
+              0.2
+            ],
+            [
+              11,
+              0.6
+            ]
+          ],
+          "passiveEffectDuration": 0.1,
+          "priorityLevel": "Normal",
+          "timestamp": 6.800000011920929,
+          "updaters": [
+            {
+              "displayName": "createRoot()",
+              "id": 1,
+              "key": null,
+              "type": 11,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              12,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              8,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "match",
+                  "routeContext",
+                  "children"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              7,
+              {
+                "context": true,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              3,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "location",
+                  "navigationType"
+                ],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              2,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  1
+                ]
+              }
+            ]
+          ],
+          "duration": 3.5,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              12,
+              1.4
+            ],
+            [
+              9,
+              1.5
+            ],
+            [
+              8,
+              1.7
+            ],
+            [
+              7,
+              2.4
+            ],
+            [
+              5,
+              2.6
+            ],
+            [
+              4,
+              2.6
+            ],
+            [
+              3,
+              2.9
+            ],
+            [
+              2,
+              3.5
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              12,
+              0.2
+            ],
+            [
+              9,
+              0.1
+            ],
+            [
+              8,
+              0.2
+            ],
+            [
+              7,
+              0.7
+            ],
+            [
+              5,
+              0.2
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              3,
+              0.3
+            ],
+            [
+              2,
+              0.6
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 4274.199999988079,
+          "updaters": [
+            {
+              "displayName": "BrowserRouter",
+              "id": 2,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        }
+      ],
+      "displayName": "BrowserRouter",
+      "initialTreeBaseDurations": [],
+      "operations": [
+        [
+          1,
+          1,
+          125,
+          13,
+          66,
+          114,
+          111,
+          119,
+          115,
+          101,
+          114,
+          82,
+          111,
+          117,
+          116,
+          101,
+          114,
+          6,
+          82,
+          111,
+          117,
+          116,
+          101,
+          114,
+          19,
+          78,
+          97,
+          118,
+          105,
+          103,
+          97,
+          116,
+          105,
+          111,
+          110,
+          46,
+          80,
+          114,
+          111,
+          118,
+          105,
+          100,
+          101,
+          114,
+          17,
+          76,
+          111,
+          99,
+          97,
+          116,
+          105,
+          111,
+          110,
+          46,
+          80,
+          114,
+          111,
+          118,
+          105,
+          100,
+          101,
+          114,
+          8,
+          77,
+          101,
+          109,
+          111,
+          40,
+          95,
+          99,
+          41,
+          6,
+          82,
+          111,
+          117,
+          116,
+          101,
+          115,
+          13,
+          82,
+          101,
+          110,
+          100,
+          101,
+          114,
+          101,
+          100,
+          82,
+          111,
+          117,
+          116,
+          101,
+          14,
+          82,
+          111,
+          117,
+          116,
+          101,
+          46,
+          80,
+          114,
+          111,
+          118,
+          105,
+          100,
+          101,
+          114,
+          15,
+          77,
+          101,
+          109,
+          111,
+          40,
+          65,
+          110,
+          111,
+          110,
+          121,
+          109,
+          111,
+          117,
+          115,
+          41,
+          4,
+          76,
+          105,
+          110,
+          107,
+          1,
+          1,
+          11,
+          0,
+          3,
+          1,
+          1,
+          4,
+          1,
+          1700,
+          1,
+          2,
+          5,
+          1,
+          0,
+          1,
+          0,
+          4,
+          2,
+          1600,
+          1,
+          3,
+          5,
+          2,
+          2,
+          2,
+          0,
+          4,
+          3,
+          1400,
+          1,
+          4,
+          2,
+          3,
+          3,
+          3,
+          0,
+          4,
+          4,
+          1200,
+          1,
+          5,
+          2,
+          4,
+          3,
+          4,
+          0,
+          4,
+          5,
+          1200,
+          1,
+          6,
+          8,
+          5,
+          0,
+          5,
+          0,
+          4,
+          6,
+          1200,
+          1,
+          7,
+          5,
+          6,
+          6,
+          6,
+          0,
+          4,
+          7,
+          1100,
+          1,
+          8,
+          5,
+          7,
+          7,
+          7,
+          0,
+          4,
+          8,
+          900,
+          1,
+          9,
+          2,
+          8,
+          8,
+          8,
+          0,
+          4,
+          9,
+          900,
+          1,
+          10,
+          8,
+          9,
+          6,
+          9,
+          0,
+          4,
+          10,
+          800,
+          1,
+          11,
+          6,
+          10,
+          10,
+          10,
+          0,
+          4,
+          11,
+          600
+        ],
+        [
+          1,
+          1,
+          9,
+          8,
+          82,
+          101,
+          103,
+          105,
+          115,
+          116,
+          101,
+          114,
+          2,
+          2,
+          11,
+          10,
+          1,
+          12,
+          5,
+          9,
+          6,
+          1,
+          0,
+          4,
+          12,
+          500,
+          4,
+          9,
+          600,
+          4,
+          8,
+          800,
+          4,
+          7,
+          1500,
+          4,
+          6,
+          1600,
+          4,
+          5,
+          1800,
+          4,
+          4,
+          1800,
+          4,
+          3,
+          2100,
+          4,
+          2,
+          2700,
+          4,
+          1,
+          2800
+        ]
+      ],
+      "rootID": 1,
+      "snapshots": []
+    }
+  ],
+  "timelineData": [
+    {
+      "batchUIDToMeasuresKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.199999988079071,
+              "duration": 4.800000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.199999988079071,
+              "duration": 2.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14.699999988079071,
+              "duration": 2.300000011920929
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17.100000023841858,
+              "duration": 0.09999996423721313
+            }
+          ]
+        ],
+        [
+          2,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4276.600000023842,
+              "duration": 8.299999952316284
+            },
+            {
+              "type": "render",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4276.600000023842,
+              "duration": 3.799999952316284
+            },
+            {
+              "type": "commit",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4280.399999976158,
+              "duration": 4.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4281.600000023842,
+              "duration": 1.5
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4284.5,
+              "duration": 0.30000001192092896
+            }
+          ]
+        ]
+      ],
+      "componentMeasures": [
+        {
+          "componentName": "BrowserRouter",
+          "duration": 0.10000002384185791,
+          "timestamp": 12.399999976158142,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Router",
+          "duration": 0.09999996423721313,
+          "timestamp": 12.600000023841858,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(_c)",
+          "duration": 0.10000002384185791,
+          "timestamp": 12.699999988079071,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Routes",
+          "duration": 0.19999998807907104,
+          "timestamp": 12.800000011920929,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "RenderedRoute",
+          "duration": 0,
+          "timestamp": 13,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0.19999998807907104,
+          "timestamp": 13.100000023841858,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Link",
+          "duration": 0.5,
+          "timestamp": 14,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "BrowserRouter",
+          "duration": 0,
+          "timestamp": 15.800000011920929,
+          "type": "layout-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Link",
+          "duration": 0,
+          "timestamp": 17.100000023841858,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Memo(Anonymous)",
+          "duration": 0,
+          "timestamp": 17.19999998807907,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "BrowserRouter",
+          "duration": 0.6000000238418579,
+          "timestamp": 4276.899999976158,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Router",
+          "duration": 0.19999998807907104,
+          "timestamp": 4277.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Routes",
+          "duration": 0.699999988079071,
+          "timestamp": 4278,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "RenderedRoute",
+          "duration": 0,
+          "timestamp": 4278.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Register",
+          "duration": 0.19999998807907104,
+          "timestamp": 4279,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Register",
+          "duration": 0,
+          "timestamp": 4284.800000011921,
+          "type": "passive-effect-mount",
+          "warning": null
+        }
+      ],
+      "duration": 4294.899999976158,
+      "flamechart": [],
+      "internalModuleSourceToRanges": [],
+      "laneToLabelKeyValueArray": [
+        [
+          1,
+          "Sync"
+        ],
+        [
+          2,
+          "InputContinuousHydration"
+        ],
+        [
+          4,
+          "InputContinuous"
+        ],
+        [
+          8,
+          "DefaultHydration"
+        ],
+        [
+          16,
+          "Default"
+        ],
+        [
+          32,
+          "TransitionHydration"
+        ],
+        [
+          64,
+          "Transition"
+        ],
+        [
+          128,
+          "Transition"
+        ],
+        [
+          256,
+          "Transition"
+        ],
+        [
+          512,
+          "Transition"
+        ],
+        [
+          1024,
+          "Transition"
+        ],
+        [
+          2048,
+          "Transition"
+        ],
+        [
+          4096,
+          "Transition"
+        ],
+        [
+          8192,
+          "Transition"
+        ],
+        [
+          16384,
+          "Transition"
+        ],
+        [
+          32768,
+          "Transition"
+        ],
+        [
+          65536,
+          "Transition"
+        ],
+        [
+          131072,
+          "Transition"
+        ],
+        [
+          262144,
+          "Transition"
+        ],
+        [
+          524288,
+          "Transition"
+        ],
+        [
+          1048576,
+          "Transition"
+        ],
+        [
+          2097152,
+          "Transition"
+        ],
+        [
+          4194304,
+          "Retry"
+        ],
+        [
+          8388608,
+          "Retry"
+        ],
+        [
+          16777216,
+          "Retry"
+        ],
+        [
+          33554432,
+          "Retry"
+        ],
+        [
+          67108864,
+          "Retry"
+        ],
+        [
+          134217728,
+          "SelectiveHydration"
+        ],
+        [
+          268435456,
+          "IdleHydration"
+        ],
+        [
+          536870912,
+          "Idle"
+        ],
+        [
+          1073741824,
+          "Offscreen"
+        ]
+      ],
+      "laneToReactMeasureKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4276.600000023842,
+              "duration": 8.299999952316284
+            },
+            {
+              "type": "render",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4276.600000023842,
+              "duration": 3.799999952316284
+            },
+            {
+              "type": "commit",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4280.399999976158,
+              "duration": 4.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4281.600000023842,
+              "duration": 1.5
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4284.5,
+              "duration": 0.30000001192092896
+            }
+          ]
+        ],
+        [
+          2,
+          []
+        ],
+        [
+          4,
+          []
+        ],
+        [
+          8,
+          []
+        ],
+        [
+          16,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.199999988079071,
+              "duration": 4.800000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.199999988079071,
+              "duration": 2.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14.699999988079071,
+              "duration": 2.300000011920929
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17.100000023841858,
+              "duration": 0.09999996423721313
+            }
+          ]
+        ],
+        [
+          32,
+          []
+        ],
+        [
+          64,
+          []
+        ],
+        [
+          128,
+          []
+        ],
+        [
+          256,
+          []
+        ],
+        [
+          512,
+          []
+        ],
+        [
+          1024,
+          []
+        ],
+        [
+          2048,
+          []
+        ],
+        [
+          4096,
+          []
+        ],
+        [
+          8192,
+          []
+        ],
+        [
+          16384,
+          []
+        ],
+        [
+          32768,
+          []
+        ],
+        [
+          65536,
+          []
+        ],
+        [
+          131072,
+          []
+        ],
+        [
+          262144,
+          []
+        ],
+        [
+          524288,
+          []
+        ],
+        [
+          1048576,
+          []
+        ],
+        [
+          2097152,
+          []
+        ],
+        [
+          4194304,
+          []
+        ],
+        [
+          8388608,
+          []
+        ],
+        [
+          16777216,
+          []
+        ],
+        [
+          33554432,
+          []
+        ],
+        [
+          67108864,
+          []
+        ],
+        [
+          134217728,
+          []
+        ],
+        [
+          268435456,
+          []
+        ],
+        [
+          536870912,
+          []
+        ],
+        [
+          1073741824,
+          []
+        ]
+      ],
+      "nativeEvents": [],
+      "networkMeasures": [],
+      "otherUserTimingMarks": [],
+      "reactVersion": "18.2.0",
+      "schedulingEvents": [
+        {
+          "lanes": [
+            16
+          ],
+          "timestamp": 10,
+          "type": "schedule-render",
+          "warning": null
+        },
+        {
+          "componentName": "BrowserRouter",
+          "lanes": [
+            1
+          ],
+          "timestamp": 4276.300000011921,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at BrowserRouter (http://localhost:3000/static/js/bundle.js:40885:5)"
+        }
+      ],
+      "snapshots": [],
+      "snapshotHeight": 0,
+      "startTime": 37.69999998807907,
+      "suspenseEvents": [],
+      "thrownErrors": []
+    }
+  ]
+}

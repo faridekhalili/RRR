@@ -1,0 +1,32 @@
+|       sibling       |
++---------------------+
+| <Home></Home>       |
+| <Login></Login>     |
+| <Regist ... ration> |
+| <Manage ... hBoard> |
+| <TeamLe ... hBoard> |
+| <Traine ... hBoard> |
+| <AddTea ... Leader> |
+| <GetAll ... loyees> |
+| <GetAll ... ainees> |
+| <AddTra ... rainee> |
+| <Delete ... amLead> |
+| <Delete ... rainee> |
+| <EditEm ... loyees> |
+| <Update ... rainee> |
+| <AddEmp ... ployee> |
+| <Change ... ssword> |
+| <AddCou ... Status> |
+| <AddTra ... etails> |
+| <AddUse ... seCase> |
+| <GetAll ... etails> |
+| <GetAll ... eCases> |
+| <TLGetA ... etails> |
+| <EditUs ... seCase> |
+| <EditTr ... etails> |
+| <TLGetA ... eCases> |
+| <TGetAl ... etails> |
+| <TGetAl ... eCases> |
+| <Profil ... opDown> |
+| <Profil ... opDown> |
+| <Profil ... opDown> |

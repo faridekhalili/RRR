@@ -1,0 +1,8 @@
+|       sibling        |
++----------------------+
+| <Earthq ...      />  |
+| <MyLoca ... ion} />  |
+| <EarthquakeDetail /> |
+| <Icon n ... {30} />  |
+| <FormGr ... mGroup>  |
+| <Select ...      />  |

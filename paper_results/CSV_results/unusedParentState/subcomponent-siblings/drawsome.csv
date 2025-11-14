@@ -1,0 +1,24 @@
+|       sibling       |
++---------------------+
+| <Protec ... dRoute> |
+| <JoinGame />        |
+| <Protec ... dRoute> |
+| <JoinGame />        |
+| <Login />           |
+| <Signup />          |
+| <Protec ... dRoute> |
+| <CreateGame />      |
+| <Protec ... dRoute> |
+| <SoloDraw />        |
+| <Protec ... dRoute> |
+| <UserDrawings />    |
+| <Protec ... dRoute> |
+| <Socket ... ovider> |
+| <Game />            |
+| <Protec ... dRoute> |
+| <PastGames />       |
+| <Protec ... dRoute> |
+| <SinglePastGame />  |
+| <Protec ... dRoute> |
+| <NotFound />        |
+| <Timer />           |

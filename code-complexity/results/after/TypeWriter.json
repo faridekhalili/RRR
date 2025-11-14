@@ -1,0 +1,1037 @@
+{
+  "project": {
+    "numFiles": 42,
+    "sloc": {
+      "physical": 3103,
+      "logical": 3460
+    },
+    "cyclomatic": {
+      "value": 730,
+      "density": 21.09826589595376
+    },
+    "halstead": {
+      "distinctOperators": 853,
+      "totalOperators": 10944,
+      "distinctOperands": 3849,
+      "totalOperands": 13596,
+      "vocabulary": 4702,
+      "length": 24540,
+      "estimatedLength": 56002.07992822256,
+      "volume": 299364.90353244514,
+      "difficulty": 1506.5455962587685,
+      "effort": 451006877.09123623,
+      "time": 25055937.61617979,
+      "bugs": 99.78830117748171
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/libs/data.ts": {
+      "sloc": {
+        "physical": 113,
+        "logical": 129
+      },
+      "cyclomatic": {
+        "value": 36,
+        "density": 27.906976744186046
+      },
+      "halstead": {
+        "distinctOperators": 30,
+        "totalOperators": 394,
+        "distinctOperands": 129,
+        "totalOperands": 469,
+        "vocabulary": 159,
+        "length": 863,
+        "estimatedLength": 1114.7851336122974,
+        "volume": 6311.017990410399,
+        "difficulty": 54.53488372093023,
+        "effort": 344170.6322677299,
+        "time": 19120.59068154055,
+        "bugs": 2.103672663470133
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/hooks/useDifficulty.js": {
+      "sloc": {
+        "physical": 12,
+        "logical": 9
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 11.11111111111111
+      },
+      "halstead": {
+        "distinctOperators": 8,
+        "totalOperators": 18,
+        "distinctOperands": 18,
+        "totalOperands": 24,
+        "vocabulary": 26,
+        "length": 42,
+        "estimatedLength": 108.41805003750011,
+        "volume": 197.4184681619259,
+        "difficulty": 5.333333333333333,
+        "effort": 1052.8984968636046,
+        "time": 58.49436093686692,
+        "bugs": 0.0658061560539753
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/pages/index.tsx": {
+      "sloc": {
+        "physical": 55,
+        "logical": 68
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 19.11764705882353
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 268,
+        "distinctOperands": 100,
+        "totalOperands": 330,
+        "vocabulary": 121,
+        "length": 598,
+        "estimatedLength": 803.9065989627418,
+        "volume": 4137.4802158902085,
+        "difficulty": 34.65,
+        "effort": 143363.68948059573,
+        "time": 7964.649415588651,
+        "bugs": 1.3791600719634027
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/Badges/index.tsx": {
+      "sloc": {
+        "physical": 27,
+        "logical": 21
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 19.047619047619047
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 58,
+        "distinctOperands": 40,
+        "totalOperands": 75,
+        "vocabulary": 51,
+        "length": 133,
+        "estimatedLength": 271.41833283925547,
+        "volume": 754.432570482209,
+        "difficulty": 10.3125,
+        "effort": 7780.08588309778,
+        "time": 432.22699350543223,
+        "bugs": 0.25147752349406965
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/CodeSnippet/index.tsx": {
+      "sloc": {
+        "physical": 44,
+        "logical": 33
+      },
+      "cyclomatic": {
+        "value": 7,
+        "density": 21.21212121212121
+      },
+      "halstead": {
+        "distinctOperators": 18,
+        "totalOperators": 79,
+        "distinctOperands": 47,
+        "totalOperands": 102,
+        "vocabulary": 65,
+        "length": 181,
+        "estimatedLength": 361.04827535904644,
+        "volume": 1090.0485741581501,
+        "difficulty": 19.53191489361702,
+        "effort": 21290.73598036557,
+        "time": 1182.818665575865,
+        "bugs": 0.36334952471938337
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/CodeSnippet/snippets.ts": {
+      "sloc": {
+        "physical": 8,
+        "logical": 5
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 7,
+        "totalOperators": 12,
+        "distinctOperands": 11,
+        "totalOperands": 15,
+        "vocabulary": 18,
+        "length": 27,
+        "estimatedLength": 62.269769135471364,
+        "volume": 112.58797503894243,
+        "difficulty": 4.7727272727272725,
+        "effort": 537.3516990494979,
+        "time": 29.852872169416553,
+        "bugs": 0.03752932501298081
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/DeprecationWarning/index.tsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 13
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 23.076923076923077
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 42,
+        "distinctOperands": 34,
+        "totalOperands": 64,
+        "vocabulary": 44,
+        "length": 106,
+        "estimatedLength": 223.84836501501496,
+        "volume": 578.6997515755535,
+        "difficulty": 9.411764705882353,
+        "effort": 5446.58589718168,
+        "time": 302.5881053989822,
+        "bugs": 0.19289991719185115
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/DownloadVersion/index.tsx": {
+      "sloc": {
+        "physical": 30,
+        "logical": 53
+      },
+      "cyclomatic": {
+        "value": 19,
+        "density": 35.84905660377358
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 204,
+        "distinctOperands": 76,
+        "totalOperands": 252,
+        "vocabulary": 98,
+        "length": 456,
+        "estimatedLength": 612.2968963174715,
+        "volume": 3016.3076889165354,
+        "difficulty": 36.473684210526315,
+        "effort": 110015.85412732416,
+        "time": 6111.991895962453,
+        "bugs": 1.005435896305512
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/EntryDisplay/graph.tsx": {
+      "sloc": {
+        "physical": 202,
+        "logical": 254
+      },
+      "cyclomatic": {
+        "value": 64,
+        "density": 25.196850393700785
+      },
+      "halstead": {
+        "distinctOperators": 34,
+        "totalOperators": 792,
+        "distinctOperands": 249,
+        "totalOperands": 965,
+        "vocabulary": 283,
+        "length": 1757,
+        "estimatedLength": 2252.6805467752665,
+        "volume": 14310.164532655617,
+        "difficulty": 65.88353413654617,
+        "effort": 942804.2134868087,
+        "time": 52378.01186037826,
+        "bugs": 4.770054844218539
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/EntryDisplay/index.tsx": {
+      "sloc": {
+        "physical": 52,
+        "logical": 40
+      },
+      "cyclomatic": {
+        "value": 5,
+        "density": 12.5
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 138,
+        "distinctOperands": 63,
+        "totalOperands": 167,
+        "vocabulary": 78,
+        "length": 305,
+        "estimatedLength": 466.22783403299354,
+        "volume": 1917.0476767529858,
+        "difficulty": 19.88095238095238,
+        "effort": 38112.7335735415,
+        "time": 2117.3740874189725,
+        "bugs": 0.6390158922509953
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/EntryDisplay/inspector.tsx": {
+      "sloc": {
+        "physical": 61,
+        "logical": 75
+      },
+      "cyclomatic": {
+        "value": 19,
+        "density": 25.333333333333336
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 253,
+        "distinctOperands": 102,
+        "totalOperands": 321,
+        "vocabulary": 130,
+        "length": 574,
+        "estimatedLength": 867.4152944562943,
+        "volume": 4030.8391246783326,
+        "difficulty": 44.05882352941176,
+        "effort": 177594.02966965124,
+        "time": 9866.334981647291,
+        "bugs": 1.3436130415594443
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/EntryField/index.tsx": {
+      "sloc": {
+        "physical": 205,
+        "logical": 157
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 8.280254777070063
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 793,
+        "distinctOperands": 178,
+        "totalOperands": 1014,
+        "vocabulary": 199,
+        "length": 1807,
+        "estimatedLength": 1487.6709527623132,
+        "volume": 13799.380689322374,
+        "difficulty": 59.81460674157304,
+        "effort": 825404.5292090748,
+        "time": 45855.80717828193,
+        "bugs": 4.599793563107458
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/EntrySearch/index.tsx": {
+      "sloc": {
+        "physical": 116,
+        "logical": 85
+      },
+      "cyclomatic": {
+        "value": 14,
+        "density": 16.470588235294116
+      },
+      "halstead": {
+        "distinctOperators": 17,
+        "totalOperators": 343,
+        "distinctOperands": 155,
+        "totalOperands": 466,
+        "vocabulary": 172,
+        "length": 809,
+        "estimatedLength": 1251.4933977071692,
+        "volume": 6007.848186553997,
+        "difficulty": 25.55483870967742,
+        "effort": 153529.59139961537,
+        "time": 8529.421744423076,
+        "bugs": 2.0026160621846656
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/EntryInspector/index.tsx": {
+      "sloc": {
+        "physical": 673,
+        "logical": 570
+      },
+      "cyclomatic": {
+        "value": 95,
+        "density": 16.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 36,
+        "totalOperators": 1649,
+        "distinctOperands": 385,
+        "totalOperands": 2160,
+        "vocabulary": 421,
+        "length": 3809,
+        "estimatedLength": 3615.848861580134,
+        "volume": 33205.6294954599,
+        "difficulty": 100.98701298701299,
+        "effort": 3353337.3370999503,
+        "time": 186296.51872777502,
+        "bugs": 11.068543165153299
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/HomepageFeatures/index.tsx": {
+      "sloc": {
+        "physical": 69,
+        "logical": 87
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 17.24137931034483
+      },
+      "halstead": {
+        "distinctOperators": 25,
+        "totalOperators": 286,
+        "distinctOperands": 101,
+        "totalOperands": 357,
+        "vocabulary": 126,
+        "length": 643,
+        "estimatedLength": 838.9346468267262,
+        "volume": 4486.390990810446,
+        "difficulty": 44.18316831683168,
+        "effort": 198222.96828209521,
+        "time": 11012.387126783067,
+        "bugs": 1.495463663603482
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/Figure/index.tsx": {
+      "sloc": {
+        "physical": 20,
+        "logical": 39
+      },
+      "cyclomatic": {
+        "value": 8,
+        "density": 20.51282051282051
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 98,
+        "distinctOperands": 44,
+        "totalOperands": 119,
+        "vocabulary": 65,
+        "length": 217,
+        "estimatedLength": 354.8630552114243,
+        "volume": 1306.8538154271746,
+        "difficulty": 28.397727272727273,
+        "effort": 37111.67823582397,
+        "time": 2061.759901990221,
+        "bugs": 0.4356179384757249
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/Image/index.tsx": {
+      "sloc": {
+        "physical": 55,
+        "logical": 106
+      },
+      "cyclomatic": {
+        "value": 31,
+        "density": 29.245283018867923
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 301,
+        "distinctOperands": 107,
+        "totalOperands": 358,
+        "vocabulary": 138,
+        "length": 659,
+        "estimatedLength": 930.3224441233582,
+        "volume": 4684.517617016814,
+        "difficulty": 51.859813084112155,
+        "effort": 242938.20800772248,
+        "time": 13496.567111540138,
+        "bugs": 1.5615058723389381
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/Player/index.tsx": {
+      "sloc": {
+        "physical": 139,
+        "logical": 168
+      },
+      "cyclomatic": {
+        "value": 37,
+        "density": 22.023809523809522
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 491,
+        "distinctOperands": 180,
+        "totalOperands": 615,
+        "vocabulary": 211,
+        "length": 1106,
+        "estimatedLength": 1580.7810033255614,
+        "volume": 8539.535702710147,
+        "difficulty": 52.95833333333333,
+        "effort": 452239.57825602486,
+        "time": 25124.421014223604,
+        "bugs": 2.8465119009033826
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/RiveBoard/index.tsx": {
+      "sloc": {
+        "physical": 61,
+        "logical": 45
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 4.444444444444445
+      },
+      "halstead": {
+        "distinctOperators": 12,
+        "totalOperators": 108,
+        "distinctOperands": 54,
+        "totalOperands": 136,
+        "vocabulary": 66,
+        "length": 244,
+        "estimatedLength": 379.822575142789,
+        "volume": 1474.8321651234626,
+        "difficulty": 15.11111111111111,
+        "effort": 22286.35271742121,
+        "time": 1238.1307065234005,
+        "bugs": 0.49161072170782083
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/components/UnsupportedWarning/index.tsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 13
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 30.76923076923077
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 43,
+        "distinctOperands": 35,
+        "totalOperands": 67,
+        "vocabulary": 45,
+        "length": 110,
+        "estimatedLength": 230.81773576252348,
+        "volume": 604.1038405962643,
+        "difficulty": 9.571428571428571,
+        "effort": 5782.136759992815,
+        "time": 321.22981999960086,
+        "bugs": 0.20136794686542142
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/AnnouncementBar/index.tsx": {
+      "sloc": {
+        "physical": 37,
+        "logical": 57
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 26.31578947368421
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 186,
+        "distinctOperands": 75,
+        "totalOperands": 216,
+        "vocabulary": 96,
+        "length": 402,
+        "estimatedLength": 597.9665942876045,
+        "volume": 2647.154925289905,
+        "difficulty": 30.24,
+        "effort": 80049.96494076672,
+        "time": 4447.22027448704,
+        "bugs": 0.8823849750966349
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/DocVersionBadge/index.js": {
+      "sloc": {
+        "physical": 60,
+        "logical": 67
+      },
+      "cyclomatic": {
+        "value": 17,
+        "density": 25.37313432835821
+      },
+      "halstead": {
+        "distinctOperators": 24,
+        "totalOperators": 214,
+        "distinctOperands": 89,
+        "totalOperands": 247,
+        "vocabulary": 113,
+        "length": 461,
+        "estimatedLength": 731.7578776992029,
+        "volume": 3144.102501673402,
+        "difficulty": 33.30337078651685,
+        "effort": 104709.21140404453,
+        "time": 5817.178411335807,
+        "bugs": 1.0480341672244673
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/DocVersionBanner/index.js": {
+      "sloc": {
+        "physical": 122,
+        "logical": 120
+      },
+      "cyclomatic": {
+        "value": 16,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 370,
+        "distinctOperands": 137,
+        "totalOperands": 460,
+        "vocabulary": 159,
+        "length": 830,
+        "estimatedLength": 1128.5871011907238,
+        "volume": 6069.692852886015,
+        "difficulty": 36.934306569343065,
+        "effort": 224179.8966102426,
+        "time": 12454.438700569033,
+        "bugs": 2.023230950962005
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/DocVersionRoot/index.js": {
+      "sloc": {
+        "physical": 34,
+        "logical": 27
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 7.4074074074074066
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 101,
+        "distinctOperands": 47,
+        "totalOperands": 133,
+        "vocabulary": 57,
+        "length": 234,
+        "estimatedLength": 316.6115645456253,
+        "volume": 1364.8962633145497,
+        "difficulty": 14.148936170212767,
+        "effort": 19311.830108599483,
+        "time": 1072.879450477749,
+        "bugs": 0.4549654211048499
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NotFound/index.tsx": {
+      "sloc": {
+        "physical": 23,
+        "logical": 46
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 28.26086956521739
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 162,
+        "distinctOperands": 62,
+        "totalOperands": 188,
+        "vocabulary": 83,
+        "length": 350,
+        "estimatedLength": 494.1982937621107,
+        "volume": 2231.2638009714237,
+        "difficulty": 31.838709677419356,
+        "effort": 71040.56037286436,
+        "time": 3946.6977984924647,
+        "bugs": 0.7437546003238079
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/ComponentTypes.tsx": {
+      "sloc": {
+        "physical": 28,
+        "logical": 27
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 7.4074074074074066
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 75,
+        "distinctOperands": 42,
+        "totalOperands": 89,
+        "vocabulary": 53,
+        "length": 164,
+        "estimatedLength": 285.7928234072743,
+        "volume": 939.3789545483647,
+        "difficulty": 11.654761904761905,
+        "effort": 10948.238053605346,
+        "time": 608.2354474225192,
+        "bugs": 0.31312631818278824
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/DefaultNavbarItem.tsx": {
+      "sloc": {
+        "physical": 53,
+        "logical": 102
+      },
+      "cyclomatic": {
+        "value": 28,
+        "density": 27.450980392156865
+      },
+      "halstead": {
+        "distinctOperators": 27,
+        "totalOperators": 312,
+        "distinctOperands": 94,
+        "totalOperands": 374,
+        "vocabulary": 121,
+        "length": 686,
+        "estimatedLength": 793.1052510529942,
+        "volume": 4746.340180770372,
+        "difficulty": 53.712765957446805,
+        "effort": 254939.05928414475,
+        "time": 14163.281071341375,
+        "bugs": 1.5821133935901242
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/DocNavbarItem.tsx": {
+      "sloc": {
+        "physical": 40,
+        "logical": 90
+      },
+      "cyclomatic": {
+        "value": 29,
+        "density": 32.22222222222222
+      },
+      "halstead": {
+        "distinctOperators": 27,
+        "totalOperators": 295,
+        "distinctOperands": 84,
+        "totalOperands": 331,
+        "vocabulary": 111,
+        "length": 626,
+        "estimatedLength": 709.5472339284424,
+        "volume": 4253.304332335167,
+        "difficulty": 53.19642857142858,
+        "effort": 226260.6001076154,
+        "time": 12570.033339311967,
+        "bugs": 1.4177681107783888
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/DocSidebarNavbarItem.tsx": {
+      "sloc": {
+        "physical": 42,
+        "logical": 92
+      },
+      "cyclomatic": {
+        "value": 28,
+        "density": 30.434782608695656
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 293,
+        "distinctOperands": 93,
+        "totalOperands": 335,
+        "vocabulary": 122,
+        "length": 628,
+        "estimatedLength": 797.7773749551799,
+        "volume": 4352.503047989493,
+        "difficulty": 52.23118279569892,
+        "effort": 227336.38231837592,
+        "time": 12629.799017687552,
+        "bugs": 1.450834349329831
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/DocsVersionDropdownNavbarItem.tsx": {
+      "sloc": {
+        "physical": 96,
+        "logical": 123
+      },
+      "cyclomatic": {
+        "value": 30,
+        "density": 24.390243902439025
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 371,
+        "distinctOperands": 134,
+        "totalOperands": 438,
+        "vocabulary": 163,
+        "length": 809,
+        "estimatedLength": 1151.7725380446168,
+        "volume": 5945.121076772942,
+        "difficulty": 47.3955223880597,
+        "effort": 281772.11909391754,
+        "time": 15654.006616328752,
+        "bugs": 1.9817070255909806
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/DocsVersionNavbarItem.tsx": {
+      "sloc": {
+        "physical": 32,
+        "logical": 59
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 20.33898305084746
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 172,
+        "distinctOperands": 62,
+        "totalOperands": 198,
+        "vocabulary": 84,
+        "length": 370,
+        "estimatedLength": 500.1524900724976,
+        "volume": 2365.157446428141,
+        "difficulty": 35.12903225806451,
+        "effort": 83085.69223097566,
+        "time": 4615.871790609759,
+        "bugs": 0.788385815476047
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/HtmlNavbarItem.tsx": {
+      "sloc": {
+        "physical": 27,
+        "logical": 23
+      },
+      "cyclomatic": {
+        "value": 5,
+        "density": 21.73913043478261
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 59,
+        "distinctOperands": 34,
+        "totalOperands": 76,
+        "vocabulary": 47,
+        "length": 135,
+        "estimatedLength": 239.110753538766,
+        "volume": 749.8694949764811,
+        "difficulty": 14.529411764705882,
+        "effort": 10895.162662305342,
+        "time": 605.286814572519,
+        "bugs": 0.2499564983254937
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/NavbarNavLink.tsx": {
+      "sloc": {
+        "physical": 63,
+        "logical": 105
+      },
+      "cyclomatic": {
+        "value": 26,
+        "density": 24.761904761904763
+      },
+      "halstead": {
+        "distinctOperators": 27,
+        "totalOperators": 329,
+        "distinctOperands": 107,
+        "totalOperands": 394,
+        "vocabulary": 134,
+        "length": 723,
+        "estimatedLength": 903.3565761777536,
+        "volume": 5108.782484700969,
+        "difficulty": 49.71028037383178,
+        "effort": 253959.00968340613,
+        "time": 14108.83387130034,
+        "bugs": 1.702927494900323
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/SearchNavbarItem.tsx": {
+      "sloc": {
+        "physical": 20,
+        "logical": 17
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 17.647058823529413
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 44,
+        "distinctOperands": 25,
+        "totalOperands": 56,
+        "vocabulary": 36,
+        "length": 100,
+        "estimatedLength": 167.17882283189007,
+        "volume": 516.9925001442313,
+        "difficulty": 12.32,
+        "effort": 6369.347601776929,
+        "time": 353.85264454316274,
+        "bugs": 0.17233083338141042
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/index.tsx": {
+      "sloc": {
+        "physical": 30,
+        "logical": 46
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 26.08695652173913
+      },
+      "halstead": {
+        "distinctOperators": 26,
+        "totalOperators": 116,
+        "distinctOperands": 49,
+        "totalOperands": 135,
+        "vocabulary": 75,
+        "length": 251,
+        "estimatedLength": 421.1032383086406,
+        "volume": 1563.433491314466,
+        "difficulty": 35.816326530612244,
+        "effort": 55996.44443381404,
+        "time": 3110.9135796563355,
+        "bugs": 0.521144497104822
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/Admonition/Layout/index.tsx": {
+      "sloc": {
+        "physical": 48,
+        "logical": 38
+      },
+      "cyclomatic": {
+        "value": 5,
+        "density": 13.157894736842104
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 119,
+        "distinctOperands": 50,
+        "totalOperands": 162,
+        "vocabulary": 61,
+        "length": 281,
+        "estimatedLength": 344.27522757625815,
+        "volume": 1666.5371918551712,
+        "difficulty": 17.82,
+        "effort": 29697.69275885915,
+        "time": 1649.8718199366194,
+        "bugs": 0.5555123972850571
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/AnnouncementBar/CloseButton/index.tsx": {
+      "sloc": {
+        "physical": 28,
+        "logical": 32
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 12.5
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 87,
+        "distinctOperands": 55,
+        "totalOperands": 111,
+        "vocabulary": 69,
+        "length": 198,
+        "estimatedLength": 398.91382023320153,
+        "volume": 1209.4878424420776,
+        "difficulty": 14.127272727272727,
+        "effort": 17086.764610499897,
+        "time": 949.2647005833276,
+        "bugs": 0.4031626141473592
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/AnnouncementBar/Content/index.tsx": {
+      "sloc": {
+        "physical": 23,
+        "logical": 29
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 13.793103448275861
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 80,
+        "distinctOperands": 46,
+        "totalOperands": 98,
+        "vocabulary": 60,
+        "length": 178,
+        "estimatedLength": 331.4137173634208,
+        "volume": 1051.4265260183163,
+        "difficulty": 14.913043478260871,
+        "effort": 15679.969496707936,
+        "time": 871.1094164837742,
+        "bugs": 0.3504755086727721
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/MDXComponents/Img/index.tsx": {
+      "sloc": {
+        "physical": 37,
+        "logical": 34
+      },
+      "cyclomatic": {
+        "value": 6,
+        "density": 17.647058823529413
+      },
+      "halstead": {
+        "distinctOperators": 18,
+        "totalOperators": 104,
+        "distinctOperands": 61,
+        "totalOperands": 128,
+        "vocabulary": 79,
+        "length": 232,
+        "estimatedLength": 468.52824966746806,
+        "volume": 1462.477133577088,
+        "difficulty": 18.885245901639344,
+        "effort": 27619.240293127954,
+        "time": 1534.4022385071084,
+        "bugs": 0.4874923778590293
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NotFound/Content/index.tsx": {
+      "sloc": {
+        "physical": 38,
+        "logical": 26
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 7.6923076923076925
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 98,
+        "distinctOperands": 57,
+        "totalOperands": 143,
+        "vocabulary": 67,
+        "length": 241,
+        "estimatedLength": 390.8036309490377,
+        "volume": 1461.9274949003232,
+        "difficulty": 12.543859649122806,
+        "effort": 18338.21331322335,
+        "time": 1018.7896285124084,
+        "bugs": 0.4873091649667744
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/DropdownNavbarItem/index.tsx": {
+      "sloc": {
+        "physical": 171,
+        "logical": 217
+      },
+      "cyclomatic": {
+        "value": 52,
+        "density": 23.963133640552993
+      },
+      "halstead": {
+        "distinctOperators": 30,
+        "totalOperators": 641,
+        "distinctOperands": 203,
+        "totalOperands": 800,
+        "vocabulary": 233,
+        "length": 1441,
+        "estimatedLength": 1786.023268704146,
+        "volume": 11332.292234446817,
+        "difficulty": 59.11330049261084,
+        "effort": 669889.196124935,
+        "time": 37216.06645138528,
+        "bugs": 3.7774307448156055
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TypeWriter/documentation/src/theme/NavbarItem/LocaleDropdownNavbarItem/index.tsx": {
+      "sloc": {
+        "physical": 79,
+        "logical": 113
+      },
+      "cyclomatic": {
+        "value": 28,
+        "density": 24.778761061946902
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 346,
+        "distinctOperands": 135,
+        "totalOperands": 408,
+        "vocabulary": 163,
+        "length": 754,
+        "estimatedLength": 1153.5209423192855,
+        "volume": 5540.941028290233,
+        "difficulty": 42.31111111111111,
+        "effort": 234443.37150810228,
+        "time": 13024.631750450128,
+        "bugs": 1.8469803427634108
+      }
+    }
+  }
+}

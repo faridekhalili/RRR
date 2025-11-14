@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Search/>           |
+| <PoiInP ... r={0}/> |
+| <PoiInP ... oken}/> |
+| <TextBu ... Button> |
+| <Button ... Button> |
+| <Button ... Button> |
+| <Button ... Button> |
+| <Block  ... /Block> |

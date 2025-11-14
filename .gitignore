@@ -1,0 +1,13 @@
+**/.DS_Store
+**/node_modules/
+**/dist/
+**/package-lock.json
+/codeql-development/db_caching/case-studies/*
+/codeql-development/db_caching/qldbs/*
+/codeql-development/db_caching/*_time_consumption_report.txt
+/codeql-development/query_running/query_results/*
+/codeql-development/query_running/CSV_results/*
+/codeql-development/query_running/pattern_match_tables/*
+/codeql-development/pattern_match_tables/*
+/docker_output/*
+/myenv/*

@@ -1,0 +1,6 @@
+|       sibling        |
++----------------------+
+| <Home\n  ...      /> |
+| <VideoDetail />      |
+| <ChannelDetail />    |
+| <SideBa ...      />  |

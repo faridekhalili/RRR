@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Title  ... /Title> |
+| <Header />          |
+| <Title  ... /Title> |
+| <Header />          |
+| <Title  ... /Title> |

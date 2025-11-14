@@ -1,0 +1,9 @@
+|       sibling        |
++----------------------+
+| <ReviewForm />       |
+| <Produc ...      />  |
+| <Carous ... rousel>  |
+| <Produc ...      />  |
+| <Link\n  ... </Link> |
+| <Link\n  ... </Link> |
+| <Produc ... ata} />  |

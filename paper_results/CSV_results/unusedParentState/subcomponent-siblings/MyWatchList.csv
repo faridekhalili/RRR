@@ -1,0 +1,6 @@
+|      sibling       |
++--------------------+
+| <NavBarMenu/>      |
+| <FooterWatchList/> |
+| <NavBarMenu/>      |
+| <FooterWatchList/> |

@@ -1,0 +1,16 @@
+|       sibling       |
++---------------------+
+| <AdminNavbar />     |
+| <CartIt ... ems} /> |
+| <MealCa ...      /> |
+| <SelectCategory />  |
+| <SocialFooter />    |
+| <MealCa ...      /> |
+| <SelectCategory />  |
+| <SocialFooter />    |
+| <MealCa ...      /> |
+| <SelectCategory />  |
+| <SocialFooter />    |
+| <MealCa ...      /> |
+| <SelectCategory />  |
+| <SocialFooter />    |

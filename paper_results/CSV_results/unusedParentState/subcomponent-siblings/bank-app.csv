@@ -1,0 +1,27 @@
+|       sibling       |
++---------------------+
+| <Navbar />          |
+| <Privat ... eRoute> |
+| <Transactions />    |
+| <Privat ... eRoute> |
+| <Single ... tion /> |
+| <Dashboard />       |
+| <Register />        |
+| <Dashboard />       |
+| <Login />           |
+| <ResetPassword />   |
+| <Privat ... eRoute> |
+| <ResetT ... nPin /> |
+| <Privat ... eRoute> |
+| <Summary />         |
+| <Footer />          |
+| <Loader />          |
+| <Loader />          |
+| <Loader />          |
+| <Change ... Pin} /> |
+| <Forgot ... Pin} /> |
+| <Loader />          |
+| <Loader />          |
+| <Loader />          |
+| <Forgot ... Pin} /> |
+| <Change ... Pin} /> |

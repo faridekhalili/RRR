@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Navbar ... ode} /> |
+| <ProfileShow/>      |
+| <Navbar ... ode} /> |
+| <EventC ... vent}/> |
+| <Navbar ... one" /> |
+| <Navbar ... one" /> |
+| <ReviewsShow />     |
+| <Navbar ... one" /> |

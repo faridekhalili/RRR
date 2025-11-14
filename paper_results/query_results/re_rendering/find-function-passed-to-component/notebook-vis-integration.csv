@@ -1,0 +1,5 @@
+"col0"
+"src/widgets/intent/Intent.tsx:<63,25>--<63,43>~~~use_callback"
+"src/widgets/interactive_table/DatatableComponent.tsx:<297,26>--<297,45>~~~use_callback"
+"src/widgets/sidebar/Sidebar.tsx:<92,35>--<97,13>~~~use_callback"
+"src/widgets/sidebar/Sidebar.tsx:<98,21>--<102,13>~~~use_callback"

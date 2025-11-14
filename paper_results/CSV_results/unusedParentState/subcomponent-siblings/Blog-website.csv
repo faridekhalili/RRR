@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Header ... ted} /> |
+| <About />           |
+| <Contact />         |
+| <Home />            |
+| <Privat ... ted} /> |
+| <PostCreate />      |
+| <PostDetailView />  |
+| <PostUpdate />      |

@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <Naviga ... ted} /> |
+| <Login />           |
+| <Privat ... eRoute> |
+| <RecipeForm />      |
+| <Privat ... eRoute> |
+| <RecipeList />      |
+| <Privat ... eRoute> |
+| <RecipeCard />      |
+| <Privat ... eRoute> |
+| <FavsList />        |

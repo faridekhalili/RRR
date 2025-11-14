@@ -1,0 +1,6 @@
+"col0"
+"src/components/input/styles.ts:<3,19>--<6,1>~~~memoize"
+"src/components/item/styles.ts:<30,22>--<38,1>~~~memoize"
+"src/components/list-items/styles.ts:<3,19>--<12,1>~~~memoize"
+"src/components/toggle-theme/styles.ts:<9,14>--<11,1>~~~memoize"
+"src/styles/global.ts:<21,26>--<26,1>~~~memoize"

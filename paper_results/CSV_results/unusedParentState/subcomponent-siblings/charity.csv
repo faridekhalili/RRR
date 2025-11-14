@@ -1,0 +1,10 @@
+|     sibling     |
++-----------------+
+| <Header />      |
+| <Intro />       |
+| <History />     |
+| <Team />        |
+| <BankDetails /> |
+| <Events />      |
+| <Reports />     |
+| <News />        |

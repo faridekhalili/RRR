@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Custom ... tton /> |
+| <Spinner />         |
+| <Wallet ... tton /> |
+| <Spinner />         |
+| <Spinner />         |
+| <Wallet ... tton /> |

@@ -1,0 +1,6 @@
+"col0"
+"exhauster-web-app/src/components/Legend.tsx:<25,32>--<25,57>~~~set_state_to_assignment_current???{varName:msPasses}"
+"exhauster-web-app/src/pages/MainScreen/ExhausterCard/DropDownList/DropDownList.tsx:<28,24>--<30,8>~~~set_state_to_assignment_current???{varName:hoveredItem}"
+"exhauster-web-app/src/pages/MainScreen/ExhausterCard/DropDownList/DropDownList.tsx:<39,22>--<39,41>~~~set_state_to_assignment_current???{varName:hoveredItem}"
+"exhauster-web-app/src/pages/MainScreen/ExhausterCard/DropDownList/DropDownList.tsx:<40,12>--<40,36>~~~set_state_to_assignment_current???{varName:hoveredItem}"
+"exhauster-web-app/src/pages/MainScreen/ExhausterCard/DropDownList/DropDownList.tsx:<45,25>--<45,49>~~~set_state_to_assignment_current???{varName:hoveredItem}"

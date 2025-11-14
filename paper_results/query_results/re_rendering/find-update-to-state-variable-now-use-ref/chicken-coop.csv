@@ -1,0 +1,3 @@
+"col0"
+"src/Pages/AvailableClasses/AvailableClasses.js:<27,9>--<27,42>~~~set_state_to_assignment_current_value???{varName:selectedDay}"
+"src/Pages/AvailableClasses/AvailableClasses.js:<30,9>--<30,43>~~~set_state_to_assignment_current_value???{varName:selectedTime}"

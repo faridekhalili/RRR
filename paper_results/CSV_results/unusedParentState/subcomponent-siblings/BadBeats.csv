@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Header ... ser} /> |
+| <Home exact />      |
+| <Basketball />      |
+| <Football />        |
+| <Hockey />          |
+| <Soccer />          |
+| <Baseball />        |
+| <Signup ... ser} /> |

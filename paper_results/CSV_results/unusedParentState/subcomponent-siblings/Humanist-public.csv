@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <HeroBa ... bar} /> |
+| <Donate ...      /> |
+| <Team />            |
+| <Contact />         |
+| <Footer />          |
+| <Navbar />          |
+| <Footer />          |
+| <Donate ...      /> |
+| <Navbar />          |
+| <Footer />          |
+| <Footer />          |

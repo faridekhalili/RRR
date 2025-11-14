@@ -1,0 +1,7 @@
+"col0"
+"components/FlipoModal.js:<6,20>--<79,1>~~~memoize"
+"components/decks/EditCardModal.js:<7,23>--<50,1>~~~memoize"
+"components/pressable/FlipoButton.js:<7,21>--<17,1>~~~memoize"
+"components/pressable/RateButton.js:<6,20>--<23,1>~~~memoize"
+"components/pressable/TextButton.js:<6,20>--<14,1>~~~memoize"
+"components/walkthrough/WalkthroughModal.js:<9,26>--<170,1>~~~memoize"

@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Navbar />          |
+| <OrderC ...      /> |
+| <Navbar />          |
+| <Navbar />          |
+| <Produc ...      /> |

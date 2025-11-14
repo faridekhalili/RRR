@@ -1,0 +1,7 @@
+"col0"
+"App.js:<14,22>--<36,3>~~~component_no_props"
+"App.js:<56,13>--<67,1>~~~component_no_props"
+"modules/app-menu/index.js:<6,1>--<15,1>~~~component_no_props"
+"modules/yourapp.js:<4,17>--<8,1>~~~component_no_props"
+"screens/event-details/index.js:<4,22>--<64,1>~~~component_no_props"
+"screens/event-home/index.js:<4,19>--<81,1>~~~component_no_props"

@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <Header ... Header> |
+| <Home></Home>       |
+| <Login></Login>     |
+| <Regist ... gister> |
+| <Shoppi ... opping> |
+| <TaskLi ... skList> |
+| <Footer></Footer>   |

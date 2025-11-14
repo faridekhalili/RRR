@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <BlogCa ... sNav /> |
+| <PostsL ... age} /> |
+| <AddIcon />         |
+| <AddIcon />         |
+| <AddIcon />         |
+| <Second ... tep} /> |
+| <Loader />          |
+| <NewsIt ... url} /> |
+| <RegStepOne />      |
+| <RegStepTwo />      |

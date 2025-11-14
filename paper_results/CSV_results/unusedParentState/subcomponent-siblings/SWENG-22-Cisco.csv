@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <Home />            |
+| <WordTranslations/> |
+| <Phrase ... rase}/> |
+| <GetPhrases/>       |

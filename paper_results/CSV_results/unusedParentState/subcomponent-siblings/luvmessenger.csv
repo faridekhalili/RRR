@@ -1,0 +1,17 @@
+|       sibling        |
++----------------------+
+| <UpdateUserAvatar /> |
+| <Notification />     |
+| <FriendsList />      |
+| <HistoryChat />      |
+| <BodyChat />         |
+| <Valida ... idator>  |
+| <Valida ... idator>  |
+| <Messag ...      />  |
+| <UserSe ... dex} />  |
+| <Update ...      />  |
+| <Update ...      />  |
+| <Theme />            |
+| <Privacy />          |
+| <Notification />     |
+| <Message />          |

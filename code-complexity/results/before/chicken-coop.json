@@ -1,0 +1,317 @@
+{
+  "project": {
+    "numFiles": 12,
+    "sloc": {
+      "physical": 487,
+      "logical": 695
+    },
+    "cyclomatic": {
+      "value": 172,
+      "density": 24.74820143884892
+    },
+    "halstead": {
+      "distinctOperators": 201,
+      "totalOperators": 2222,
+      "distinctOperands": 789,
+      "totalOperands": 2772,
+      "vocabulary": 990,
+      "length": 4994,
+      "estimatedLength": 9527.642675113324,
+      "volume": 49696.715866545055,
+      "difficulty": 353.0874524714829,
+      "effort": 17547286.801517516,
+      "time": 974849.2667509732,
+      "bugs": 16.56557195551502
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/index.js": {
+      "sloc": {
+        "physical": 19,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 54,
+        "distinctOperands": 33,
+        "totalOperands": 66,
+        "vocabulary": 43,
+        "length": 120,
+        "estimatedLength": 216.90894713241352,
+        "volume": 651.1517705642517,
+        "difficulty": 10,
+        "effort": 6511.517705642517,
+        "time": 361.7509836468065,
+        "bugs": 0.2170505901880839
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/reportWebVitals.js": {
+      "sloc": {
+        "physical": 27,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 27.659574468085108
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 140,
+        "distinctOperands": 53,
+        "totalOperands": 163,
+        "vocabulary": 75,
+        "length": 303,
+        "estimatedLength": 429.59403409224,
+        "volume": 1887.3320632202517,
+        "difficulty": 33.83018867924528,
+        "effort": 63848.7997991304,
+        "time": 3547.1555443961333,
+        "bugs": 0.6291106877400839
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/setupTests.js": {
+      "sloc": {
+        "physical": 3,
+        "logical": 2
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 50
+      },
+      "halstead": {
+        "distinctOperators": 1,
+        "totalOperators": 1,
+        "distinctOperands": 3,
+        "totalOperands": 3,
+        "vocabulary": 4,
+        "length": 4,
+        "estimatedLength": 6.339850002884624,
+        "volume": 8,
+        "difficulty": 0.5,
+        "effort": 4,
+        "time": 0.2222222222222222,
+        "bugs": 0.0026666666666666666
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/App.js": {
+      "sloc": {
+        "physical": 15,
+        "logical": 13
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 15.384615384615385
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 32,
+        "distinctOperands": 25,
+        "totalOperands": 42,
+        "vocabulary": 36,
+        "length": 74,
+        "estimatedLength": 167.17882283189007,
+        "volume": 382.5744501067311,
+        "difficulty": 9.24,
+        "effort": 3534.9879189861954,
+        "time": 196.3882177214553,
+        "bugs": 0.1275248167022437
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/App.test.js": {
+      "sloc": {
+        "physical": 10,
+        "logical": 10
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 29,
+        "distinctOperands": 24,
+        "totalOperands": 36,
+        "vocabulary": 34,
+        "length": 65,
+        "estimatedLength": 155.88872502451932,
+        "volume": 330.6850846812721,
+        "difficulty": 7.5,
+        "effort": 2480.1381351095406,
+        "time": 137.78545195053005,
+        "bugs": 0.11022836156042402
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/data/daysAndTimeSlots.js": {
+      "sloc": {
+        "physical": 75,
+        "logical": 56
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 3.571428571428571
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 190,
+        "distinctOperands": 62,
+        "totalOperands": 219,
+        "vocabulary": 76,
+        "length": 409,
+        "estimatedLength": 452.51891958940257,
+        "volume": 2555.4023529984265,
+        "difficulty": 24.725806451612904,
+        "effort": 63184.38398623529,
+        "time": 3510.2435547908494,
+        "bugs": 0.8518007843328088
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/Pages/AvailableClasses/AvailableClasses.js": {
+      "sloc": {
+        "physical": 129,
+        "logical": 267
+      },
+      "cyclomatic": {
+        "value": 76,
+        "density": 28.46441947565543
+      },
+      "halstead": {
+        "distinctOperators": 36,
+        "totalOperators": 849,
+        "distinctOperands": 211,
+        "totalOperands": 1102,
+        "vocabulary": 247,
+        "length": 1951,
+        "estimatedLength": 1907.1114996106749,
+        "volume": 15507.264468821706,
+        "difficulty": 94.0094786729858,
+        "effort": 1457829.8483580446,
+        "time": 80990.54713100247,
+        "bugs": 5.169088156273902
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/Pages/Home/Home.js": {
+      "sloc": {
+        "physical": 74,
+        "logical": 113
+      },
+      "cyclomatic": {
+        "value": 31,
+        "density": 27.43362831858407
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 411,
+        "distinctOperands": 145,
+        "totalOperands": 511,
+        "vocabulary": 174,
+        "length": 922,
+        "estimatedLength": 1249.3041816625985,
+        "volume": 6862.393903172528,
+        "difficulty": 51.1,
+        "effort": 350668.32845211617,
+        "time": 19481.573802895342,
+        "bugs": 2.2874646343908425
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/Components/Buttons/InstallPWAButton.js": {
+      "sloc": {
+        "physical": 57,
+        "logical": 105
+      },
+      "cyclomatic": {
+        "value": 32,
+        "density": 30.476190476190478
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 308,
+        "distinctOperands": 110,
+        "totalOperands": 358,
+        "vocabulary": 139,
+        "length": 666,
+        "estimatedLength": 942.6090001799278,
+        "volume": 4741.214754433856,
+        "difficulty": 47.19090909090909,
+        "effort": 223742.23445696494,
+        "time": 12430.124136498052,
+        "bugs": 1.5804049181446187
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/Components/Buttons/PrimaryButton.js": {
+      "sloc": {
+        "physical": 15,
+        "logical": 22
+      },
+      "cyclomatic": {
+        "value": 6,
+        "density": 27.27272727272727
+      },
+      "halstead": {
+        "distinctOperators": 18,
+        "totalOperators": 73,
+        "distinctOperands": 37,
+        "totalOperands": 84,
+        "vocabulary": 55,
+        "length": 157,
+        "estimatedLength": 286.51993510959227,
+        "volume": 907.6734750233716,
+        "difficulty": 20.43243243243243,
+        "effort": 18545.976949126187,
+        "time": 1030.3320527292326,
+        "bugs": 0.30255782500779055
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/Components/Buttons/ToogleTheme.js": {
+      "sloc": {
+        "physical": 25,
+        "logical": 18
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 16.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 46,
+        "distinctOperands": 34,
+        "totalOperands": 61,
+        "vocabulary": 44,
+        "length": 107,
+        "estimatedLength": 223.84836501501496,
+        "volume": 584.1591831941909,
+        "difficulty": 8.970588235294118,
+        "effort": 5240.25149630083,
+        "time": 291.12508312782387,
+        "bugs": 0.19471972773139695
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/chicken-coop/src/Components/Shared/Footer/Footer.js": {
+      "sloc": {
+        "physical": 38,
+        "logical": 27
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 7.4074074074074066
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 89,
+        "distinctOperands": 52,
+        "totalOperands": 127,
+        "vocabulary": 63,
+        "length": 216,
+        "estimatedLength": 359.12770224288886,
+        "volume": 1291.092463475982,
+        "difficulty": 13.432692307692308,
+        "effort": 17342.847802653334,
+        "time": 963.4915445918518,
+        "bugs": 0.430364154491994
+      }
+    }
+  }
+}

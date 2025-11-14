@@ -1,0 +1,16 @@
+|       sibling        |
++----------------------+
+| <NavBar />           |
+| <Loader />           |
+| <GetRat ... ate} />  |
+| <SideBar />          |
+| <NavBar />           |
+| <Bot />              |
+| <Card\n  ...      /> |
+| <Card\n  ...      /> |
+| <Carous ... ados />  |
+| <Carous ... pen} />  |
+| <Carous ... aid} />  |
+| <NavBar />           |
+| <UserBo ...      />  |
+| <Pagina ...      />  |

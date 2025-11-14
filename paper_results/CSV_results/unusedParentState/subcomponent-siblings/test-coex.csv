@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <Title> ... /Title> |
+| <Button ... onLink> |
+| <TableClientes />   |
+| <Loading />         |

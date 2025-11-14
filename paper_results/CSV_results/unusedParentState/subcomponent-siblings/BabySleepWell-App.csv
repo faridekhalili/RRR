@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <TopBar />          |
+| <Header />          |
+| <Timer  ... eme} /> |
+| <ModalHeader />     |
+| <Tip />             |
+| <RecordIcon />      |
+| <Options />         |

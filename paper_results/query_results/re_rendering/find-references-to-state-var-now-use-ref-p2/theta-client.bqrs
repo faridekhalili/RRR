@@ -1,0 +1,139 @@
+÷pNdemos/demo-react-native/src/ListPhotos.tsx:<49,17>--<49,21>~~~add_dot_currentLdemos/demo-react-native/src/TakePhoto.tsx:<44,9>--<44,16>~~~add_dot_currentLdemos/demo-react-native/src/TakePhoto.tsx:<78,9>--<78,16>~~~add_dot_currentMdemos/demo-react-native/src/TakePhoto.tsx:<78,21>--<78,27>~~~add_dot_currentMdemos/demo-react-native/src/TakePhoto.tsx:<79,20>--<79,26>~~~add_dot_currentLdemos/demo-react-native/src/TakePhoto.tsx:<82,7>--<82,13>~~~add_dot_currentMdemos/demo-react-native/src/TakePhoto.tsx:<82,16>--<82,23>~~~add_dot_currentureact-native/verification-tool/src/components/list-files-view/list-files-view.tsx:<79,24>--<79,31>~~~add_dot_currentureact-native/verification-tool/src/components/list-files-view/list-files-view.tsx:<83,21>--<83,28>~~~add_dot_currentureact-native/verification-tool/src/components/list-files-view/list-files-view.tsx:<85,17>--<85,24>~~~add_dot_currentureact-native/verification-tool/src/components/list-files-view/list-files-view.tsx:<97,23>--<97,30>~~~add_dot_currentvreact-native/verification-tool/src/components/list-files-view/list-files-view.tsx:<122,5>--<122,14>~~~add_dot_currenttreact-native/verification-tool/src/components/options/gps-info/gps-info-edit.tsx:<58,25>--<58,34>~~~add_dot_current|react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<110,9>--<110,15>~~~add_dot_current}react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<118,26>--<118,32>~~~add_dot_current|react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<153,9>--<153,15>~~~add_dot_current|react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<158,7>--<158,13>~~~add_dot_current|react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<197,9>--<197,15>~~~add_dot_current|react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<202,7>--<202,13>~~~add_dot_current}react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<205,30>--<205,37>~~~add_dot_current}react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<205,55>--<205,69>~~~add_dot_current|react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<206,7>--<206,21>~~~add_dot_current}react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<206,24>--<206,31>~~~add_dot_currentîreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<91,9>--<91,15>~~~add_dot_currentïreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<99,26>--<99,32>~~~add_dot_currentñreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<128,9>--<128,15>~~~add_dot_currentñreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<133,7>--<133,13>~~~add_dot_currentñreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<156,9>--<156,15>~~~add_dot_currentñreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<161,7>--<161,13>~~~add_dot_currentóreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<164,30>--<164,37>~~~add_dot_currentóreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<164,55>--<164,69>~~~add_dot_currentñreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<165,7>--<165,21>~~~add_dot_currentóreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<165,24>--<165,31>~~~add_dot_currentÑreact-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<92,9>--<92,15>~~~add_dot_currentáreact-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<101,28>--<101,34>~~~add_dot_currentáreact-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<104,26>--<104,32>~~~add_dot_currentÜreact-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<150,9>--<150,15>~~~add_dot_currentÜreact-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<155,7>--<155,13>~~~add_dot_currentáreact-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<158,30>--<158,37>~~~add_dot_currentáreact-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<158,55>--<158,69>~~~add_dot_currentÜreact-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<159,7>--<159,21>~~~add_dot_currentáreact-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<159,24>--<159,31>~~~add_dot_currentîreact-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<90,9>--<90,15>~~~add_dot_currentïreact-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<96,26>--<96,32>~~~add_dot_currentñreact-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<123,9>--<123,15>~~~add_dot_currentñreact-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<128,7>--<128,13>~~~add_dot_currentñreact-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<145,9>--<145,15>~~~add_dot_currentñreact-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<150,7>--<150,13>~~~add_dot_currentóreact-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<153,31>--<153,45>~~~add_dot_currentñreact-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<154,7>--<154,21>~~~add_dot_currentxreact-native/verification-tool/src/screen/live-preview-screen/live-preview-screen.tsx:<53,9>--<53,16>~~~add_dot_currentzreact-native/verification-tool/src/screen/live-preview-screen/live-preview-screen.tsx:<105,9>--<105,16>~~~add_dot_current{react-native/verification-tool/src/screen/live-preview-screen/live-preview-screen.tsx:<105,21>--<105,27>~~~add_dot_current{react-native/verification-tool/src/screen/live-preview-screen/live-preview-screen.tsx:<106,20>--<106,26>~~~add_dot_currentzreact-native/verification-tool/src/screen/live-preview-screen/live-preview-screen.tsx:<109,7>--<109,13>~~~add_dot_current{react-native/verification-tool/src/screen/live-preview-screen/live-preview-screen.tsx:<109,16>--<109,23>~~~add_dot_currentäreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<77,9>--<77,15>~~~add_dot_currentãreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<85,26>--<85,32>~~~add_dot_currentåreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<120,9>--<120,15>~~~add_dot_currentåreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<125,7>--<125,13>~~~add_dot_currentåreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<174,9>--<174,15>~~~add_dot_currentåreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<179,7>--<179,13>~~~add_dot_currentçreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<182,30>--<182,37>~~~add_dot_currentçreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<182,55>--<182,69>~~~add_dot_currentåreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<183,7>--<183,21>~~~add_dot_currentçreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<183,24>--<183,31>~~~add_dot_current™react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<96,9>--<96,15>~~~add_dot_current≠react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<104,26>--<104,32>~~~add_dot_current¨react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<133,9>--<133,15>~~~add_dot_current¨react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<138,7>--<138,13>~~~add_dot_current¨react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<161,9>--<161,15>~~~add_dot_current¨react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<166,7>--<166,13>~~~add_dot_current≠react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<169,30>--<169,37>~~~add_dot_current≠react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<169,55>--<169,69>~~~add_dot_current¨react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<170,7>--<170,21>~~~add_dot_current≠react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<170,24>--<170,31>~~~add_dot_currentÑreact-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<91,9>--<91,15>~~~add_dot_currentÖreact-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<99,25>--<99,31>~~~add_dot_currentÜreact-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<126,9>--<126,15>~~~add_dot_currentÜreact-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<131,7>--<131,13>~~~add_dot_currentÜreact-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<156,9>--<156,15>~~~add_dot_currentÜreact-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<161,7>--<161,13>~~~add_dot_currentáreact-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<164,30>--<164,37>~~~add_dot_currentáreact-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<164,55>--<164,69>~~~add_dot_currentÜreact-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<165,7>--<165,21>~~~add_dot_currentáreact-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<165,24>--<165,31>~~~add_dot_currentíreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<93,9>--<93,15>~~~add_dot_currentïreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<101,25>--<101,31>~~~add_dot_currentîreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<128,9>--<128,15>~~~add_dot_currentîreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<133,7>--<133,13>~~~add_dot_currentîreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<142,9>--<142,15>~~~add_dot_currentîreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<147,7>--<147,13>~~~add_dot_currentîreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<172,9>--<172,15>~~~add_dot_currentîreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<177,7>--<177,13>~~~add_dot_currentïreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<180,30>--<180,37>~~~add_dot_currentïreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<180,55>--<180,69>~~~add_dot_currentîreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<181,7>--<181,21>~~~add_dot_currentïreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<181,24>--<181,31>~~~add_dot_currentzreact-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<88,9>--<88,15>~~~add_dot_current{react-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<95,25>--<95,31>~~~add_dot_current|react-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<119,9>--<119,15>~~~add_dot_current|react-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<124,7>--<124,13>~~~add_dot_current|react-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<149,9>--<149,15>~~~add_dot_current|react-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<154,7>--<154,13>~~~add_dot_current}react-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<157,31>--<157,45>~~~add_dot_current|react-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<158,7>--<158,21>~~~add_dot_currentﬂ#selectj s NöÊ≥ÄÃôéÉ¯Ì„◊	”
+–Ã»ƒ¿Ω∫∂≥»ﬁıå£∫“ÍÅôû ¶!Æ"µ#º$ƒ%Ã&”'€()Ü+ù,¥-À.‚/˙0ë2â3É4˛4˘5Û6Ó7˘8Ö:í;ü<¨=π>«?’@‚ABõD…EˆF£H–I˝J´LŸMÜO¥PπQøR∆SÕT‘U€V„WÎXÚY˙Zç\£]∏^Õ_‚`˜aåc°d∑eÕf‚g¯hÚiÌjÈkÂl·m›n⁄o¯ ---
+run:
+  queries:
+   -
+    pack: react-rerendering-detection#1
+    relativeQueryPath: re_rendering/find-references-to-state-var-now-use-ref-p2.ql
+    relativeBqrsPath: react-rerendering-detection/re_rendering/find-references-to-state-var-now-use-ref-p2.bqrs
+    metadata: {}
+    queryHelp: null
+  extensionPacks: []
+  packs:
+    codeql/javascript-all#0:
+      name: codeql/javascript-all
+      version: 0.7.1
+      localPath: /Users/faridehkhalili/Documents/Packages/codeql/qlpacks/codeql/javascript-all/0.7.1
+      runDataExtensions: []
+    react-rerendering-detection#1:
+      name: react-rerendering-detection
+      version: 0.0.0
+      localPath: /Users/faridehkhalili/Documents/research/PaperArtifacts/Reactor/codeql-development/query_running/queries
+      runDataExtensions:
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/data/internal/model.yml
+        index: 0
+        firstRowId: 0
+        rowCount: 0
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 0
+        firstRowId: 75
+        rowCount: 26
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 1
+        firstRowId: 101
+        rowCount: 611
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 2
+        firstRowId: 712
+        rowCount: 32
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 3
+        firstRowId: 744
+        rowCount: 102
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mssql/model.yml
+        index: 0
+        firstRowId: 846
+        rowCount: 34
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mysql/model.yml
+        index: 0
+        firstRowId: 880
+        rowCount: 57
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mysql/model.yml
+        index: 1
+        firstRowId: 937
+        rowCount: 3
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 0
+        firstRowId: 940
+        rowCount: 65
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 1
+        firstRowId: 1005
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 2
+        firstRowId: 1010
+        rowCount: 23
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 0
+        firstRowId: 1033
+        rowCount: 7
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 1
+        firstRowId: 1040
+        rowCount: 248
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 2
+        firstRowId: 1288
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 3
+        firstRowId: 1293
+        rowCount: 2
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/spanner/model.yml
+        index: 0
+        firstRowId: 1295
+        rowCount: 174
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/spanner/model.yml
+        index: 1
+        firstRowId: 1469
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sqlite3/model.yml
+        index: 0
+        firstRowId: 1474
+        rowCount: 15
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sqlite3/model.yml
+        index: 1
+        firstRowId: 1489
+        rowCount: 3
+runFileName: null
+relativeBqrsPath: null
+metadata: {}

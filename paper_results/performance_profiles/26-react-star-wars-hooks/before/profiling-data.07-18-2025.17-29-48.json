@@ -1,0 +1,2150 @@
+{
+  "version": 5,
+  "dataForRoots": [
+    {
+      "commitData": [
+        {
+          "changeDescriptions": [
+            [
+              2,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              3,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              4,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              5,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              6,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              7,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              8,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              9,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              10,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              11,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              12,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              13,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              14,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              15,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              16,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              17,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              18,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              19,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              20,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              21,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              22,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              23,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ]
+          ],
+          "duration": 6.1,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              1,
+              6.1
+            ],
+            [
+              2,
+              5.3
+            ],
+            [
+              3,
+              1.7
+            ],
+            [
+              4,
+              1.6
+            ],
+            [
+              5,
+              1.1
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0.1
+            ],
+            [
+              8,
+              0
+            ],
+            [
+              9,
+              2.6
+            ],
+            [
+              10,
+              2.5
+            ],
+            [
+              11,
+              0.4
+            ],
+            [
+              12,
+              1.7
+            ],
+            [
+              13,
+              0.3
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.1
+            ],
+            [
+              16,
+              0.1
+            ],
+            [
+              17,
+              0.2
+            ],
+            [
+              18,
+              0.1
+            ],
+            [
+              19,
+              0.3
+            ],
+            [
+              20,
+              0.1
+            ],
+            [
+              21,
+              0.2
+            ],
+            [
+              22,
+              0.3
+            ],
+            [
+              23,
+              0.1
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              1,
+              0.8
+            ],
+            [
+              2,
+              0.5
+            ],
+            [
+              3,
+              0.1
+            ],
+            [
+              4,
+              0.2
+            ],
+            [
+              5,
+              0.1
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0
+            ],
+            [
+              8,
+              0
+            ],
+            [
+              9,
+              0.1
+            ],
+            [
+              10,
+              0.1
+            ],
+            [
+              11,
+              0.1
+            ],
+            [
+              12,
+              0.2
+            ],
+            [
+              13,
+              0.1
+            ],
+            [
+              14,
+              0
+            ],
+            [
+              15,
+              0
+            ],
+            [
+              16,
+              0
+            ],
+            [
+              17,
+              0.1
+            ],
+            [
+              18,
+              0
+            ],
+            [
+              19,
+              0.1
+            ],
+            [
+              20,
+              0
+            ],
+            [
+              21,
+              0.1
+            ],
+            [
+              22,
+              0.2
+            ],
+            [
+              23,
+              0
+            ]
+          ],
+          "passiveEffectDuration": 0.4,
+          "priorityLevel": "Normal",
+          "timestamp": 47.19999998807907,
+          "updaters": [
+            {
+              "displayName": "createRoot()",
+              "id": 1,
+              "key": null,
+              "type": 11,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              22,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.4,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              22,
+              0.4
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              22,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Normal",
+          "timestamp": 52,
+          "updaters": [
+            {
+              "displayName": "FarGalaxy",
+              "id": 22,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              7,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              8,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              4,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              3,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              24,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              9,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "currentPage"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              23,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              2,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.8,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              5,
+              0.1
+            ],
+            [
+              6,
+              0
+            ],
+            [
+              7,
+              0
+            ],
+            [
+              8,
+              0.1
+            ],
+            [
+              4,
+              0.3
+            ],
+            [
+              3,
+              0.3
+            ],
+            [
+              24,
+              0.1
+            ],
+            [
+              9,
+              0.2
+            ],
+            [
+              23,
+              0.1
+            ],
+            [
+              2,
+              0.8
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              5,
+              0
+            ],
+            [
+              6,
+              0
+            ],
+            [
+              7,
+              0
+            ],
+            [
+              8,
+              0.1
+            ],
+            [
+              4,
+              0
+            ],
+            [
+              3,
+              0
+            ],
+            [
+              24,
+              0.1
+            ],
+            [
+              9,
+              0.1
+            ],
+            [
+              23,
+              0
+            ],
+            [
+              2,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0.2,
+          "priorityLevel": "Immediate",
+          "timestamp": 2308.800000011921,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 2,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              24,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.7,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              24,
+              0.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              24,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Normal",
+          "timestamp": 2326.399999976158,
+          "updaters": [
+            {
+              "displayName": "AboutMe",
+              "id": 24,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        }
+      ],
+      "displayName": "App",
+      "initialTreeBaseDurations": [],
+      "operations": [
+        [
+          1,
+          1,
+          124,
+          3,
+          65,
+          112,
+          112,
+          6,
+          72,
+          101,
+          97,
+          100,
+          101,
+          114,
+          10,
+          78,
+          97,
+          118,
+          105,
+          103,
+          97,
+          116,
+          105,
+          111,
+          110,
+          7,
+          78,
+          97,
+          118,
+          73,
+          116,
+          101,
+          109,
+          4,
+          72,
+          111,
+          109,
+          101,
+          8,
+          65,
+          98,
+          111,
+          117,
+          116,
+          32,
+          109,
+          101,
+          9,
+          83,
+          116,
+          97,
+          114,
+          32,
+          87,
+          97,
+          114,
+          115,
+          7,
+          67,
+          111,
+          110,
+          116,
+          97,
+          99,
+          116,
+          4,
+          77,
+          97,
+          105,
+          110,
+          4,
+          72,
+          101,
+          114,
+          111,
+          9,
+          68,
+          114,
+          101,
+          97,
+          109,
+          84,
+          101,
+          97,
+          109,
+          6,
+          70,
+          114,
+          105,
+          101,
+          110,
+          100,
+          1,
+          48,
+          1,
+          49,
+          1,
+          50,
+          1,
+          51,
+          1,
+          52,
+          1,
+          53,
+          1,
+          54,
+          1,
+          55,
+          1,
+          56,
+          9,
+          70,
+          97,
+          114,
+          71,
+          97,
+          108,
+          97,
+          120,
+          121,
+          6,
+          70,
+          111,
+          111,
+          116,
+          101,
+          114,
+          1,
+          1,
+          11,
+          0,
+          3,
+          1,
+          1,
+          4,
+          1,
+          3200,
+          1,
+          2,
+          5,
+          1,
+          0,
+          1,
+          0,
+          4,
+          2,
+          2400,
+          1,
+          3,
+          5,
+          2,
+          2,
+          2,
+          0,
+          4,
+          3,
+          500,
+          1,
+          4,
+          5,
+          3,
+          3,
+          3,
+          0,
+          4,
+          4,
+          400,
+          1,
+          5,
+          5,
+          4,
+          4,
+          4,
+          5,
+          4,
+          5,
+          100,
+          1,
+          6,
+          5,
+          4,
+          4,
+          4,
+          6,
+          4,
+          6,
+          100,
+          1,
+          7,
+          5,
+          4,
+          4,
+          4,
+          7,
+          4,
+          7,
+          0,
+          1,
+          8,
+          5,
+          4,
+          4,
+          4,
+          8,
+          4,
+          8,
+          0,
+          1,
+          9,
+          5,
+          2,
+          2,
+          9,
+          0,
+          4,
+          9,
+          1100,
+          1,
+          10,
+          5,
+          9,
+          9,
+          5,
+          0,
+          4,
+          10,
+          1000,
+          1,
+          11,
+          5,
+          10,
+          10,
+          10,
+          0,
+          4,
+          11,
+          100,
+          1,
+          12,
+          5,
+          10,
+          10,
+          11,
+          0,
+          4,
+          12,
+          600,
+          1,
+          13,
+          5,
+          12,
+          12,
+          12,
+          13,
+          4,
+          13,
+          99,
+          1,
+          14,
+          5,
+          12,
+          12,
+          12,
+          14,
+          4,
+          14,
+          0,
+          1,
+          15,
+          5,
+          12,
+          12,
+          12,
+          15,
+          4,
+          15,
+          0,
+          1,
+          16,
+          5,
+          12,
+          12,
+          12,
+          16,
+          4,
+          16,
+          0,
+          1,
+          17,
+          5,
+          12,
+          12,
+          12,
+          17,
+          4,
+          17,
+          100,
+          1,
+          18,
+          5,
+          12,
+          12,
+          12,
+          18,
+          4,
+          18,
+          0,
+          1,
+          19,
+          5,
+          12,
+          12,
+          12,
+          19,
+          4,
+          19,
+          100,
+          1,
+          20,
+          5,
+          12,
+          12,
+          12,
+          20,
+          4,
+          20,
+          0,
+          1,
+          21,
+          5,
+          12,
+          12,
+          12,
+          21,
+          4,
+          21,
+          100,
+          1,
+          22,
+          5,
+          10,
+          10,
+          22,
+          0,
+          4,
+          22,
+          199,
+          1,
+          23,
+          5,
+          2,
+          2,
+          23,
+          0,
+          4,
+          23,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          22,
+          300,
+          4,
+          10,
+          1100,
+          4,
+          9,
+          1200,
+          4,
+          2,
+          2500,
+          4,
+          1,
+          3300
+        ],
+        [
+          1,
+          1,
+          8,
+          7,
+          65,
+          98,
+          111,
+          117,
+          116,
+          77,
+          101,
+          2,
+          13,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          12,
+          22,
+          10,
+          4,
+          5,
+          0,
+          4,
+          6,
+          0,
+          4,
+          8,
+          99,
+          4,
+          4,
+          199,
+          4,
+          3,
+          199,
+          1,
+          24,
+          5,
+          9,
+          9,
+          1,
+          0,
+          4,
+          24,
+          99,
+          4,
+          9,
+          199,
+          4,
+          2,
+          599,
+          4,
+          1,
+          1399
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          24,
+          400,
+          4,
+          9,
+          500,
+          4,
+          2,
+          900,
+          4,
+          1,
+          1700
+        ]
+      ],
+      "rootID": 1,
+      "snapshots": []
+    }
+  ],
+  "timelineData": [
+    {
+      "batchUIDToMeasuresKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 29.099999964237213,
+              "duration": 9.100000023841858
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 29.099999964237213,
+              "duration": 6.200000047683716
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 35.69999998807907,
+              "duration": 2.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 36.5,
+              "duration": 0.5
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 40.30000001192093,
+              "duration": 0.5
+            }
+          ]
+        ],
+        [
+          2,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 40.89999997615814,
+              "duration": 1.600000023841858
+            },
+            {
+              "type": "render",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 40.89999997615814,
+              "duration": 0.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 41.59999996423721,
+              "duration": 0.9000000357627869
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 42,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          3,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2297.399999976158,
+              "duration": 1.9000000357627869
+            },
+            {
+              "type": "render",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2297.399999976158,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "commit",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2298.199999988079,
+              "duration": 1.100000023841858
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 3,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2298.599999964237,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 3,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2299,
+              "duration": 0.30000001192092896
+            }
+          ]
+        ],
+        [
+          4,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 2315,
+              "duration": 1.399999976158142
+            },
+            {
+              "type": "render",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 2315,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "commit",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 2315.899999976158,
+              "duration": 0.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 4,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 2316.099999964237,
+              "duration": 0
+            }
+          ]
+        ]
+      ],
+      "componentMeasures": [
+        {
+          "componentName": "App",
+          "duration": 0.30000001192092896,
+          "timestamp": 30.19999998807907,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Header",
+          "duration": 0.09999996423721313,
+          "timestamp": 30.80000001192093,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Navigation",
+          "duration": 0.10000002384185791,
+          "timestamp": 30.899999976158142,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "NavItem",
+          "duration": 0.10000002384185791,
+          "timestamp": 31.099999964237213,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "NavItem",
+          "duration": 0,
+          "timestamp": 32.19999998807907,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "NavItem",
+          "duration": 0,
+          "timestamp": 32.30000001192093,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "NavItem",
+          "duration": 0,
+          "timestamp": 32.39999997615814,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Main",
+          "duration": 0,
+          "timestamp": 32.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Home",
+          "duration": 0.10000002384185791,
+          "timestamp": 32.59999996423721,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Hero",
+          "duration": 0,
+          "timestamp": 32.69999998807907,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "DreamTeam",
+          "duration": 0.10000002384185791,
+          "timestamp": 33.09999996423721,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Friend",
+          "duration": 0,
+          "timestamp": 33.30000001192093,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Friend",
+          "duration": 0,
+          "timestamp": 33.59999996423721,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Friend",
+          "duration": 0,
+          "timestamp": 33.69999998807907,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Friend",
+          "duration": 0,
+          "timestamp": 33.80000001192093,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Friend",
+          "duration": 0,
+          "timestamp": 33.89999997615814,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Friend",
+          "duration": 0,
+          "timestamp": 34.09999996423721,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Friend",
+          "duration": 0.10000002384185791,
+          "timestamp": 34.19999998807907,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Friend",
+          "duration": 0,
+          "timestamp": 34.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Friend",
+          "duration": 0.10000002384185791,
+          "timestamp": 34.59999996423721,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "FarGalaxy",
+          "duration": 0.19999998807907104,
+          "timestamp": 34.80000001192093,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Footer",
+          "duration": 0,
+          "timestamp": 35.09999996423721,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "FarGalaxy",
+          "duration": 0.20000004768371582,
+          "timestamp": 40.59999996423721,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "FarGalaxy",
+          "duration": 0.19999998807907104,
+          "timestamp": 41.19999998807907,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "App",
+          "duration": 0.10000002384185791,
+          "timestamp": 2297.399999976158,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Header",
+          "duration": 0,
+          "timestamp": 2297.599999964237,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Navigation",
+          "duration": 0,
+          "timestamp": 2297.599999964237,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "NavItem",
+          "duration": 0,
+          "timestamp": 2297.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "NavItem",
+          "duration": 0,
+          "timestamp": 2297.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "NavItem",
+          "duration": 0,
+          "timestamp": 2297.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "NavItem",
+          "duration": 0.09999996423721313,
+          "timestamp": 2297.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Main",
+          "duration": 0,
+          "timestamp": 2297.899999976158,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "AboutMe",
+          "duration": 0.09999996423721313,
+          "timestamp": 2298,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Footer",
+          "duration": 0,
+          "timestamp": 2298.099999964237,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "AboutMe",
+          "duration": 0.10000002384185791,
+          "timestamp": 2299.099999964237,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "AboutMe",
+          "duration": 0.20000004768371582,
+          "timestamp": 2315.099999964237,
+          "type": "render",
+          "warning": null
+        }
+      ],
+      "duration": 2326.399999976158,
+      "flamechart": [],
+      "internalModuleSourceToRanges": [],
+      "laneToLabelKeyValueArray": [
+        [
+          1,
+          "Sync"
+        ],
+        [
+          2,
+          "InputContinuousHydration"
+        ],
+        [
+          4,
+          "InputContinuous"
+        ],
+        [
+          8,
+          "DefaultHydration"
+        ],
+        [
+          16,
+          "Default"
+        ],
+        [
+          32,
+          "TransitionHydration"
+        ],
+        [
+          64,
+          "Transition"
+        ],
+        [
+          128,
+          "Transition"
+        ],
+        [
+          256,
+          "Transition"
+        ],
+        [
+          512,
+          "Transition"
+        ],
+        [
+          1024,
+          "Transition"
+        ],
+        [
+          2048,
+          "Transition"
+        ],
+        [
+          4096,
+          "Transition"
+        ],
+        [
+          8192,
+          "Transition"
+        ],
+        [
+          16384,
+          "Transition"
+        ],
+        [
+          32768,
+          "Transition"
+        ],
+        [
+          65536,
+          "Transition"
+        ],
+        [
+          131072,
+          "Transition"
+        ],
+        [
+          262144,
+          "Transition"
+        ],
+        [
+          524288,
+          "Transition"
+        ],
+        [
+          1048576,
+          "Transition"
+        ],
+        [
+          2097152,
+          "Transition"
+        ],
+        [
+          4194304,
+          "Retry"
+        ],
+        [
+          8388608,
+          "Retry"
+        ],
+        [
+          16777216,
+          "Retry"
+        ],
+        [
+          33554432,
+          "Retry"
+        ],
+        [
+          67108864,
+          "Retry"
+        ],
+        [
+          134217728,
+          "SelectiveHydration"
+        ],
+        [
+          268435456,
+          "IdleHydration"
+        ],
+        [
+          536870912,
+          "Idle"
+        ],
+        [
+          1073741824,
+          "Offscreen"
+        ]
+      ],
+      "laneToReactMeasureKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2297.399999976158,
+              "duration": 1.9000000357627869
+            },
+            {
+              "type": "render",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2297.399999976158,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "commit",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2298.199999988079,
+              "duration": 1.100000023841858
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 3,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2298.599999964237,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 3,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2299,
+              "duration": 0.30000001192092896
+            }
+          ]
+        ],
+        [
+          2,
+          []
+        ],
+        [
+          4,
+          []
+        ],
+        [
+          8,
+          []
+        ],
+        [
+          16,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 29.099999964237213,
+              "duration": 9.100000023841858
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 29.099999964237213,
+              "duration": 6.200000047683716
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 35.69999998807907,
+              "duration": 2.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 36.5,
+              "duration": 0.5
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 40.30000001192093,
+              "duration": 0.5
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 40.89999997615814,
+              "duration": 1.600000023841858
+            },
+            {
+              "type": "render",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 40.89999997615814,
+              "duration": 0.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 41.59999996423721,
+              "duration": 0.9000000357627869
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 42,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 2315,
+              "duration": 1.399999976158142
+            },
+            {
+              "type": "render",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 2315,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "commit",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 2315.899999976158,
+              "duration": 0.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 4,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 2316.099999964237,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          32,
+          []
+        ],
+        [
+          64,
+          []
+        ],
+        [
+          128,
+          []
+        ],
+        [
+          256,
+          []
+        ],
+        [
+          512,
+          []
+        ],
+        [
+          1024,
+          []
+        ],
+        [
+          2048,
+          []
+        ],
+        [
+          4096,
+          []
+        ],
+        [
+          8192,
+          []
+        ],
+        [
+          16384,
+          []
+        ],
+        [
+          32768,
+          []
+        ],
+        [
+          65536,
+          []
+        ],
+        [
+          131072,
+          []
+        ],
+        [
+          262144,
+          []
+        ],
+        [
+          524288,
+          []
+        ],
+        [
+          1048576,
+          []
+        ],
+        [
+          2097152,
+          []
+        ],
+        [
+          4194304,
+          []
+        ],
+        [
+          8388608,
+          []
+        ],
+        [
+          16777216,
+          []
+        ],
+        [
+          33554432,
+          []
+        ],
+        [
+          67108864,
+          []
+        ],
+        [
+          134217728,
+          []
+        ],
+        [
+          268435456,
+          []
+        ],
+        [
+          536870912,
+          []
+        ],
+        [
+          1073741824,
+          []
+        ]
+      ],
+      "nativeEvents": [],
+      "networkMeasures": [],
+      "otherUserTimingMarks": [],
+      "reactVersion": "18.2.0",
+      "schedulingEvents": [
+        {
+          "lanes": [
+            16
+          ],
+          "timestamp": 10,
+          "type": "schedule-render",
+          "warning": null
+        },
+        {
+          "componentName": "FarGalaxy",
+          "lanes": [
+            16
+          ],
+          "timestamp": 40.69999998807907,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at FarGalaxy (http://localhost:3000/static/js/bundle.js:600:92)\n    at main (<anonymous>)\n    at Home (<anonymous>)\n    at Main (http://localhost:3000/static/js/bundle.js:1117:5)\n    at div (<anonymous>)\n    at App (http://localhost:3000/static/js/bundle.js:37:88)"
+        },
+        {
+          "componentName": "App",
+          "lanes": [
+            1
+          ],
+          "timestamp": 2297.300000011921,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at App (http://localhost:3000/static/js/bundle.js:37:88)"
+        },
+        {
+          "componentName": "AboutMe",
+          "lanes": [
+            16
+          ],
+          "timestamp": 2299.199999988079,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at AboutMe (http://localhost:3000/static/js/bundle.js:129:74)\n    at Main (http://localhost:3000/static/js/bundle.js:1117:5)\n    at div (<anonymous>)\n    at App (http://localhost:3000/static/js/bundle.js:37:88)"
+        }
+      ],
+      "snapshots": [],
+      "snapshotHeight": 0,
+      "startTime": 49,
+      "suspenseEvents": [],
+      "thrownErrors": []
+    }
+  ]
+}

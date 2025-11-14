@@ -1,0 +1,22 @@
+|       sibling       |
++---------------------+
+| <SignIn />          |
+| <SignUp />          |
+| <UserInfo />        |
+| <Main />            |
+| <InsertPosts />     |
+| <UpdatePosts />     |
+| <Manage />          |
+| <Chart />           |
+| <MyFood />          |
+| <NavBar ... {id} /> |
+| <NavBar ... {id} /> |
+| <NavBar ... {id} /> |
+| <Custom ... ets} /> |
+| <Custom ... ets} /> |
+| <Custom ... ets} /> |
+| <NavBar ... {id} /> |
+| <NavBar ... {id} /> |
+| <NavBar ... {id} /> |
+| <NavBar ... {id} /> |
+| <CustomComments />  |

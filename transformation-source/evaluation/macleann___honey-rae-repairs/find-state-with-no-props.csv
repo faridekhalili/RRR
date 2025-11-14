@@ -1,0 +1,5 @@
+"col0"
+"src/components/tickets/CustomerTicketList.js:<8,11>--<8,46>~~~use_state_to_use_ref"
+"src/components/tickets/CustomerTicketList.js:<10,11>--<10,54>~~~use_state_to_use_ref"
+"src/components/tickets/EmployeeTicketList.js:<7,11>--<7,46>~~~use_state_to_use_ref"
+"src/components/tickets/EmployeeTicketList.js:<10,11>--<10,53>~~~use_state_to_use_ref"

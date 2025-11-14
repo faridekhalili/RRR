@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <ContextConsumer /> |
+| <Table  ... ata} /> |
+| <Span t ... # 1" /> |
+| <Span t ... # 1" /> |
+| <Span t ... # 2" /> |

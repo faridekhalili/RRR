@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Compar ...      /> |
+| <UploadDropZone />  |
+| <Loadin ... rge" /> |
+| <Footer />          |

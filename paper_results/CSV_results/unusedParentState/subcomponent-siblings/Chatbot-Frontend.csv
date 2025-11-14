@@ -1,0 +1,23 @@
+|       sibling       |
++---------------------+
+| <Loader/>           |
+| <Navbar/>           |
+| <Login/>            |
+| <ErrorModal/>       |
+| <PublicRoute/>      |
+| <Home />            |
+| <Login />           |
+| <Alerts />          |
+| <PrivateRoute/>     |
+| <Dashboard />       |
+| <NotFound />        |
+| <AlertT ... low" /> |
+| <AlertT ... low" /> |
+| <AlertT ... ion" /> |
+| <AlertT ... s="" /> |
+| <AlertT ... ift" /> |
+| <AlertT ... s="" /> |
+| <AlertT ... aid" /> |
+| <ChannelPointType/> |
+| <PageNotFound/>     |
+| <EditCommand/>      |

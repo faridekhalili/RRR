@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <NavBar/>           |
+| <Course ... del} /> |
+| <Course ... ses} /> |
+| <Home />            |

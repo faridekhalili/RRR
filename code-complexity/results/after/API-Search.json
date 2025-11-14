@@ -1,0 +1,389 @@
+{
+  "project": {
+    "numFiles": 15,
+    "sloc": {
+      "physical": 415,
+      "logical": 706
+    },
+    "cyclomatic": {
+      "value": 207,
+      "density": 29.320113314447593
+    },
+    "halstead": {
+      "distinctOperators": 206,
+      "totalOperators": 2175,
+      "distinctOperands": 755,
+      "totalOperands": 2723,
+      "vocabulary": 961,
+      "length": 4898,
+      "estimatedLength": 9187.479853678156,
+      "volume": 48531.307056549835,
+      "difficulty": 371.482119205298,
+      "effort": 18028512.793170165,
+      "time": 1001584.0440650092,
+      "bugs": 16.17710235218328
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/App.test.tsx": {
+      "sloc": {
+        "physical": 11,
+        "logical": 11
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 18.181818181818183
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 34,
+        "distinctOperands": 25,
+        "totalOperands": 41,
+        "vocabulary": 35,
+        "length": 75,
+        "estimatedLength": 162.53496664211536,
+        "volume": 384.6962262708725,
+        "difficulty": 8.2,
+        "effort": 3154.5090554211542,
+        "time": 175.25050307895302,
+        "bugs": 0.12823207542362416
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/App.tsx": {
+      "sloc": {
+        "physical": 41,
+        "logical": 96
+      },
+      "cyclomatic": {
+        "value": 31,
+        "density": 32.29166666666667
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 298,
+        "distinctOperands": 98,
+        "totalOperands": 352,
+        "vocabulary": 127,
+        "length": 650,
+        "estimatedLength": 840.0681502026316,
+        "volume": 4542.645046401908,
+        "difficulty": 52.08163265306123,
+        "effort": 236588.37057995246,
+        "time": 13143.798365552915,
+        "bugs": 1.5142150154673026
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/index.tsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 12
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 16.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 44,
+        "distinctOperands": 26,
+        "totalOperands": 53,
+        "vocabulary": 36,
+        "length": 97,
+        "estimatedLength": 169.21582985307933,
+        "volume": 501.4827251399043,
+        "difficulty": 10.192307692307692,
+        "effort": 5111.26623700287,
+        "time": 283.95923538904833,
+        "bugs": 0.1671609083799681
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/react-app-env.d.ts": {
+      "sloc": {
+        "physical": 1,
+        "logical": 1
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 100
+      },
+      "halstead": {
+        "distinctOperators": 0,
+        "totalOperators": 0,
+        "distinctOperands": 1,
+        "totalOperands": 1,
+        "vocabulary": 1,
+        "length": 1,
+        "estimatedLength": 0,
+        "volume": 0,
+        "difficulty": 0,
+        "effort": 0,
+        "time": 0,
+        "bugs": 0
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/reportWebVitals.ts": {
+      "sloc": {
+        "physical": 27,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 27.659574468085108
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 140,
+        "distinctOperands": 53,
+        "totalOperands": 163,
+        "vocabulary": 75,
+        "length": 303,
+        "estimatedLength": 429.59403409224,
+        "volume": 1887.3320632202517,
+        "difficulty": 33.83018867924528,
+        "effort": 63848.7997991304,
+        "time": 3547.1555443961333,
+        "bugs": 0.6291106877400839
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/setupTests.ts": {
+      "sloc": {
+        "physical": 3,
+        "logical": 2
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 50
+      },
+      "halstead": {
+        "distinctOperators": 1,
+        "totalOperators": 1,
+        "distinctOperands": 3,
+        "totalOperands": 3,
+        "vocabulary": 4,
+        "length": 4,
+        "estimatedLength": 6.339850002884624,
+        "volume": 8,
+        "difficulty": 0.5,
+        "effort": 4,
+        "time": 0.2222222222222222,
+        "bugs": 0.0026666666666666666
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/models/GIPHYResponse.ts": {
+      "sloc": {
+        "physical": 5,
+        "logical": 3
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 4,
+        "distinctOperands": 8,
+        "totalOperands": 8,
+        "vocabulary": 12,
+        "length": 12,
+        "estimatedLength": 36,
+        "volume": 43.01955000865388,
+        "difficulty": 2,
+        "effort": 86.03910001730776,
+        "time": 4.779950000961542,
+        "bugs": 0.014339850002884626
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/models/StackOverflowResponse.ts": {
+      "sloc": {
+        "physical": 5,
+        "logical": 3
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 4,
+        "distinctOperands": 8,
+        "totalOperands": 8,
+        "vocabulary": 12,
+        "length": 12,
+        "estimatedLength": 36,
+        "volume": 43.01955000865388,
+        "difficulty": 2,
+        "effort": 86.03910001730776,
+        "time": 4.779950000961542,
+        "bugs": 0.014339850002884626
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/models/WikipediaResponse.ts": {
+      "sloc": {
+        "physical": 5,
+        "logical": 3
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 4,
+        "distinctOperands": 8,
+        "totalOperands": 8,
+        "vocabulary": 12,
+        "length": 12,
+        "estimatedLength": 36,
+        "volume": 43.01955000865388,
+        "difficulty": 2,
+        "effort": 86.03910001730776,
+        "time": 4.779950000961542,
+        "bugs": 0.014339850002884626
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/components/Giphy.tsx": {
+      "sloc": {
+        "physical": 30,
+        "logical": 24
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 12.5
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 77,
+        "distinctOperands": 50,
+        "totalOperands": 101,
+        "vocabulary": 61,
+        "length": 178,
+        "estimatedLength": 344.27522757625815,
+        "volume": 1055.6712460861938,
+        "difficulty": 11.11,
+        "effort": 11728.507544017613,
+        "time": 651.583752445423,
+        "bugs": 0.3518904153620646
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/components/None.tsx": {
+      "sloc": {
+        "physical": 22,
+        "logical": 45
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 28.888888888888886
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 145,
+        "distinctOperands": 58,
+        "totalOperands": 171,
+        "vocabulary": 79,
+        "length": 316,
+        "estimatedLength": 462.78049861507816,
+        "volume": 1991.9947164239645,
+        "difficulty": 30.956896551724135,
+        "effort": 61665.974367917726,
+        "time": 3425.887464884318,
+        "bugs": 0.6639982388079881
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/components/Results.tsx": {
+      "sloc": {
+        "physical": 118,
+        "logical": 300
+      },
+      "cyclomatic": {
+        "value": 98,
+        "density": 32.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 37,
+        "totalOperators": 915,
+        "distinctOperands": 198,
+        "totalOperands": 1174,
+        "vocabulary": 235,
+        "length": 2089,
+        "estimatedLength": 1792.8988057187082,
+        "volume": 16454.043901374287,
+        "difficulty": 109.69191919191918,
+        "effort": 1804875.654009839,
+        "time": 100270.86966721328,
+        "bugs": 5.484681300458096
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/components/Search.tsx": {
+      "sloc": {
+        "physical": 71,
+        "logical": 112
+      },
+      "cyclomatic": {
+        "value": 32,
+        "density": 28.57142857142857
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 344,
+        "distinctOperands": 123,
+        "totalOperands": 421,
+        "vocabulary": 152,
+        "length": 765,
+        "estimatedLength": 1055.2622048115645,
+        "volume": 5544.664547784343,
+        "difficulty": 49.63008130081301,
+        "effort": 275182.15229227254,
+        "time": 15287.897349570696,
+        "bugs": 1.8482215159281143
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/components/StackOverflow.tsx": {
+      "sloc": {
+        "physical": 37,
+        "logical": 27
+      },
+      "cyclomatic": {
+        "value": 5,
+        "density": 18.51851851851852
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 106,
+        "distinctOperands": 56,
+        "totalOperands": 142,
+        "vocabulary": 69,
+        "length": 248,
+        "estimatedLength": 400.70748962197473,
+        "volume": 1514.914065280986,
+        "difficulty": 16.482142857142858,
+        "effort": 24969.030040256253,
+        "time": 1387.168335569792,
+        "bugs": 0.504971355093662
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/API-Search/src/components/Wikipedia.tsx": {
+      "sloc": {
+        "physical": 24,
+        "logical": 20
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 15
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 59,
+        "distinctOperands": 40,
+        "totalOperands": 77,
+        "vocabulary": 51,
+        "length": 136,
+        "estimatedLength": 271.41833283925547,
+        "volume": 771.4498465081234,
+        "difficulty": 10.5875,
+        "effort": 8167.725249904757,
+        "time": 453.76251388359765,
+        "bugs": 0.25714994883604114
+      }
+    }
+  }
+}

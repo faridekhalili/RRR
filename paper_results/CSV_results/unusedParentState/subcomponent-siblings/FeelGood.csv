@@ -1,0 +1,21 @@
+|         sibling          |
++--------------------------+
+| <Navbar />               |
+| <Loading />              |
+| <Loading />              |
+| <SongIn ...      />      |
+| <Loading />              |
+| <Librar ... FTs} />      |
+| <Loading />              |
+| <Trendi ... FTs} />      |
+| <Loading />              |
+| <Dashbo ... FTs} />      |
+| <Loading />              |
+| <Footer />               |
+| <Upload ... \t\t\t\t\t/> |
+| <Button ... Button>      |
+| <ErrorM ... ror} />      |
+| <Create ... ror} />      |
+| <Create ... dal} />      |
+| <TeamCh ... ader />      |
+| <SearchIcon />           |

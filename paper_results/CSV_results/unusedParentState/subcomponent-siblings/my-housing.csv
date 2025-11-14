@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <Button ... thIcon> |
+| <Favori ...      /> |
+| <Button ... thIcon> |
+| <Person ...      /> |
+| <Button ... tlined> |
+| <ExpandMoreSVG />   |
+| <ExpandLessSVG />   |
+| <ExpandMoreSVG />   |
+| <ExpandLessSVG />   |
+| <Button ... onDark> |
+| <HomeSV ...      /> |

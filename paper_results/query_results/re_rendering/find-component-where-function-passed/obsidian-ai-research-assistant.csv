@@ -1,0 +1,4 @@
+"col0"
+"src/components/ChatInput.tsx:<24,19>--<86,1>~~~memoize"
+"src/components/IconButton.tsx:<11,20>--<46,1>~~~memoize"
+"src/components/InputArea.tsx:<46,19>--<200,1>~~~memoize"

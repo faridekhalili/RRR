@@ -1,0 +1,821 @@
+{
+  "project": {
+    "numFiles": 33,
+    "sloc": {
+      "physical": 759,
+      "logical": 971
+    },
+    "cyclomatic": {
+      "value": 235,
+      "density": 24.20185375901133
+    },
+    "halstead": {
+      "distinctOperators": 469,
+      "totalOperators": 3127,
+      "distinctOperands": 1402,
+      "totalOperands": 3789,
+      "vocabulary": 1871,
+      "length": 6916,
+      "estimatedLength": 19558.06935623388,
+      "volume": 75174.11101985326,
+      "difficulty": 633.7521398002852,
+      "effort": 47641753.7164162,
+      "time": 2646764.0953564555,
+      "bugs": 25.058037006617752
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/App.tsx": {
+      "sloc": {
+        "physical": 20,
+        "logical": 16
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 6.25
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 62,
+        "distinctOperands": 38,
+        "totalOperands": 77,
+        "vocabulary": 47,
+        "length": 139,
+        "estimatedLength": 246.6525931318485,
+        "volume": 772.0878503831916,
+        "difficulty": 9.118421052631579,
+        "effort": 7040.222109415155,
+        "time": 391.12345052306415,
+        "bugs": 0.2573626167943972
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/index.tsx": {
+      "sloc": {
+        "physical": 9,
+        "logical": 10
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 43,
+        "distinctOperands": 26,
+        "totalOperands": 52,
+        "vocabulary": 36,
+        "length": 95,
+        "estimatedLength": 169.21582985307933,
+        "volume": 491.14287513701964,
+        "difficulty": 10,
+        "effort": 4911.428751370197,
+        "time": 272.85715285389983,
+        "bugs": 0.1637142917123399
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/react-app-env.d.ts": {
+      "sloc": {
+        "physical": 1,
+        "logical": 1
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 100
+      },
+      "halstead": {
+        "distinctOperators": 0,
+        "totalOperators": 0,
+        "distinctOperands": 1,
+        "totalOperands": 1,
+        "vocabulary": 1,
+        "length": 1,
+        "estimatedLength": 0,
+        "volume": 0,
+        "difficulty": 0,
+        "effort": 0,
+        "time": 0,
+        "bugs": 0
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/styled.d.ts": {
+      "sloc": {
+        "physical": 3,
+        "logical": 2
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 50
+      },
+      "halstead": {
+        "distinctOperators": 1,
+        "totalOperators": 1,
+        "distinctOperands": 3,
+        "totalOperands": 3,
+        "vocabulary": 4,
+        "length": 4,
+        "estimatedLength": 6.339850002884624,
+        "volume": 8,
+        "difficulty": 0.5,
+        "effort": 4,
+        "time": 0.2222222222222222,
+        "bugs": 0.0026666666666666666
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/config/theme.ts": {
+      "sloc": {
+        "physical": 32,
+        "logical": 58
+      },
+      "cyclomatic": {
+        "value": 16,
+        "density": 27.586206896551722
+      },
+      "halstead": {
+        "distinctOperators": 27,
+        "totalOperators": 187,
+        "distinctOperands": 68,
+        "totalOperands": 230,
+        "vocabulary": 95,
+        "length": 417,
+        "estimatedLength": 578.3089699187823,
+        "volume": 2739.6297886740053,
+        "difficulty": 45.661764705882355,
+        "effort": 125096.33079165863,
+        "time": 6949.796155092146,
+        "bugs": 0.9132099295580017
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/enums/AppContextActions.ts": {
+      "sloc": {
+        "physical": 14,
+        "logical": 12
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 8.333333333333332
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 25,
+        "distinctOperands": 20,
+        "totalOperands": 33,
+        "vocabulary": 29,
+        "length": 58,
+        "estimatedLength": 125.33591475173351,
+        "volume": 281.7628977173992,
+        "difficulty": 7.425,
+        "effort": 2092.089515551689,
+        "time": 116.22719530842717,
+        "bugs": 0.09392096590579974
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/context/Provider.tsx": {
+      "sloc": {
+        "physical": 65,
+        "logical": 81
+      },
+      "cyclomatic": {
+        "value": 19,
+        "density": 23.456790123456788
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 244,
+        "distinctOperands": 91,
+        "totalOperands": 285,
+        "vocabulary": 119,
+        "length": 529,
+        "estimatedLength": 774.4275621836448,
+        "volume": 3647.358596789902,
+        "difficulty": 43.84615384615385,
+        "effort": 159922.64616694185,
+        "time": 8884.591453718991,
+        "bugs": 1.2157861989299674
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/context/Reducer.ts": {
+      "sloc": {
+        "physical": 61,
+        "logical": 103
+      },
+      "cyclomatic": {
+        "value": 40,
+        "density": 38.83495145631068
+      },
+      "halstead": {
+        "distinctOperators": 34,
+        "totalOperators": 374,
+        "distinctOperands": 113,
+        "totalOperands": 423,
+        "vocabulary": 147,
+        "length": 797,
+        "estimatedLength": 1002.5663074750327,
+        "volume": 5738.138858834583,
+        "difficulty": 63.637168141592916,
+        "effort": 365158.9073794644,
+        "time": 20286.6059655258,
+        "bugs": 1.9127129529448608
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/interfaces/IDispatchAction.ts": {
+      "sloc": {
+        "physical": 5,
+        "logical": 3
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 4,
+        "distinctOperands": 8,
+        "totalOperands": 8,
+        "vocabulary": 12,
+        "length": 12,
+        "estimatedLength": 36,
+        "volume": 43.01955000865388,
+        "difficulty": 2,
+        "effort": 86.03910001730776,
+        "time": 4.779950000961542,
+        "bugs": 0.014339850002884626
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/context/hook.tsx": {
+      "sloc": {
+        "physical": 12,
+        "logical": 9
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 11.11111111111111
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 24,
+        "distinctOperands": 18,
+        "totalOperands": 28,
+        "vocabulary": 27,
+        "length": 52,
+        "estimatedLength": 112.58797503894242,
+        "volume": 247.25415011250038,
+        "difficulty": 7,
+        "effort": 1730.7790507875027,
+        "time": 96.15439171041682,
+        "bugs": 0.08241805003750013
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/interfaces/IItem.ts": {
+      "sloc": {
+        "physical": 5,
+        "logical": 3
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 4,
+        "distinctOperands": 8,
+        "totalOperands": 8,
+        "vocabulary": 12,
+        "length": 12,
+        "estimatedLength": 36,
+        "volume": 43.01955000865388,
+        "difficulty": 2,
+        "effort": 86.03910001730776,
+        "time": 4.779950000961542,
+        "bugs": 0.014339850002884626
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/interfaces/ITheme.ts": {
+      "sloc": {
+        "physical": 5,
+        "logical": 3
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 4,
+        "distinctOperands": 8,
+        "totalOperands": 8,
+        "vocabulary": 12,
+        "length": 12,
+        "estimatedLength": 36,
+        "volume": 43.01955000865388,
+        "difficulty": 2,
+        "effort": 86.03910001730776,
+        "time": 4.779950000961542,
+        "bugs": 0.014339850002884626
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/context/Context.ts": {
+      "sloc": {
+        "physical": 19,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 6.666666666666667
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 38,
+        "distinctOperands": 26,
+        "totalOperands": 46,
+        "vocabulary": 35,
+        "length": 84,
+        "estimatedLength": 164.51539013493823,
+        "volume": 430.8597734233772,
+        "difficulty": 7.961538461538462,
+        "effort": 3430.3066576399647,
+        "time": 190.57259209110916,
+        "bugs": 0.14361992447445907
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/styles/global.ts": {
+      "sloc": {
+        "physical": 18,
+        "logical": 44
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 34.090909090909086
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 157,
+        "distinctOperands": 61,
+        "totalOperands": 180,
+        "vocabulary": 83,
+        "length": 337,
+        "estimatedLength": 492.2511990177196,
+        "volume": 2148.388288363914,
+        "difficulty": 32.459016393442624,
+        "effort": 69734.57067148443,
+        "time": 3874.142815082468,
+        "bugs": 0.716129429454638
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/button/index.tsx": {
+      "sloc": {
+        "physical": 20,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 10,
+        "density": 21.27659574468085
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 128,
+        "distinctOperands": 47,
+        "totalOperands": 148,
+        "vocabulary": 69,
+        "length": 276,
+        "estimatedLength": 383.266630765757,
+        "volume": 1685.952750070775,
+        "difficulty": 34.638297872340424,
+        "effort": 58398.533555643015,
+        "time": 3244.362975313501,
+        "bugs": 0.5619842500235916
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/button/styles.ts": {
+      "sloc": {
+        "physical": 29,
+        "logical": 26
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 15.384615384615385
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 81,
+        "distinctOperands": 42,
+        "totalOperands": 101,
+        "vocabulary": 55,
+        "length": 182,
+        "estimatedLength": 296.57745825283183,
+        "volume": 1052.207467861488,
+        "difficulty": 15.63095238095238,
+        "effort": 16447.0048250254,
+        "time": 913.722490279189,
+        "bugs": 0.350735822620496
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/header/index.tsx": {
+      "sloc": {
+        "physical": 12,
+        "logical": 9
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 11.11111111111111
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 34,
+        "distinctOperands": 25,
+        "totalOperands": 45,
+        "vocabulary": 34,
+        "length": 79,
+        "estimatedLength": 157.89111045234063,
+        "volume": 401.90956445877686,
+        "difficulty": 8.1,
+        "effort": 3255.4674721160923,
+        "time": 180.85930400644958,
+        "bugs": 0.13396985481959228
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/header/styles.ts": {
+      "sloc": {
+        "physical": 20,
+        "logical": 20
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 62,
+        "distinctOperands": 34,
+        "totalOperands": 76,
+        "vocabulary": 47,
+        "length": 138,
+        "estimatedLength": 239.110753538766,
+        "volume": 766.533261531514,
+        "difficulty": 14.529411764705882,
+        "effort": 11137.27738813435,
+        "time": 618.7376326741305,
+        "bugs": 0.2555110871771713
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/icons/close.tsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 19
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 15.789473684210526
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 54,
+        "distinctOperands": 35,
+        "totalOperands": 66,
+        "vocabulary": 50,
+        "length": 120,
+        "estimatedLength": 256.46415084724833,
+        "volume": 677.2627427729669,
+        "difficulty": 14.142857142857142,
+        "effort": 9578.430219217675,
+        "time": 532.1350121787597,
+        "bugs": 0.22575424759098897
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/icons/moon.tsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 19
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 15.789473684210526
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 55,
+        "distinctOperands": 35,
+        "totalOperands": 67,
+        "vocabulary": 50,
+        "length": 122,
+        "estimatedLength": 256.46415084724833,
+        "volume": 688.5504551525164,
+        "difficulty": 14.357142857142858,
+        "effort": 9885.617248975415,
+        "time": 549.2009582764119,
+        "bugs": 0.22951681838417212
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/icons/pencil.tsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 19
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 15.789473684210526
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 55,
+        "distinctOperands": 35,
+        "totalOperands": 67,
+        "vocabulary": 50,
+        "length": 122,
+        "estimatedLength": 256.46415084724833,
+        "volume": 688.5504551525164,
+        "difficulty": 14.357142857142858,
+        "effort": 9885.617248975415,
+        "time": 549.2009582764119,
+        "bugs": 0.22951681838417212
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/icons/save.tsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 19
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 15.789473684210526
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 54,
+        "distinctOperands": 35,
+        "totalOperands": 66,
+        "vocabulary": 50,
+        "length": 120,
+        "estimatedLength": 256.46415084724833,
+        "volume": 677.2627427729669,
+        "difficulty": 14.142857142857142,
+        "effort": 9578.430219217675,
+        "time": 532.1350121787597,
+        "bugs": 0.22575424759098897
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/icons/sun.tsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 19
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 15.789473684210526
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 55,
+        "distinctOperands": 35,
+        "totalOperands": 67,
+        "vocabulary": 50,
+        "length": 122,
+        "estimatedLength": 256.46415084724833,
+        "volume": 688.5504551525164,
+        "difficulty": 14.357142857142858,
+        "effort": 9885.617248975415,
+        "time": 549.2009582764119,
+        "bugs": 0.22951681838417212
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/icons/trash.tsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 19
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 15.789473684210526
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 55,
+        "distinctOperands": 35,
+        "totalOperands": 67,
+        "vocabulary": 50,
+        "length": 122,
+        "estimatedLength": 256.46415084724833,
+        "volume": 688.5504551525164,
+        "difficulty": 14.357142857142858,
+        "effort": 9885.617248975415,
+        "time": 549.2009582764119,
+        "bugs": 0.22951681838417212
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/item/form.tsx": {
+      "sloc": {
+        "physical": 90,
+        "logical": 148
+      },
+      "cyclomatic": {
+        "value": 41,
+        "density": 27.7027027027027
+      },
+      "halstead": {
+        "distinctOperators": 33,
+        "totalOperators": 482,
+        "distinctOperands": 147,
+        "totalOperands": 577,
+        "vocabulary": 180,
+        "length": 1059,
+        "estimatedLength": 1295.9410220705456,
+        "volume": 7933.872429013126,
+        "difficulty": 64.76530612244898,
+        "effort": 513839.6766014929,
+        "time": 28546.64870008294,
+        "bugs": 2.6446241430043753
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/item/index.tsx": {
+      "sloc": {
+        "physical": 39,
+        "logical": 31
+      },
+      "cyclomatic": {
+        "value": 6,
+        "density": 19.35483870967742
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 128,
+        "distinctOperands": 54,
+        "totalOperands": 175,
+        "vocabulary": 67,
+        "length": 303,
+        "estimatedLength": 385.57746264495245,
+        "volume": 1838.025024708705,
+        "difficulty": 21.064814814814817,
+        "effort": 38717.6567704843,
+        "time": 2150.980931693572,
+        "bugs": 0.612675008236235
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/item/styles.ts": {
+      "sloc": {
+        "physical": 26,
+        "logical": 26
+      },
+      "cyclomatic": {
+        "value": 5,
+        "density": 19.230769230769234
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 83,
+        "distinctOperands": 42,
+        "totalOperands": 103,
+        "vocabulary": 55,
+        "length": 186,
+        "estimatedLength": 296.57745825283183,
+        "volume": 1075.3329067155867,
+        "difficulty": 15.940476190476192,
+        "effort": 17141.318596335364,
+        "time": 952.2954775741869,
+        "bugs": 0.3584443022385289
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/list-items/index.tsx": {
+      "sloc": {
+        "physical": 24,
+        "logical": 27
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 11.11111111111111
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 86,
+        "distinctOperands": 52,
+        "totalOperands": 103,
+        "vocabulary": 67,
+        "length": 189,
+        "estimatedLength": 381.9294611154532,
+        "volume": 1146.490856996519,
+        "difficulty": 14.855769230769232,
+        "effort": 17032.003596727132,
+        "time": 946.2224220403963,
+        "bugs": 0.38216361899883966
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/list-items/styles.ts": {
+      "sloc": {
+        "physical": 14,
+        "logical": 16
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 25
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 50,
+        "distinctOperands": 27,
+        "totalOperands": 60,
+        "vocabulary": 40,
+        "length": 110,
+        "estimatedLength": 190.19550008653877,
+        "volume": 585.4120904376099,
+        "difficulty": 14.444444444444445,
+        "effort": 8455.952417432143,
+        "time": 469.7751343017857,
+        "bugs": 0.1951373634792033
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/toggle-theme/index.tsx": {
+      "sloc": {
+        "physical": 18,
+        "logical": 14
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 14.285714285714285
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 56,
+        "distinctOperands": 35,
+        "totalOperands": 70,
+        "vocabulary": 46,
+        "length": 126,
+        "estimatedLength": 235.94701877946844,
+        "volume": 695.9688064631837,
+        "difficulty": 11,
+        "effort": 7655.6568710950205,
+        "time": 425.31427061639005,
+        "bugs": 0.23198960215439457
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/toggle-theme/styles.ts": {
+      "sloc": {
+        "physical": 40,
+        "logical": 64
+      },
+      "cyclomatic": {
+        "value": 20,
+        "density": 31.25
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 218,
+        "distinctOperands": 98,
+        "totalOperands": 279,
+        "vocabulary": 120,
+        "length": 497,
+        "estimatedLength": 793.7651812938251,
+        "volume": 3432.724626017434,
+        "difficulty": 31.316326530612248,
+        "effort": 107500.32527803577,
+        "time": 5972.240293224209,
+        "bugs": 1.1442415420058112
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/input/index.tsx": {
+      "sloc": {
+        "physical": 35,
+        "logical": 37
+      },
+      "cyclomatic": {
+        "value": 10,
+        "density": 27.027027027027028
+      },
+      "halstead": {
+        "distinctOperators": 19,
+        "totalOperators": 124,
+        "distinctOperands": 51,
+        "totalOperands": 146,
+        "vocabulary": 70,
+        "length": 270,
+        "estimatedLength": 397.0697739380047,
+        "volume": 1654.906414575141,
+        "difficulty": 27.19607843137255,
+        "effort": 45006.96464736707,
+        "time": 2500.386924853726,
+        "bugs": 0.551635471525047
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/CRUD-Context-React/src/components/input/styles.ts": {
+      "sloc": {
+        "physical": 33,
+        "logical": 32
+      },
+      "cyclomatic": {
+        "value": 6,
+        "density": 18.75
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 100,
+        "distinctOperands": 49,
+        "totalOperands": 124,
+        "vocabulary": 62,
+        "length": 224,
+        "estimatedLength": 348.1120103351429,
+        "volume": 1333.7399735266602,
+        "difficulty": 16.448979591836736,
+        "effort": 21938.6616053569,
+        "time": 1218.814533630939,
+        "bugs": 0.44457999117555336
+      }
+    }
+  }
+}

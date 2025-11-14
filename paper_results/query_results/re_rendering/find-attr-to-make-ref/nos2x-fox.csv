@@ -1,0 +1,7 @@
+"col0"
+"src/options.tsx:<521,17>--<521,54>~~~onChange_to_ref???{varName:selectedProfilePubKey}"
+"src/options.tsx:<581,17>--<581,49>~~~onChange_to_ref???{varName:privateKey}"
+"src/options.tsx:<693,15>--<693,48>~~~onChange_to_ref???{varName:newRelayURL}"
+"src/options.tsx:<693,15>--<693,48>~~~onChange_to_ref???{varName:isNewRelayURLValid}"
+"src/options.tsx:<725,13>--<725,46>~~~onChange_to_ref???{varName:profileName}"
+"src/popup.tsx:<125,45>--<125,74>~~~onChange_to_ref???{varName:publicKeyHexa}"

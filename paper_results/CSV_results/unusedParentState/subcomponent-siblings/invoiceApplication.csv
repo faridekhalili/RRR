@@ -1,0 +1,14 @@
+|       sibling       |
++---------------------+
+| <Alert  ... ype} /> |
+| <LoadingSpinner />  |
+| <ItemLi ... ist} /> |
+| <Previo ... ist} /> |
+| <ItemLi ... nfo} /> |
+| <Alert  ... ype} /> |
+| <Alert  ... ype} /> |
+| <LoadingSpinner />  |
+| <LoadingSpinner />  |
+| <Alert  ... ype} /> |
+| <Alert  ... ion} /> |
+| <Alert  ... ion} /> |

@@ -1,0 +1,33 @@
+|       sibling        |
++----------------------+
+| <NavbarPage />       |
+| <Home />             |
+| <Home />             |
+| <Team />             |
+| <Schedule />         |
+| <Speakers />         |
+| <FaqPage />          |
+| <Coc />              |
+| <Coc />              |
+| <PrivacyPolicy />    |
+| <Signup />           |
+| <Login />            |
+| <CFS />              |
+| <VerifyEmail />      |
+| <ResetPassword />    |
+| <ResetPassword />    |
+| <Profile />          |
+| <Tickets />          |
+| <NotFound />         |
+| <Footer />           |
+| <Random ... rapper>  |
+| <GoogleDotsLoader /> |
+| <CFSSet ...      />  |
+| <Spinne ... red" />  |
+| <Spinne ... red" />  |
+| <Spinne ... red" />  |
+| <Spinner />          |
+| <Spinner />          |
+| <Spinne ... red" />  |
+| <Spinner />          |
+| <Spinner />          |

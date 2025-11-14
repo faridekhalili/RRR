@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <LogIn />           |
+| <Register />        |
+| <UserInfo />        |
+| <Button ... Button> |
+| <Button ... Button> |
+| <Verify ... fied}/> |
+| <Transactions />    |
+| <Exchange />        |
+| <Balances />        |
+| <Button ... Button> |
+| <Button ... Button> |

@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <Navbar ... ser} /> |
+| <Alert  ... /Alert> |
+| <Alert  ... /Alert> |
+| <Navbar ... ser} /> |
+| <Alert  ... /Alert> |
+| <Alert  ... /Alert> |
+| <Navbar ... ser} /> |
+| <Vote a ... ser} /> |
+| <Alert  ... /Alert> |
+| <Alert  ... /Alert> |

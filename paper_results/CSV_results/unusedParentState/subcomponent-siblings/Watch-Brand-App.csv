@@ -1,0 +1,6 @@
+|       sibling        |
++----------------------+
+| <Footer />           |
+| <PageTransition />   |
+| <Item\n  ...      /> |
+| <Footer />           |

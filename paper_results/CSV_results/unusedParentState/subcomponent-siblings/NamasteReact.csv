@@ -1,0 +1,14 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Footer />          |
+| <Header />          |
+| <Footer />          |
+| <Restau ... ata} /> |
+| <Shimmer />         |
+| <Restau ... ata} /> |
+| <Title />           |
+| <Shimmer />         |
+| <Restau ... ata} /> |
+| <Shimmer />         |
+| <Restau ... ata} /> |

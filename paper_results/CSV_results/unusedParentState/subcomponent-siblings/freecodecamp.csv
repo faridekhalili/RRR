@@ -1,0 +1,10 @@
+|   sibling    |
++--------------+
+| <Break />    |
+| <Session />  |
+| <Progress /> |
+| <Controls /> |
+| <Drums />    |
+| <Controls /> |
+| <Display />  |
+| <Keys />     |

@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <StockI ... ock} /> |
+| <SellCa ... ock} /> |
+| <StockI ...      /> |
+| <ErrorMessage />    |
+| <StockG ... iod} /> |
+| <StockI ... ey]} /> |

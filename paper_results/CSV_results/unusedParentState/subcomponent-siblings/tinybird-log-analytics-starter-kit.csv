@@ -1,0 +1,8 @@
+|    sibling    |
++---------------+
+| <Loader />    |
+| <Loader />    |
+| <Loader />    |
+| <CogIcon />   |
+| <PauseIcon /> |
+| <PlayIcon />  |

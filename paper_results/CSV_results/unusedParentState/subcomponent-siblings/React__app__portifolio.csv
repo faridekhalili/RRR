@@ -1,0 +1,14 @@
+|       sibling       |
++---------------------+
+| <Button ...      /> |
+| <Button ...      /> |
+| <Button ...      /> |
+| <Button ...      /> |
+| <Button ...      /> |
+| <Button ...      /> |
+| <Animat ... ponent> |
+| <Welcome />         |
+| <AboutMe />         |
+| <Skills />          |
+| <Reposi ... ata} /> |
+| <OptionsFixed />    |

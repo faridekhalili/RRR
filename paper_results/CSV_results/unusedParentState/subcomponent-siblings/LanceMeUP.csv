@@ -1,0 +1,12 @@
+|       sibling        |
++----------------------+
+| <PrivateRoutes />    |
+| <Cart />             |
+| <Addproduct />       |
+| <Productlistpage />  |
+| <Orderpage />        |
+| <DashBoard />        |
+| <Adminpage />        |
+| <LoginPage />        |
+| <LoginPage />        |
+| <RegistrationPage /> |

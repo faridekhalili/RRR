@@ -1,0 +1,7 @@
+|      sibling      |
++-------------------+
+| <Navigaiton />    |
+| <Home />          |
+| <Products />      |
+| <SingleProduct /> |
+| <Cart />          |

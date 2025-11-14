@@ -1,0 +1,8 @@
+|       sibling        |
++----------------------+
+| <Header ...      />  |
+| <Home \n ...      /> |
+| <PostPa ...      />  |
+| <About/>             |
+| <Missing/>           |
+| <Footer />           |

@@ -1,0 +1,138 @@
+ÇRodemos/demo-react-native/src/ListPhotos.tsx:<32,5>--<32,32>~~~set_state_to_assignment_current???{varName:files}qdemos/demo-react-native/src/TakePhoto.tsx:<53,5>--<53,19>~~~set_state_to_assignment_current???{varName:isLoaded}pdemos/demo-react-native/src/TakePhoto.tsx:<62,9>--<62,30>~~~set_state_to_assignment_current???{varName:dataUrl}ôreact-native/verification-tool/src/components/list-files-view/list-files-view.tsx:<54,5>--<54,36>~~~set_state_to_assignment_current???{varName:selected}ôreact-native/verification-tool/src/components/list-files-view/list-files-view.tsx:<92,5>--<92,22>~~~set_state_to_assignment_current???{varName:selected}õreact-native/verification-tool/src/components/list-files-view/list-files-view.tsx:<108,5>--<108,19>~~~set_state_to_assignment_current???{varName:selected}ùreact-native/verification-tool/src/components/list-files-view/list-files-view.tsx:<111,5>--<111,34>~~~set_state_to_assignment_current???{varName:thetaFiles}öreact-native/verification-tool/src/components/options/gps-info/gps-info-edit.tsx:<67,5>--<67,27>~~~set_state_to_assignment_current???{varName:useGpsInfo}ûreact-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<90,7>--<90,39>~~~set_state_to_assignment_current???{varName:capture}†react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<105,5>--<105,25>~~~set_state_to_assignment_current???{varName:capture}°react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<114,5>--<114,26>~~~set_state_to_assignment_current???{varName:progress}®react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<115,5>--<115,33>~~~set_state_to_assignment_current???{varName:capturingStatus}¢react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<121,11>--<121,33>~~~set_state_to_assignment_current???{varName:progress}©react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<131,11>--<131,36>~~~set_state_to_assignment_current???{varName:capturingStatus}∏react-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<73,7>--<73,39>~~~set_state_to_assignment_current???{varName:capture}∏react-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<86,5>--<86,25>~~~set_state_to_assignment_current???{varName:capture}πreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<95,5>--<95,26>~~~set_state_to_assignment_current???{varName:progress}¿react-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<96,5>--<96,33>~~~set_state_to_assignment_current???{varName:capturingStatus}ºreact-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<102,11>--<102,33>~~~set_state_to_assignment_current???{varName:progress}√react-native/verification-tool/src/screen/composite-interval-capture-screen/composite-interval-capture-screen.tsx:<108,11>--<108,36>~~~set_state_to_assignment_current???{varName:capturingStatus}®react-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<72,7>--<72,39>~~~set_state_to_assignment_current???{varName:capture}®react-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<87,5>--<87,25>~~~set_state_to_assignment_current???{varName:capture}©react-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<96,5>--<96,26>~~~set_state_to_assignment_current???{varName:progress}∞react-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<97,5>--<97,33>~~~set_state_to_assignment_current???{varName:capturingStatus}¨react-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<107,11>--<107,33>~~~set_state_to_assignment_current???{varName:progress}≥react-native/verification-tool/src/screen/continuous-capture-screen/continuous-capture-screen.tsx:<110,11>--<110,36>~~~set_state_to_assignment_current???{varName:capturingStatus}∏react-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<72,7>--<72,39>~~~set_state_to_assignment_current???{varName:capture}∏react-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<85,5>--<85,25>~~~set_state_to_assignment_current???{varName:capture}¿react-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<94,5>--<94,33>~~~set_state_to_assignment_current???{varName:capturingStatus}√react-native/verification-tool/src/screen/limitless-interval-capture-screen/limitless-interval-capture-screen.tsx:<103,11>--<103,36>~~~set_state_to_assignment_current???{varName:capturingStatus}ùreact-native/verification-tool/src/screen/live-preview-screen/live-preview-screen.tsx:<80,5>--<80,19>~~~set_state_to_assignment_current???{varName:isLoaded}úreact-native/verification-tool/src/screen/live-preview-screen/live-preview-screen.tsx:<89,9>--<89,30>~~~set_state_to_assignment_current???{varName:dataUrl}Æreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<57,7>--<57,39>~~~set_state_to_assignment_current???{varName:capture}Æreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<72,5>--<72,25>~~~set_state_to_assignment_current???{varName:capture}Øreact-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<81,5>--<81,26>~~~set_state_to_assignment_current???{varName:progress}∂react-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<82,5>--<82,33>~~~set_state_to_assignment_current???{varName:capturingStatus}∞react-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<88,11>--<88,33>~~~set_state_to_assignment_current???{varName:progress}∑react-native/verification-tool/src/screen/multi-bracket-capture-screen/multi-bracket-capture-screen.tsx:<98,11>--<98,36>~~~set_state_to_assignment_current???{varName:capturingStatus}Œreact-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<78,7>--<78,39>~~~set_state_to_assignment_current???{varName:capture}Œreact-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<91,5>--<91,25>~~~set_state_to_assignment_current???{varName:capture}—react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<100,5>--<100,26>~~~set_state_to_assignment_current???{varName:progress}ÿreact-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<101,5>--<101,33>~~~set_state_to_assignment_current???{varName:capturingStatus}“react-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<107,11>--<107,33>~~~set_state_to_assignment_current???{varName:progress}Ÿreact-native/verification-tool/src/screen/shot-count-specified-interval-capture-screen/shot-count-specified-interval-capture-screen.tsx:<113,11>--<113,36>~~~set_state_to_assignment_current???{varName:capturingStatus}®react-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<73,7>--<73,39>~~~set_state_to_assignment_current???{varName:capture}®react-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<86,5>--<86,25>~~~set_state_to_assignment_current???{varName:capture}©react-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<95,5>--<95,26>~~~set_state_to_assignment_current???{varName:progress}∞react-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<96,5>--<96,33>~~~set_state_to_assignment_current???{varName:capturingStatus}¨react-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<102,11>--<102,33>~~~set_state_to_assignment_current???{varName:progress}≥react-native/verification-tool/src/screen/time-shift-capture-screen/time-shift-capture-screen.tsx:<108,11>--<108,36>~~~set_state_to_assignment_current???{varName:capturingStatus}∂react-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<75,7>--<75,39>~~~set_state_to_assignment_current???{varName:capture}∂react-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<88,5>--<88,25>~~~set_state_to_assignment_current???{varName:capture}∑react-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<97,5>--<97,26>~~~set_state_to_assignment_current???{varName:progress}æreact-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<98,5>--<98,33>~~~set_state_to_assignment_current???{varName:capturingStatus}∫react-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<104,11>--<104,33>~~~set_state_to_assignment_current???{varName:progress}¡react-native/verification-tool/src/screen/time-shift-manual-capture-screen/time-shift-manual-capture-screen.tsx:<110,11>--<110,36>~~~set_state_to_assignment_current???{varName:capturingStatus}ûreact-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<72,7>--<72,39>~~~set_state_to_assignment_current???{varName:capture}ûreact-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<83,5>--<83,25>~~~set_state_to_assignment_current???{varName:capture}¶react-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<92,5>--<92,33>~~~set_state_to_assignment_current???{varName:capturingStatus}©react-native/verification-tool/src/screen/video-capture-screen/video-capture-screen.tsx:<102,11>--<102,36>~~~set_state_to_assignment_current???{varName:capturingStatus}É#select< s o‡–ÍÑ†æŸ¯	ôª‰á±Í£›û€ü»ÒõÃ˘≠!Ê"ü$‡%§'¬(ﬂ)é+Ω,Ì-§/’0ç2‹3´5˝6÷8©:É<¨=’>ˇ?∞A›BëD»EˇF∑HˆI±KÛLíN±OÿP˙ ---
+run:
+  queries:
+   -
+    pack: react-rerendering-detection#1
+    relativeQueryPath: re_rendering/find-update-to-state-variable-now-use-ref-p2.ql
+    relativeBqrsPath: react-rerendering-detection/re_rendering/find-update-to-state-variable-now-use-ref-p2.bqrs
+    metadata: {}
+    queryHelp: null
+  extensionPacks: []
+  packs:
+    codeql/javascript-all#0:
+      name: codeql/javascript-all
+      version: 0.7.1
+      localPath: /Users/faridehkhalili/Documents/Packages/codeql/qlpacks/codeql/javascript-all/0.7.1
+      runDataExtensions: []
+    react-rerendering-detection#1:
+      name: react-rerendering-detection
+      version: 0.0.0
+      localPath: /Users/faridehkhalili/Documents/research/PaperArtifacts/Reactor/codeql-development/query_running/queries
+      runDataExtensions:
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/data/internal/model.yml
+        index: 0
+        firstRowId: 0
+        rowCount: 0
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 0
+        firstRowId: 75
+        rowCount: 26
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 1
+        firstRowId: 101
+        rowCount: 611
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 2
+        firstRowId: 712
+        rowCount: 32
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 3
+        firstRowId: 744
+        rowCount: 102
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mssql/model.yml
+        index: 0
+        firstRowId: 846
+        rowCount: 34
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mysql/model.yml
+        index: 0
+        firstRowId: 880
+        rowCount: 57
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mysql/model.yml
+        index: 1
+        firstRowId: 937
+        rowCount: 3
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 0
+        firstRowId: 940
+        rowCount: 65
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 1
+        firstRowId: 1005
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 2
+        firstRowId: 1010
+        rowCount: 23
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 0
+        firstRowId: 1033
+        rowCount: 7
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 1
+        firstRowId: 1040
+        rowCount: 248
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 2
+        firstRowId: 1288
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 3
+        firstRowId: 1293
+        rowCount: 2
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/spanner/model.yml
+        index: 0
+        firstRowId: 1295
+        rowCount: 174
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/spanner/model.yml
+        index: 1
+        firstRowId: 1469
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sqlite3/model.yml
+        index: 0
+        firstRowId: 1474
+        rowCount: 15
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sqlite3/model.yml
+        index: 1
+        firstRowId: 1489
+        rowCount: 3
+runFileName: null
+relativeBqrsPath: null
+metadata: {}

@@ -1,0 +1,5 @@
+"col0"
+"views/accounts/Account.tsx:<123,16>--<490,1>~~~memoize"
+"views/modular_components/Input.tsx:<48,15>--<96,1>~~~memoize"
+"views/modular_components/MenuModal.tsx:<33,16>--<86,1>~~~memoize"
+"views/piggybanks/InputPG.tsx:<34,17>--<73,1>~~~memoize"

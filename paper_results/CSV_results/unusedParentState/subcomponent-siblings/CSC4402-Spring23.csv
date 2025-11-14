@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <FeedSearchBar />   |
+| <Intern ... nst} /> |
+| <Loading />         |
+| <Intern ... Page /> |
+| <FeedSearchBar />   |
+| <SingleStar/>       |
+| <UploadButtons />   |
+| <MovieSelection />  |
+| <MovieRating />     |
+| <Home s ... ' }} /> |
+| <Home s ... ' }} /> |

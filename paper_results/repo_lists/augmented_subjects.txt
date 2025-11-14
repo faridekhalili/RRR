@@ -1,0 +1,9 @@
+https://github.com/RRR-benchmarks/baklava
+https://github.com/RRR-benchmarks/chicken-coop
+https://github.com/RRR-benchmarks/csi-conference-frontend
+https://github.com/RRR-benchmarks/css-fx-layout
+https://github.com/RRR-benchmarks/farm-ng-core
+https://github.com/RRR-benchmarks/Fokasu
+https://github.com/RRR-benchmarks/laser-shooting
+https://github.com/RRR-benchmarks/TwitchKillMe
+https://github.com/RRR-benchmarks/TypeWriter

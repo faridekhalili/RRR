@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Loader />          |
+| <HomeContainer />   |
+| <RowCon ... 00)} /> |
+| <MenuContainer />   |
+| <CartContainer />   |
+| <RowCon ... er)} /> |

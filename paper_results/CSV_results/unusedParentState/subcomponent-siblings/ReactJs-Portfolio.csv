@@ -1,0 +1,21 @@
+|        sibling        |
++-----------------------+
+| <LineGradient />      |
+| <MySkills />          |
+| <LineGradient />      |
+| <Projects />          |
+| <LineGradient />      |
+| <Testimonials />      |
+| <LineGradient />      |
+| <Contact />           |
+| <Footer />            |
+| <Link\r\n ...      /> |
+| <Link\r\n ...      /> |
+| <Link\r\n ...      /> |
+| <Link\r\n ...      /> |
+| <Link\r\n ...      /> |
+| <Link\r\n ...      /> |
+| <Link\r\n ...      /> |
+| <Link\r\n ...      /> |
+| <Link\r\n ...      /> |
+| <Link\r\n ...      /> |

@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <Navbar></Navbar>   |
+| <Fconte ... enaire> |
+| <Navbar></Navbar>   |
+| <Conten ... enaire> |
+| <NavBar></NavBar>   |
+| <Prix/>             |
+| <Footer></Footer>   |

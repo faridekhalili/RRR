@@ -1,0 +1,10 @@
+|  sibling  |
++-----------+
+| <Navbar/> |
+| <Home/>   |
+| <Fox/>    |
+| <Cnn/>    |
+| <Tg/>     |
+| <Nyt/>    |
+| <Times/>  |
+| <Vox/>    |

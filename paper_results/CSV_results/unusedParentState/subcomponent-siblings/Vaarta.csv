@@ -1,0 +1,11 @@
+|       sibling       |
++---------------------+
+| <SideDrawer />      |
+| <MyChat ... ain} /> |
+| <UserBa ...      /> |
+| <UserLi ...      /> |
+| <Profil ... eModal> |
+| <ChatLoading />     |
+| <UserLi ...      /> |
+| <UserBa ...      /> |
+| <UserLi ...      /> |

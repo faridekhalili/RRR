@@ -1,0 +1,26 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Search />          |
+| <Terms />           |
+| <Privacy />         |
+| <Search ... ngs} /> |
+| <AllListings />     |
+| <About />           |
+| <Contact />         |
+| <PrivateRoute />    |
+| <Profile />         |
+| <ForgotPassword />  |
+| <Offers />          |
+| <Listing />         |
+| <PrivateRoute />    |
+| <Addlisting />      |
+| <PrivateRoute />    |
+| <EditListing />     |
+| <Contac ... ing} /> |
+| <Footer />          |
+| <OAuth />           |
+| <Footer />          |
+| <Listin ... id)} /> |
+| <OAuth />           |
+| <Footer />          |

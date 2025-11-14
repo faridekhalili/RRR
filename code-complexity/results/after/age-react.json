@@ -1,0 +1,173 @@
+{
+  "project": {
+    "numFiles": 6,
+    "sloc": {
+      "physical": 393,
+      "logical": 550
+    },
+    "cyclomatic": {
+      "value": 164,
+      "density": 29.818181818181817
+    },
+    "halstead": {
+      "distinctOperators": 142,
+      "totalOperators": 1875,
+      "distinctOperands": 579,
+      "totalOperands": 2272,
+      "vocabulary": 721,
+      "length": 4147,
+      "estimatedLength": 6616.91948689024,
+      "volume": 39371.018548001695,
+      "difficulty": 278.60449050086356,
+      "effort": 10968942.563066062,
+      "time": 609385.6979481145,
+      "bugs": 13.123672849333898
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/age-react/src/App.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 14
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 14.285714285714285
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 39,
+        "distinctOperands": 28,
+        "totalOperands": 49,
+        "vocabulary": 39,
+        "length": 88,
+        "estimatedLength": 187.48684196024652,
+        "volume": 465.1153952598779,
+        "difficulty": 9.625,
+        "effort": 4476.735679376325,
+        "time": 248.70753774312914,
+        "bugs": 0.15503846508662597
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/age-react/src/index.js": {
+      "sloc": {
+        "physical": 9,
+        "logical": 10
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 38,
+        "distinctOperands": 23,
+        "totalOperands": 46,
+        "vocabulary": 33,
+        "length": 84,
+        "estimatedLength": 149.27754454988144,
+        "volume": 423.72910602611006,
+        "difficulty": 10,
+        "effort": 4237.291060261101,
+        "time": 235.4050589033945,
+        "bugs": 0.1412430353420367
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/age-react/src/Layout/Layout.js": {
+      "sloc": {
+        "physical": 32,
+        "logical": 88
+      },
+      "cyclomatic": {
+        "value": 31,
+        "density": 35.22727272727273
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 284,
+        "distinctOperands": 93,
+        "totalOperands": 330,
+        "vocabulary": 122,
+        "length": 614,
+        "estimatedLength": 797.7773749551799,
+        "volume": 4255.472725263612,
+        "difficulty": 51.45161290322581,
+        "effort": 218950.93538049876,
+        "time": 12163.940854472154,
+        "bugs": 1.418490908421204
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/age-react/src/components/Age/Age.js": {
+      "sloc": {
+        "physical": 168,
+        "logical": 188
+      },
+      "cyclomatic": {
+        "value": 43,
+        "density": 22.872340425531913
+      },
+      "halstead": {
+        "distinctOperators": 33,
+        "totalOperators": 645,
+        "distinctOperands": 162,
+        "totalOperands": 804,
+        "vocabulary": 195,
+        "length": 1449,
+        "estimatedLength": 1431.2707505625017,
+        "volume": 11023.021624623187,
+        "difficulty": 81.88888888888889,
+        "effort": 902662.9930385876,
+        "time": 50147.944057699315,
+        "bugs": 3.674340541541062
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/age-react/src/components/Form/Form.js": {
+      "sloc": {
+        "physical": 111,
+        "logical": 148
+      },
+      "cyclomatic": {
+        "value": 54,
+        "density": 36.486486486486484
+      },
+      "halstead": {
+        "distinctOperators": 30,
+        "totalOperators": 545,
+        "distinctOperands": 164,
+        "totalOperands": 662,
+        "vocabulary": 194,
+        "length": 1207,
+        "estimatedLength": 1427.3650888959085,
+        "volume": 9173.094800519862,
+        "difficulty": 60.54878048780487,
+        "effort": 555419.7034705014,
+        "time": 30856.65019280563,
+        "bugs": 3.057698266839954
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/age-react/src/components/MoveStr/MoveStr.js": {
+      "sloc": {
+        "physical": 57,
+        "logical": 102
+      },
+      "cyclomatic": {
+        "value": 32,
+        "density": 31.372549019607842
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 324,
+        "distinctOperands": 109,
+        "totalOperands": 381,
+        "vocabulary": 138,
+        "length": 705,
+        "estimatedLength": 934.0094368192158,
+        "volume": 5011.50974202861,
+        "difficulty": 50.68348623853211,
+        "effort": 254000.78504437668,
+        "time": 14111.154724687593,
+        "bugs": 1.67050324734287
+      }
+    }
+  }
+}

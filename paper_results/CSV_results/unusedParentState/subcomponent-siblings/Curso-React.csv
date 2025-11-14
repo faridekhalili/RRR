@@ -1,0 +1,14 @@
+|       sibling       |
++---------------------+
+| <Menu />            |
+| <Content />         |
+| <PageTi ...      /> |
+| <Sectio ...  #01"/> |
+| <Sectio ... #02" /> |
+| <PageTi ...      /> |
+| <PageTi ...      /> |
+| <Sectio ... #01" /> |
+| <Sectio ... #02" /> |
+| <PageTi ...      /> |
+| <Sectio ... #01" /> |
+| <Sectio ... #02" /> |

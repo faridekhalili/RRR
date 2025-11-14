@@ -1,0 +1,20 @@
+|       sibling       |
++---------------------+
+| <Header></Header>   |
+| <UserCa ... erCard> |
+| <Footer></Footer>   |
+| <Header/>           |
+| <Home/>             |
+| <LogIn/>            |
+| <SignUp/>           |
+| <PageNotFound/>     |
+| <Footer/>           |
+| <Header></Header>   |
+| <UserCa ... erCard> |
+| <Footer></Footer>   |
+| <Header/>           |
+| <Home/>             |
+| <LogIn/>            |
+| <SignUp/>           |
+| <PageNotFound/>     |
+| <Footer/>           |

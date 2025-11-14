@@ -1,0 +1,7 @@
+"col0"
+"src/components/ChatTitle.tsx:<29,5>--<29,26>~~~set_state_to_assignment_current???{varName:updatedTitle}"
+"src/components/ChatTitle.tsx:<65,5>--<65,46>~~~set_state_to_assignment_current???{varName:updatedTitle}"
+"src/components/ChatWindow.tsx:<49,5>--<49,36>~~~set_state_to_assignment_current???{varName:autoSaving}"
+"src/components/InputArea.tsx:<81,5>--<81,27>~~~set_state_to_assignment_current???{varName:text}"
+"src/components/InputArea.tsx:<114,7>--<114,20>~~~set_state_to_assignment_current???{varName:text}"
+"src/components/SidebarView.tsx:<147,7>--<147,51>~~~set_state_to_assignment_current???{varName:conversationId}"

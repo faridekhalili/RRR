@@ -1,0 +1,23 @@
+|       sibling       |
++---------------------+
+| <Sidebar />         |
+| <BizRepHomePage />  |
+| <About />           |
+| <ContactUs />       |
+| <LastTweets />      |
+| <ChosenCampaign />  |
+| <Pendin ... ries /> |
+| <Sidebar />         |
+| <NonPro ... Page /> |
+| <About />           |
+| <ContactUs />       |
+| <LastTweets />      |
+| <MyCampaigns />     |
+| <AddCampaign />     |
+| <EditCampaign />    |
+| <Sidebar />         |
+| <Social ... Page /> |
+| <About />           |
+| <ContactUs />       |
+| <LastTweets />      |
+| <ChosenCampaign />  |

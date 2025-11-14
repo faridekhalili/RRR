@@ -1,0 +1,8 @@
+"col0"
+"src/mdpad/EditorPage.tsx:<43,9>--<43,71>~~~use_state_to_use_ref"
+"src/mdpad/EditorPage.tsx:<124,9>--<124,39>~~~use_state_to_use_ref"
+"src/mdpad/PadPage.tsx:<46,9>--<46,71>~~~use_state_to_use_ref"
+"src/mdpad/PadPage.tsx:<174,9>--<174,39>~~~use_state_to_use_ref"
+"src/useHash.ts:<39,9>--<39,44>~~~use_state_to_use_ref"
+"src/writer/NoteEditor.tsx:<28,9>--<28,71>~~~use_state_to_use_ref"
+"src/writer/NoteEditor.tsx:<71,9>--<71,46>~~~use_state_to_use_ref"

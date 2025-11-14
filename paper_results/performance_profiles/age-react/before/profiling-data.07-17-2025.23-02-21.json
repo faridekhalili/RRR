@@ -1,0 +1,6075 @@
+{
+  "version": 5,
+  "dataForRoots": [
+    {
+      "commitData": [
+        {
+          "changeDescriptions": [
+            [
+              2,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              3,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              4,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ]
+          ],
+          "duration": 3.4,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              1,
+              3.4
+            ],
+            [
+              2,
+              2.6
+            ],
+            [
+              3,
+              1.9
+            ],
+            [
+              4,
+              1.5
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              1,
+              0.7
+            ],
+            [
+              2,
+              0.5
+            ],
+            [
+              3,
+              0.1
+            ],
+            [
+              4,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0.2,
+          "priorityLevel": "Normal",
+          "timestamp": 9.599999964237213,
+          "updaters": [
+            {
+              "displayName": "createRoot()",
+              "id": 1,
+              "key": null,
+              "type": 11,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              4,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.8,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              4,
+              0.8
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              4,
+              0.4
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Normal",
+          "timestamp": 1015.6999999880791,
+          "updaters": [
+            {
+              "displayName": "MoveStr",
+              "id": 4,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              4,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  1
+                ]
+              }
+            ]
+          ],
+          "duration": 0.7,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              4,
+              0.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              4,
+              0.5
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Normal",
+          "timestamp": 3018.800000011921,
+          "updaters": [
+            {
+              "displayName": "MoveStr",
+              "id": 4,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              4,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "isVisibleAge"
+                ],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              6,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              3,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 4.2,
+          "effectDuration": 0.2,
+          "fiberActualDurations": [
+            [
+              4,
+              0.1
+            ],
+            [
+              5,
+              3.9
+            ],
+            [
+              6,
+              3.1
+            ],
+            [
+              3,
+              4.2
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              4,
+              0
+            ],
+            [
+              5,
+              0.5
+            ],
+            [
+              6,
+              1.7
+            ],
+            [
+              3,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0.9,
+          "priorityLevel": "Immediate",
+          "timestamp": 4393.399999976158,
+          "updaters": [
+            {
+              "displayName": "Layout",
+              "id": 3,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  6
+                ]
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0,
+                  2
+                ]
+              }
+            ]
+          ],
+          "duration": 1,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.6
+            ],
+            [
+              5,
+              1
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.3
+            ],
+            [
+              5,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0.1,
+          "priorityLevel": "Normal",
+          "timestamp": 5397.899999976158,
+          "updaters": [
+            {
+              "displayName": "Form",
+              "id": 6,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            },
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0,
+                  3
+                ]
+              }
+            ]
+          ],
+          "duration": 0.7,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.4
+            ],
+            [
+              5,
+              0.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.2
+            ],
+            [
+              5,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0.1,
+          "priorityLevel": "Normal",
+          "timestamp": 6398.899999976158,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0,
+                  4
+                ]
+              }
+            ]
+          ],
+          "duration": 0.5,
+          "effectDuration": 0.1,
+          "fiberActualDurations": [
+            [
+              6,
+              0.3
+            ],
+            [
+              5,
+              0.5
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.1
+            ],
+            [
+              5,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 7396.5,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0,
+                  5
+                ]
+              }
+            ]
+          ],
+          "duration": 1.4,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.7
+            ],
+            [
+              5,
+              1.4
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.4
+            ],
+            [
+              5,
+              0.4
+            ]
+          ],
+          "passiveEffectDuration": 0.1,
+          "priorityLevel": "Normal",
+          "timestamp": 8398.199999988079,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0,
+                  6
+                ]
+              }
+            ]
+          ],
+          "duration": 0.9,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.5
+            ],
+            [
+              5,
+              0.9
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.3
+            ],
+            [
+              5,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0.1,
+          "priorityLevel": "Normal",
+          "timestamp": 9399.300000011921,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  1
+                ]
+              }
+            ]
+          ],
+          "duration": 0.6,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.6
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0.1,
+          "priorityLevel": "Immediate",
+          "timestamp": 10310.800000011921,
+          "updaters": [
+            {
+              "displayName": "Form",
+              "id": 6,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0,
+                  7
+                ]
+              }
+            ]
+          ],
+          "duration": 0.8,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.5
+            ],
+            [
+              5,
+              0.8
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.2
+            ],
+            [
+              5,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 10397.800000011921,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.5,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.3
+            ],
+            [
+              5,
+              0.5
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.2
+            ],
+            [
+              5,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 11398.300000011921,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  1
+                ]
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  1
+                ]
+              }
+            ]
+          ],
+          "duration": 2.7,
+          "effectDuration": 0.1,
+          "fiberActualDurations": [
+            [
+              6,
+              0.3
+            ],
+            [
+              5,
+              2.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.1
+            ],
+            [
+              5,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0.2,
+          "priorityLevel": "Immediate",
+          "timestamp": 11960,
+          "updaters": [
+            {
+              "displayName": "Form",
+              "id": 6,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            },
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  1
+                ]
+              }
+            ]
+          ],
+          "duration": 0.2,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.2
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 11960.899999976158,
+          "updaters": [
+            {
+              "displayName": "Form",
+              "id": 6,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  1
+                ]
+              }
+            ]
+          ],
+          "duration": 0.1,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.1
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Immediate",
+          "timestamp": 11962.099999964237,
+          "updaters": [
+            {
+              "displayName": "Form",
+              "id": 6,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.4,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.3
+            ],
+            [
+              5,
+              0.4
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.1
+            ],
+            [
+              5,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 12962,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.7,
+          "effectDuration": 0.3,
+          "fiberActualDurations": [
+            [
+              6,
+              0.5
+            ],
+            [
+              5,
+              0.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.2
+            ],
+            [
+              5,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 13963.300000011921,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 1,
+          "effectDuration": 0.2,
+          "fiberActualDurations": [
+            [
+              6,
+              0.5
+            ],
+            [
+              5,
+              1
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.2
+            ],
+            [
+              5,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 14963.899999976158,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.8,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.5
+            ],
+            [
+              5,
+              0.8
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.2
+            ],
+            [
+              5,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0.2,
+          "priorityLevel": "Normal",
+          "timestamp": 15963.300000011921,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 15.8,
+          "effectDuration": 0.2,
+          "fiberActualDurations": [
+            [
+              6,
+              11.3
+            ],
+            [
+              5,
+              15.8
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              1.7
+            ],
+            [
+              5,
+              4.2
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 17962.399999976158,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.8,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.4
+            ],
+            [
+              5,
+              0.8
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.2
+            ],
+            [
+              5,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 18963,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 1.1,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.8
+            ],
+            [
+              5,
+              1.1
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.4
+            ],
+            [
+              5,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 19963.69999998808,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 1.3,
+          "effectDuration": 0.2,
+          "fiberActualDurations": [
+            [
+              6,
+              0.8
+            ],
+            [
+              5,
+              1.3
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.4
+            ],
+            [
+              5,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 20964.899999976158,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.7,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.3
+            ],
+            [
+              5,
+              0.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.1
+            ],
+            [
+              5,
+              0.3
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 21962.399999976158,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": []
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 0.4,
+          "effectDuration": 0,
+          "fiberActualDurations": [
+            [
+              6,
+              0.3
+            ],
+            [
+              5,
+              0.4
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              6,
+              0.2
+            ],
+            [
+              5,
+              0.1
+            ]
+          ],
+          "passiveEffectDuration": 0,
+          "priorityLevel": "Normal",
+          "timestamp": 22962.30000001192,
+          "updaters": [
+            {
+              "displayName": "Age",
+              "id": 5,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        }
+      ],
+      "displayName": "App",
+      "initialTreeBaseDurations": [],
+      "operations": [
+        [
+          1,
+          1,
+          19,
+          3,
+          65,
+          112,
+          112,
+          6,
+          76,
+          97,
+          121,
+          111,
+          117,
+          116,
+          7,
+          77,
+          111,
+          118,
+          101,
+          83,
+          116,
+          114,
+          1,
+          1,
+          11,
+          0,
+          3,
+          1,
+          1,
+          4,
+          1,
+          2000,
+          1,
+          2,
+          5,
+          1,
+          0,
+          1,
+          0,
+          7,
+          2,
+          1,
+          4,
+          2,
+          1199,
+          1,
+          3,
+          5,
+          2,
+          2,
+          2,
+          0,
+          4,
+          3,
+          500,
+          1,
+          4,
+          5,
+          3,
+          3,
+          3,
+          0,
+          4,
+          4,
+          199
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          4,
+          700,
+          4,
+          3,
+          1000,
+          4,
+          2,
+          1700,
+          4,
+          1,
+          2500
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          4,
+          500,
+          4,
+          3,
+          800,
+          4,
+          2,
+          1500,
+          4,
+          1,
+          2300
+        ],
+        [
+          1,
+          1,
+          9,
+          3,
+          65,
+          103,
+          101,
+          4,
+          70,
+          111,
+          114,
+          109,
+          4,
+          4,
+          0,
+          1,
+          5,
+          5,
+          3,
+          3,
+          1,
+          0,
+          4,
+          5,
+          2500,
+          1,
+          6,
+          5,
+          5,
+          5,
+          2,
+          0,
+          4,
+          6,
+          1899,
+          4,
+          3,
+          2699,
+          3,
+          3,
+          2,
+          4,
+          5,
+          4,
+          2,
+          3399,
+          4,
+          1,
+          4199
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          500,
+          4,
+          5,
+          800,
+          4,
+          3,
+          1000,
+          4,
+          2,
+          1699,
+          4,
+          1,
+          2500
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          200,
+          4,
+          5,
+          400,
+          4,
+          3,
+          600,
+          4,
+          2,
+          1300,
+          4,
+          1,
+          2100
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          199,
+          4,
+          5,
+          300,
+          4,
+          3,
+          500,
+          4,
+          2,
+          1199,
+          4,
+          1,
+          2000
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          399,
+          4,
+          5,
+          1000,
+          4,
+          3,
+          1199,
+          4,
+          2,
+          1899,
+          4,
+          1,
+          2699
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          300,
+          4,
+          5,
+          699,
+          4,
+          3,
+          899,
+          4,
+          2,
+          1599,
+          4,
+          1,
+          2399
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          400,
+          4,
+          5,
+          800,
+          4,
+          3,
+          1000,
+          4,
+          2,
+          1699,
+          4,
+          1,
+          2500
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          300,
+          4,
+          5,
+          600,
+          4,
+          3,
+          800,
+          4,
+          2,
+          1500,
+          4,
+          1,
+          2300
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          300,
+          4,
+          5,
+          500,
+          4,
+          3,
+          699,
+          4,
+          2,
+          1399,
+          4,
+          1,
+          2199
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          100,
+          4,
+          5,
+          300,
+          4,
+          3,
+          500,
+          4,
+          2,
+          1199,
+          4,
+          1,
+          2000
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          200,
+          4,
+          5,
+          300,
+          4,
+          3,
+          500,
+          4,
+          2,
+          1200,
+          4,
+          1,
+          2000
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          5,
+          400,
+          4,
+          3,
+          600,
+          4,
+          2,
+          1300,
+          4,
+          1,
+          2100
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          199,
+          4,
+          5,
+          699,
+          4,
+          3,
+          899,
+          4,
+          2,
+          1599,
+          4,
+          1,
+          2399
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          300,
+          4,
+          5,
+          500,
+          4,
+          3,
+          699,
+          4,
+          2,
+          1399,
+          4,
+          1,
+          2199
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          1900,
+          4,
+          5,
+          6200,
+          4,
+          3,
+          6400,
+          4,
+          2,
+          7100,
+          4,
+          1,
+          7900
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          199,
+          4,
+          5,
+          500,
+          4,
+          3,
+          699,
+          4,
+          2,
+          1399,
+          4,
+          1,
+          2199
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          599,
+          4,
+          5,
+          899,
+          4,
+          3,
+          1099,
+          4,
+          2,
+          1799,
+          4,
+          1,
+          2599
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          499,
+          4,
+          5,
+          899,
+          4,
+          3,
+          1099,
+          4,
+          2,
+          1799,
+          4,
+          1,
+          2599
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          100,
+          4,
+          5,
+          399,
+          4,
+          3,
+          599,
+          4,
+          2,
+          1299,
+          4,
+          1,
+          2099
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          6,
+          199,
+          4,
+          5,
+          300,
+          4,
+          3,
+          500,
+          4,
+          2,
+          1199,
+          4,
+          1,
+          2000
+        ]
+      ],
+      "rootID": 1,
+      "snapshots": []
+    }
+  ],
+  "timelineData": [
+    {
+      "batchUIDToMeasuresKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.5,
+              "duration": 5.600000023841858
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.5,
+              "duration": 3.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 16.400000035762787,
+              "duration": 1.699999988079071
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19.600000023841858,
+              "duration": 0.3999999761581421
+            }
+          ]
+        ],
+        [
+          2,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 1021.8000000119209,
+              "duration": 2
+            },
+            {
+              "type": "render",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 1021.8000000119209,
+              "duration": 1
+            },
+            {
+              "type": "commit",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 1022.8000000119209,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 1023.1000000238419,
+              "duration": 0.09999996423721313
+            }
+          ]
+        ],
+        [
+          3,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 3023.900000035763,
+              "duration": 2.799999952316284
+            },
+            {
+              "type": "render",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 3023.900000035763,
+              "duration": 1
+            },
+            {
+              "type": "commit",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 3025,
+              "duration": 1.699999988079071
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 3,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 3025.5,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          4,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4395.900000035763,
+              "duration": 6.699999988079071
+            },
+            {
+              "type": "render",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4395.900000035763,
+              "duration": 4.299999952316284
+            },
+            {
+              "type": "commit",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4400.300000011921,
+              "duration": 2.300000011920929
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 4,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4400.5,
+              "duration": 0.40000003576278687
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 4,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4401.300000011921,
+              "duration": 0.8999999761581421
+            }
+          ]
+        ],
+        [
+          5,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5403.600000023842,
+              "duration": 2
+            },
+            {
+              "type": "render",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5403.600000023842,
+              "duration": 1.0999999642372131
+            },
+            {
+              "type": "commit",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5404.699999988079,
+              "duration": 0.9000000357627869
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 5,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5405.199999988079,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5405.600000023842,
+              "duration": 0.09999996423721313
+            }
+          ]
+        ],
+        [
+          6,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 6405.5,
+              "duration": 1.100000023841858
+            },
+            {
+              "type": "render",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 6405.5,
+              "duration": 0.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 6406.199999988079,
+              "duration": 0.40000003576278687
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 6,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 6406.300000011921,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 6406.600000023842,
+              "duration": 0.09999996423721313
+            }
+          ]
+        ],
+        [
+          7,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 7,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 7403.100000023842,
+              "duration": 1.0999999642372131
+            },
+            {
+              "type": "render",
+              "batchUID": 7,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 7403.100000023842,
+              "duration": 0.5999999642372131
+            },
+            {
+              "type": "commit",
+              "batchUID": 7,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 7403.699999988079,
+              "duration": 0.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 7,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 7403.900000035763,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 7,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 7404.199999988079,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          8,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 8,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 8403.699999988079,
+              "duration": 2.200000047683716
+            },
+            {
+              "type": "render",
+              "batchUID": 8,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 8403.699999988079,
+              "duration": 1.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 8,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 8405.300000011921,
+              "duration": 0.6000000238418579
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 8,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 8405.5,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 8,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 8405.900000035763,
+              "duration": 0.09999996423721313
+            }
+          ]
+        ],
+        [
+          9,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 9,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 9405.300000011921,
+              "duration": 1.699999988079071
+            },
+            {
+              "type": "render",
+              "batchUID": 9,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 9405.300000011921,
+              "duration": 1.100000023841858
+            },
+            {
+              "type": "commit",
+              "batchUID": 9,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 9406.5,
+              "duration": 0.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 9,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 9406.699999988079,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 9,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 9407,
+              "duration": 0.19999998807907104
+            }
+          ]
+        ],
+        [
+          10,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 10,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 10316.800000011921,
+              "duration": 1.899999976158142
+            },
+            {
+              "type": "render",
+              "batchUID": 10,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 10316.800000011921,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "commit",
+              "batchUID": 10,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 10317.699999988079,
+              "duration": 1
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 10,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 10318,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 10,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 10318.600000023842,
+              "duration": 0.09999996423721313
+            }
+          ]
+        ],
+        [
+          11,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 11,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 10403.800000011921,
+              "duration": 1.800000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 11,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 10403.800000011921,
+              "duration": 1
+            },
+            {
+              "type": "commit",
+              "batchUID": 11,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 10404.900000035763,
+              "duration": 0.699999988079071
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 11,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 10405.199999988079,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 11,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 10405.600000023842,
+              "duration": 0.09999996423721313
+            }
+          ]
+        ],
+        [
+          12,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 12,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11405.100000023842,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "render",
+              "batchUID": 12,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11405.100000023842,
+              "duration": 0.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 12,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11405.600000023842,
+              "duration": 0.3999999761581421
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 12,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11405.800000011921,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 12,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11406,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          13,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 13,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11964.400000035763,
+              "duration": 3.5
+            },
+            {
+              "type": "render",
+              "batchUID": 13,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11964.400000035763,
+              "duration": 2.799999952316284
+            },
+            {
+              "type": "commit",
+              "batchUID": 13,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11967.199999988079,
+              "duration": 0.7000000476837158
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 13,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11967.400000035763,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 13,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11967.699999988079,
+              "duration": 0.20000004768371582
+            }
+          ]
+        ],
+        [
+          14,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 14,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11967.900000035763,
+              "duration": 0.5999999642372131
+            },
+            {
+              "type": "render",
+              "batchUID": 14,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "commit",
+              "batchUID": 14,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.199999988079,
+              "duration": 0.30000001192092896
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 14,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.400000035763,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 14,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.5,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          15,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 15,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.600000023842,
+              "duration": 1.300000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 15,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.600000023842,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "commit",
+              "batchUID": 15,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.800000011921,
+              "duration": 1.100000023841858
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 15,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11969.600000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 15,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11969.800000011921,
+              "duration": 0.10000002384185791
+            }
+          ]
+        ],
+        [
+          16,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 16,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12968.699999988079,
+              "duration": 1
+            },
+            {
+              "type": "render",
+              "batchUID": 16,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12968.699999988079,
+              "duration": 0.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 16,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12969.199999988079,
+              "duration": 0.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 16,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12969.400000035763,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 16,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12969.699999988079,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          17,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 17,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13969.400000035763,
+              "duration": 1.5999999642372131
+            },
+            {
+              "type": "render",
+              "batchUID": 17,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13969.400000035763,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "commit",
+              "batchUID": 17,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13970.400000035763,
+              "duration": 0.5999999642372131
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 17,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13970.600000023842,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 17,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13971,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          18,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 18,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14969.600000023842,
+              "duration": 2.199999988079071
+            },
+            {
+              "type": "render",
+              "batchUID": 18,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14969.600000023842,
+              "duration": 1.0999999642372131
+            },
+            {
+              "type": "commit",
+              "batchUID": 18,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14970.800000011921,
+              "duration": 1
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 18,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14971.100000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 18,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14971.800000011921,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          19,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 19,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15969.400000035763,
+              "duration": 1.5999999642372131
+            },
+            {
+              "type": "render",
+              "batchUID": 19,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15969.400000035763,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "commit",
+              "batchUID": 19,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15970.400000035763,
+              "duration": 0.5999999642372131
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 19,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15970.600000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 19,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15971,
+              "duration": 0.19999998807907104
+            }
+          ]
+        ],
+        [
+          20,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 20,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17942,
+              "duration": 28.30000001192093
+            },
+            {
+              "type": "render",
+              "batchUID": 20,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17942,
+              "duration": 16.100000023841858
+            },
+            {
+              "type": "commit",
+              "batchUID": 20,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17958.30000001192,
+              "duration": 12
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 20,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17960.5,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 20,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17971.100000023842,
+              "duration": 0.09999996423721313
+            }
+          ]
+        ],
+        [
+          21,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 21,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 18969.19999998808,
+              "duration": 1.5
+            },
+            {
+              "type": "render",
+              "batchUID": 21,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 18969.19999998808,
+              "duration": 0.9000000357627869
+            },
+            {
+              "type": "commit",
+              "batchUID": 21,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 18970.100000023842,
+              "duration": 0.5999999642372131
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 21,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 18970.400000035763,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 21,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 18970.80000001192,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          22,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 22,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19969.400000035763,
+              "duration": 2
+            },
+            {
+              "type": "render",
+              "batchUID": 22,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19969.400000035763,
+              "duration": 1.199999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 22,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19970.69999998808,
+              "duration": 0.7000000476837158
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 22,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19971,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 22,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19971.5,
+              "duration": 0.10000002384185791
+            }
+          ]
+        ],
+        [
+          23,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 23,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 20970,
+              "duration": 2.5
+            },
+            {
+              "type": "render",
+              "batchUID": 23,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 20970,
+              "duration": 1.600000023841858
+            },
+            {
+              "type": "commit",
+              "batchUID": 23,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 20971.69999998808,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 23,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 20972,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 23,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 20972.600000023842,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          24,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 24,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 21968.900000035763,
+              "duration": 1.199999988079071
+            },
+            {
+              "type": "render",
+              "batchUID": 24,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 21968.900000035763,
+              "duration": 0.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 24,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 21969.600000023842,
+              "duration": 0.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 24,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 21969.80000001192,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 24,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 21970.100000023842,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          25,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 25,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22969.19999998808,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 25,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22969.19999998808,
+              "duration": 0.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 25,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22969.69999998808,
+              "duration": 0.30000001192092896
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 25,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22969.900000035763,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 25,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22970,
+              "duration": 0
+            }
+          ]
+        ]
+      ],
+      "componentMeasures": [
+        {
+          "componentName": "App",
+          "duration": 0.09999996423721313,
+          "timestamp": 13.600000023841858,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Layout",
+          "duration": 0.10000002384185791,
+          "timestamp": 14,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "duration": 0.19999998807907104,
+          "timestamp": 14.300000011920929,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "duration": 0,
+          "timestamp": 20,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "duration": 0,
+          "timestamp": 20,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "duration": 0,
+          "timestamp": 20.100000023841858,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "duration": 0,
+          "timestamp": 20.19999998807907,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "duration": 0,
+          "timestamp": 20.19999998807907,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "duration": 0,
+          "timestamp": 20.30000001192093,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "duration": 0.30000001192092896,
+          "timestamp": 1022.1000000238419,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "duration": 0.30000001192092896,
+          "timestamp": 3024.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Layout",
+          "duration": 0.19999998807907104,
+          "timestamp": 4396,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "duration": 0,
+          "timestamp": 4396.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.30000001192092896,
+          "timestamp": 4396.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 1.5999999642372131,
+          "timestamp": 4396.900000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 4401.300000011921,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.5,
+          "timestamp": 4401.300000011921,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.10000002384185791,
+          "timestamp": 4401.800000011921,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 4401.900000035763,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.09999996423721313,
+          "timestamp": 4401.900000035763,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.10000002384185791,
+          "timestamp": 4402,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.100000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.100000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.199999988079,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.199999988079,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 4402.300000011921,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 4402.300000011921,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.300000011921,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.300000011921,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.300000011921,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.10000002384185791,
+          "timestamp": 4402.300000011921,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.400000035763,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.400000035763,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.400000035763,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 4402.400000035763,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 4402.400000035763,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 4402.5,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 4402.5,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.5,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.5,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.5,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.10000002384185791,
+          "timestamp": 4402.5,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.600000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.600000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 4402.600000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.20000004768371582,
+          "timestamp": 5403.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.30000001192092896,
+          "timestamp": 5404,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.09999996423721313,
+          "timestamp": 5405.600000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.19999998807907104,
+          "timestamp": 6405.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.20000004768371582,
+          "timestamp": 6405.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 6406.600000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.10000002384185791,
+          "timestamp": 7403.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.10000002384185791,
+          "timestamp": 7403.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 7404.199999988079,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.2999999523162842,
+          "timestamp": 8403.900000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.3999999761581421,
+          "timestamp": 8404.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 8405.900000035763,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.2999999523162842,
+          "timestamp": 9405.400000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.30000001192092896,
+          "timestamp": 9405.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.09999996423721313,
+          "timestamp": 9407.100000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.30000001192092896,
+          "timestamp": 10317,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 10318.600000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.10000002384185791,
+          "timestamp": 10404,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.20000004768371582,
+          "timestamp": 10404.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 10405.600000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.09999996423721313,
+          "timestamp": 11405.100000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.20000004768371582,
+          "timestamp": 11405.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 11406,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.19999998807907104,
+          "timestamp": 11964.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.10000002384185791,
+          "timestamp": 11964.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0,
+          "timestamp": 11967.699999988079,
+          "type": "passive-effect-unmount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.10000002384185791,
+          "timestamp": 11967.699999988079,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.10000002384185791,
+          "timestamp": 11967.800000011921,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.10000002384185791,
+          "timestamp": 11968,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 11968.5,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.10000002384185791,
+          "timestamp": 11968.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 11969.900000035763,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.10000002384185791,
+          "timestamp": 12968.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.10000002384185791,
+          "timestamp": 12968.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 12969.699999988079,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.19999998807907104,
+          "timestamp": 13969.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.20000004768371582,
+          "timestamp": 13969.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 13971,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.10000002384185791,
+          "timestamp": 14969.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.19999998807907104,
+          "timestamp": 14970,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 14971.800000011921,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.10000002384185791,
+          "timestamp": 15969.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.20000004768371582,
+          "timestamp": 15969.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 15971.100000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 4.100000023841858,
+          "timestamp": 17942.30000001192,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 1.699999988079071,
+          "timestamp": 17946.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 17971.19999998808,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.09999996423721313,
+          "timestamp": 18969.400000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.19999998807907104,
+          "timestamp": 18969.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 18970.80000001192,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.19999998807907104,
+          "timestamp": 19969.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.3999999761581421,
+          "timestamp": 19969.80000001192,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 19971.600000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.30000001192092896,
+          "timestamp": 20970.30000001192,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.30000001192092896,
+          "timestamp": 20970.69999998808,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 20972.600000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.19999998807907104,
+          "timestamp": 21968.900000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.10000002384185791,
+          "timestamp": 21969.19999998808,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 21970.100000023842,
+          "type": "passive-effect-mount",
+          "warning": null
+        },
+        {
+          "componentName": "Age",
+          "duration": 0.10000002384185791,
+          "timestamp": 22969.30000001192,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0.09999996423721313,
+          "timestamp": 22969.400000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Form",
+          "duration": 0,
+          "timestamp": 22970,
+          "type": "passive-effect-mount",
+          "warning": null
+        }
+      ],
+      "duration": 22980,
+      "flamechart": [],
+      "internalModuleSourceToRanges": [],
+      "laneToLabelKeyValueArray": [
+        [
+          1,
+          "Sync"
+        ],
+        [
+          2,
+          "InputContinuousHydration"
+        ],
+        [
+          4,
+          "InputContinuous"
+        ],
+        [
+          8,
+          "DefaultHydration"
+        ],
+        [
+          16,
+          "Default"
+        ],
+        [
+          32,
+          "TransitionHydration"
+        ],
+        [
+          64,
+          "Transition"
+        ],
+        [
+          128,
+          "Transition"
+        ],
+        [
+          256,
+          "Transition"
+        ],
+        [
+          512,
+          "Transition"
+        ],
+        [
+          1024,
+          "Transition"
+        ],
+        [
+          2048,
+          "Transition"
+        ],
+        [
+          4096,
+          "Transition"
+        ],
+        [
+          8192,
+          "Transition"
+        ],
+        [
+          16384,
+          "Transition"
+        ],
+        [
+          32768,
+          "Transition"
+        ],
+        [
+          65536,
+          "Transition"
+        ],
+        [
+          131072,
+          "Transition"
+        ],
+        [
+          262144,
+          "Transition"
+        ],
+        [
+          524288,
+          "Transition"
+        ],
+        [
+          1048576,
+          "Transition"
+        ],
+        [
+          2097152,
+          "Transition"
+        ],
+        [
+          4194304,
+          "Retry"
+        ],
+        [
+          8388608,
+          "Retry"
+        ],
+        [
+          16777216,
+          "Retry"
+        ],
+        [
+          33554432,
+          "Retry"
+        ],
+        [
+          67108864,
+          "Retry"
+        ],
+        [
+          134217728,
+          "SelectiveHydration"
+        ],
+        [
+          268435456,
+          "IdleHydration"
+        ],
+        [
+          536870912,
+          "Idle"
+        ],
+        [
+          1073741824,
+          "Offscreen"
+        ]
+      ],
+      "laneToReactMeasureKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4395.900000035763,
+              "duration": 6.699999988079071
+            },
+            {
+              "type": "render",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4395.900000035763,
+              "duration": 4.299999952316284
+            },
+            {
+              "type": "commit",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4400.300000011921,
+              "duration": 2.300000011920929
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 4,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4400.5,
+              "duration": 0.40000003576278687
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 4,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4401.300000011921,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 10,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 10316.800000011921,
+              "duration": 1.899999976158142
+            },
+            {
+              "type": "render",
+              "batchUID": 10,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 10316.800000011921,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "commit",
+              "batchUID": 10,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 10317.699999988079,
+              "duration": 1
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 10,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 10318,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 10,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 10318.600000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 13,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11964.400000035763,
+              "duration": 3.5
+            },
+            {
+              "type": "render",
+              "batchUID": 13,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11964.400000035763,
+              "duration": 2.799999952316284
+            },
+            {
+              "type": "commit",
+              "batchUID": 13,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11967.199999988079,
+              "duration": 0.7000000476837158
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 13,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11967.400000035763,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 13,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11967.699999988079,
+              "duration": 0.20000004768371582
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 14,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11967.900000035763,
+              "duration": 0.5999999642372131
+            },
+            {
+              "type": "render",
+              "batchUID": 14,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "commit",
+              "batchUID": 14,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.199999988079,
+              "duration": 0.30000001192092896
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 14,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.400000035763,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 14,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.5,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 15,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.600000023842,
+              "duration": 1.300000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 15,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.600000023842,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "commit",
+              "batchUID": 15,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11968.800000011921,
+              "duration": 1.100000023841858
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 15,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11969.600000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 15,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 11969.800000011921,
+              "duration": 0.10000002384185791
+            }
+          ]
+        ],
+        [
+          2,
+          []
+        ],
+        [
+          4,
+          []
+        ],
+        [
+          8,
+          []
+        ],
+        [
+          16,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.5,
+              "duration": 5.600000023841858
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.5,
+              "duration": 3.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 16.400000035762787,
+              "duration": 1.699999988079071
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19.600000023841858,
+              "duration": 0.3999999761581421
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 1021.8000000119209,
+              "duration": 2
+            },
+            {
+              "type": "render",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 1021.8000000119209,
+              "duration": 1
+            },
+            {
+              "type": "commit",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 1022.8000000119209,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 1023.1000000238419,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 3023.900000035763,
+              "duration": 2.799999952316284
+            },
+            {
+              "type": "render",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 3023.900000035763,
+              "duration": 1
+            },
+            {
+              "type": "commit",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 3025,
+              "duration": 1.699999988079071
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 3,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 3025.5,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5403.600000023842,
+              "duration": 2
+            },
+            {
+              "type": "render",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5403.600000023842,
+              "duration": 1.0999999642372131
+            },
+            {
+              "type": "commit",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5404.699999988079,
+              "duration": 0.9000000357627869
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 5,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5405.199999988079,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 5405.600000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 6405.5,
+              "duration": 1.100000023841858
+            },
+            {
+              "type": "render",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 6405.5,
+              "duration": 0.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 6406.199999988079,
+              "duration": 0.40000003576278687
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 6,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 6406.300000011921,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 6,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 6406.600000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 7,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 7403.100000023842,
+              "duration": 1.0999999642372131
+            },
+            {
+              "type": "render",
+              "batchUID": 7,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 7403.100000023842,
+              "duration": 0.5999999642372131
+            },
+            {
+              "type": "commit",
+              "batchUID": 7,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 7403.699999988079,
+              "duration": 0.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 7,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 7403.900000035763,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 7,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 7404.199999988079,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 8,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 8403.699999988079,
+              "duration": 2.200000047683716
+            },
+            {
+              "type": "render",
+              "batchUID": 8,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 8403.699999988079,
+              "duration": 1.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 8,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 8405.300000011921,
+              "duration": 0.6000000238418579
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 8,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 8405.5,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 8,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 8405.900000035763,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 9,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 9405.300000011921,
+              "duration": 1.699999988079071
+            },
+            {
+              "type": "render",
+              "batchUID": 9,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 9405.300000011921,
+              "duration": 1.100000023841858
+            },
+            {
+              "type": "commit",
+              "batchUID": 9,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 9406.5,
+              "duration": 0.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 9,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 9406.699999988079,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 9,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 9407,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 11,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 10403.800000011921,
+              "duration": 1.800000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 11,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 10403.800000011921,
+              "duration": 1
+            },
+            {
+              "type": "commit",
+              "batchUID": 11,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 10404.900000035763,
+              "duration": 0.699999988079071
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 11,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 10405.199999988079,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 11,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 10405.600000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 12,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11405.100000023842,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "render",
+              "batchUID": 12,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11405.100000023842,
+              "duration": 0.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 12,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11405.600000023842,
+              "duration": 0.3999999761581421
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 12,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11405.800000011921,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 12,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 11406,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 16,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12968.699999988079,
+              "duration": 1
+            },
+            {
+              "type": "render",
+              "batchUID": 16,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12968.699999988079,
+              "duration": 0.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 16,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12969.199999988079,
+              "duration": 0.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 16,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12969.400000035763,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 16,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12969.699999988079,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 17,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13969.400000035763,
+              "duration": 1.5999999642372131
+            },
+            {
+              "type": "render",
+              "batchUID": 17,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13969.400000035763,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "commit",
+              "batchUID": 17,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13970.400000035763,
+              "duration": 0.5999999642372131
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 17,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13970.600000023842,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 17,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 13971,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 18,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14969.600000023842,
+              "duration": 2.199999988079071
+            },
+            {
+              "type": "render",
+              "batchUID": 18,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14969.600000023842,
+              "duration": 1.0999999642372131
+            },
+            {
+              "type": "commit",
+              "batchUID": 18,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14970.800000011921,
+              "duration": 1
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 18,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14971.100000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 18,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 14971.800000011921,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 19,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15969.400000035763,
+              "duration": 1.5999999642372131
+            },
+            {
+              "type": "render",
+              "batchUID": 19,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15969.400000035763,
+              "duration": 0.8999999761581421
+            },
+            {
+              "type": "commit",
+              "batchUID": 19,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15970.400000035763,
+              "duration": 0.5999999642372131
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 19,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15970.600000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 19,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 15971,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 20,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17942,
+              "duration": 28.30000001192093
+            },
+            {
+              "type": "render",
+              "batchUID": 20,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17942,
+              "duration": 16.100000023841858
+            },
+            {
+              "type": "commit",
+              "batchUID": 20,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17958.30000001192,
+              "duration": 12
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 20,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17960.5,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 20,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 17971.100000023842,
+              "duration": 0.09999996423721313
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 21,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 18969.19999998808,
+              "duration": 1.5
+            },
+            {
+              "type": "render",
+              "batchUID": 21,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 18969.19999998808,
+              "duration": 0.9000000357627869
+            },
+            {
+              "type": "commit",
+              "batchUID": 21,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 18970.100000023842,
+              "duration": 0.5999999642372131
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 21,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 18970.400000035763,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 21,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 18970.80000001192,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 22,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19969.400000035763,
+              "duration": 2
+            },
+            {
+              "type": "render",
+              "batchUID": 22,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19969.400000035763,
+              "duration": 1.199999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 22,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19970.69999998808,
+              "duration": 0.7000000476837158
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 22,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19971,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 22,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19971.5,
+              "duration": 0.10000002384185791
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 23,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 20970,
+              "duration": 2.5
+            },
+            {
+              "type": "render",
+              "batchUID": 23,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 20970,
+              "duration": 1.600000023841858
+            },
+            {
+              "type": "commit",
+              "batchUID": 23,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 20971.69999998808,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 23,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 20972,
+              "duration": 0.19999998807907104
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 23,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 20972.600000023842,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 24,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 21968.900000035763,
+              "duration": 1.199999988079071
+            },
+            {
+              "type": "render",
+              "batchUID": 24,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 21968.900000035763,
+              "duration": 0.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 24,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 21969.600000023842,
+              "duration": 0.5
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 24,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 21969.80000001192,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 24,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 21970.100000023842,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 25,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22969.19999998808,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 25,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22969.19999998808,
+              "duration": 0.5
+            },
+            {
+              "type": "commit",
+              "batchUID": 25,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22969.69999998808,
+              "duration": 0.30000001192092896
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 25,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22969.900000035763,
+              "duration": 0
+            },
+            {
+              "type": "passive-effects",
+              "batchUID": 25,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 22970,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          32,
+          []
+        ],
+        [
+          64,
+          []
+        ],
+        [
+          128,
+          []
+        ],
+        [
+          256,
+          []
+        ],
+        [
+          512,
+          []
+        ],
+        [
+          1024,
+          []
+        ],
+        [
+          2048,
+          []
+        ],
+        [
+          4096,
+          []
+        ],
+        [
+          8192,
+          []
+        ],
+        [
+          16384,
+          []
+        ],
+        [
+          32768,
+          []
+        ],
+        [
+          65536,
+          []
+        ],
+        [
+          131072,
+          []
+        ],
+        [
+          262144,
+          []
+        ],
+        [
+          524288,
+          []
+        ],
+        [
+          1048576,
+          []
+        ],
+        [
+          2097152,
+          []
+        ],
+        [
+          4194304,
+          []
+        ],
+        [
+          8388608,
+          []
+        ],
+        [
+          16777216,
+          []
+        ],
+        [
+          33554432,
+          []
+        ],
+        [
+          67108864,
+          []
+        ],
+        [
+          134217728,
+          []
+        ],
+        [
+          268435456,
+          []
+        ],
+        [
+          536870912,
+          []
+        ],
+        [
+          1073741824,
+          []
+        ]
+      ],
+      "nativeEvents": [],
+      "networkMeasures": [],
+      "otherUserTimingMarks": [],
+      "reactVersion": "18.2.0",
+      "schedulingEvents": [
+        {
+          "lanes": [
+            16
+          ],
+          "timestamp": 10,
+          "type": "schedule-render",
+          "warning": null
+        },
+        {
+          "componentName": "MoveStr",
+          "lanes": [
+            16
+          ],
+          "timestamp": 1021.6999999880791,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at MoveStr (http://localhost:3000/static/js/bundle.js:758:5)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "MoveStr",
+          "lanes": [
+            16
+          ],
+          "timestamp": 3023.300000011921,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at MoveStr (http://localhost:3000/static/js/bundle.js:758:5)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Layout",
+          "lanes": [
+            1
+          ],
+          "timestamp": 4395.800000011921,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Form",
+          "lanes": [
+            16
+          ],
+          "timestamp": 5403.199999988079,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Form (http://localhost:3000/static/js/bundle.js:481:5)\n    at div (<anonymous>)\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 5403.400000035763,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 5403.5,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 6404.300000011921,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 6404.400000035763,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 7402.900000035763,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 7403.100000023842,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 8403.400000035763,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 8403.600000023842,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 9403.800000011921,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 9404,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Form",
+          "lanes": [
+            1
+          ],
+          "timestamp": 10316.800000011921,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Form (http://localhost:3000/static/js/bundle.js:481:5)\n    at div (<anonymous>)\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 10403.600000023842,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 10403.699999988079,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 11404.100000023842,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Form",
+          "lanes": [
+            1
+          ],
+          "timestamp": 11963.900000035763,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Form (http://localhost:3000/static/js/bundle.js:481:5)\n    at div (<anonymous>)\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            1
+          ],
+          "timestamp": 11964,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Form",
+          "lanes": [
+            1
+          ],
+          "timestamp": 11964.300000011921,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Form (http://localhost:3000/static/js/bundle.js:481:5)\n    at div (<anonymous>)\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Form",
+          "lanes": [
+            1
+          ],
+          "timestamp": 11967.900000035763,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Form (http://localhost:3000/static/js/bundle.js:481:5)\n    at div (<anonymous>)\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Form",
+          "lanes": [
+            1
+          ],
+          "timestamp": 11968.600000023842,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Form (http://localhost:3000/static/js/bundle.js:481:5)\n    at div (<anonymous>)\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 12968.5,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 13969.199999988079,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 14969.400000035763,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 15969.199999988079,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 17938.600000023842,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 18969.100000023842,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 19969.19999998808,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 20969.80000001192,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 21968.69999998808,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        },
+        {
+          "componentName": "Age",
+          "lanes": [
+            16
+          ],
+          "timestamp": 22969.19999998808,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at Age (http://localhost:3000/static/js/bundle.js:193:72)\n    at div (<anonymous>)\n    at Layout (http://localhost:3000/static/js/bundle.js:106:90)\n    at div (<anonymous>)\n    at App (<anonymous>)"
+        }
+      ],
+      "snapshots": [],
+      "snapshotHeight": 0,
+      "startTime": 30.599999964237213,
+      "suspenseEvents": [],
+      "thrownErrors": []
+    }
+  ]
+}

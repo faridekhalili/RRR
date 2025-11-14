@@ -1,0 +1,17 @@
+|      sibling       |
++--------------------+
+| <Home />           |
+| <Login />          |
+| <Product />        |
+| <Payment />        |
+| <Cart />           |
+| <ProductDetails /> |
+| <ProductDetails /> |
+| <Navbar />         |
+| <Banner />         |
+| <Footer />         |
+| <Header />         |
+| <Footer />         |
+| <Navbar />         |
+| <Navbar />         |
+| <Footer />         |

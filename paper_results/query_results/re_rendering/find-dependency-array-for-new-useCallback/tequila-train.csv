@@ -1,0 +1,4 @@
+"col0"
+"frontend/src/components/layout/header/account/account.tsx:<13,21>--<13,46>~~~use_callback_dep???setIsModalOpen"
+"frontend/src/components/layout/header/account/account.tsx:<14,22>--<14,48>~~~use_callback_dep???setIsModalOpen"
+"frontend/src/components/sections/login-section/login-section.tsx:<9,22>--<9,41>~~~use_callback_dep???setOpen"

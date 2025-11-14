@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Alert> ... /Alert> |
+| <LeaveRoom />       |
+| <ShowMembers/>      |
+| <JoinRoom />        |
+| <MessageForm />     |

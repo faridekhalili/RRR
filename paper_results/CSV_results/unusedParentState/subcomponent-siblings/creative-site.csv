@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <NavBar />          |
+| <LoadingIcon />     |
+| <ColorC ... rue} /> |
+| <ColorC ... lse} /> |

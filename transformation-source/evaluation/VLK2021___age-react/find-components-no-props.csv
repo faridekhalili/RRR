@@ -1,0 +1,4 @@
+"col0"
+"src/App.js:<5,1>--<11,1>~~~component_no_props"
+"src/Layout/Layout.js:<8,16>--<19,1>~~~component_no_props"
+"src/components/Age/Age.js:<7,13>--<127,1>~~~component_no_props"

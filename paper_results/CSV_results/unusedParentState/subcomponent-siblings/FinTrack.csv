@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <AddExpense />      |
+| <EditEx ... ils} /> |
+| <AddIncome />       |
+| <EditIn ... ils} /> |
+| <AddInvestment />   |
+| <EditIn ... ils} /> |
+| <EditProfile />     |

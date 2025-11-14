@@ -1,0 +1,15 @@
+|       sibling       |
++---------------------+
+| <Facebo ... out} /> |
+| <Movie />           |
+| <Ecom />            |
+| <Login />           |
+| <Register />        |
+| <Dashboard />       |
+| <UserProfile />     |
+| <AdminProfile />    |
+| <CreatePost />      |
+| <Saved  ... out} /> |
+| <AdminFriend />     |
+| <AdminFriend />     |
+| <AdminFriend />     |

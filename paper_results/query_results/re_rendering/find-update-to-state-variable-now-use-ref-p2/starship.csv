@@ -1,0 +1,6 @@
+"col0"
+"ui/src/components/NoticeIcon/index.tsx:<79,5>--<79,26>~~~set_state_to_assignment_current???{varName:notices}"
+"ui/src/components/NoticeIcon/index.tsx:<86,5>--<94,5>~~~set_state_to_assignment_current???{varName:notices}"
+"ui/src/components/NoticeIcon/index.tsx:<98,5>--<106,5>~~~set_state_to_assignment_current???{varName:notices}"
+"ui/src/pages/CreateModule/index.tsx:<78,9>--<78,46>~~~set_state_to_assignment_current???{varName:fileContent}"
+"ui/src/pages/User/Login/index.tsx:<75,7>--<75,28>~~~set_state_to_assignment_current???{varName:userLoginState}"

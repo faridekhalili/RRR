@@ -1,0 +1,4 @@
+|       sibling       |
++---------------------+
+| <Layout />          |
+| <Hats hats={hats}/> |

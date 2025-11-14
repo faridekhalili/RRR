@@ -1,0 +1,8 @@
+|   sibling   |
++-------------+
+| <Sidebar /> |
+| <Navbar />  |
+| <Sidebar /> |
+| <Navbar />  |
+| <Sidebar /> |
+| <Navbar />  |

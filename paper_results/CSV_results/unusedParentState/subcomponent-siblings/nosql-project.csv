@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <Navbar />          |
+| <Header ... ist" /> |
+| <MailList />        |
+| <Footer />          |
+| <Navbar />          |
+| <Header ... ist" /> |
+| <Search ... _id} /> |

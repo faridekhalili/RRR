@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <ViewingUserDash /> |
+| <GroupRoom />       |
+| <Dashboard />       |
+| <GroupPage />       |
+| <DeleteAccount />   |
+| <SignInUp />        |
+| <Social ... ser} /> |
+| <JoingG ... oup} /> |
+| <GroupNav/>         |
+| <GroupUsers />      |

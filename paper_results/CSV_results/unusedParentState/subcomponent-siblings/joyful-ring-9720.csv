@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Footer />          |
+| <SplitW ... now} /> |
+| <Produc ...      /> |
+| <Second/>           |
+| <Footer/>           |

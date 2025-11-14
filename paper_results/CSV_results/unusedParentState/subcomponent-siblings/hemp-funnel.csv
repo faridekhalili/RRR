@@ -1,0 +1,15 @@
+|       sibling        |
++----------------------+
+| <Header />           |
+| <HeroBanner />       |
+| <Brand\n ...      /> |
+| <Brand\n ...      /> |
+| <Brand\n ...      /> |
+| <Brand\n ...      /> |
+| <Button ... 000" />  |
+| <Button ... fff" />  |
+| <Pricing />          |
+| <OrderF ... iner />  |
+| <Carous ... ials />  |
+| <Button ... 000" />  |
+| <Footer />           |

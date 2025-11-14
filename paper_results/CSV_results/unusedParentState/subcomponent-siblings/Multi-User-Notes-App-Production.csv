@@ -1,0 +1,7 @@
+|     sibling      |
++------------------+
+| <Header/>        |
+| <ErrorMessage1/> |
+| <ErrorMessage2/> |
+| <ErrorMessage3/> |
+| <ErrorMessage4/> |

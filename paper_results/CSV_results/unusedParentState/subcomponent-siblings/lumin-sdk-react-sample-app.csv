@@ -1,0 +1,7 @@
+|       sibling        |
++----------------------+
+| <Income ... lot} />  |
+| <MonthlyBarChart />  |
+| <OrdersTable />      |
+| <ReportAreaChart />  |
+| <SalesColumnChart /> |

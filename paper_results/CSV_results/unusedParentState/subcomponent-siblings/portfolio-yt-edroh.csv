@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <LineGradient />    |
+| <MySkills />        |
+| <LineGradient />    |
+| <Projects />        |
+| <LineGradient />    |
+| <Testimonials />    |
+| <LineGradient />    |
+| <Contact />         |
+| <Footer />          |
+| <Projec ... ink} /> |

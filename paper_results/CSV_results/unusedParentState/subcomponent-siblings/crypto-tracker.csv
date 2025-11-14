@@ -1,0 +1,11 @@
+|       sibling       |
++---------------------+
+| <AppBar ... ops} /> |
+| <Scroll ... lToTop> |
+| <Vertic ... ops} /> |
+| <Curren ...      /> |
+| <Summar ...      /> |
+| <Transa ...      /> |
+| <Detail ...      /> |
+| <Alert  ... /Alert> |
+| <Alert  ... /Alert> |

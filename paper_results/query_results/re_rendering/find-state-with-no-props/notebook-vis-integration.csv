@@ -1,0 +1,5 @@
+"col0"
+"src/widgets/interactive_table/ColumnHeader.tsx:<28,9>--<28,52>~~~use_state_to_use_ref"
+"src/widgets/interactive_table/DatatableComponent.tsx:<52,9>--<52,57>~~~use_state_to_use_ref"
+"src/widgets/interactive_table/RowValue.tsx:<16,9>--<16,61>~~~use_state_to_use_ref"
+"src/widgets/utils/useCell.tsx:<9,9>--<9,67>~~~use_state_to_use_ref"

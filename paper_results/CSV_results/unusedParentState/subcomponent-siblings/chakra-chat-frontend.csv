@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <UserBa ...      /> |
+| <UserLi ...      /> |
+| <UserBa ...      /> |
+| <UserLi ...      /> |
+| <ChatPr ... oute /> |
+| <LoginLayout />     |
+| <MainPage />        |
+| <LoginP ... oute /> |

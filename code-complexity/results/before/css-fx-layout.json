@@ -1,0 +1,341 @@
+{
+  "project": {
+    "numFiles": 13,
+    "sloc": {
+      "physical": 337,
+      "logical": 323
+    },
+    "cyclomatic": {
+      "value": 50,
+      "density": 15.479876160990713
+    },
+    "halstead": {
+      "distinctOperators": 160,
+      "totalOperators": 936,
+      "distinctOperands": 544,
+      "totalOperands": 1206,
+      "vocabulary": 704,
+      "length": 2142,
+      "estimatedLength": 6397.5738402402385,
+      "volume": 20262.10252712109,
+      "difficulty": 177.35294117647058,
+      "effort": 3593543.4776041224,
+      "time": 199641.30431134012,
+      "bugs": 6.75403417570703
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/pages/index.js": {
+      "sloc": {
+        "physical": 49,
+        "logical": 37
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 5.405405405405405
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 138,
+        "distinctOperands": 63,
+        "totalOperands": 179,
+        "vocabulary": 73,
+        "length": 317,
+        "estimatedLength": 436.34143441549395,
+        "volume": 1962.1743851649655,
+        "difficulty": 14.206349206349207,
+        "effort": 27875.334519407053,
+        "time": 1548.6296955226142,
+        "bugs": 0.6540581283883219
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/HomepageFeatures/index.js": {
+      "sloc": {
+        "physical": 56,
+        "logical": 50
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 8
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 174,
+        "distinctOperands": 83,
+        "totalOperands": 239,
+        "vocabulary": 98,
+        "length": 413,
+        "estimatedLength": 624.7538642719986,
+        "volume": 2731.8751656195814,
+        "difficulty": 21.596385542168672,
+        "effort": 58998.62932979637,
+        "time": 3277.7016294331315,
+        "bugs": 0.9106250552065271
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example1.js": {
+      "sloc": {
+        "physical": 14,
+        "logical": 11
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 9.090909090909092
+      },
+      "halstead": {
+        "distinctOperators": 7,
+        "totalOperators": 20,
+        "distinctOperands": 21,
+        "totalOperands": 27,
+        "vocabulary": 28,
+        "length": 47,
+        "estimatedLength": 122.9848878378053,
+        "volume": 225.94568133670737,
+        "difficulty": 4.5,
+        "effort": 1016.7555660151831,
+        "time": 56.48642033417684,
+        "bugs": 0.07531522711223579
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example10.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example2.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example3.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example4.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example5.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example6.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example7.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example8.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example9.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/examples.js": {
+      "sloc": {
+        "physical": 74,
+        "logical": 90
+      },
+      "cyclomatic": {
+        "value": 25,
+        "density": 27.77777777777778
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 325,
+        "distinctOperands": 134,
+        "totalOperands": 401,
+        "vocabulary": 163,
+        "length": 726,
+        "estimatedLength": 1151.7725380446168,
+        "volume": 5335.176639971763,
+        "difficulty": 43.39179104477612,
+        "effort": 231502.86994862548,
+        "time": 12861.270552701415,
+        "bugs": 1.778392213323921
+      }
+    }
+  }
+}

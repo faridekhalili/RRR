@@ -1,0 +1,42 @@
+|       sibling        |
++----------------------+
+| <Button ... Button>  |
+| <Image\n ...      /> |
+| <Text p ... </Text>  |
+| <Image\n ...      /> |
+| <Text h ... </Text>  |
+| <Text p ... </Text>  |
+| <Text p ... </Text>  |
+| <Block\n ... /Block> |
+| <Text w ... </Text>  |
+| <Block\n ... /Block> |
+| <Block  ... /Block>  |
+| <Text p ... </Text>  |
+| <Input\n ...      /> |
+| <Button ... Button>  |
+| <Text w ... </Text>  |
+| <Text w ... </Text>  |
+| <Block\n ... /Block> |
+| <Block\n ... /Block> |
+| <Block  ... /Block>  |
+| <Text h ... </Text>  |
+| <Image\n ...      /> |
+| <Text>{ ... </Text>  |
+| <Block  ... /Block>  |
+| <Text h ... </Text>  |
+| <Text>{ ... </Text>  |
+| <Block  ... /Block>  |
+| <Text h ... </Text>  |
+| <Block  ... /Block>  |
+| <Tag {. ... d}`} />  |
+| <Text p ... </Text>  |
+| <Block\n ... /Block> |
+| <Text b ... </Text>  |
+| <Image\n ...      /> |
+| <Text p ... </Text>  |
+| <Block  ... /Block>  |
+| <Block  ... /Block>  |
+| <Text c ... </Text>  |
+| <Switch ...      />  |
+| <Button ... Button>  |
+| <Text c ... </Text>  |

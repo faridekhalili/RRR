@@ -1,0 +1,26 @@
+|       sibling       |
++---------------------+
+| <Navbar />          |
+| <Header />          |
+| <Select ... cat} /> |
+| <LoadingBox />      |
+| <CardEl ...      /> |
+| <Footer />          |
+| <Navbar />          |
+| <Header />          |
+| <Select ... cat} /> |
+| <LoadingBox />      |
+| <CardEl ...      /> |
+| <Footer />          |
+| <Navbar />          |
+| <Header />          |
+| <Select ... cat} /> |
+| <LoadingBox />      |
+| <CardEl ...      /> |
+| <Footer />          |
+| <Navbar />          |
+| <Header />          |
+| <Select ... cat} /> |
+| <LoadingBox />      |
+| <CardEl ...      /> |
+| <Footer />          |

@@ -1,0 +1,7 @@
+"col0"
+"src/reader/FeedManager.tsx:<44,5>--<44,31>~~~set_state_to_assignment_current_value???{varName:feedTitle}"
+"src/reader/FeedManager.tsx:<52,5>--<52,20>~~~set_state_to_assignment_current_value???{varName:feedTitle}"
+"src/reader/FeedManager.tsx:<53,5>--<53,18>~~~set_state_to_assignment_current_value???{varName:feedUrl}"
+"src/reader/FeedManager.tsx:<86,32>--<86,57>~~~set_state_to_assignment_current_value???{varName:feedUrl}"
+"src/reader/FeedManager.tsx:<97,32>--<97,59>~~~set_state_to_assignment_current_value???{varName:feedTitle}"
+"src/reader/FeedManager.tsx:<135,15>--<135,43>~~~set_state_to_assignment_current_value???{varName:searchText}"

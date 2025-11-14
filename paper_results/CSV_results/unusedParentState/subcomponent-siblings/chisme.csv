@@ -1,0 +1,4 @@
+|       sibling        |
++----------------------+
+| <Nav on ... out} />  |
+| <Feed user={user} /> |

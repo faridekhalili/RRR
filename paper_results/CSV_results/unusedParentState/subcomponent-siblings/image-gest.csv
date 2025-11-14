@@ -1,0 +1,11 @@
+|       sibling        |
++----------------------+
+| <Header ... erItem>  |
+| <Header ... erItem>  |
+| <Header ... erItem>  |
+| <Modal\n ...      /> |
+| <Delete ...      />  |
+| <Modal\n ...      /> |
+| <EditTi ...      />  |
+| <Search ... age} />  |
+| <ImageCardLoader />  |

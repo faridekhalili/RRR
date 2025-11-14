@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Navbar></Navbar>   |
+| <Sidebar></Sidebar> |
+| <Profil ... leuser> |
+| <Navbar></Navbar>   |
+| <Sidebar></Sidebar> |

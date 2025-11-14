@@ -1,0 +1,5 @@
+"col0"
+"src/options/hooks/useHash.ts:<4,9>--<4,42>~~~use_state_to_use_ref"
+"src/options/hooks/useHash.ts:<5,9>--<5,68>~~~use_state_to_use_ref"
+"src/options/hooks/useProtos.ts:<7,9>--<7,54>~~~use_state_to_use_ref"
+"src/options/options.tsx:<18,9>--<18,90>~~~use_state_to_use_ref"

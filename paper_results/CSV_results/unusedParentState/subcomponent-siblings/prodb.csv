@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <AppNavbar />       |
+| <AppFooter />       |
+| <AppHeader />       |
+| <Sectio ... ection> |
+| <Sectio ... ection> |

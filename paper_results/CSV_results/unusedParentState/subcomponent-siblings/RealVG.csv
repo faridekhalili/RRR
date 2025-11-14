@@ -1,0 +1,27 @@
+|       sibling        |
++----------------------+
+| <Graph  ... /Graph>  |
+| <PolyLi ...      />  |
+| <Parame ...      />  |
+| <Mark {...p0} />     |
+| <Mark {...p1} />     |
+| <Mark {...p2} />     |
+| <Mark {...p3} />     |
+| <Line s ... ed"} />  |
+| <Line s ... ed"} />  |
+| <Line\n  ...      /> |
+| <Mark p ... ={8} />  |
+| <Mark p ... ={8} />  |
+| <Mark p ... ={8} />  |
+| <Mark p ... ={8} />  |
+| <Mark p ... ={8} />  |
+| <LabelB ... lBlock>  |
+| <Mark p ... ={0} />  |
+| <Graph\n ... /Graph> |
+| <BBoxRe ...      />  |
+| <Parame ...      />  |
+| <Mark k ...  0]} />  |
+| <Graph\n ... /Graph> |
+| <BBoxRe ...      />  |
+| <Parame ...      />  |
+| <Mark k ...  0]} />  |

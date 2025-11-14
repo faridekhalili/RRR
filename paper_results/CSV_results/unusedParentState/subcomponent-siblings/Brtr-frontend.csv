@@ -1,0 +1,22 @@
+|       sibling       |
++---------------------+
+| <Home />            |
+| <NavBar ... ser} /> |
+| <SkillC ... lls} /> |
+| <Footer />          |
+| <NavBar ... ser} /> |
+| <Footer />          |
+| <NavBar ... ser} /> |
+| <Footer />          |
+| <NavBar ... User}/> |
+| <Footer />          |
+| <NavBar ... ser} /> |
+| <Footer />          |
+| <NavBar ... ser} /> |
+| <Review ... ile} /> |
+| <Review ... ile} /> |
+| <Footer />          |
+| <NavBar ... ser} /> |
+| <Footer/>           |
+| <NavBar ... ser} /> |
+| <Footer/>           |

@@ -1,0 +1,4 @@
+|       sibling        |
++----------------------+
+| <Chat user={user} /> |
+| <Chat user={user}/>  |

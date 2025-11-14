@@ -1,0 +1,17 @@
+|            sibling            |
++-------------------------------+
+| <FilmDe ... ype} />           |
+| <Child />                     |
+| <FilmIt ... tem} />           |
+| <FilmDetail />                |
+| <TitleC ... "\u7535\u5f71" /> |
+| <Cinema ... tem} />           |
+| <TitleC ... "\u7535\u5f71" /> |
+| <Cinema ... tem} />           |
+| <TitleC ... "\u7535\u5f71" /> |
+| <Cinema ... tem} />           |
+| <TitleC ... "\u7535\u5f71" /> |
+| <Cinema ... tem} />           |
+| <NowPlaying />                |
+| <ComingSoon />                |
+| <Child2 obj={obj} />          |

@@ -1,0 +1,26 @@
+|       sibling        |
++----------------------+
+| <LayoutSwitcher />   |
+| <ReformatButton />   |
+| <MetadataButton />   |
+| <Transf ...      />  |
+| <Layout ...      />  |
+| <Layout ... ata} />  |
+| <Switch ... nts} />  |
+| <Layout ...      />  |
+| <Layout ... ata} />  |
+| <Overla ... out} />  |
+| <Rotati ...      />  |
+| <Transl ...      />  |
+| <Axes\n  ...      /> |
+| <Dialog ... eading>  |
+| <Dialog ... ogNote>  |
+| <Select ... ops} />  |
+| <DragSe ...      />  |
+| <Dialog ... ogNote>  |
+| <Reorde ...      />  |
+| <Dialog ... ogNote>  |
+| <Dialog ... ctions>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Layout ...      />  |

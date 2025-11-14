@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <Dashboard />       |
+| <Movies />          |
+| <Series />          |
+| <Bookmark />        |
+| <Person />          |
+| <Profile />         |
+| <Details />         |
+| <Contact />         |
+| <NotFound />        |
+| <Modal  ... ser} /> |

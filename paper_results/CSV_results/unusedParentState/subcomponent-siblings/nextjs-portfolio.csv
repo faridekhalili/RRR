@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <Logo />            |
+| <NavIte ... avItem> |
+| <NavLin ... avLink> |
+| <NavIte ... avItem> |
+| <NavLin ... avLink> |
+| <NavIte ... avItem> |
+| <NavLin ... avLink> |
+| <NavIte ... avItem> |
+| <NavLin ... avLink> |
+| <NavIte ... avItem> |
+| <Button ... Button> |

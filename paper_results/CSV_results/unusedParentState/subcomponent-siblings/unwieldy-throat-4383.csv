@@ -1,0 +1,9 @@
+|    sibling     |
++----------------+
+| <Sidebar />    |
+| <Sidebar />    |
+| <Loader />     |
+| <Sidebar />    |
+| <Sidebar />    |
+| <DesktopNav /> |
+| <MobileNav />  |

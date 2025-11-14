@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <Text a ... </Text> |
+| <Text c ... </Text> |
+| <Text a ... </Text> |
+| <Text a ... </Text> |
+| <Text a ... </Text> |
+| <LoadingElement />  |
+| <Text c ... </Text> |
+| <Text c ... </Text> |
+| <Button ... Button> |
+| <AsideA ... ={2} /> |
+| <Title  ... /Title> |

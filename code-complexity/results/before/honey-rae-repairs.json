@@ -1,0 +1,773 @@
+{
+  "project": {
+    "numFiles": 31,
+    "sloc": {
+      "physical": 1438,
+      "logical": 1675
+    },
+    "cyclomatic": {
+      "value": 416,
+      "density": 24.83582089552239
+    },
+    "halstead": {
+      "distinctOperators": 562,
+      "totalOperators": 5495,
+      "distinctOperands": 2256,
+      "totalOperands": 6724,
+      "vocabulary": 2818,
+      "length": 12219,
+      "estimatedLength": 31391.255711059803,
+      "volume": 140035.31059700745,
+      "difficulty": 837.5195035460993,
+      "effort": 117282303.8101295,
+      "time": 6515683.545007194,
+      "bugs": 46.67843686566915
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/index.js": {
+      "sloc": {
+        "physical": 9,
+        "logical": 8
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 12.5
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 26,
+        "distinctOperands": 22,
+        "totalOperands": 33,
+        "vocabulary": 26,
+        "length": 59,
+        "estimatedLength": 115.94522208456972,
+        "volume": 277.32594337032447,
+        "difficulty": 3,
+        "effort": 831.9778301109734,
+        "time": 46.22099056172075,
+        "bugs": 0.09244198112344149
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/reportWebVitals.js": {
+      "sloc": {
+        "physical": 27,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 27.659574468085108
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 140,
+        "distinctOperands": 53,
+        "totalOperands": 163,
+        "vocabulary": 75,
+        "length": 303,
+        "estimatedLength": 429.59403409224,
+        "volume": 1887.3320632202517,
+        "difficulty": 33.83018867924528,
+        "effort": 63848.7997991304,
+        "time": 3547.1555443961333,
+        "bugs": 0.6291106877400839
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/setupTests.js": {
+      "sloc": {
+        "physical": 3,
+        "logical": 2
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 50
+      },
+      "halstead": {
+        "distinctOperators": 1,
+        "totalOperators": 1,
+        "distinctOperands": 3,
+        "totalOperands": 3,
+        "vocabulary": 4,
+        "length": 4,
+        "estimatedLength": 6.339850002884624,
+        "volume": 8,
+        "difficulty": 0.5,
+        "effort": 4,
+        "time": 0.2222222222222222,
+        "bugs": 0.0026666666666666666
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/ApiManager.js": {
+      "sloc": {
+        "physical": 127,
+        "logical": 80
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 1.25
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 332,
+        "distinctOperands": 70,
+        "totalOperands": 338,
+        "vocabulary": 79,
+        "length": 670,
+        "estimatedLength": 484.2133583386524,
+        "volume": 4223.533101278659,
+        "difficulty": 21.728571428571428,
+        "effort": 91771.34067206914,
+        "time": 5098.407815114952,
+        "bugs": 1.4078443670928864
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/Repairs.js": {
+      "sloc": {
+        "physical": 25,
+        "logical": 19
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 5.263157894736842
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 71,
+        "distinctOperands": 40,
+        "totalOperands": 94,
+        "vocabulary": 49,
+        "length": 165,
+        "estimatedLength": 260.7744766494808,
+        "volume": 926.4271242790094,
+        "difficulty": 10.575000000000001,
+        "effort": 9796.966839250525,
+        "time": 544.2759355139181,
+        "bugs": 0.3088090414263365
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/customers/Customer.js": {
+      "sloc": {
+        "physical": 17,
+        "logical": 12
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 8.333333333333332
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 38,
+        "distinctOperands": 30,
+        "totalOperands": 55,
+        "vocabulary": 39,
+        "length": 93,
+        "estimatedLength": 191.36873322873222,
+        "volume": 491.54240635418915,
+        "difficulty": 8.25,
+        "effort": 4055.2248524220604,
+        "time": 225.29026957900336,
+        "bugs": 0.16384746878472972
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/customers/CustomerDetails.js": {
+      "sloc": {
+        "physical": 37,
+        "logical": 63
+      },
+      "cyclomatic": {
+        "value": 27,
+        "density": 42.857142857142854
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 220,
+        "distinctOperands": 93,
+        "totalOperands": 259,
+        "vocabulary": 121,
+        "length": 479,
+        "estimatedLength": 791.2382161440719,
+        "volume": 3314.135490654531,
+        "difficulty": 38.98924731182796,
+        "effort": 129215.64827003582,
+        "time": 7178.647126113101,
+        "bugs": 1.104711830218177
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/customers/CustomerList.js": {
+      "sloc": {
+        "physical": 37,
+        "logical": 62
+      },
+      "cyclomatic": {
+        "value": 19,
+        "density": 30.64516129032258
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 191,
+        "distinctOperands": 85,
+        "totalOperands": 224,
+        "vocabulary": 113,
+        "length": 415,
+        "estimatedLength": 724.2611757835604,
+        "volume": 2830.3742694023035,
+        "difficulty": 36.89411764705882,
+        "effort": 104424.16128053675,
+        "time": 5801.342293363153,
+        "bugs": 0.9434580898007678
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/auth/Login.js": {
+      "sloc": {
+        "physical": 65,
+        "logical": 108
+      },
+      "cyclomatic": {
+        "value": 31,
+        "density": 28.703703703703702
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 355,
+        "distinctOperands": 143,
+        "totalOperands": 430,
+        "vocabulary": 172,
+        "length": 785,
+        "estimatedLength": 1231.497869925883,
+        "volume": 5829.617832441147,
+        "difficulty": 43.6013986013986,
+        "effort": 254179.49080608776,
+        "time": 14121.082822560431,
+        "bugs": 1.9432059441470488
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/auth/Register.js": {
+      "sloc": {
+        "physical": 111,
+        "logical": 147
+      },
+      "cyclomatic": {
+        "value": 36,
+        "density": 24.489795918367346
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 458,
+        "distinctOperands": 174,
+        "totalOperands": 571,
+        "vocabulary": 205,
+        "length": 1029,
+        "estimatedLength": 1525.8034166489895,
+        "volume": 7902.185022391104,
+        "difficulty": 50.86494252873563,
+        "effort": 401944.187015359,
+        "time": 22330.232611964388,
+        "bugs": 2.634061674130368
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/employees/Employee.js": {
+      "sloc": {
+        "physical": 17,
+        "logical": 12
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 8.333333333333332
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 38,
+        "distinctOperands": 30,
+        "totalOperands": 55,
+        "vocabulary": 39,
+        "length": 93,
+        "estimatedLength": 191.36873322873222,
+        "volume": 491.54240635418915,
+        "difficulty": 8.25,
+        "effort": 4055.2248524220604,
+        "time": 225.29026957900336,
+        "bugs": 0.16384746878472972
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/employees/EmployeeDetails.js": {
+      "sloc": {
+        "physical": 37,
+        "logical": 64
+      },
+      "cyclomatic": {
+        "value": 35,
+        "density": 54.6875
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 251,
+        "distinctOperands": 99,
+        "totalOperands": 296,
+        "vocabulary": 127,
+        "length": 547,
+        "estimatedLength": 841.9282907501104,
+        "volume": 3822.810523664375,
+        "difficulty": 41.85858585858586,
+        "effort": 160017.44252591082,
+        "time": 8889.857918106158,
+        "bugs": 1.2742701745547917
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/employees/EmployeeList.js": {
+      "sloc": {
+        "physical": 37,
+        "logical": 62
+      },
+      "cyclomatic": {
+        "value": 19,
+        "density": 30.64516129032258
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 193,
+        "distinctOperands": 87,
+        "totalOperands": 226,
+        "vocabulary": 115,
+        "length": 419,
+        "estimatedLength": 740.9385020226039,
+        "volume": 2868.2603313456934,
+        "difficulty": 36.367816091954026,
+        "effort": 104312.3642342273,
+        "time": 5795.131346345961,
+        "bugs": 0.9560867771152312
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/nav/CustomerNav.js": {
+      "sloc": {
+        "physical": 35,
+        "logical": 23
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 8.695652173913043
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 65,
+        "distinctOperands": 41,
+        "totalOperands": 92,
+        "vocabulary": 51,
+        "length": 157,
+        "estimatedLength": 273.23515223552226,
+        "volume": 890.5707786895249,
+        "difficulty": 11.219512195121952,
+        "effort": 9991.769712126377,
+        "time": 555.0983173403542,
+        "bugs": 0.2968569262298416
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/nav/EmployeeNav.js": {
+      "sloc": {
+        "physical": 45,
+        "logical": 29
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 6.896551724137931
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 85,
+        "distinctOperands": 45,
+        "totalOperands": 124,
+        "vocabulary": 55,
+        "length": 209,
+        "estimatedLength": 302.05192029813213,
+        "volume": 1208.3041801266538,
+        "difficulty": 13.777777777777779,
+        "effort": 16647.74648174501,
+        "time": 924.8748045413894,
+        "bugs": 0.40276806004221793
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/nav/NavBar.js": {
+      "sloc": {
+        "physical": 19,
+        "logical": 13
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 15.384615384615385
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 34,
+        "distinctOperands": 25,
+        "totalOperands": 39,
+        "vocabulary": 36,
+        "length": 73,
+        "estimatedLength": 167.17882283189007,
+        "volume": 377.40452510528877,
+        "difficulty": 8.58,
+        "effort": 3238.1308254033775,
+        "time": 179.8961569668543,
+        "bugs": 0.1258015083684296
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/profile/CustomerForm.js": {
+      "sloc": {
+        "physical": 92,
+        "logical": 133
+      },
+      "cyclomatic": {
+        "value": 37,
+        "density": 27.819548872180448
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 438,
+        "distinctOperands": 153,
+        "totalOperands": 550,
+        "vocabulary": 184,
+        "length": 988,
+        "estimatedLength": 1335.359363055448,
+        "volume": 7433.279212584329,
+        "difficulty": 55.71895424836602,
+        "effort": 414174.5443613164,
+        "time": 23009.696908962025,
+        "bugs": 2.4777597375281095
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/profile/EmployeeForm.js": {
+      "sloc": {
+        "physical": 97,
+        "logical": 135
+      },
+      "cyclomatic": {
+        "value": 37,
+        "density": 27.40740740740741
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 440,
+        "distinctOperands": 156,
+        "totalOperands": 556,
+        "vocabulary": 187,
+        "length": 996,
+        "estimatedLength": 1362.3702149272406,
+        "volume": 7516.706882048086,
+        "difficulty": 55.243589743589745,
+        "effort": 415249.8712146821,
+        "time": 23069.43728970456,
+        "bugs": 2.5055689606826954
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/profile/Profile.js": {
+      "sloc": {
+        "physical": 18,
+        "logical": 12
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 16.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 33,
+        "distinctOperands": 24,
+        "totalOperands": 37,
+        "vocabulary": 35,
+        "length": 70,
+        "estimatedLength": 160.47368752524048,
+        "volume": 359.0498111861476,
+        "difficulty": 8.479166666666668,
+        "effort": 3044.443190682544,
+        "time": 169.13573281569688,
+        "bugs": 0.11968327039538254
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/views/ApplicationViews.js": {
+      "sloc": {
+        "physical": 18,
+        "logical": 12
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 16.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 33,
+        "distinctOperands": 24,
+        "totalOperands": 37,
+        "vocabulary": 35,
+        "length": 70,
+        "estimatedLength": 160.47368752524048,
+        "volume": 359.0498111861476,
+        "difficulty": 8.479166666666668,
+        "effort": 3044.443190682544,
+        "time": 169.13573281569688,
+        "bugs": 0.11968327039538254
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/views/Authorized.js": {
+      "sloc": {
+        "physical": 22,
+        "logical": 16
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 12.5
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 40,
+        "distinctOperands": 29,
+        "totalOperands": 46,
+        "vocabulary": 40,
+        "length": 86,
+        "estimatedLength": 194.31923980510288,
+        "volume": 457.6858161603132,
+        "difficulty": 8.724137931034484,
+        "effort": 3992.914189260664,
+        "time": 221.82856607003689,
+        "bugs": 0.1525619387201044
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/views/CustomerViews.js": {
+      "sloc": {
+        "physical": 29,
+        "logical": 21
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 4.761904761904762
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 83,
+        "distinctOperands": 43,
+        "totalOperands": 115,
+        "vocabulary": 52,
+        "length": 198,
+        "estimatedLength": 282.1657672445091,
+        "volume": 1128.6870641919363,
+        "difficulty": 12.034883720930232,
+        "effort": 13583.61757486807,
+        "time": 754.6454208260039,
+        "bugs": 0.3762290213973121
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/views/EmployeeViews.js": {
+      "sloc": {
+        "physical": 37,
+        "logical": 27
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 3.7037037037037033
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 107,
+        "distinctOperands": 51,
+        "totalOperands": 147,
+        "vocabulary": 60,
+        "length": 254,
+        "estimatedLength": 340.34552051828973,
+        "volume": 1500.3502112845638,
+        "difficulty": 12.970588235294118,
+        "effort": 19460.424799308606,
+        "time": 1081.1347110727004,
+        "bugs": 0.5001167370948546
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/tickets/CustomerTicket.js": {
+      "sloc": {
+        "physical": 30,
+        "logical": 20
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 10
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 72,
+        "distinctOperands": 50,
+        "totalOperands": 98,
+        "vocabulary": 60,
+        "length": 170,
+        "estimatedLength": 338.63137138648347,
+        "volume": 1004.1714012534482,
+        "difficulty": 9.8,
+        "effort": 9840.879732283793,
+        "time": 546.7155406824329,
+        "bugs": 0.3347238004178161
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/tickets/CustomerTicketList.js": {
+      "sloc": {
+        "physical": 80,
+        "logical": 91
+      },
+      "cyclomatic": {
+        "value": 20,
+        "density": 21.978021978021978
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 287,
+        "distinctOperands": 112,
+        "totalOperands": 343,
+        "vocabulary": 140,
+        "length": 630,
+        "estimatedLength": 953.0296890880645,
+        "volume": 4491.448300675329,
+        "difficulty": 42.875,
+        "effort": 192570.84589145472,
+        "time": 10698.38032730304,
+        "bugs": 1.497149433558443
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/tickets/EmployeeTicket.js": {
+      "sloc": {
+        "physical": 58,
+        "logical": 41
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 29.268292682926827
+      },
+      "halstead": {
+        "distinctOperators": 18,
+        "totalOperators": 158,
+        "distinctOperands": 68,
+        "totalOperands": 187,
+        "vocabulary": 86,
+        "length": 345,
+        "estimatedLength": 523.5218043475293,
+        "volume": 2217.0613403722236,
+        "difficulty": 24.75,
+        "effort": 54872.268174212535,
+        "time": 3048.4593430118075,
+        "bugs": 0.7390204467907412
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/tickets/EmployeeTicketList.js": {
+      "sloc": {
+        "physical": 84,
+        "logical": 96
+      },
+      "cyclomatic": {
+        "value": 20,
+        "density": 20.833333333333336
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 289,
+        "distinctOperands": 113,
+        "totalOperands": 353,
+        "vocabulary": 141,
+        "length": 642,
+        "estimatedLength": 961.6452337005416,
+        "volume": 4583.591968240025,
+        "difficulty": 43.73451327433629,
+        "effort": 200461.16377913457,
+        "time": 11136.731321063031,
+        "bugs": 1.527863989413342
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/tickets/TicketEdit.js": {
+      "sloc": {
+        "physical": 81,
+        "logical": 127
+      },
+      "cyclomatic": {
+        "value": 34,
+        "density": 26.77165354330709
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 412,
+        "distinctOperands": 146,
+        "totalOperands": 511,
+        "vocabulary": 177,
+        "length": 923,
+        "estimatedLength": 1272.5989469217632,
+        "volume": 6892.599922726607,
+        "difficulty": 54.25,
+        "effort": 373923.5458079184,
+        "time": 20773.530322662133,
+        "bugs": 2.2975333075755353
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/tickets/TicketForm.js": {
+      "sloc": {
+        "physical": 102,
+        "logical": 128
+      },
+      "cyclomatic": {
+        "value": 34,
+        "density": 26.5625
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 408,
+        "distinctOperands": 148,
+        "totalOperands": 505,
+        "vocabulary": 179,
+        "length": 913,
+        "estimatedLength": 1290.492152447582,
+        "volume": 6832.723804642266,
+        "difficulty": 52.888513513513516,
+        "effort": 361372.605275928,
+        "time": 20076.255848662666,
+        "bugs": 2.277574601547422
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/tickets/TicketSearch.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 11
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 9.090909090909092
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 28,
+        "distinctOperands": 24,
+        "totalOperands": 38,
+        "vocabulary": 33,
+        "length": 66,
+        "estimatedLength": 151.30376252379818,
+        "volume": 332.93001187765793,
+        "difficulty": 7.125,
+        "effort": 2372.1263346283126,
+        "time": 131.7847963682396,
+        "bugs": 0.11097667062588598
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/honey-rae-repairs/src/components/tickets/EmployeeTicketContainer.js": {
+      "sloc": {
+        "physical": 26,
+        "logical": 54
+      },
+      "cyclomatic": {
+        "value": 19,
+        "density": 35.18518518518518
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 169,
+        "distinctOperands": 75,
+        "totalOperands": 199,
+        "vocabulary": 103,
+        "length": 368,
+        "estimatedLength": 641.5683251210758,
+        "volume": 2460.6321940034245,
+        "difficulty": 37.14666666666667,
+        "effort": 91404.28389991388,
+        "time": 5078.015772217437,
+        "bugs": 0.8202107313344749
+      }
+    }
+  }
+}

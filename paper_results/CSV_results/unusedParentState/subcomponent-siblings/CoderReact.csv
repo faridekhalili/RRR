@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <Navbar ... Navbar> |
+| <Defaul ... tems}/> |
+| <ItemLi ... ry)} /> |
+| <ItemDe ... tems}/> |
+| <Checkout/>         |
+| <Login />           |
+| <Register/>         |
+| <Histor ... torial> |
+| <Rating ... Rating> |
+| <Pagos></Pagos>     |

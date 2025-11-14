@@ -1,0 +1,4 @@
+"col0"
+"src/renderer/App.tsx:<10,9>--<10,80>~~~use_state_to_use_ref"
+"src/renderer/App.tsx:<12,9>--<12,79>~~~use_state_to_use_ref"
+"src/renderer/Component/NBTEditorTree.tsx:<112,9>--<112,74>~~~use_state_to_use_ref"

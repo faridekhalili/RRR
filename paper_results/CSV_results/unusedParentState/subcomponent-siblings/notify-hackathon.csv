@@ -1,0 +1,6 @@
+|       sibling        |
++----------------------+
+| <DropIc ...      />  |
+| <Input\n ...      /> |
+| <Badge  ... /Badge>  |
+| <Collec ... ionBox>  |

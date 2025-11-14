@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Sideba ... bar} /> |
+| <Auth h ... mit} /> |
+| <Dashboard />       |
+| <Team />            |
+| <PatientDetails />  |
+| <Calendar />        |
+| <FAQ />             |
+| <Header ... age" /> |

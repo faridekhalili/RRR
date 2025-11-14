@@ -1,0 +1,8 @@
+|       sibling        |
++----------------------+
+| <Tweet\n ... /Tweet> |
+| <Custom ... Slider>  |
+| <Tweet\n ... /Tweet> |
+| <TweetQ ... tQuote>  |
+| <Slider ... rFixed>  |
+| <Instru ... ogQual>  |

@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <CreateTemplate />  |
+| <NavBar ... add"}/> |
+| <NavBar ... get"}/> |
+| <NavBar ... act"}/> |
+| <NavBar ... own" /> |

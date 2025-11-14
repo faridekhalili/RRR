@@ -1,0 +1,20 @@
+|       sibling       |
++---------------------+
+| <SharedLayout />    |
+| <Home />            |
+| <About />           |
+| <SharedProduct />   |
+| <Products />        |
+| <SingleProduct />   |
+| <Protec ... dRoute> |
+| <Dashbo ... ser} /> |
+| <Error />           |
+| <SharedLayout />    |
+| <Home />            |
+| <About />           |
+| <Shared ... yout /> |
+| <Products />        |
+| <SingleProduct />   |
+| <Protec ... dRoute> |
+| <Dashbo ... ser} /> |
+| <Error />           |

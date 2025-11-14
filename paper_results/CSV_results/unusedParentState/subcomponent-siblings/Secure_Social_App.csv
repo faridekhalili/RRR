@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Header/>           |
+| <Header/>           |
+| <Header/>           |
+| <Header ... ure" /> |
+| <Header/>           |

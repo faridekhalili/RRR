@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Icon i ... ars} /> |
+| <Label  ... /Label> |
+| <FlagEu ...      /> |
+| <FlagUs ...      /> |
+| <FlagGb ...      /> |
+| <SelectButton />    |

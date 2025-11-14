@@ -1,0 +1,7 @@
+|       sibling        |
++----------------------+
+| <Input\n ...      /> |
+| <Button ... Button>  |
+| <Steps\n ...      /> |
+| <Button ... Button>  |
+| <Button ... Button>  |

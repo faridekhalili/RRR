@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <Header ... ken} /> |
+| <Home />            |
+| <AllComics />       |
+| <AllChars />        |
+| <OneCha ... ken} /> |
+| <SignIn ... dId} /> |
+| <SignUp ... dId} /> |
+| <Protec ... ken} /> |
+| <UserIn ... ser} /> |
+| <Footer />          |

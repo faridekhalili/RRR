@@ -1,0 +1,12 @@
+|       sibling        |
++----------------------+
+| <Footer />           |
+| <Link\n  ...      /> |
+| <Link\n  ...      /> |
+| <Link\n  ...      /> |
+| <Link\n  ...      /> |
+| <Action ... Button>  |
+| <Link\n  ...      /> |
+| <Link\n  ...      /> |
+| <Link\n  ...      /> |
+| <Link\n  ...      /> |

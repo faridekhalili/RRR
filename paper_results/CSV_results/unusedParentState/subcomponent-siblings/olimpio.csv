@@ -1,0 +1,30 @@
+|       sibling       |
++---------------------+
+| <IdleTi ... t()} /> |
+| <Global ... t()} /> |
+| <Login  ... Fail}/> |
+| <Home />            |
+| <ProtectedLayout /> |
+| <TareasActivas  />  |
+| <NuevaT ... rta} /> |
+| <Pendie ... erta}/> |
+| <Recole ... rta} /> |
+| <Recibi ... rta} /> |
+| <Termin ... rta} /> |
+| <Recole ... rta} /> |
+| <Entreg ... rta} /> |
+| <ProtectedLayout /> |
+| <Bitacora />        |
+| <Tareas ... eHoy /> |
+| <Tareas ... ngth}/> |
+| <TareaE ...      /> |
+| <Tareas ... ngth}/> |
+| <TareaE ...      /> |
+| <Tareas ... ngth}/> |
+| <TareaE ...      /> |
+| <Tareas ... gth} /> |
+| <TareaE ...      /> |
+| <Tareas ... gth} /> |
+| <TareaE ...      /> |
+| <Tareas ... gth} /> |
+| <TareaE ...      /> |

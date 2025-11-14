@@ -1,0 +1,1205 @@
+{
+  "project": {
+    "numFiles": 49,
+    "sloc": {
+      "physical": 5975,
+      "logical": 5834
+    },
+    "cyclomatic": {
+      "value": 740,
+      "density": 12.684264655467947
+    },
+    "halstead": {
+      "distinctOperators": 899,
+      "totalOperators": 14929,
+      "distinctOperands": 4265,
+      "totalOperands": 19579,
+      "vocabulary": 5164,
+      "length": 34508,
+      "estimatedLength": 62269.216255325984,
+      "volume": 425631.1025293805,
+      "difficulty": 2063.48429073857,
+      "effort": 878283093.7191144,
+      "time": 48793505.20661747,
+      "bugs": 141.87703417646017
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/index.tsx": {
+      "sloc": {
+        "physical": 14,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 53,
+        "distinctOperands": 31,
+        "totalOperands": 66,
+        "vocabulary": 41,
+        "length": 119,
+        "estimatedLength": 203.12204872586193,
+        "volume": 637.548688549552,
+        "difficulty": 10.64516129032258,
+        "effort": 6786.808620043618,
+        "time": 377.04492333575655,
+        "bugs": 0.21251622951651733
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/reportWebVitals.ts": {
+      "sloc": {
+        "physical": 27,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 27.659574468085108
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 140,
+        "distinctOperands": 53,
+        "totalOperands": 163,
+        "vocabulary": 75,
+        "length": 303,
+        "estimatedLength": 429.59403409224,
+        "volume": 1887.3320632202517,
+        "difficulty": 33.83018867924528,
+        "effort": 63848.7997991304,
+        "time": 3547.1555443961333,
+        "bugs": 0.6291106877400839
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/react-app-env.d.ts": {
+      "sloc": {
+        "physical": 1,
+        "logical": 1
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 100
+      },
+      "halstead": {
+        "distinctOperators": 0,
+        "totalOperators": 0,
+        "distinctOperands": 1,
+        "totalOperands": 1,
+        "vocabulary": 1,
+        "length": 1,
+        "estimatedLength": 0,
+        "volume": 0,
+        "difficulty": 0,
+        "effort": 0,
+        "time": 0,
+        "bugs": 0
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/setupTests.ts": {
+      "sloc": {
+        "physical": 3,
+        "logical": 2
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 50
+      },
+      "halstead": {
+        "distinctOperators": 1,
+        "totalOperators": 1,
+        "distinctOperands": 3,
+        "totalOperands": 3,
+        "vocabulary": 4,
+        "length": 4,
+        "estimatedLength": 6.339850002884624,
+        "volume": 8,
+        "difficulty": 0.5,
+        "effort": 4,
+        "time": 0.2222222222222222,
+        "bugs": 0.0026666666666666666
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/api/api-types.ts": {
+      "sloc": {
+        "physical": 7,
+        "logical": 5
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 7,
+        "totalOperators": 8,
+        "distinctOperands": 10,
+        "totalOperands": 12,
+        "vocabulary": 17,
+        "length": 20,
+        "estimatedLength": 56.472777613085164,
+        "volume": 81.7492568250068,
+        "difficulty": 4.2,
+        "effort": 343.34687866502856,
+        "time": 19.074826592501587,
+        "bugs": 0.027249752275002266
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/api/some-api.ts": {
+      "sloc": {
+        "physical": 5,
+        "logical": 3
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 4,
+        "distinctOperands": 8,
+        "totalOperands": 8,
+        "vocabulary": 12,
+        "length": 12,
+        "estimatedLength": 36,
+        "volume": 43.01955000865388,
+        "difficulty": 2,
+        "effort": 86.03910001730776,
+        "time": 4.779950000961542,
+        "bugs": 0.014339850002884626
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/api-map/mock-api.ts": {
+      "sloc": {
+        "physical": 2077,
+        "logical": 1568
+      },
+      "cyclomatic": {
+        "value": 57,
+        "density": 3.635204081632653
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 2836,
+        "distinctOperands": 231,
+        "totalOperands": 3542,
+        "vocabulary": 259,
+        "length": 6378,
+        "estimatedLength": 2033.6030017267587,
+        "volume": 51131.203258864836,
+        "difficulty": 214.66666666666669,
+        "effort": 10976164.96623632,
+        "time": 609786.9425686845,
+        "bugs": 17.04373441962161
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/api-map/some-api-map.ts": {
+      "sloc": {
+        "physical": 5,
+        "logical": 3
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 4,
+        "distinctOperands": 8,
+        "totalOperands": 8,
+        "vocabulary": 12,
+        "length": 12,
+        "estimatedLength": 36,
+        "volume": 43.01955000865388,
+        "difficulty": 2,
+        "effort": 86.03910001730776,
+        "time": 4.779950000961542,
+        "bugs": 0.014339850002884626
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/hooks/useBeforeUnload.js": {
+      "sloc": {
+        "physical": 28,
+        "logical": 20
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 15
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 43,
+        "distinctOperands": 23,
+        "totalOperands": 51,
+        "vocabulary": 37,
+        "length": 94,
+        "estimatedLength": 167.37179237410948,
+        "volume": 489.6886163691213,
+        "difficulty": 15.521739130434783,
+        "effort": 7600.818958425057,
+        "time": 422.26771991250314,
+        "bugs": 0.16322953878970708
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/hooks/useSocket.js": {
+      "sloc": {
+        "physical": 43,
+        "logical": 30
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 6.666666666666667
+      },
+      "halstead": {
+        "distinctOperators": 12,
+        "totalOperators": 91,
+        "distinctOperands": 48,
+        "totalOperands": 114,
+        "vocabulary": 60,
+        "length": 205,
+        "estimatedLength": 335.0977500432694,
+        "volume": 1210.9125720997463,
+        "difficulty": 14.25,
+        "effort": 17255.504152421385,
+        "time": 958.6391195789658,
+        "bugs": 0.40363752403324876
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/Card.tsx": {
+      "sloc": {
+        "physical": 12,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 26.666666666666668
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 48,
+        "distinctOperands": 27,
+        "totalOperands": 58,
+        "vocabulary": 40,
+        "length": 106,
+        "estimatedLength": 190.19550008653877,
+        "volume": 564.1243780580604,
+        "difficulty": 13.962962962962964,
+        "effort": 7876.847797329215,
+        "time": 437.6026554071786,
+        "bugs": 0.18804145935268682
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/CardHeader.tsx": {
+      "sloc": {
+        "physical": 24,
+        "logical": 28
+      },
+      "cyclomatic": {
+        "value": 7,
+        "density": 25
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 108,
+        "distinctOperands": 55,
+        "totalOperands": 134,
+        "vocabulary": 68,
+        "length": 242,
+        "estimatedLength": 393.13246051967684,
+        "volume": 1473.1660075825823,
+        "difficulty": 15.836363636363638,
+        "effort": 23329.592592807807,
+        "time": 1296.0884773782116,
+        "bugs": 0.49105533586086075
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/Legend.tsx": {
+      "sloc": {
+        "physical": 59,
+        "logical": 64
+      },
+      "cyclomatic": {
+        "value": 18,
+        "density": 28.125
+      },
+      "halstead": {
+        "distinctOperators": 19,
+        "totalOperators": 333,
+        "distinctOperands": 121,
+        "totalOperands": 427,
+        "vocabulary": 140,
+        "length": 760,
+        "estimatedLength": 968.6408532184433,
+        "volume": 5418.255092878175,
+        "difficulty": 33.52479338842975,
+        "effort": 181645.88251454805,
+        "time": 10091.437917474892,
+        "bugs": 1.8060850309593917
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/ExhausterSvg.tsx": {
+      "sloc": {
+        "physical": 60,
+        "logical": 137
+      },
+      "cyclomatic": {
+        "value": 40,
+        "density": 29.1970802919708
+      },
+      "halstead": {
+        "distinctOperators": 33,
+        "totalOperators": 431,
+        "distinctOperands": 126,
+        "totalOperands": 507,
+        "vocabulary": 159,
+        "length": 938,
+        "estimatedLength": 1109.3875078364867,
+        "volume": 6859.4842120567255,
+        "difficulty": 66.39285714285714,
+        "effort": 455420.7553647661,
+        "time": 25301.15307582034,
+        "bugs": 2.2864947373522417
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/LevelIndicator.tsx": {
+      "sloc": {
+        "physical": 50,
+        "logical": 51
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 23.52941176470588
+      },
+      "halstead": {
+        "distinctOperators": 19,
+        "totalOperators": 151,
+        "distinctOperands": 72,
+        "totalOperands": 188,
+        "vocabulary": 91,
+        "length": 339,
+        "estimatedLength": 561.4631751312504,
+        "volume": 2206.142383027358,
+        "difficulty": 24.805555555555557,
+        "effort": 54724.58744565085,
+        "time": 3040.254858091714,
+        "bugs": 0.7353807943424526
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/Space.tsx": {
+      "sloc": {
+        "physical": 21,
+        "logical": 18
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 11.11111111111111
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 45,
+        "distinctOperands": 28,
+        "totalOperands": 56,
+        "vocabulary": 39,
+        "length": 101,
+        "estimatedLength": 187.48684196024652,
+        "volume": 533.8256241050872,
+        "difficulty": 11,
+        "effort": 5872.081865155958,
+        "time": 326.22677028644216,
+        "bugs": 0.17794187470169573
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/TileSelect.tsx": {
+      "sloc": {
+        "physical": 38,
+        "logical": 36
+      },
+      "cyclomatic": {
+        "value": 8,
+        "density": 22.22222222222222
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 115,
+        "distinctOperands": 62,
+        "totalOperands": 143,
+        "vocabulary": 75,
+        "length": 258,
+        "estimatedLength": 446.5647232790157,
+        "volume": 1607.0352221479372,
+        "difficulty": 14.991935483870968,
+        "effort": 24092.568370750123,
+        "time": 1338.476020597229,
+        "bugs": 0.5356784073826457
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/style/styled-common.ts": {
+      "sloc": {
+        "physical": 40,
+        "logical": 55
+      },
+      "cyclomatic": {
+        "value": 22,
+        "density": 40
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 245,
+        "distinctOperands": 93,
+        "totalOperands": 307,
+        "vocabulary": 106,
+        "length": 552,
+        "estimatedLength": 693.1508339774514,
+        "volume": 3713.8120909188856,
+        "difficulty": 21.456989247311828,
+        "effort": 79687.22610138319,
+        "time": 4427.0681167435105,
+        "bugs": 1.2379373636396285
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/utils/DateTime.ts": {
+      "sloc": {
+        "physical": 143,
+        "logical": 175
+      },
+      "cyclomatic": {
+        "value": 41,
+        "density": 23.42857142857143
+      },
+      "halstead": {
+        "distinctOperators": 35,
+        "totalOperators": 757,
+        "distinctOperands": 151,
+        "totalOperands": 887,
+        "vocabulary": 186,
+        "length": 1644,
+        "estimatedLength": 1346.3432815144647,
+        "volume": 12394.377085461605,
+        "difficulty": 102.79801324503312,
+        "effort": 1274117.3397952172,
+        "time": 70784.29665528984,
+        "bugs": 4.1314590284872015
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/utils/react-utils.ts": {
+      "sloc": {
+        "physical": 15,
+        "logical": 13
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 23.076923076923077
+      },
+      "halstead": {
+        "distinctOperators": 12,
+        "totalOperators": 35,
+        "distinctOperands": 21,
+        "totalOperands": 41,
+        "vocabulary": 33,
+        "length": 76,
+        "estimatedLength": 144.9464749516991,
+        "volume": 383.37395307124245,
+        "difficulty": 11.714285714285714,
+        "effort": 4490.952021691697,
+        "time": 249.49733453842762,
+        "bugs": 0.12779131769041416
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/utils/utils.ts": {
+      "sloc": {
+        "physical": 16,
+        "logical": 12
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 16.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 34,
+        "distinctOperands": 18,
+        "totalOperands": 36,
+        "vocabulary": 32,
+        "length": 70,
+        "estimatedLength": 133.437600046154,
+        "volume": 350,
+        "difficulty": 14,
+        "effort": 4900,
+        "time": 272.22222222222223,
+        "bugs": 0.11666666666666667
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/App/App.tsx": {
+      "sloc": {
+        "physical": 29,
+        "logical": 50
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 26
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 175,
+        "distinctOperands": 63,
+        "totalOperands": 206,
+        "vocabulary": 84,
+        "length": 381,
+        "estimatedLength": 502.091513573993,
+        "volume": 2435.4729380787076,
+        "difficulty": 34.333333333333336,
+        "effort": 83617.90420736896,
+        "time": 4645.439122631609,
+        "bugs": 0.8118243126929026
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/ExhausterDetailedScreen/BearerElementCard.tsx": {
+      "sloc": {
+        "physical": 76,
+        "logical": 65
+      },
+      "cyclomatic": {
+        "value": 16,
+        "density": 24.615384615384617
+      },
+      "halstead": {
+        "distinctOperators": 17,
+        "totalOperators": 268,
+        "distinctOperands": 94,
+        "totalOperands": 348,
+        "vocabulary": 111,
+        "length": 616,
+        "estimatedLength": 727.5593625362177,
+        "volume": 4185.3601736716655,
+        "difficulty": 31.468085106382976,
+        "effort": 131705.2701459658,
+        "time": 7316.959452553656,
+        "bugs": 1.3951200578905552
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/ExhausterDetailedScreen/BearerIndicator.tsx": {
+      "sloc": {
+        "physical": 50,
+        "logical": 45
+      },
+      "cyclomatic": {
+        "value": 11,
+        "density": 24.444444444444443
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 103,
+        "distinctOperands": 56,
+        "totalOperands": 126,
+        "vocabulary": 71,
+        "length": 229,
+        "estimatedLength": 412.32219946608996,
+        "volume": 1408.2920903665722,
+        "difficulty": 16.875,
+        "effort": 23764.929024935907,
+        "time": 1320.2738347186614,
+        "bugs": 0.4694306967888574
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/ExhausterDetailedScreen/ExausterDetailedDataTypes.ts": {
+      "sloc": {
+        "physical": 8,
+        "logical": 6
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 16.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 7,
+        "totalOperators": 11,
+        "distinctOperands": 13,
+        "totalOperands": 15,
+        "vocabulary": 20,
+        "length": 26,
+        "estimatedLength": 74.00879436282185,
+        "volume": 112.37013046707143,
+        "difficulty": 4.038461538461538,
+        "effort": 453.8024499631731,
+        "time": 25.211247220176283,
+        "bugs": 0.03745671015569048
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/ExhausterDetailedScreen/ExhausterDetailedView.tsx": {
+      "sloc": {
+        "physical": 2048,
+        "logical": 1629
+      },
+      "cyclomatic": {
+        "value": 8,
+        "density": 0.49109883364027007
+      },
+      "halstead": {
+        "distinctOperators": 16,
+        "totalOperators": 3017,
+        "distinctOperands": 705,
+        "totalOperands": 4984,
+        "vocabulary": 721,
+        "length": 8001,
+        "estimatedLength": 6821.726681493319,
+        "volume": 75960.33744937583,
+        "difficulty": 56.55602836879433,
+        "effort": 4296014.999690089,
+        "time": 238667.49998278276,
+        "bugs": 25.32011248312528
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/ExhausterDetailedScreen/ListView.tsx": {
+      "sloc": {
+        "physical": 31,
+        "logical": 37
+      },
+      "cyclomatic": {
+        "value": 10,
+        "density": 27.027027027027028
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 172,
+        "distinctOperands": 68,
+        "totalOperands": 239,
+        "vocabulary": 81,
+        "length": 411,
+        "estimatedLength": 493.08449014127757,
+        "volume": 2605.678351185581,
+        "difficulty": 22.845588235294116,
+        "effort": 59528.25468480588,
+        "time": 3307.1252602669933,
+        "bugs": 0.8685594503951937
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/ExhausterDetailedScreen/ListViewSmall.tsx": {
+      "sloc": {
+        "physical": 33,
+        "logical": 39
+      },
+      "cyclomatic": {
+        "value": 10,
+        "density": 25.64102564102564
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 158,
+        "distinctOperands": 67,
+        "totalOperands": 207,
+        "vocabulary": 80,
+        "length": 365,
+        "estimatedLength": 485.2871352366218,
+        "volume": 2307.503754633887,
+        "difficulty": 20.082089552238806,
+        "effort": 46339.497042685005,
+        "time": 2574.416502371389,
+        "bugs": 0.7691679182112957
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/ExhausterDetailedScreen/TextValue.tsx": {
+      "sloc": {
+        "physical": 15,
+        "logical": 19
+      },
+      "cyclomatic": {
+        "value": 6,
+        "density": 31.57894736842105
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 65,
+        "distinctOperands": 30,
+        "totalOperands": 77,
+        "vocabulary": 43,
+        "length": 142,
+        "estimatedLength": 210.99629561116632,
+        "volume": 770.529595167698,
+        "difficulty": 16.683333333333334,
+        "effort": 12855.002079381095,
+        "time": 714.1667821878386,
+        "bugs": 0.25684319838923264
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/MainScreen/MainScreen.tsx": {
+      "sloc": {
+        "physical": 57,
+        "logical": 88
+      },
+      "cyclomatic": {
+        "value": 23,
+        "density": 26.136363636363637
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 297,
+        "distinctOperands": 123,
+        "totalOperands": 359,
+        "vocabulary": 151,
+        "length": 656,
+        "estimatedLength": 1048.319690306225,
+        "volume": 4748.393508997252,
+        "difficulty": 40.86178861788618,
+        "effort": 194027.85183918852,
+        "time": 10779.32510217714,
+        "bugs": 1.5827978363324173
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/MainScreen/SinteringMachines.tsx": {
+      "sloc": {
+        "physical": 36,
+        "logical": 37
+      },
+      "cyclomatic": {
+        "value": 8,
+        "density": 21.62162162162162
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 134,
+        "distinctOperands": 63,
+        "totalOperands": 166,
+        "vocabulary": 76,
+        "length": 300,
+        "estimatedLength": 454.27327418599367,
+        "volume": 1874.3782540330758,
+        "difficulty": 17.126984126984127,
+        "effort": 32102.44660478871,
+        "time": 1783.469255821595,
+        "bugs": 0.6247927513443586
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/ExhausterDetailedScreen/ExhausterDetailedScreen.tsx": {
+      "sloc": {
+        "physical": 111,
+        "logical": 132
+      },
+      "cyclomatic": {
+        "value": 31,
+        "density": 23.484848484848484
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 462,
+        "distinctOperands": 169,
+        "totalOperands": 564,
+        "vocabulary": 197,
+        "length": 1026,
+        "estimatedLength": 1457.9732489475905,
+        "volume": 7820.225166762242,
+        "difficulty": 46.72189349112426,
+        "effort": 365375.72731807496,
+        "time": 20298.65151767083,
+        "bugs": 2.606741722254081
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/Landing/Landing.tsx": {
+      "sloc": {
+        "physical": 34,
+        "logical": 64
+      },
+      "cyclomatic": {
+        "value": 19,
+        "density": 29.6875
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 239,
+        "distinctOperands": 97,
+        "totalOperands": 283,
+        "vocabulary": 119,
+        "length": 522,
+        "estimatedLength": 785.3896282202682,
+        "volume": 3599.0948724467466,
+        "difficulty": 32.092783505154635,
+        "effort": 115504.97255594558,
+        "time": 6416.942919774755,
+        "bugs": 1.1996982908155822
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/icons/Arrow1Right.tsx": {
+      "sloc": {
+        "physical": 41,
+        "logical": 102
+      },
+      "cyclomatic": {
+        "value": 26,
+        "density": 25.49019607843137
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 311,
+        "distinctOperands": 98,
+        "totalOperands": 371,
+        "vocabulary": 129,
+        "length": 682,
+        "estimatedLength": 853.297569890862,
+        "volume": 4781.656988198659,
+        "difficulty": 58.67857142857142,
+        "effort": 280580.8011289427,
+        "time": 15587.822284941261,
+        "bugs": 1.5938856627328863
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/icons/CautionRoundIc.tsx": {
+      "sloc": {
+        "physical": 41,
+        "logical": 102
+      },
+      "cyclomatic": {
+        "value": 26,
+        "density": 25.49019607843137
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 311,
+        "distinctOperands": 98,
+        "totalOperands": 371,
+        "vocabulary": 129,
+        "length": 682,
+        "estimatedLength": 853.297569890862,
+        "volume": 4781.656988198659,
+        "difficulty": 58.67857142857142,
+        "effort": 280580.8011289427,
+        "time": 15587.822284941261,
+        "bugs": 1.5938856627328863
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/icons/BearerIc.tsx": {
+      "sloc": {
+        "physical": 41,
+        "logical": 102
+      },
+      "cyclomatic": {
+        "value": 26,
+        "density": 25.49019607843137
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 311,
+        "distinctOperands": 98,
+        "totalOperands": 371,
+        "vocabulary": 129,
+        "length": 682,
+        "estimatedLength": 853.297569890862,
+        "volume": 4781.656988198659,
+        "difficulty": 58.67857142857142,
+        "effort": 280580.8011289427,
+        "time": 15587.822284941261,
+        "bugs": 1.5938856627328863
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/icons/DocumentIc.tsx": {
+      "sloc": {
+        "physical": 41,
+        "logical": 102
+      },
+      "cyclomatic": {
+        "value": 26,
+        "density": 25.49019607843137
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 311,
+        "distinctOperands": 98,
+        "totalOperands": 371,
+        "vocabulary": 129,
+        "length": 682,
+        "estimatedLength": 853.297569890862,
+        "volume": 4781.656988198659,
+        "difficulty": 58.67857142857142,
+        "effort": 280580.8011289427,
+        "time": 15587.822284941261,
+        "bugs": 1.5938856627328863
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/icons/RadioIc.tsx": {
+      "sloc": {
+        "physical": 41,
+        "logical": 102
+      },
+      "cyclomatic": {
+        "value": 26,
+        "density": 25.49019607843137
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 311,
+        "distinctOperands": 98,
+        "totalOperands": 371,
+        "vocabulary": 129,
+        "length": 682,
+        "estimatedLength": 853.297569890862,
+        "volume": 4781.656988198659,
+        "difficulty": 58.67857142857142,
+        "effort": 280580.8011289427,
+        "time": 15587.822284941261,
+        "bugs": 1.5938856627328863
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/icons/ThermometerIc.tsx": {
+      "sloc": {
+        "physical": 41,
+        "logical": 102
+      },
+      "cyclomatic": {
+        "value": 26,
+        "density": 25.49019607843137
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 311,
+        "distinctOperands": 98,
+        "totalOperands": 371,
+        "vocabulary": 129,
+        "length": 682,
+        "estimatedLength": 853.297569890862,
+        "volume": 4781.656988198659,
+        "difficulty": 58.67857142857142,
+        "effort": 280580.8011289427,
+        "time": 15587.822284941261,
+        "bugs": 1.5938856627328863
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/icons/ThreeDotsIc.tsx": {
+      "sloc": {
+        "physical": 41,
+        "logical": 102
+      },
+      "cyclomatic": {
+        "value": 26,
+        "density": 25.49019607843137
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 311,
+        "distinctOperands": 98,
+        "totalOperands": 371,
+        "vocabulary": 129,
+        "length": 682,
+        "estimatedLength": 853.297569890862,
+        "volume": 4781.656988198659,
+        "difficulty": 58.67857142857142,
+        "effort": 280580.8011289427,
+        "time": 15587.822284941261,
+        "bugs": 1.5938856627328863
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/components/icons/WaterDropIc.tsx": {
+      "sloc": {
+        "physical": 41,
+        "logical": 102
+      },
+      "cyclomatic": {
+        "value": 26,
+        "density": 25.49019607843137
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 311,
+        "distinctOperands": 98,
+        "totalOperands": 371,
+        "vocabulary": 129,
+        "length": 682,
+        "estimatedLength": 853.297569890862,
+        "volume": 4781.656988198659,
+        "difficulty": 58.67857142857142,
+        "effort": 280580.8011289427,
+        "time": 15587.822284941261,
+        "bugs": 1.5938856627328863
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/MainScreen/ExhausterCard/ExhausterCard.tsx": {
+      "sloc": {
+        "physical": 81,
+        "logical": 113
+      },
+      "cyclomatic": {
+        "value": 30,
+        "density": 26.548672566371685
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 412,
+        "distinctOperands": 146,
+        "totalOperands": 492,
+        "vocabulary": 174,
+        "length": 904,
+        "estimatedLength": 1251.029473245123,
+        "volume": 6728.420920247251,
+        "difficulty": 47.178082191780824,
+        "effort": 317433.9951963224,
+        "time": 17635.221955351244,
+        "bugs": 2.2428069734157505
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/MainScreen/ExhausterCard/ExhausterScheme.tsx": {
+      "sloc": {
+        "physical": 25,
+        "logical": 26
+      },
+      "cyclomatic": {
+        "value": 5,
+        "density": 19.230769230769234
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 82,
+        "distinctOperands": 44,
+        "totalOperands": 99,
+        "vocabulary": 57,
+        "length": 181,
+        "estimatedLength": 311.1876022623259,
+        "volume": 1055.7530925638184,
+        "difficulty": 14.625,
+        "effort": 15440.388978745845,
+        "time": 857.7993877081025,
+        "bugs": 0.35191769752127283
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/MainScreen/ExhausterCard/Header.tsx": {
+      "sloc": {
+        "physical": 40,
+        "logical": 69
+      },
+      "cyclomatic": {
+        "value": 22,
+        "density": 31.88405797101449
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 259,
+        "distinctOperands": 102,
+        "totalOperands": 313,
+        "vocabulary": 124,
+        "length": 572,
+        "estimatedLength": 827.3807424044653,
+        "volume": 3977.800289541293,
+        "difficulty": 33.754901960784316,
+        "effort": 134270.2587930458,
+        "time": 7459.458821835878,
+        "bugs": 1.3259334298470977
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/MainScreen/ExhausterCard/RotorReplacement.tsx": {
+      "sloc": {
+        "physical": 36,
+        "logical": 44
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 29.545454545454547
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 183,
+        "distinctOperands": 79,
+        "totalOperands": 236,
+        "vocabulary": 93,
+        "length": 419,
+        "estimatedLength": 586.2516095804706,
+        "volume": 2739.907541854265,
+        "difficulty": 20.91139240506329,
+        "effort": 57295.281761306906,
+        "time": 3183.071208961495,
+        "bugs": 0.9133025139514217
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/MainScreen/ExhausterCard/RotorTitle.tsx": {
+      "sloc": {
+        "physical": 30,
+        "logical": 36
+      },
+      "cyclomatic": {
+        "value": 10,
+        "density": 27.77777777777778
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 136,
+        "distinctOperands": 64,
+        "totalOperands": 172,
+        "vocabulary": 77,
+        "length": 308,
+        "estimatedLength": 462,
+        "volume": 1930.1702545340297,
+        "difficulty": 17.46875,
+        "effort": 33717.66163389133,
+        "time": 1873.203424105074,
+        "bugs": 0.6433900848446765
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/MainScreen/ExhausterCard/DropDownList/DropDownList.tsx": {
+      "sloc": {
+        "physical": 93,
+        "logical": 111
+      },
+      "cyclomatic": {
+        "value": 33,
+        "density": 29.72972972972973
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 385,
+        "distinctOperands": 141,
+        "totalOperands": 462,
+        "vocabulary": 169,
+        "length": 847,
+        "estimatedLength": 1206.5841785553962,
+        "volume": 6268.54488253101,
+        "difficulty": 45.87234042553192,
+        "effort": 287552.8248241885,
+        "time": 15975.156934677138,
+        "bugs": 2.0895149608436703
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/MainScreen/ExhausterCard/DropDownList/Item.tsx": {
+      "sloc": {
+        "physical": 63,
+        "logical": 54
+      },
+      "cyclomatic": {
+        "value": 9,
+        "density": 16.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 211,
+        "distinctOperands": 87,
+        "totalOperands": 266,
+        "vocabulary": 101,
+        "length": 477,
+        "estimatedLength": 650.7372930807217,
+        "volume": 3175.9668772726063,
+        "difficulty": 21.402298850574713,
+        "effort": 67972.99224691486,
+        "time": 3776.2773470508255,
+        "bugs": 1.0586556257575355
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/exhauster-web-app/src/pages/MainScreen/ExhausterCard/DropDownList/MarkView.tsx": {
+      "sloc": {
+        "physical": 63,
+        "logical": 56
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 23.214285714285715
+      },
+      "halstead": {
+        "distinctOperators": 16,
+        "totalOperators": 190,
+        "distinctOperands": 80,
+        "totalOperands": 245,
+        "vocabulary": 96,
+        "length": 435,
+        "estimatedLength": 606.9050971091867,
+        "volume": 2864.458687813703,
+        "difficulty": 24.5,
+        "effort": 70179.23785143573,
+        "time": 3898.8465473019846,
+        "bugs": 0.9548195626045677
+      }
+    }
+  }
+}

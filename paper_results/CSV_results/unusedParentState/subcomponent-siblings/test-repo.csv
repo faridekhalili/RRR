@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Home />            |
+| <Detail />          |
+| <Button ... Button> |
+| <Button ... Button> |
+| <Button ... Button> |
+| <Button ... Button> |
+| <Comment id={id} /> |

@@ -1,0 +1,11 @@
+|       sibling       |
++---------------------+
+| <Cancel />          |
+| <Save />            |
+| <Save />            |
+| <Delete />          |
+| <Add />             |
+| <GoodCheck />       |
+| <Error />           |
+| <ShowUs ... ame} /> |
+| <LetterModel />     |

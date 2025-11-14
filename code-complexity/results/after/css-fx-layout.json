@@ -1,0 +1,341 @@
+{
+  "project": {
+    "numFiles": 13,
+    "sloc": {
+      "physical": 333,
+      "logical": 364
+    },
+    "cyclomatic": {
+      "value": 65,
+      "density": 17.857142857142858
+    },
+    "halstead": {
+      "distinctOperators": 175,
+      "totalOperators": 1133,
+      "distinctOperands": 574,
+      "totalOperands": 1411,
+      "vocabulary": 749,
+      "length": 2544,
+      "estimatedLength": 6864.5152880800915,
+      "volume": 24292.20293511906,
+      "difficulty": 215.09146341463415,
+      "effort": 5225045.47888003,
+      "time": 290280.30438222387,
+      "bugs": 8.09740097837302
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/pages/index.js": {
+      "sloc": {
+        "physical": 50,
+        "logical": 64
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 20.3125
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 251,
+        "distinctOperands": 90,
+        "totalOperands": 301,
+        "vocabulary": 111,
+        "length": 552,
+        "estimatedLength": 720.595693692594,
+        "volume": 3750.5175582252587,
+        "difficulty": 35.11666666666667,
+        "effort": 131705.674919677,
+        "time": 7316.981939982055,
+        "bugs": 1.2501725194084194
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/HomepageFeatures/index.js": {
+      "sloc": {
+        "physical": 58,
+        "logical": 78
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 19.230769230769234
+      },
+      "halstead": {
+        "distinctOperators": 25,
+        "totalOperators": 277,
+        "distinctOperands": 105,
+        "totalOperands": 352,
+        "vocabulary": 130,
+        "length": 629,
+        "estimatedLength": 872.851917296596,
+        "volume": 4417.069354394897,
+        "difficulty": 41.904761904761905,
+        "effort": 185096.23961273854,
+        "time": 10283.12442292992,
+        "bugs": 1.4723564514649659
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example1.js": {
+      "sloc": {
+        "physical": 14,
+        "logical": 11
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 9.090909090909092
+      },
+      "halstead": {
+        "distinctOperators": 7,
+        "totalOperators": 20,
+        "distinctOperands": 21,
+        "totalOperands": 27,
+        "vocabulary": 28,
+        "length": 47,
+        "estimatedLength": 122.9848878378053,
+        "volume": 225.94568133670737,
+        "difficulty": 4.5,
+        "effort": 1016.7555660151831,
+        "time": 56.48642033417684,
+        "bugs": 0.07531522711223579
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example10.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example2.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example3.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example4.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example5.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example6.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example7.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example8.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/example9.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 15
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 13.333333333333334
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 31,
+        "distinctOperands": 27,
+        "totalOperands": 40,
+        "vocabulary": 38,
+        "length": 71,
+        "estimatedLength": 180.68572508221183,
+        "volume": 372.60285345449455,
+        "difficulty": 8.148148148148147,
+        "effort": 3036.0232503699553,
+        "time": 168.6679583538864,
+        "bugs": 0.12420095115149818
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/css-fx-layout/documentation/src/components/examples/examples.js": {
+      "sloc": {
+        "physical": 67,
+        "logical": 76
+      },
+      "cyclomatic": {
+        "value": 18,
+        "density": 23.684210526315788
+      },
+      "halstead": {
+        "distinctOperators": 23,
+        "totalOperators": 306,
+        "distinctOperands": 115,
+        "totalOperands": 371,
+        "vocabulary": 138,
+        "length": 677,
+        "estimatedLength": 944.677627030324,
+        "volume": 4812.471057238821,
+        "difficulty": 37.1,
+        "effort": 178542.67622356027,
+        "time": 9919.03756797557,
+        "bugs": 1.604157019079607
+      }
+    }
+  }
+}

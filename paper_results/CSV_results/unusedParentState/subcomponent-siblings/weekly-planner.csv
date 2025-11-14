@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Panel  ... /Panel> |
+| <Clock />           |
+| <TodoLi ... ay)} /> |

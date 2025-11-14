@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <Sidebar />         |
+| <Loading />         |
+| <Loading />         |
+| <Avatar ... act} /> |

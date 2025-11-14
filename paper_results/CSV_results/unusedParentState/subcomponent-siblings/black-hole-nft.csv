@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Navbar />          |
+| <Home />            |
+| <Mint />            |
+| <Burn />            |
+| <Footer />          |
+| <Simula ...      /> |
+| <Action ...      /> |
+| <Countd ... e()} /> |

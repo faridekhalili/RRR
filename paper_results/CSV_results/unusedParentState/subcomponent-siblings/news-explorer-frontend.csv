@@ -1,0 +1,17 @@
+|       sibling       |
++---------------------+
+| <Protec ... dRoute> |
+| <Articles />        |
+| <Footer />          |
+| <PopupW ... thForm> |
+| <AuthForm />        |
+| <PopupW ... thForm> |
+| <AuthForm />        |
+| <PopupW ... thForm> |
+| <Header />          |
+| <UserMenu />        |
+| <PageTitle />       |
+| <NothingFound />    |
+| <ConnectionError /> |
+| <Search ... lts} /> |
+| <AboutMe />         |

@@ -1,0 +1,5 @@
+"col0"
+"react-antd/src/components/BookmarksContent/BookmarksContent.tsx:<23,9>--<23,60>~~~use_state_to_use_ref"
+"react-antd/src/components/SearchBox/SearchBox.tsx:<32,9>--<32,74>~~~use_state_to_use_ref"
+"react-antd/src/components/Settings/theme/theme.tsx:<23,9>--<23,78>~~~use_state_to_use_ref"
+"react-antd/src/components/pageComponent/Calendar/Calendar.tsx:<14,9>--<14,60>~~~use_state_to_use_ref"

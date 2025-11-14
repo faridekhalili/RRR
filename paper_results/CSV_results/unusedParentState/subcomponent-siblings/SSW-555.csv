@@ -1,0 +1,7 @@
+|         sibling         |
++-------------------------+
+| <Error />               |
+| <Upload ... }\n\t\t\t/> |
+| <Create ... }\n\t\t\t/> |
+| <Create ... }\n\t\t\t/> |
+| <Assign ... }\n\t\t\t/> |

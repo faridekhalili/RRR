@@ -1,0 +1,19 @@
+|       sibling        |
++----------------------+
+| <Icon\n  ...      /> |
+| <Icon i ... h-4" />  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Chip>Chip</Chip>    |

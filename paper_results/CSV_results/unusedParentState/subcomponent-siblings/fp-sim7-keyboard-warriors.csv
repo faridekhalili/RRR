@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Global ... {ref}/> |
+| <LandingPage />     |
+| <Login />           |
+| <SignUp />          |
+| <VideoFeed />       |
+| <UserProfile />     |

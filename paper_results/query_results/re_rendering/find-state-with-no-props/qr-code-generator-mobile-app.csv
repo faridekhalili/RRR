@@ -1,0 +1,4 @@
+"col0"
+"App.js:<10,9>--<10,41>~~~use_state_to_use_ref"
+"App.js:<11,9>--<11,39>~~~use_state_to_use_ref"
+"App.js:<12,9>--<12,62>~~~use_state_to_use_ref"

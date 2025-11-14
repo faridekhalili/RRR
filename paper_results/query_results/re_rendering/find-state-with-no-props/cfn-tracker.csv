@@ -1,0 +1,5 @@
+"col0"
+"gui/src/main/app-error.tsx:<41,9>--<41,63>~~~use_state_to_use_ref"
+"gui/src/pages/output.tsx:<180,9>--<180,49>~~~use_state_to_use_ref"
+"gui/src/pages/sessions.tsx:<21,9>--<21,69>~~~use_state_to_use_ref"
+"gui/src/pages/sessions.tsx:<22,9>--<22,94>~~~use_state_to_use_ref"

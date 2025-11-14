@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <Modal2></Modal2>   |
+| <Produc ... ndex}/> |
+| <Detail ... oes} /> |
+| <About/>            |
+| <Event/>            |
+| <Cart></Cart>       |
+| <TabCon ... oes} /> |

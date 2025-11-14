@@ -1,0 +1,14 @@
+|       sibling        |
++----------------------+
+| <Navbar ... h()} />  |
+| <Loader ... ing} />  |
+| <FeedCl ... ops} />  |
+| <Search ... ops} />  |
+| <Form { ... ops} />  |
+| <Regist ... ops} />  |
+| <Login  ... ops} />  |
+| <Rate { ... ops} />  |
+| <Valida ... ops} />  |
+| <BackgroundImages /> |
+| <Loader ... ing} />  |
+| <BackgroundImages /> |

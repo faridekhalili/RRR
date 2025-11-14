@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Sidebar />         |
+| <Home />            |
+| <CreateGroupForm /> |
+| <GroupPage />       |
+| <Login />           |
+| <Calend ... nts} /> |

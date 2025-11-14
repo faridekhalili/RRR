@@ -1,0 +1,20 @@
+|       sibling        |
++----------------------+
+| <Snackb ...      />  |
+| <ContentSeparator /> |
+| <ContentSeparator /> |
+| <Button ... Custom>  |
+| <Button ... Custom>  |
+| <Skelet ... ={8} />  |
+| <Snackb ...      />  |
+| <Skelet ... ={6} />  |
+| <ContentSeparator /> |
+| <ContentSeparator /> |
+| <Skelet ... ={4} />  |
+| <Skelet ... ={8} />  |
+| <Skelet ... ={8} />  |
+| <Button ... Custom>  |
+| <Skelet ... ={8} />  |
+| <Loader ... unt" />  |
+| <Button ... Custom>  |
+| <Social ... ing} />  |

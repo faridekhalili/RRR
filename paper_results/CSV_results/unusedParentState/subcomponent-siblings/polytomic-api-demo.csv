@@ -1,0 +1,25 @@
+|       sibling       |
++---------------------+
+| <Loadin ... nter /> |
+| <BackButton />      |
+| <Connec ...      /> |
+| <Refres ... ing} /> |
+| <Create ... e')} /> |
+| <BackButton />      |
+| <LoadingSpinner />  |
+| <LoadingSpinner />  |
+| <LoadingSpinner />  |
+| <LoadingSpinner />  |
+| <Refres ... ing} /> |
+| <Create ... e')} /> |
+| <BackButton />      |
+| <LoadingSpinner />  |
+| <LoadingSpinner />  |
+| <LoadingSpinner />  |
+| <LoadingSpinner />  |
+| <LoadingSpinner />  |
+| <Refres ... ing} /> |
+| <Create ... e')} /> |
+| <BackButton />      |
+| <DataGr ...      /> |
+| <Refres ... ing} /> |

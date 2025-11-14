@@ -1,0 +1,6 @@
+"col0"
+"src/widgets/interactive_table/ColumnHeader.tsx:<54,9>--<54,27>~~~set_state_to_assignment_current???{varName:isEditing}"
+"src/widgets/interactive_table/ColumnHeader.tsx:<76,9>--<76,26>~~~set_state_to_assignment_current???{varName:isEditing}"
+"src/widgets/interactive_table/DatatableComponent.tsx:<55,5>--<60,6>~~~set_state_to_assignment_current???{varName:state}"
+"src/widgets/interactive_table/RowValue.tsx:<38,30>--<38,47>~~~set_state_to_assignment_current???{varName:isEditing}"
+"src/widgets/utils/useCell.tsx:<37,7>--<37,19>~~~set_state_to_assignment_current???{varName:cell}"

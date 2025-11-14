@@ -1,0 +1,16 @@
+|     sibling      |
++------------------+
+| <Header />       |
+| <Signin />       |
+| <Signup />       |
+| <Main />         |
+| <RecipeDetail /> |
+| <Subpage />      |
+| <Today />        |
+| <Addrecipe/>     |
+| <BestSlider />   |
+| <SearchPage />   |
+| <NomatchPage />  |
+| <Footer />       |
+| <KakaoLogin/>    |
+| <ButtonKeeper /> |

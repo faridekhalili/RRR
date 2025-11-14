@@ -1,0 +1,12 @@
+|              sibling               |
++------------------------------------+
+| <Loader />                         |
+| <Navbar />                         |
+| <Button ...      />                |
+| <Button ...      />                |
+| <Loader />                         |
+| <HideFilter />                     |
+| <KanjiT ... alue}/>                |
+| <Button ... \u0434\u0437\u0438'}/> |
+| <Button ... \u0438\u0442\u044c'}/> |
+| <Button ... \u0435\u043d\u0430'}/> |

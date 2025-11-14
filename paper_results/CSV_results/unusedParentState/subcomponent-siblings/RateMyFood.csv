@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <FormIn ...      /> |
+| <LikeDi ... _id} /> |
+| <Navbar />          |
+| <FormIn ...      /> |
+| <Navbar />          |
+| <FormIn ...      /> |

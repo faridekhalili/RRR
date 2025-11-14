@@ -1,0 +1,77 @@
+{
+  "project": {
+    "numFiles": 2,
+    "sloc": {
+      "physical": 88,
+      "logical": 128
+    },
+    "cyclomatic": {
+      "value": 28,
+      "density": 21.875
+    },
+    "halstead": {
+      "distinctOperators": 46,
+      "totalOperators": 466,
+      "distinctOperands": 168,
+      "totalOperands": 563,
+      "vocabulary": 214,
+      "length": 1029,
+      "estimatedLength": 1581.9559284746547,
+      "volume": 7965.969529006779,
+      "difficulty": 77.07738095238095,
+      "effort": 613996.0680423141,
+      "time": 34110.892669017456,
+      "bugs": 2.655323176335593
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/farm-ng-core/docs/src/pages/index.tsx": {
+      "sloc": {
+        "physical": 42,
+        "logical": 59
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 22.033898305084744
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 224,
+        "distinctOperands": 84,
+        "totalOperands": 268,
+        "vocabulary": 105,
+        "length": 492,
+        "estimatedLength": 671.1933293917698,
+        "volume": 3303.408794691732,
+        "difficulty": 33.5,
+        "effort": 110664.19462217302,
+        "time": 6148.010812342945,
+        "bugs": 1.101136264897244
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/farm-ng-core/docs/src/components/HomepageFeatures/index.tsx": {
+      "sloc": {
+        "physical": 46,
+        "logical": 69
+      },
+      "cyclomatic": {
+        "value": 15,
+        "density": 21.73913043478261
+      },
+      "halstead": {
+        "distinctOperators": 25,
+        "totalOperators": 242,
+        "distinctOperands": 84,
+        "totalOperands": 295,
+        "vocabulary": 109,
+        "length": 537,
+        "estimatedLength": 696.7625990828849,
+        "volume": 3634.514982405209,
+        "difficulty": 43.898809523809526,
+        "effort": 159550.8809240382,
+        "time": 8863.937829113234,
+        "bugs": 1.2115049941350697
+      }
+    }
+  }
+}

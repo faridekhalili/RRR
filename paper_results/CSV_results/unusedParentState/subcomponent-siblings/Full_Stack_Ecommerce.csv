@@ -1,0 +1,11 @@
+|       sibling       |
++---------------------+
+| <Announcement />    |
+| <Navbar />          |
+| <Newsletter />      |
+| <Footer />          |
+| <Announcement />    |
+| <Navbar />          |
+| <Produc ... ort} /> |
+| <Newsletter />      |
+| <Footer />          |

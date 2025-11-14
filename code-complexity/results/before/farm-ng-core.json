@@ -1,0 +1,77 @@
+{
+  "project": {
+    "numFiles": 2,
+    "sloc": {
+      "physical": 84,
+      "logical": 72
+    },
+    "cyclomatic": {
+      "value": 6,
+      "density": 8.333333333333332
+    },
+    "halstead": {
+      "distinctOperators": 25,
+      "totalOperators": 256,
+      "distinctOperands": 119,
+      "totalOperands": 333,
+      "vocabulary": 144,
+      "length": 589,
+      "estimatedLength": 992.8537579163439,
+      "volume": 4223.085825849523,
+      "difficulty": 34.97899159663865,
+      "effort": 147719.28361427426,
+      "time": 8206.626867459681,
+      "bugs": 1.4076952752831742
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/farm-ng-core/docs/src/pages/index.tsx": {
+      "sloc": {
+        "physical": 40,
+        "logical": 31
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 6.451612903225806
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 117,
+        "distinctOperands": 57,
+        "totalOperands": 151,
+        "vocabulary": 67,
+        "length": 268,
+        "estimatedLength": 390.8036309490377,
+        "volume": 1625.711903042683,
+        "difficulty": 13.24561403508772,
+        "effort": 21533.552399951328,
+        "time": 1196.3084666639627,
+        "bugs": 0.5419039676808943
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/farm-ng-core/docs/src/components/HomepageFeatures/index.tsx": {
+      "sloc": {
+        "physical": 44,
+        "logical": 41
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 9.75609756097561
+      },
+      "halstead": {
+        "distinctOperators": 15,
+        "totalOperators": 139,
+        "distinctOperands": 62,
+        "totalOperands": 182,
+        "vocabulary": 77,
+        "length": 321,
+        "estimatedLength": 458.4731158997895,
+        "volume": 2011.6384795630636,
+        "difficulty": 22.016129032258064,
+        "effort": 44288.49233231584,
+        "time": 2460.4717962397685,
+        "bugs": 0.6705461598543545
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Button ... Button> |
+| <Button ... Button> |
+| <FieldP ... {id} /> |
+| <FieldP ... {id} /> |
+| <UserPh ... ser} /> |
+| <Logout />          |
+| <EditPhotoIcon />   |
+| <EditPhotoIcon />   |

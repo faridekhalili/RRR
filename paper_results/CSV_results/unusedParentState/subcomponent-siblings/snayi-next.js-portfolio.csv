@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <TimeComponent />   |
+| <Skills ...      /> |
+| <Skills ...      /> |
+| <Skills ...      /> |

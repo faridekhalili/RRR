@@ -1,0 +1,5 @@
+"col0"
+"react-antd/src/components/Settings/theme/theme.tsx:<26,5>--<26,33>~~~set_state_to_assignment_current_value???{varName:colorValue}"
+"react-antd/src/components/Settings/theme/theme.tsx:<50,11>--<50,32>~~~set_state_to_assignment_current_value???{varName:backgroundImage}"
+"react-antd/src/components/Settings/theme/theme.tsx:<56,5>--<56,39>~~~set_state_to_assignment_current_value???{varName:colorValue}"
+"react-antd/src/components/Settings/theme/theme.tsx:<95,34>--<95,67>~~~set_state_to_assignment_current_value???{varName:backgroundImage}"

@@ -1,0 +1,3946 @@
+{
+  "version": 5,
+  "dataForRoots": [
+    {
+      "commitData": [
+        {
+          "changeDescriptions": [
+            [
+              2,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              3,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              4,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              5,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              6,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              7,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              8,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              9,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              10,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              11,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              12,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              13,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              14,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              15,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              16,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              17,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              18,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              19,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ],
+            [
+              20,
+              {
+                "context": null,
+                "didHooksChange": false,
+                "isFirstMount": true,
+                "props": null,
+                "state": null
+              }
+            ]
+          ],
+          "duration": 6.6,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              1,
+              6.6
+            ],
+            [
+              2,
+              5.7
+            ],
+            [
+              3,
+              0.4
+            ],
+            [
+              4,
+              0.2
+            ],
+            [
+              5,
+              0.1
+            ],
+            [
+              6,
+              0.3
+            ],
+            [
+              7,
+              0
+            ],
+            [
+              8,
+              0.2
+            ],
+            [
+              9,
+              0
+            ],
+            [
+              10,
+              0.2
+            ],
+            [
+              11,
+              0.1
+            ],
+            [
+              12,
+              0.2
+            ],
+            [
+              13,
+              0.1
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.1
+            ],
+            [
+              16,
+              0.1
+            ],
+            [
+              17,
+              0
+            ],
+            [
+              18,
+              0.2
+            ],
+            [
+              19,
+              0.1
+            ],
+            [
+              20,
+              0.2
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              1,
+              0.8
+            ],
+            [
+              2,
+              1
+            ],
+            [
+              3,
+              0.4
+            ],
+            [
+              4,
+              0.2
+            ],
+            [
+              5,
+              0.1
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0
+            ],
+            [
+              8,
+              0.2
+            ],
+            [
+              9,
+              0
+            ],
+            [
+              10,
+              0.2
+            ],
+            [
+              11,
+              0.1
+            ],
+            [
+              12,
+              0.1
+            ],
+            [
+              13,
+              0.1
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.1
+            ],
+            [
+              16,
+              0.1
+            ],
+            [
+              17,
+              0
+            ],
+            [
+              18,
+              0.2
+            ],
+            [
+              19,
+              0.1
+            ],
+            [
+              20,
+              0.2
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Normal",
+          "timestamp": 64.39999997615814,
+          "updaters": [
+            {
+              "displayName": "createRoot()",
+              "id": 1,
+              "key": null,
+              "type": 11,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              3,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "input"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              4,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              7,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              8,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              9,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              10,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              11,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              12,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              13,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              14,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              15,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              16,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              17,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              18,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              19,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              20,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClear"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              2,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 3.5,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              3,
+              0.2
+            ],
+            [
+              4,
+              0.2
+            ],
+            [
+              5,
+              0.3
+            ],
+            [
+              6,
+              0
+            ],
+            [
+              7,
+              0.2
+            ],
+            [
+              8,
+              0.1
+            ],
+            [
+              9,
+              0.2
+            ],
+            [
+              10,
+              0.2
+            ],
+            [
+              11,
+              0.2
+            ],
+            [
+              12,
+              0.1
+            ],
+            [
+              13,
+              0.1
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.2
+            ],
+            [
+              16,
+              0
+            ],
+            [
+              17,
+              0.1
+            ],
+            [
+              18,
+              0.1
+            ],
+            [
+              19,
+              0.2
+            ],
+            [
+              20,
+              0.1
+            ],
+            [
+              2,
+              3.5
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              3,
+              0.2
+            ],
+            [
+              4,
+              0.1
+            ],
+            [
+              5,
+              0.3
+            ],
+            [
+              6,
+              0
+            ],
+            [
+              7,
+              0.2
+            ],
+            [
+              8,
+              0.1
+            ],
+            [
+              9,
+              0.2
+            ],
+            [
+              10,
+              0.2
+            ],
+            [
+              11,
+              0.2
+            ],
+            [
+              12,
+              0.1
+            ],
+            [
+              13,
+              0.1
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.1
+            ],
+            [
+              16,
+              0
+            ],
+            [
+              17,
+              0.1
+            ],
+            [
+              18,
+              0.1
+            ],
+            [
+              19,
+              0.1
+            ],
+            [
+              20,
+              0.1
+            ],
+            [
+              2,
+              0.6
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Immediate",
+          "timestamp": 1629.6000000238419,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 2,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              3,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "input"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              4,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              7,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              8,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              9,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              10,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              11,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              12,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              13,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              14,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              15,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              16,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              17,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              18,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              19,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              20,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClear"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              2,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 3.5,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              3,
+              0.2
+            ],
+            [
+              4,
+              0.3
+            ],
+            [
+              5,
+              0.3
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0.2
+            ],
+            [
+              8,
+              0.1
+            ],
+            [
+              9,
+              0.1
+            ],
+            [
+              10,
+              0.2
+            ],
+            [
+              11,
+              0.1
+            ],
+            [
+              12,
+              0.2
+            ],
+            [
+              13,
+              0.1
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.2
+            ],
+            [
+              16,
+              0.1
+            ],
+            [
+              17,
+              0.2
+            ],
+            [
+              18,
+              0.1
+            ],
+            [
+              19,
+              0.2
+            ],
+            [
+              20,
+              0.1
+            ],
+            [
+              2,
+              3.5
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              3,
+              0.2
+            ],
+            [
+              4,
+              0.3
+            ],
+            [
+              5,
+              0.3
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0.2
+            ],
+            [
+              8,
+              0.1
+            ],
+            [
+              9,
+              0.1
+            ],
+            [
+              10,
+              0.2
+            ],
+            [
+              11,
+              0.1
+            ],
+            [
+              12,
+              0.2
+            ],
+            [
+              13,
+              0.1
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.2
+            ],
+            [
+              16,
+              0.1
+            ],
+            [
+              17,
+              0.2
+            ],
+            [
+              18,
+              0.1
+            ],
+            [
+              19,
+              0.2
+            ],
+            [
+              20,
+              0.1
+            ],
+            [
+              2,
+              0.5
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Immediate",
+          "timestamp": 2364.300000011921,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 2,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              3,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "input"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              4,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              7,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              8,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              9,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              10,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              11,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              12,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              13,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              14,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              15,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              16,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              17,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              18,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              19,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              20,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClear"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              2,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 2.7,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              3,
+              0.1
+            ],
+            [
+              4,
+              0.1
+            ],
+            [
+              5,
+              0.2
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0.1
+            ],
+            [
+              8,
+              0.1
+            ],
+            [
+              9,
+              0.1
+            ],
+            [
+              10,
+              0.1
+            ],
+            [
+              11,
+              0.2
+            ],
+            [
+              12,
+              0.1
+            ],
+            [
+              13,
+              0.2
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.1
+            ],
+            [
+              16,
+              0.1
+            ],
+            [
+              17,
+              0
+            ],
+            [
+              18,
+              0.2
+            ],
+            [
+              19,
+              0.2
+            ],
+            [
+              20,
+              0.1
+            ],
+            [
+              2,
+              2.7
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              3,
+              0.1
+            ],
+            [
+              4,
+              0.1
+            ],
+            [
+              5,
+              0.2
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0.1
+            ],
+            [
+              8,
+              0.1
+            ],
+            [
+              9,
+              0.1
+            ],
+            [
+              10,
+              0.1
+            ],
+            [
+              11,
+              0.1
+            ],
+            [
+              12,
+              0.1
+            ],
+            [
+              13,
+              0.2
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.1
+            ],
+            [
+              16,
+              0.1
+            ],
+            [
+              17,
+              0
+            ],
+            [
+              18,
+              0.2
+            ],
+            [
+              19,
+              0.2
+            ],
+            [
+              20,
+              0.1
+            ],
+            [
+              2,
+              0.5
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Immediate",
+          "timestamp": 3163.300000011921,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 2,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        },
+        {
+          "changeDescriptions": [
+            [
+              3,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "input"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              4,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              5,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              6,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              7,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              8,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              9,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              10,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              11,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              12,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              13,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              14,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              15,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              16,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              17,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              18,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              19,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClick"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              20,
+              {
+                "context": false,
+                "didHooksChange": false,
+                "isFirstMount": false,
+                "props": [
+                  "handleClear"
+                ],
+                "state": null,
+                "hooks": null
+              }
+            ],
+            [
+              2,
+              {
+                "context": false,
+                "didHooksChange": true,
+                "isFirstMount": false,
+                "props": [],
+                "state": null,
+                "hooks": [
+                  0
+                ]
+              }
+            ]
+          ],
+          "duration": 3.1,
+          "effectDuration": null,
+          "fiberActualDurations": [
+            [
+              3,
+              0.3
+            ],
+            [
+              4,
+              0.1
+            ],
+            [
+              5,
+              0.2
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0.2
+            ],
+            [
+              8,
+              0
+            ],
+            [
+              9,
+              0.2
+            ],
+            [
+              10,
+              0.1
+            ],
+            [
+              11,
+              0.1
+            ],
+            [
+              12,
+              0.1
+            ],
+            [
+              13,
+              0.2
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.2
+            ],
+            [
+              16,
+              0.1
+            ],
+            [
+              17,
+              0.1
+            ],
+            [
+              18,
+              0.1
+            ],
+            [
+              19,
+              0.2
+            ],
+            [
+              20,
+              0.1
+            ],
+            [
+              2,
+              3.1
+            ]
+          ],
+          "fiberSelfDurations": [
+            [
+              3,
+              0.3
+            ],
+            [
+              4,
+              0.1
+            ],
+            [
+              5,
+              0.2
+            ],
+            [
+              6,
+              0.1
+            ],
+            [
+              7,
+              0.1
+            ],
+            [
+              8,
+              0
+            ],
+            [
+              9,
+              0.2
+            ],
+            [
+              10,
+              0.1
+            ],
+            [
+              11,
+              0.1
+            ],
+            [
+              12,
+              0.1
+            ],
+            [
+              13,
+              0.2
+            ],
+            [
+              14,
+              0.1
+            ],
+            [
+              15,
+              0.2
+            ],
+            [
+              16,
+              0.1
+            ],
+            [
+              17,
+              0.1
+            ],
+            [
+              18,
+              0.1
+            ],
+            [
+              19,
+              0.2
+            ],
+            [
+              20,
+              0.1
+            ],
+            [
+              2,
+              0.6
+            ]
+          ],
+          "passiveEffectDuration": null,
+          "priorityLevel": "Immediate",
+          "timestamp": 4048.699999988079,
+          "updaters": [
+            {
+              "displayName": "App",
+              "id": 2,
+              "key": null,
+              "type": 5,
+              "hocDisplayNames": null,
+              "compiledWithForget": false
+            }
+          ]
+        }
+      ],
+      "displayName": "App",
+      "initialTreeBaseDurations": [],
+      "operations": [
+        [
+          1,
+          1,
+          30,
+          3,
+          65,
+          112,
+          112,
+          6,
+          83,
+          99,
+          114,
+          101,
+          101,
+          110,
+          6,
+          66,
+          117,
+          116,
+          116,
+          111,
+          110,
+          11,
+          66,
+          117,
+          116,
+          116,
+          111,
+          110,
+          67,
+          108,
+          101,
+          97,
+          114,
+          1,
+          1,
+          11,
+          0,
+          3,
+          1,
+          1,
+          4,
+          1,
+          4500,
+          1,
+          2,
+          5,
+          1,
+          0,
+          1,
+          0,
+          7,
+          2,
+          1,
+          4,
+          2,
+          3600,
+          1,
+          3,
+          5,
+          2,
+          2,
+          2,
+          0,
+          4,
+          3,
+          300,
+          1,
+          4,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          4,
+          199,
+          1,
+          5,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          5,
+          99,
+          1,
+          6,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          6,
+          100,
+          1,
+          7,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          7,
+          0,
+          1,
+          8,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          8,
+          199,
+          1,
+          9,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          9,
+          0,
+          1,
+          10,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          10,
+          199,
+          1,
+          11,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          11,
+          100,
+          1,
+          12,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          12,
+          99,
+          1,
+          13,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          13,
+          100,
+          1,
+          14,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          14,
+          99,
+          1,
+          15,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          15,
+          100,
+          1,
+          16,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          16,
+          100,
+          1,
+          17,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          17,
+          0,
+          1,
+          18,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          18,
+          199,
+          1,
+          19,
+          5,
+          2,
+          2,
+          3,
+          0,
+          4,
+          19,
+          100,
+          1,
+          20,
+          5,
+          2,
+          2,
+          4,
+          0,
+          4,
+          20,
+          199
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          3,
+          199,
+          4,
+          5,
+          300,
+          4,
+          6,
+          0,
+          4,
+          7,
+          199,
+          4,
+          8,
+          100,
+          4,
+          9,
+          199,
+          4,
+          11,
+          199,
+          4,
+          12,
+          100,
+          4,
+          13,
+          99,
+          4,
+          14,
+          100,
+          4,
+          16,
+          0,
+          4,
+          17,
+          100,
+          4,
+          18,
+          99,
+          4,
+          19,
+          200,
+          4,
+          20,
+          99,
+          4,
+          2,
+          3199,
+          4,
+          1,
+          4100
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          4,
+          300,
+          4,
+          6,
+          99,
+          4,
+          7,
+          200,
+          4,
+          8,
+          99,
+          4,
+          9,
+          100,
+          4,
+          11,
+          100,
+          4,
+          12,
+          199,
+          4,
+          15,
+          199,
+          4,
+          16,
+          100,
+          4,
+          17,
+          199,
+          4,
+          18,
+          100,
+          4,
+          19,
+          199,
+          4,
+          2,
+          3399,
+          4,
+          1,
+          4300
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          3,
+          100,
+          4,
+          4,
+          100,
+          4,
+          5,
+          199,
+          4,
+          7,
+          100,
+          4,
+          8,
+          100,
+          4,
+          9,
+          99,
+          4,
+          10,
+          100,
+          4,
+          11,
+          99,
+          4,
+          12,
+          100,
+          4,
+          13,
+          199,
+          4,
+          14,
+          99,
+          4,
+          15,
+          100,
+          4,
+          16,
+          99,
+          4,
+          17,
+          0,
+          4,
+          18,
+          199,
+          4,
+          19,
+          200,
+          4,
+          2,
+          2599,
+          4,
+          1,
+          3500
+        ],
+        [
+          1,
+          1,
+          0,
+          4,
+          3,
+          300,
+          4,
+          4,
+          99,
+          4,
+          5,
+          200,
+          4,
+          8,
+          0,
+          4,
+          9,
+          200,
+          4,
+          10,
+          99,
+          4,
+          11,
+          100,
+          4,
+          12,
+          99,
+          4,
+          13,
+          200,
+          4,
+          15,
+          199,
+          4,
+          16,
+          100,
+          4,
+          17,
+          100,
+          4,
+          18,
+          99,
+          4,
+          19,
+          199,
+          4,
+          20,
+          100,
+          4,
+          2,
+          3000,
+          4,
+          1,
+          3900
+        ]
+      ],
+      "rootID": 1,
+      "snapshots": []
+    }
+  ],
+  "timelineData": [
+    {
+      "batchUIDToMeasuresKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.100000023841858,
+              "duration": 9
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.100000023841858,
+              "duration": 6.800000011920929
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19.19999998807907,
+              "duration": 1.9000000357627869
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19.80000001192093,
+              "duration": 0.19999998807907104
+            }
+          ]
+        ],
+        [
+          2,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 1581.300000011921,
+              "duration": 4.600000023841858
+            },
+            {
+              "type": "render",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 1581.300000011921,
+              "duration": 3.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 1585,
+              "duration": 0.9000000357627869
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 1585.300000011921,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          3,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2315.600000023842,
+              "duration": 4.599999964237213
+            },
+            {
+              "type": "render",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2315.600000023842,
+              "duration": 3.599999964237213
+            },
+            {
+              "type": "commit",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2319.199999988079,
+              "duration": 1
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 3,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2319.5,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          4,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 3115.5,
+              "duration": 3.800000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 3115.5,
+              "duration": 3
+            },
+            {
+              "type": "commit",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 3118.5,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 4,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 3118.800000011921,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          5,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4000.600000023842,
+              "duration": 4
+            },
+            {
+              "type": "render",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4000.699999988079,
+              "duration": 3.100000023841858
+            },
+            {
+              "type": "commit",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4003.800000011921,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 5,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4004.100000023842,
+              "duration": 0
+            }
+          ]
+        ]
+      ],
+      "componentMeasures": [
+        {
+          "componentName": "App",
+          "duration": 0.6000000238418579,
+          "timestamp": 13.199999988079071,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Screen",
+          "duration": 0.19999998807907104,
+          "timestamp": 16,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 16.400000035762787,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 16.600000023841858,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 16.69999998807907,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 17,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 17.100000023841858,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 17.30000001192093,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 17.400000035762787,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 17.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 17.600000023841858,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 17.80000001192093,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 17.900000035762787,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 18,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 18.19999998807907,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 18.30000001192093,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 18.400000035762787,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 18.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "ButtonClear",
+          "duration": 0,
+          "timestamp": 18.600000023841858,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "App",
+          "duration": 0.5,
+          "timestamp": 1581.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Screen",
+          "duration": 0.09999996423721313,
+          "timestamp": 1582.4000000357628,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 1582.6000000238419,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 1582.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 1583.1000000238419,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 1583.1000000238419,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 1583.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 1583.4000000357628,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 1583.6000000238419,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 1583.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 1584,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 1584.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 1584.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 1584.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 1584.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 1584.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 1584.6000000238419,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 1584.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "ButtonClear",
+          "duration": 0.09999996423721313,
+          "timestamp": 1584.9000000357628,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "App",
+          "duration": 0.5,
+          "timestamp": 2315.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Screen",
+          "duration": 0.19999998807907104,
+          "timestamp": 2316.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.30000001192092896,
+          "timestamp": 2316.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.30000001192092896,
+          "timestamp": 2316.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 2317.100000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.20000004768371582,
+          "timestamp": 2317.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 2317.400000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 2317.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 2317.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 2317.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 2317.900000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 2318.100000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 2318.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 2318.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 2318.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 2318.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 2318.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 2318.900000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "ButtonClear",
+          "duration": 0.09999996423721313,
+          "timestamp": 2319.100000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "App",
+          "duration": 0.5,
+          "timestamp": 3115.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Screen",
+          "duration": 0.10000002384185791,
+          "timestamp": 3116.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 3116.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 3116.400000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 3116.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 3116.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 3116.800000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 3116.900000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 3117,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 3117.100000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 3117.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 3117.400000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 3117.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 3117.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 3117.900000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 3118,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 3118,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.20000004768371582,
+          "timestamp": 3118.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "ButtonClear",
+          "duration": 0.09999996423721313,
+          "timestamp": 3118.400000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "App",
+          "duration": 0.6000000238418579,
+          "timestamp": 4000.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Screen",
+          "duration": 0.19999998807907104,
+          "timestamp": 4001.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 4001.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.20000004768371582,
+          "timestamp": 4001.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 4001.900000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 4002,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0,
+          "timestamp": 4002.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 4002.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 4002.400000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 4002.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 4002.600000023842,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.20000004768371582,
+          "timestamp": 4002.699999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 4002.900000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 4003,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 4003.199999988079,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.10000002384185791,
+          "timestamp": 4003.300000011921,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.09999996423721313,
+          "timestamp": 4003.400000035763,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "Button",
+          "duration": 0.19999998807907104,
+          "timestamp": 4003.5,
+          "type": "render",
+          "warning": null
+        },
+        {
+          "componentName": "ButtonClear",
+          "duration": 0.10000002384185791,
+          "timestamp": 4003.699999988079,
+          "type": "render",
+          "warning": null
+        }
+      ],
+      "duration": 4014.600000023842,
+      "flamechart": [],
+      "internalModuleSourceToRanges": [],
+      "laneToLabelKeyValueArray": [
+        [
+          1,
+          "Sync"
+        ],
+        [
+          2,
+          "InputContinuousHydration"
+        ],
+        [
+          4,
+          "InputContinuous"
+        ],
+        [
+          8,
+          "DefaultHydration"
+        ],
+        [
+          16,
+          "Default"
+        ],
+        [
+          32,
+          "TransitionHydration"
+        ],
+        [
+          64,
+          "Transition"
+        ],
+        [
+          128,
+          "Transition"
+        ],
+        [
+          256,
+          "Transition"
+        ],
+        [
+          512,
+          "Transition"
+        ],
+        [
+          1024,
+          "Transition"
+        ],
+        [
+          2048,
+          "Transition"
+        ],
+        [
+          4096,
+          "Transition"
+        ],
+        [
+          8192,
+          "Transition"
+        ],
+        [
+          16384,
+          "Transition"
+        ],
+        [
+          32768,
+          "Transition"
+        ],
+        [
+          65536,
+          "Transition"
+        ],
+        [
+          131072,
+          "Transition"
+        ],
+        [
+          262144,
+          "Transition"
+        ],
+        [
+          524288,
+          "Transition"
+        ],
+        [
+          1048576,
+          "Transition"
+        ],
+        [
+          2097152,
+          "Transition"
+        ],
+        [
+          4194304,
+          "Retry"
+        ],
+        [
+          8388608,
+          "Retry"
+        ],
+        [
+          16777216,
+          "Retry"
+        ],
+        [
+          33554432,
+          "Retry"
+        ],
+        [
+          67108864,
+          "Retry"
+        ],
+        [
+          134217728,
+          "SelectiveHydration"
+        ],
+        [
+          268435456,
+          "IdleHydration"
+        ],
+        [
+          536870912,
+          "Idle"
+        ],
+        [
+          1073741824,
+          "Offscreen"
+        ]
+      ],
+      "laneToReactMeasureKeyValueArray": [
+        [
+          1,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 1581.300000011921,
+              "duration": 4.600000023841858
+            },
+            {
+              "type": "render",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 1581.300000011921,
+              "duration": 3.699999988079071
+            },
+            {
+              "type": "commit",
+              "batchUID": 2,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 1585,
+              "duration": 0.9000000357627869
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 2,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 1585.300000011921,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2315.600000023842,
+              "duration": 4.599999964237213
+            },
+            {
+              "type": "render",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2315.600000023842,
+              "duration": 3.599999964237213
+            },
+            {
+              "type": "commit",
+              "batchUID": 3,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2319.199999988079,
+              "duration": 1
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 3,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 2319.5,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 3115.5,
+              "duration": 3.800000011920929
+            },
+            {
+              "type": "render",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 3115.5,
+              "duration": 3
+            },
+            {
+              "type": "commit",
+              "batchUID": 4,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 3118.5,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 4,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 3118.800000011921,
+              "duration": 0
+            },
+            {
+              "type": "render-idle",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4000.600000023842,
+              "duration": 4
+            },
+            {
+              "type": "render",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4000.699999988079,
+              "duration": 3.100000023841858
+            },
+            {
+              "type": "commit",
+              "batchUID": 5,
+              "depth": 0,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4003.800000011921,
+              "duration": 0.800000011920929
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 5,
+              "depth": 1,
+              "lanes": [
+                1
+              ],
+              "timestamp": 4004.100000023842,
+              "duration": 0
+            }
+          ]
+        ],
+        [
+          2,
+          []
+        ],
+        [
+          4,
+          []
+        ],
+        [
+          8,
+          []
+        ],
+        [
+          16,
+          [
+            {
+              "type": "render-idle",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.100000023841858,
+              "duration": 9
+            },
+            {
+              "type": "render",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 12.100000023841858,
+              "duration": 6.800000011920929
+            },
+            {
+              "type": "commit",
+              "batchUID": 1,
+              "depth": 0,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19.19999998807907,
+              "duration": 1.9000000357627869
+            },
+            {
+              "type": "layout-effects",
+              "batchUID": 1,
+              "depth": 1,
+              "lanes": [
+                16
+              ],
+              "timestamp": 19.80000001192093,
+              "duration": 0.19999998807907104
+            }
+          ]
+        ],
+        [
+          32,
+          []
+        ],
+        [
+          64,
+          []
+        ],
+        [
+          128,
+          []
+        ],
+        [
+          256,
+          []
+        ],
+        [
+          512,
+          []
+        ],
+        [
+          1024,
+          []
+        ],
+        [
+          2048,
+          []
+        ],
+        [
+          4096,
+          []
+        ],
+        [
+          8192,
+          []
+        ],
+        [
+          16384,
+          []
+        ],
+        [
+          32768,
+          []
+        ],
+        [
+          65536,
+          []
+        ],
+        [
+          131072,
+          []
+        ],
+        [
+          262144,
+          []
+        ],
+        [
+          524288,
+          []
+        ],
+        [
+          1048576,
+          []
+        ],
+        [
+          2097152,
+          []
+        ],
+        [
+          4194304,
+          []
+        ],
+        [
+          8388608,
+          []
+        ],
+        [
+          16777216,
+          []
+        ],
+        [
+          33554432,
+          []
+        ],
+        [
+          67108864,
+          []
+        ],
+        [
+          134217728,
+          []
+        ],
+        [
+          268435456,
+          []
+        ],
+        [
+          536870912,
+          []
+        ],
+        [
+          1073741824,
+          []
+        ]
+      ],
+      "nativeEvents": [],
+      "networkMeasures": [],
+      "otherUserTimingMarks": [],
+      "reactVersion": "18.2.0",
+      "schedulingEvents": [
+        {
+          "lanes": [
+            16
+          ],
+          "timestamp": 10,
+          "type": "schedule-render",
+          "warning": null
+        },
+        {
+          "componentName": "App",
+          "lanes": [
+            1
+          ],
+          "timestamp": 1581.300000011921,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at App (http://localhost:3000/static/js/bundle.js:289:76)"
+        },
+        {
+          "componentName": "App",
+          "lanes": [
+            1
+          ],
+          "timestamp": 2315.5,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at App (http://localhost:3000/static/js/bundle.js:289:76)"
+        },
+        {
+          "componentName": "App",
+          "lanes": [
+            1
+          ],
+          "timestamp": 3115.300000011921,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at App (http://localhost:3000/static/js/bundle.js:289:76)"
+        },
+        {
+          "componentName": "App",
+          "lanes": [
+            1
+          ],
+          "timestamp": 4000.400000035763,
+          "type": "schedule-state-update",
+          "warning": null,
+          "componentStack": "\n    at App (http://localhost:3000/static/js/bundle.js:289:76)"
+        }
+      ],
+      "snapshots": [],
+      "snapshotHeight": 0,
+      "startTime": 94.80000001192093,
+      "suspenseEvents": [],
+      "thrownErrors": []
+    }
+  ]
+}

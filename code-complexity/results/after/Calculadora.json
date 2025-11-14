@@ -1,0 +1,149 @@
+{
+  "project": {
+    "numFiles": 5,
+    "sloc": {
+      "physical": 164,
+      "logical": 204
+    },
+    "cyclomatic": {
+      "value": 50,
+      "density": 24.509803921568626
+    },
+    "halstead": {
+      "distinctOperators": 92,
+      "totalOperators": 689,
+      "distinctOperands": 284,
+      "totalOperands": 859,
+      "vocabulary": 376,
+      "length": 1548,
+      "estimatedLength": 3064.304916933761,
+      "volume": 13242.503542396984,
+      "difficulty": 139.1338028169014,
+      "effort": 1842479.8766699804,
+      "time": 102359.99314833224,
+      "bugs": 4.414167847465661
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/Calculadora/src/App.js": {
+      "sloc": {
+        "physical": 100,
+        "logical": 99
+      },
+      "cyclomatic": {
+        "value": 21,
+        "density": 21.21212121212121
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 344,
+        "distinctOperands": 121,
+        "totalOperands": 458,
+        "vocabulary": 150,
+        "length": 802,
+        "estimatedLength": 1037.8294855911893,
+        "volume": 5797.512589777696,
+        "difficulty": 54.88429752066116,
+        "effort": 318192.40585713787,
+        "time": 17677.355880952106,
+        "bugs": 1.9325041965925653
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/Calculadora/src/index.js": {
+      "sloc": {
+        "physical": 9,
+        "logical": 10
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 38,
+        "distinctOperands": 23,
+        "totalOperands": 46,
+        "vocabulary": 33,
+        "length": 84,
+        "estimatedLength": 149.27754454988144,
+        "volume": 423.72910602611006,
+        "difficulty": 10,
+        "effort": 4237.291060261101,
+        "time": 235.4050589033945,
+        "bugs": 0.1412430353420367
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/Calculadora/src/components/Button.js": {
+      "sloc": {
+        "physical": 22,
+        "logical": 42
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 30.952380952380953
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 146,
+        "distinctOperands": 62,
+        "totalOperands": 165,
+        "vocabulary": 83,
+        "length": 311,
+        "estimatedLength": 494.1982937621107,
+        "volume": 1982.637263148894,
+        "difficulty": 27.943548387096772,
+        "effort": 55401.920296862234,
+        "time": 3077.8844609367907,
+        "bugs": 0.660879087716298
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/Calculadora/src/components/ButtonClear.js": {
+      "sloc": {
+        "physical": 17,
+        "logical": 39
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 30.76923076923077
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 126,
+        "distinctOperands": 53,
+        "totalOperands": 146,
+        "vocabulary": 74,
+        "length": 272,
+        "estimatedLength": 423.8661136376768,
+        "volume": 1688.9713154510741,
+        "difficulty": 28.92452830188679,
+        "effort": 48852.69861483956,
+        "time": 2714.038811935531,
+        "bugs": 0.5629904384836913
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/Calculadora/src/components/Screen.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 14
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 14.285714285714285
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 35,
+        "distinctOperands": 25,
+        "totalOperands": 44,
+        "vocabulary": 36,
+        "length": 79,
+        "estimatedLength": 167.17882283189007,
+        "volume": 408.42407511394265,
+        "difficulty": 9.68,
+        "effort": 3953.545047102965,
+        "time": 219.64139150572026,
+        "bugs": 0.13614135837131422
+      }
+    }
+  }
+}

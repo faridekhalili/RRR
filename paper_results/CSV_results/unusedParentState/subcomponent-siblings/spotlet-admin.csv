@@ -1,0 +1,18 @@
+|         sibling          |
++--------------------------+
+| <Button ... ard} />      |
+| <Button ... ard} />      |
+| <Button ... ard} />      |
+| <Button ... ard} />      |
+| <Button ... ard} />      |
+| <Button ... ard} />      |
+| <Button ... ard} />      |
+| <Button ... \t\t\t\t\t/> |
+| <Sidebar />              |
+| <Navbar />               |
+| <Sidebar />              |
+| <Navbar />               |
+| <Sidebar />              |
+| <Navbar />               |
+| <Sidebar />              |
+| <Navbar />               |

@@ -1,0 +1,15 @@
+|       sibling       |
++---------------------+
+| <Nav />             |
+| <HomePage />        |
+| <Blog />            |
+| <Post />            |
+| <Dashboard />       |
+| <Register />        |
+| <Invest ... dIn} /> |
+| <Candle />          |
+| <Portfo ...      /> |
+| <Search />          |
+| <Friends />         |
+| <FriendRequests />  |
+| <SocialTabs />      |

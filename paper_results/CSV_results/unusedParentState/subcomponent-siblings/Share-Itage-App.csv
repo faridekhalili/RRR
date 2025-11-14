@@ -1,0 +1,14 @@
+|       sibling       |
++---------------------+
+| <SidePa ... page}/> |
+| <SidePanel />       |
+| <LogOut ... btn" /> |
+| <SidePa ... page}/> |
+| <UserCo ... e.id}/> |
+| <Favori ... peId}/> |
+| <SidePanel />       |
+| <UserCo ... ={id}/> |
+| <AddToL ... list}/> |
+| <Favori ... (id)}/> |
+| <EditBu ... ={id}/> |
+| <Delete ... ={id}/> |

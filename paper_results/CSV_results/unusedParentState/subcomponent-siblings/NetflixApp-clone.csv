@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Card m ... .id} /> |
+| <BackgroundIMG />   |
+| <Header />          |
+| <BackgroundIMG />   |
+| <Header login />    |

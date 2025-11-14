@@ -1,0 +1,22 @@
+|       sibling       |
++---------------------+
+| <Loader />          |
+| <Checko ... tep3 /> |
+| <Loader />          |
+| <Messag ... essage> |
+| <Rating ...      /> |
+| <Messag ... essage> |
+| <Rating ... ing} /> |
+| <Loader />          |
+| <Messag ... essage> |
+| <Loader />          |
+| <Loader />          |
+| <Messag ... essage> |
+| <Loader />          |
+| <Checko ... tep2 /> |
+| <Loader />          |
+| <Loader />          |
+| <Messag ... essage> |
+| <Loader />          |
+| <Loader />          |
+| <Messag ... essage> |

@@ -1,0 +1,5 @@
+"col0"
+"gui/src/pages/output.tsx:<108,36>--<108,68>~~~self_referential_set_state???{varName:options}"
+"gui/src/pages/output.tsx:<112,45>--<112,86>~~~self_referential_set_state???{varName:options}"
+"gui/src/pages/sessions.tsx:<63,28>--<63,56>~~~self_referential_set_state???{varName:monthIndex}"
+"gui/src/pages/sessions.tsx:<70,28>--<70,56>~~~self_referential_set_state???{varName:monthIndex}"

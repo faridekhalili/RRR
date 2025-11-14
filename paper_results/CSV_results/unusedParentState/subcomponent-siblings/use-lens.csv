@@ -1,0 +1,5 @@
+|       sibling       |
++---------------------+
+| <NetworkPicker/>    |
+| <App/>              |
+| <Card c ... </Card> |

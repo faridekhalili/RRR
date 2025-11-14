@@ -1,0 +1,45 @@
+|       sibling        |
++----------------------+
+| <Logins />           |
+| <ForgotPassword />   |
+| <ResetPassword />    |
+| <Register />         |
+| <SideNa ... ideNav>  |
+| <DashBoard />        |
+| <DashBoard />        |
+| <Doctor />           |
+| <Aplikasi />         |
+| <Obat />             |
+| <MainPasien />       |
+| <Riwayat />          |
+| <Profile />          |
+| <Poliklinik />       |
+| <Penyak ... Umum />  |
+| <Antrian />          |
+| <Hasil />            |
+| <BuktiPembayaran />  |
+| <Pembay ... asil />  |
+| <Footer />           |
+| <SideNa ... vAdmin>  |
+| <DashBoardAdmin />   |
+| <DashBoardAdmin />   |
+| <DoctorAdmin />      |
+| <ObatAdmin />        |
+| <DaftarPasien />     |
+| <Riwayat />          |
+| <ProfileAdmin />     |
+| <PoliklinikAdmin />  |
+| <Announcement />     |
+| <PoliklinikDokter /> |
+| <JadwalDokter />     |
+| <Polikl ... rian />  |
+| <HapusAntrian />     |
+| <ProfilePasien />    |
+| <RiwayatPasien />    |
+| <Footer />           |
+| <SideNa ... Doctor>  |
+| <Diagnosa />         |
+| <Diagnosa />         |
+| <SesiDiagnosa />     |
+| <HasilDiagnosa />    |
+| <Footer />           |

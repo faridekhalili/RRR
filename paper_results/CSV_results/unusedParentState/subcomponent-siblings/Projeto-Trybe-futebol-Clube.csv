@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <TeamOp ...      /> |
+| <Scoreb ...      /> |
+| <Scoreb ...      /> |
+| <TeamOp ...      /> |
+| <TeamOp ...      /> |
+| <TeamOp ...      /> |
+| <AddNewMatchBtn />  |
+| <GamesT ... dm } /> |
+| <Header ...      /> |
+| <EditGa ...      /> |

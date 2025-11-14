@@ -1,0 +1,63 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <AdminPage />       |
+| <Aksiya />          |
+| <AdminLogin />      |
+| <ModeratorLogin />  |
+| <BankLogin />       |
+| <Requir ... reAuth> |
+| <OrdersAdmin />     |
+| <UpdateOrder />     |
+| <CreateOrder />     |
+| <EditNews />        |
+| <Requir ... reAuth> |
+| <CardsAdmin />      |
+| <Requir ... reAuth> |
+| <UpdateCar />       |
+| <AddCard />         |
+| <AddCard />         |
+| <AdminClient />     |
+| <AddClients />      |
+| <UpdateClients />   |
+| <StatisticsPage />  |
+| <InfoPage />        |
+| <Aboutus />         |
+| <Home a ... are} /> |
+| <MadAdmin />        |
+| <More />            |
+| <Ourclients />      |
+| <CardsCar />        |
+| <Komissia />        |
+| <Vikup />           |
+| <Otsenka />         |
+| <Trade />           |
+| <Sugurta />         |
+| <Credit />          |
+| <Quality />         |
+| <Ourteam />         |
+| <Vacancy />         |
+| <AutoPodbor />      |
+| <PhotoSale />       |
+| <Cars a ... are} /> |
+| <CreditAuto />      |
+| <Applications />    |
+| <UsersAdmin />      |
+| <ModeratorsAdmin /> |
+| <CreateModerator /> |
+| <CreateMad />       |
+| <UpdateModerator /> |
+| <BanksAdmin />      |
+| <Check />           |
+| <Polezniy />        |
+| <Update ... tion /> |
+| <CreditAuto />      |
+| <Contact />         |
+| <Footer />          |
+| <LogoutComponent/>  |
+| <Client ... ient}/> |
+| <CardCa ... are} /> |
+| <CalCulator />      |
+| <CardCa ...      /> |
+| <CardCa ... pare}/> |
+| <LogoutComponent/>  |

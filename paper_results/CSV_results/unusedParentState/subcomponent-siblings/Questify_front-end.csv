@@ -1,0 +1,24 @@
+|          sibling           |
++----------------------------+
+| <CardIt ...      />        |
+| <CardCo ... \t\t\t\t\t/>   |
+| <Icon\n\t ... \t\t\t\t\t/> |
+| <Icon c ... 3C8" />        |
+| <Icon\n\t ... \t\t\t\t\t/> |
+| <Icon\n\t ... \t\t\t\t\t/> |
+| <Loader />                 |
+| <Icon\n\t ... \t\t\t\t\t/> |
+| <Icon\n\t ... \t\t\t\t\t/> |
+| <Icon\n\t ... \t\t\t\t\t/> |
+| <True />                   |
+| <Card\n  ...      />       |
+| <Card\n  ...      />       |
+| <DoneLi ... rds} />        |
+| <CardCo ... \t\t\t\t\t/>   |
+| <Icon\n\t ... \t\t\t\t\t/> |
+| <Icon\n\t ... \t\t\t\t\t/> |
+| <Icon n ... {14} />        |
+| <Icon\n\t ... \t\t\t\t\t/> |
+| <Icon\n\t ... \t\t\t\t\t/> |
+| <Loader />                 |
+| <Icon\n\t ... \t\t\t\t\t/> |

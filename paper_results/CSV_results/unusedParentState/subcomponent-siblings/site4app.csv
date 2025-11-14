@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Dialog ... Header> |
+| <Dialog ... Footer> |
+| <AppStoreBadge />   |
+| <Callout />         |
+| <Dialog ... Header> |

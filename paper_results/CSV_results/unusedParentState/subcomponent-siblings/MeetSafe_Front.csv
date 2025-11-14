@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <AddForm/>          |
+| <ExchangeContent /> |
+| <HistoryCards/>     |
+| <HomeContent />     |
+| <Profil ... User}/> |

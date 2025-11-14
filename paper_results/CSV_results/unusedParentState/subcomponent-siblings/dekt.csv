@@ -1,0 +1,19 @@
+|       sibling        |
++----------------------+
+| <Card\n  ...      /> |
+| <Sortab ...      />  |
+| <StatLi ... ist} />  |
+| <Second ... ist} />  |
+| <Gadget ... ist} />  |
+| <CardCo ...      />  |
+| <DeckFo ...      />  |
+| <DeckFo ... mit} />  |
+| <ViewDe ...      />  |
+| <AddCar ...      />  |
+| <Checkm ...      />  |
+| <Primar ... Button>  |
+| <Auth m ... pen} />  |
+| <CardLi ... rds} />  |
+| <StatLi ... rds} />  |
+| <Second ... rds} />  |
+| <Gadget ... rds} />  |

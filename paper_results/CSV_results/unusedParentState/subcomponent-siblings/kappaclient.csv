@@ -1,0 +1,27 @@
+|       sibling       |
++---------------------+
+| <NavBar ... role}/> |
+| <InstantLogOut  />  |
+| <Authen ... ted} /> |
+| <Authen ... ted} /> |
+| <Authen ... ted} /> |
+| <Authen ... ata} /> |
+| <Invoic ... le}  /> |
+| <EditSt ... n}   /> |
+| <AdminP ... n}   /> |
+| <Invoic ... n}   /> |
+| <EmailP ... n}   /> |
+| <Paymen ... n}   /> |
+| <Monthl ... n}   /> |
+| <Parent ... n}   /> |
+| <AddNew ... 2    /> |
+| <Invoic ... n}   /> |
+| <PreInv ... n}   /> |
+| <PreInv ... n}   /> |
+| <AllTea ... n}   /> |
+| <HackRe ... n}   /> |
+| <HackLe ... n}   /> |
+| <Invoic ... n}   /> |
+| <Querie ... n}   /> |
+| <Previe ... n}   /> |
+| <Previe ... n}   /> |

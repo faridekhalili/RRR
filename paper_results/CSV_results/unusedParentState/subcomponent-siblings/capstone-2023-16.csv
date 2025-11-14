@@ -1,0 +1,61 @@
+|       sibling       |
++---------------------+
+| <SmallT ... llText> |
+| <SmallB ... Button> |
+| <SmallT ... llText> |
+| <SmallT ... llText> |
+| <Header ...      /> |
+| <Styled ...      /> |
+| <Styled ...      /> |
+| <SmallT ... llText> |
+| <Styled ...      /> |
+| <SmallT ... llText> |
+| <Regula ... Button> |
+| <Header ...      /> |
+| <SmallB ... Button> |
+| <Detail ...      /> |
+| <ReactB ...      /> |
+| <FeedCa ...      /> |
+| <Styled ...      /> |
+| <Styled ...      /> |
+| <TextBu ... Button> |
+| <SmallT ... llText> |
+| <TextBu ... Button> |
+| <SmallT ... llText> |
+| <TextBu ... Button> |
+| <Regula ... Button> |
+| <TopBut ...      /> |
+| <TopBut ...      /> |
+| <FeedCa ...      /> |
+| <FeedCa ...      /> |
+| <Header ... ion} /> |
+| <Tab ro ... aps} /> |
+| <TagCar ...      /> |
+| <Statis ...      /> |
+| <Statis ...      /> |
+| <Regula ... arText> |
+| <Styled ...      /> |
+| <Styled ...      /> |
+| <SmallT ... llText> |
+| <SmallT ... llText> |
+| <Dropdo ...      /> |
+| <Styled ...      /> |
+| <Regula ... Button> |
+| <Styled ...      /> |
+| <Styled ...      /> |
+| <Styled ...      /> |
+| <Styled ...      /> |
+| <Regula ... Button> |
+| <Regula ... arText> |
+| <SmallT ... llText> |
+| <Statis ... {id} /> |
+| <Person ... ode} /> |
+| <Person ... ype} /> |
+| <Conten ... Layout> |
+| <Statis ... tId} /> |
+| <AreaCh ... 700} /> |
+| <Input  ... ype} /> |
+| <Input  ... ype} /> |
+| <Input  ... sword/> |
+| <Input  ... sword/> |
+| <Submit ... lid} /> |

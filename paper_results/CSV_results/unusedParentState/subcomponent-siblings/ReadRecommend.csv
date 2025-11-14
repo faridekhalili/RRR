@@ -1,0 +1,14 @@
+|       sibling       |
++---------------------+
+| <YearTe ... ars} /> |
+| <Search ... rch} /> |
+| <Home />            |
+| <BookPage />        |
+| <Collection />      |
+| <BookCollection />  |
+| <View />            |
+| <ReminderView />    |
+| <Reminders />       |
+| <Profile />         |
+| <Loading />         |
+| <BookCa ... ex]} /> |

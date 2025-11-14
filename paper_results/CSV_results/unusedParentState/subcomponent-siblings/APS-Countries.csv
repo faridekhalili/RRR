@@ -1,0 +1,5 @@
+|       sibling        |
++----------------------+
+| <Header />           |
+| <Main data={data} /> |
+| <Countr ... ata} />  |

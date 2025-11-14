@@ -1,0 +1,11 @@
+|       sibling       |
++---------------------+
+| <BatchS ...      /> |
+| <TokenS ... sIn} /> |
+| <TokenA ...      /> |
+| <PoolHeader />      |
+| <PoolCo ... ess} /> |
+| <SorPageHeader />   |
+| <TokenA ...      /> |
+| <SorSwa ...      /> |
+| <TokenS ... ss)} /> |

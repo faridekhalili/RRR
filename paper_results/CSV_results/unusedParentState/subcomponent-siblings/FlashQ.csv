@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <FlashC ... key} /> |
+| <FlashC ...      /> |
+| <Header />          |
+| <Animation />       |

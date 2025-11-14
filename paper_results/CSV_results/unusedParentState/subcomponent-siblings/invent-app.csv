@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <SpinnerImg />      |
+| <Loader />          |
+| <Card c ... </Card> |
+| <Loader />          |

@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Search  />         |
+| <Menus/>            |
+| <Menuitems />       |
+| <Menus/>            |
+| <Menuit ... imgs}/> |

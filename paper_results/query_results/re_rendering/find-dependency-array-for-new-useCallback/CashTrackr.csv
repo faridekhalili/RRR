@@ -1,0 +1,6 @@
+"col0"
+"src/App.js:<13,22>--<15,3>~~~use_callback_dep???setExpenses"
+"src/App.js:<17,25>--<21,3>~~~use_callback_dep???setExpenses"
+"src/App.js:<23,32>--<25,3>~~~use_callback_dep???setExpenseToUpdate"
+"src/App.js:<27,25>--<43,3>~~~use_callback_dep???expenses"
+"src/App.js:<27,25>--<43,3>~~~use_callback_dep???setExpenses"

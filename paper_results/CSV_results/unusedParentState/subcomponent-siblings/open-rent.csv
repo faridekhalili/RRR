@@ -1,0 +1,6 @@
+|     sibling      |
++------------------+
+| <LeftContent />  |
+| <RightContent /> |
+| <InputCom />     |
+| <CardPage />     |

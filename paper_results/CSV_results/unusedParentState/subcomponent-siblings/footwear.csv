@@ -1,0 +1,16 @@
+|       sibling       |
++---------------------+
+| <MenuNa ... pen} /> |
+| <Header />          |
+| <TopCat ... ies} /> |
+| <SideCa ... pes} /> |
+| <ShopCarousel />    |
+| <Header />          |
+| <Produc ... ata} /> |
+| <Produc ... tem} /> |
+| <Produc ... tem} /> |
+| <CardSkeleton />    |
+| <CardSkeleton />    |
+| <CardSkeleton />    |
+| <CardSkeleton />    |
+| <CardSkeleton />    |

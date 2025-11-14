@@ -1,0 +1,15 @@
+|       sibling        |
++----------------------+
+| <Spinne ... ull} />  |
+| <LoginB ... Button>  |
+| <LoginB ... Button>  |
+| <Masonr ...      />  |
+| <Spinne ... ..." />  |
+| <Masonr ...      />  |
+| <Sideba ...      />  |
+| <UserPr ... ser} />  |
+| <Pins u ... ser} />  |
+| <Feed user={user} /> |
+| <Feed user={user} /> |
+| <PinDet ... ser} />  |
+| <Create ... ser} />  |

@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <NavIte ... item}/> |
+| <Logo title={""} /> |
+| <LangugeSwither />  |
+| <ThemeSwitcher />   |
+| <NavIte ... rue} /> |

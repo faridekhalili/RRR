@@ -1,0 +1,7 @@
+"col0"
+"src/reader/ArticleView.tsx:<15,8>--<96,1>~~~memoize"
+"src/reader/Channel.tsx:<19,8>--<51,1>~~~memoize"
+"src/reader/ChannelList.tsx:<18,8>--<97,1>~~~memoize"
+"src/reader/FeedManager.tsx:<17,8>--<166,1>~~~memoize"
+"src/writer/NewNote.tsx:<23,16>--<90,1>~~~memoize"
+"src/writer/NoteItem.tsx:<20,16>--<51,1>~~~memoize"

@@ -1,0 +1,10 @@
+|      sibling       |
++--------------------+
+| <Header  />        |
+| <AboutUs  />       |
+| <MenuHeader  />    |
+| <Menu  />          |
+| <Images  />        |
+| <ContactHeader  /> |
+| <Contact  />       |
+| <Footer  />        |

@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Header ...      /> |
+| <Checko ... eckout> |
+| <Checko ... eckout> |
+| <Checko ... eckout> |
+| <Footer />          |

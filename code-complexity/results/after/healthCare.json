@@ -1,0 +1,1133 @@
+{
+  "project": {
+    "numFiles": 46,
+    "sloc": {
+      "physical": 4362,
+      "logical": 4881
+    },
+    "cyclomatic": {
+      "value": 964,
+      "density": 19.750051219012498
+    },
+    "halstead": {
+      "distinctOperators": 1078,
+      "totalOperators": 15996,
+      "distinctOperands": 5377,
+      "totalOperands": 20091,
+      "vocabulary": 6455,
+      "length": 36087,
+      "estimatedLength": 79994.14105675815,
+      "volume": 456724.3392070809,
+      "difficulty": 2013.957411195834,
+      "effort": 919823367.8196206,
+      "time": 51101298.21220115,
+      "bugs": 152.2414464023603
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/App.js": {
+      "sloc": {
+        "physical": 45,
+        "logical": 95
+      },
+      "cyclomatic": {
+        "value": 31,
+        "density": 32.631578947368425
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 327,
+        "distinctOperands": 105,
+        "totalOperands": 378,
+        "vocabulary": 134,
+        "length": 705,
+        "estimatedLength": 899.7088993672604,
+        "volume": 4981.592879272729,
+        "difficulty": 52.2,
+        "effort": 260039.14829803648,
+        "time": 14446.619349890916,
+        "bugs": 1.6605309597575764
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/App.test.js": {
+      "sloc": {
+        "physical": 10,
+        "logical": 10
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 29,
+        "distinctOperands": 24,
+        "totalOperands": 36,
+        "vocabulary": 34,
+        "length": 65,
+        "estimatedLength": 155.88872502451932,
+        "volume": 330.6850846812721,
+        "difficulty": 7.5,
+        "effort": 2480.1381351095406,
+        "time": 137.78545195053005,
+        "bugs": 0.11022836156042402
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/index.js": {
+      "sloc": {
+        "physical": 17,
+        "logical": 12
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 16.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 44,
+        "distinctOperands": 26,
+        "totalOperands": 53,
+        "vocabulary": 36,
+        "length": 97,
+        "estimatedLength": 169.21582985307933,
+        "volume": 501.4827251399043,
+        "difficulty": 10.192307692307692,
+        "effort": 5111.26623700287,
+        "time": 283.95923538904833,
+        "bugs": 0.1671609083799681
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/reportWebVitals.js": {
+      "sloc": {
+        "physical": 27,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 27.659574468085108
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 140,
+        "distinctOperands": 53,
+        "totalOperands": 163,
+        "vocabulary": 75,
+        "length": 303,
+        "estimatedLength": 429.59403409224,
+        "volume": 1887.3320632202517,
+        "difficulty": 33.83018867924528,
+        "effort": 63848.7997991304,
+        "time": 3547.1555443961333,
+        "bugs": 0.6291106877400839
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/setupTests.js": {
+      "sloc": {
+        "physical": 3,
+        "logical": 2
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 50
+      },
+      "halstead": {
+        "distinctOperators": 1,
+        "totalOperators": 1,
+        "distinctOperands": 3,
+        "totalOperands": 3,
+        "vocabulary": 4,
+        "length": 4,
+        "estimatedLength": 6.339850002884624,
+        "volume": 8,
+        "difficulty": 0.5,
+        "effort": 4,
+        "time": 0.2222222222222222,
+        "bugs": 0.0026666666666666666
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Dashboard/Dashboard.jsx": {
+      "sloc": {
+        "physical": 17,
+        "logical": 41
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 31.70731707317073
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 142,
+        "distinctOperands": 54,
+        "totalOperands": 164,
+        "vocabulary": 75,
+        "length": 306,
+        "estimatedLength": 431.6165626622602,
+        "volume": 1906.0185192917395,
+        "difficulty": 31.88888888888889,
+        "effort": 60780.812781858804,
+        "time": 3376.711821214378,
+        "bugs": 0.6353395064305798
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Dashboard/DashboardContextApi.jsx": {
+      "sloc": {
+        "physical": 18,
+        "logical": 39
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 30.76923076923077
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 137,
+        "distinctOperands": 50,
+        "totalOperands": 152,
+        "vocabulary": 71,
+        "length": 289,
+        "estimatedLength": 400.7137894740054,
+        "volume": 1777.2769175368533,
+        "difficulty": 31.92,
+        "effort": 56730.67920777636,
+        "time": 3151.70440043202,
+        "bugs": 0.5924256391789511
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Dashboard/Home.js": {
+      "sloc": {
+        "physical": 27,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 27.659574468085108
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 184,
+        "distinctOperands": 62,
+        "totalOperands": 218,
+        "vocabulary": 83,
+        "length": 402,
+        "estimatedLength": 494.1982937621107,
+        "volume": 2562.765851401464,
+        "difficulty": 36.91935483870968,
+        "effort": 94615.66183641857,
+        "time": 5256.4256575788095,
+        "bugs": 0.854255283800488
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/NavBar/AllFolderRoutes.jsx": {
+      "sloc": {
+        "physical": 49,
+        "logical": 59
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 22.033898305084744
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 231,
+        "distinctOperands": 81,
+        "totalOperands": 277,
+        "vocabulary": 102,
+        "length": 508,
+        "estimatedLength": 646.6647002942317,
+        "volume": 3389.5920737215197,
+        "difficulty": 35.907407407407405,
+        "effort": 121711.46353603753,
+        "time": 6761.747974224307,
+        "bugs": 1.1298640245738398
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/NavBar/CallAll.js": {
+      "sloc": {
+        "physical": 167,
+        "logical": 144
+      },
+      "cyclomatic": {
+        "value": 21,
+        "density": 14.583333333333334
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 594,
+        "distinctOperands": 152,
+        "totalOperands": 757,
+        "vocabulary": 173,
+        "length": 1351,
+        "estimatedLength": 1253.8914598257404,
+        "volume": 10044.182735537217,
+        "difficulty": 52.29276315789474,
+        "effort": 525238.068904063,
+        "time": 29179.892716892387,
+        "bugs": 3.348060911845739
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/NavBar/NavBar.js": {
+      "sloc": {
+        "physical": 37,
+        "logical": 56
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 23.214285714285715
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 158,
+        "distinctOperands": 67,
+        "totalOperands": 192,
+        "vocabulary": 89,
+        "length": 350,
+        "estimatedLength": 539.8819379507418,
+        "volume": 2266.5067008382393,
+        "difficulty": 31.52238805970149,
+        "effort": 71445.70376373673,
+        "time": 3969.2057646520407,
+        "bugs": 0.7555022336127465
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/NavBar/NavScroll.jsx": {
+      "sloc": {
+        "physical": 251,
+        "logical": 221
+      },
+      "cyclomatic": {
+        "value": 54,
+        "density": 24.43438914027149
+      },
+      "halstead": {
+        "distinctOperators": 30,
+        "totalOperators": 853,
+        "distinctOperands": 224,
+        "totalOperands": 1075,
+        "vocabulary": 254,
+        "length": 1928,
+        "estimatedLength": 1983.0681502026314,
+        "volume": 15402.184076096737,
+        "difficulty": 71.98660714285715,
+        "effort": 1108750.974227946,
+        "time": 61597.276345997,
+        "bugs": 5.134061358698912
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/NavBar/Scroll.jsx": {
+      "sloc": {
+        "physical": 65,
+        "logical": 111
+      },
+      "cyclomatic": {
+        "value": 33,
+        "density": 29.72972972972973
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 332,
+        "distinctOperands": 131,
+        "totalOperands": 393,
+        "vocabulary": 160,
+        "length": 725,
+        "estimatedLength": 1125.347680245992,
+        "volume": 5308.397868793338,
+        "difficulty": 43.5,
+        "effort": 230915.3072925102,
+        "time": 12828.628182917233,
+        "bugs": 1.769465956264446
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Billing/BillingPatient.js": {
+      "sloc": {
+        "physical": 312,
+        "logical": 251
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 5.179282868525896
+      },
+      "halstead": {
+        "distinctOperators": 24,
+        "totalOperators": 662,
+        "distinctOperands": 167,
+        "totalOperands": 936,
+        "vocabulary": 191,
+        "length": 1598,
+        "estimatedLength": 1410.287519862544,
+        "volume": 12108.731267201127,
+        "difficulty": 67.25748502994011,
+        "effort": 814402.8119353475,
+        "time": 45244.60066307486,
+        "bugs": 4.036243755733709
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Billing/PatiendBillingContextApi.jsx": {
+      "sloc": {
+        "physical": 18,
+        "logical": 39
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 30.76923076923077
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 137,
+        "distinctOperands": 50,
+        "totalOperands": 152,
+        "vocabulary": 71,
+        "length": 289,
+        "estimatedLength": 400.7137894740054,
+        "volume": 1777.2769175368533,
+        "difficulty": 31.92,
+        "effort": 56730.67920777636,
+        "time": 3151.70440043202,
+        "bugs": 0.5924256391789511
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Billing/PatientBilling.jsx": {
+      "sloc": {
+        "physical": 18,
+        "logical": 41
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 31.70731707317073
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 142,
+        "distinctOperands": 54,
+        "totalOperands": 164,
+        "vocabulary": 75,
+        "length": 306,
+        "estimatedLength": 431.6165626622602,
+        "volume": 1906.0185192917395,
+        "difficulty": 31.88888888888889,
+        "effort": 60780.812781858804,
+        "time": 3376.711821214378,
+        "bugs": 0.6353395064305798
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Services/EditModal.js": {
+      "sloc": {
+        "physical": 169,
+        "logical": 201
+      },
+      "cyclomatic": {
+        "value": 39,
+        "density": 19.402985074626866
+      },
+      "halstead": {
+        "distinctOperators": 30,
+        "totalOperators": 637,
+        "distinctOperands": 218,
+        "totalOperands": 796,
+        "vocabulary": 248,
+        "length": 1433,
+        "estimatedLength": 1926.5097125446775,
+        "volume": 11398.363312784393,
+        "difficulty": 54.77064220183486,
+        "effort": 624295.6786910351,
+        "time": 34683.09326061307,
+        "bugs": 3.7994544375947976
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Services/Main.js": {
+      "sloc": {
+        "physical": 25,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 27.659574468085108
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 170,
+        "distinctOperands": 64,
+        "totalOperands": 202,
+        "vocabulary": 85,
+        "length": 372,
+        "estimatedLength": 510,
+        "volume": 2384.293428243225,
+        "difficulty": 33.140625,
+        "effort": 79016.97439537314,
+        "time": 4389.831910854064,
+        "bugs": 0.794764476081075
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Services/MainTable.js": {
+      "sloc": {
+        "physical": 165,
+        "logical": 174
+      },
+      "cyclomatic": {
+        "value": 32,
+        "density": 18.39080459770115
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 608,
+        "distinctOperands": 201,
+        "totalOperands": 774,
+        "vocabulary": 230,
+        "length": 1382,
+        "estimatedLength": 1759.7418889711537,
+        "volume": 10842.467250405127,
+        "difficulty": 55.83582089552239,
+        "effort": 605398.0594591878,
+        "time": 33633.22552551043,
+        "bugs": 3.6141557501350423
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Services/PtnServicesContextApi.jsx": {
+      "sloc": {
+        "physical": 113,
+        "logical": 155
+      },
+      "cyclomatic": {
+        "value": 31,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 30,
+        "totalOperators": 436,
+        "distinctOperands": 145,
+        "totalOperands": 541,
+        "vocabulary": 175,
+        "length": 977,
+        "estimatedLength": 1256.4840907526134,
+        "volume": 7279.833256260186,
+        "difficulty": 55.96551724137931,
+        "effort": 407419.63361759594,
+        "time": 22634.424089866443,
+        "bugs": 2.426611085420062
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Services/Select.js": {
+      "sloc": {
+        "physical": 79,
+        "logical": 79
+      },
+      "cyclomatic": {
+        "value": 18,
+        "density": 22.78481012658228
+      },
+      "halstead": {
+        "distinctOperators": 23,
+        "totalOperators": 297,
+        "distinctOperands": 105,
+        "totalOperands": 347,
+        "vocabulary": 128,
+        "length": 644,
+        "estimatedLength": 859.4234262612637,
+        "volume": 4508,
+        "difficulty": 38.0047619047619,
+        "effort": 171325.46666666665,
+        "time": 9518.08148148148,
+        "bugs": 1.5026666666666666
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Services/add.js": {
+      "sloc": {
+        "physical": 166,
+        "logical": 208
+      },
+      "cyclomatic": {
+        "value": 39,
+        "density": 18.75
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 606,
+        "distinctOperands": 202,
+        "totalOperands": 770,
+        "vocabulary": 231,
+        "length": 1376,
+        "estimatedLength": 1769.0468525156648,
+        "volume": 10804.006680988494,
+        "difficulty": 55.27227722772277,
+        "effort": 597162.052441765,
+        "time": 33175.66958009805,
+        "bugs": 3.601335560329498
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Doctor Services/Data.js": {
+      "sloc": {
+        "physical": 25,
+        "logical": 17
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 5.88235294117647
+      },
+      "halstead": {
+        "distinctOperators": 8,
+        "totalOperators": 30,
+        "distinctOperands": 24,
+        "totalOperands": 45,
+        "vocabulary": 32,
+        "length": 75,
+        "estimatedLength": 146.71880002307702,
+        "volume": 375,
+        "difficulty": 7.5,
+        "effort": 2812.5,
+        "time": 156.25,
+        "bugs": 0.125
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Doctor Services/DoctorList.js": {
+      "sloc": {
+        "physical": 79,
+        "logical": 119
+      },
+      "cyclomatic": {
+        "value": 33,
+        "density": 27.73109243697479
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 406,
+        "distinctOperands": 139,
+        "totalOperands": 501,
+        "vocabulary": 168,
+        "length": 907,
+        "estimatedLength": 1195.9821002175493,
+        "volume": 6704.831902460336,
+        "difficulty": 52.26258992805755,
+        "effort": 350411.8802548425,
+        "time": 19467.326680824583,
+        "bugs": 2.2349439674867786
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Doctor Services/DoctorServices.jsx": {
+      "sloc": {
+        "physical": 18,
+        "logical": 41
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 31.70731707317073
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 142,
+        "distinctOperands": 54,
+        "totalOperands": 164,
+        "vocabulary": 75,
+        "length": 306,
+        "estimatedLength": 431.6165626622602,
+        "volume": 1906.0185192917395,
+        "difficulty": 31.88888888888889,
+        "effort": 60780.812781858804,
+        "time": 3376.711821214378,
+        "bugs": 0.6353395064305798
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Doctor Services/DoctorServicesContextApi.jsx": {
+      "sloc": {
+        "physical": 18,
+        "logical": 39
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 30.76923076923077
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 137,
+        "distinctOperands": 50,
+        "totalOperands": 152,
+        "vocabulary": 71,
+        "length": 289,
+        "estimatedLength": 400.7137894740054,
+        "volume": 1777.2769175368533,
+        "difficulty": 31.92,
+        "effort": 56730.67920777636,
+        "time": 3151.70440043202,
+        "bugs": 0.5924256391789511
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Doctor Services/DoctorServicesList.js": {
+      "sloc": {
+        "physical": 37,
+        "logical": 90
+      },
+      "cyclomatic": {
+        "value": 32,
+        "density": 35.55555555555556
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 307,
+        "distinctOperands": 101,
+        "totalOperands": 363,
+        "vocabulary": 130,
+        "length": 670,
+        "estimatedLength": 865.5674927577334,
+        "volume": 4704.986434729064,
+        "difficulty": 52.113861386138616,
+        "effort": 245195.01088313296,
+        "time": 13621.945049062942,
+        "bugs": 1.5683288115763547
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Doctor Services/ServicesList.js": {
+      "sloc": {
+        "physical": 223,
+        "logical": 182
+      },
+      "cyclomatic": {
+        "value": 26,
+        "density": 14.285714285714285
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 799,
+        "distinctOperands": 158,
+        "totalOperands": 1064,
+        "vocabulary": 186,
+        "length": 1863,
+        "estimatedLength": 1358.5032191609412,
+        "volume": 14045.452865094263,
+        "difficulty": 94.27848101265823,
+        "effort": 1324183.9612559755,
+        "time": 73565.77562533197,
+        "bugs": 4.681817621698087
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Services/AddPatient.js": {
+      "sloc": {
+        "physical": 166,
+        "logical": 203
+      },
+      "cyclomatic": {
+        "value": 38,
+        "density": 18.7192118226601
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 604,
+        "distinctOperands": 195,
+        "totalOperands": 763,
+        "vocabulary": 224,
+        "length": 1367,
+        "estimatedLength": 1704.0419902799129,
+        "volume": 10672.654178452744,
+        "difficulty": 56.735897435897435,
+        "effort": 605522.612837497,
+        "time": 33640.145157638726,
+        "bugs": 3.5575513928175813
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Services/EditPatientSchedule.js": {
+      "sloc": {
+        "physical": 177,
+        "logical": 217
+      },
+      "cyclomatic": {
+        "value": 38,
+        "density": 17.51152073732719
+      },
+      "halstead": {
+        "distinctOperators": 30,
+        "totalOperators": 623,
+        "distinctOperands": 195,
+        "totalOperands": 799,
+        "vocabulary": 225,
+        "length": 1422,
+        "estimatedLength": 1711.6493205936624,
+        "volume": 11111.196853910627,
+        "difficulty": 61.46153846153845,
+        "effort": 682911.252790353,
+        "time": 37939.5140439085,
+        "bugs": 3.703732284636876
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Services/PatientServices.js": {
+      "sloc": {
+        "physical": 244,
+        "logical": 214
+      },
+      "cyclomatic": {
+        "value": 45,
+        "density": 21.02803738317757
+      },
+      "halstead": {
+        "distinctOperators": 32,
+        "totalOperators": 683,
+        "distinctOperands": 237,
+        "totalOperands": 862,
+        "vocabulary": 269,
+        "length": 1545,
+        "estimatedLength": 2122.071933953632,
+        "volume": 12470.409350149986,
+        "difficulty": 58.19409282700422,
+        "effort": 725704.1593133697,
+        "time": 40316.89773963165,
+        "bugs": 4.156803116716662
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Services/SearchBar.js": {
+      "sloc": {
+        "physical": 44,
+        "logical": 60
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 21.666666666666668
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 212,
+        "distinctOperands": 81,
+        "totalOperands": 263,
+        "vocabulary": 102,
+        "length": 475,
+        "estimatedLength": 646.6647002942317,
+        "volume": 3169.4020374364604,
+        "difficulty": 34.092592592592595,
+        "effort": 108053.13242445415,
+        "time": 6002.951801358564,
+        "bugs": 1.0564673458121534
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Services/ServicesContextApi.jsx": {
+      "sloc": {
+        "physical": 166,
+        "logical": 204
+      },
+      "cyclomatic": {
+        "value": 43,
+        "density": 21.07843137254902
+      },
+      "halstead": {
+        "distinctOperators": 32,
+        "totalOperators": 627,
+        "distinctOperands": 176,
+        "totalOperands": 750,
+        "vocabulary": 208,
+        "length": 1377,
+        "estimatedLength": 1551.5617766765579,
+        "volume": 10603.505491880285,
+        "difficulty": 68.18181818181819,
+        "effort": 722966.2835372923,
+        "time": 40164.79352984957,
+        "bugs": 3.5345018306267617
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Dashboard/Patient Graphs/AdmissionBedRates.js": {
+      "sloc": {
+        "physical": 152,
+        "logical": 129
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 9.30232558139535
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 404,
+        "distinctOperands": 160,
+        "totalOperands": 577,
+        "vocabulary": 182,
+        "length": 981,
+        "estimatedLength": 1332.5909132694999,
+        "volume": 7365.146542034921,
+        "difficulty": 39.66875,
+        "effort": 292166.1568893478,
+        "time": 16231.453160519324,
+        "bugs": 2.455048847344974
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Dashboard/Patient Graphs/AveragePatientVisited.js": {
+      "sloc": {
+        "physical": 105,
+        "logical": 104
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 11.538461538461538
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 267,
+        "distinctOperands": 119,
+        "totalOperands": 362,
+        "vocabulary": 141,
+        "length": 629,
+        "estimatedLength": 972.1693046264201,
+        "volume": 4490.777800658841,
+        "difficulty": 33.46218487394958,
+        "effort": 150271.23699347486,
+        "time": 8348.402055193048,
+        "bugs": 1.4969259335529472
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Dashboard/Patient Graphs/GeneralPatientInfo.js": {
+      "sloc": {
+        "physical": 143,
+        "logical": 148
+      },
+      "cyclomatic": {
+        "value": 21,
+        "density": 14.18918918918919
+      },
+      "halstead": {
+        "distinctOperators": 25,
+        "totalOperators": 428,
+        "distinctOperands": 178,
+        "totalOperands": 572,
+        "vocabulary": 203,
+        "length": 1000,
+        "estimatedLength": 1517.5738864861787,
+        "volume": 7665.335917185176,
+        "difficulty": 40.168539325842694,
+        "effort": 307905.3472352472,
+        "time": 17105.8526241804,
+        "bugs": 2.555111972395059
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Dashboard/Patient Graphs/HospitalCards.js": {
+      "sloc": {
+        "physical": 104,
+        "logical": 85
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 14.117647058823529
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 413,
+        "distinctOperands": 107,
+        "totalOperands": 563,
+        "vocabulary": 128,
+        "length": 976,
+        "estimatedLength": 862.9077742593468,
+        "volume": 6832,
+        "difficulty": 55.247663551401864,
+        "effort": 377452.03738317755,
+        "time": 20969.55763239875,
+        "bugs": 2.2773333333333334
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Dashboard/Patient Graphs/PatientVisit.js": {
+      "sloc": {
+        "physical": 96,
+        "logical": 101
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 12.871287128712872
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 273,
+        "distinctOperands": 131,
+        "totalOperands": 365,
+        "vocabulary": 153,
+        "length": 638,
+        "estimatedLength": 1076.1137192352298,
+        "volume": 4630.213443637912,
+        "difficulty": 30.64885496183206,
+        "effort": 141910.74027638332,
+        "time": 7883.930015354629,
+        "bugs": 1.5434044812126373
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Dashboard/Patient Graphs/PatientVisitByDepartment.js": {
+      "sloc": {
+        "physical": 95,
+        "logical": 94
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 13.829787234042554
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 326,
+        "distinctOperands": 135,
+        "totalOperands": 420,
+        "vocabulary": 164,
+        "length": 746,
+        "estimatedLength": 1160.5977579163364,
+        "volume": 5488.733795445091,
+        "difficulty": 45.111111111111114,
+        "effort": 247602.88010563413,
+        "time": 13755.715561424118,
+        "bugs": 1.8295779318150305
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Dashboard/Patient Graphs/PatientVisitByGender.js": {
+      "sloc": {
+        "physical": 95,
+        "logical": 96
+      },
+      "cyclomatic": {
+        "value": 12,
+        "density": 12.5
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 258,
+        "distinctOperands": 128,
+        "totalOperands": 347,
+        "vocabulary": 150,
+        "length": 605,
+        "estimatedLength": 1050,
+        "volume": 4373.435307750007,
+        "difficulty": 29.8203125,
+        "effort": 130417.2075756389,
+        "time": 7245.4004208688275,
+        "bugs": 1.4578117692500023
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Billing/Date and Time/PatientTime.js": {
+      "sloc": {
+        "physical": 157,
+        "logical": 183
+      },
+      "cyclomatic": {
+        "value": 35,
+        "density": 19.12568306010929
+      },
+      "halstead": {
+        "distinctOperators": 30,
+        "totalOperators": 561,
+        "distinctOperands": 176,
+        "totalOperands": 655,
+        "vocabulary": 206,
+        "length": 1216,
+        "estimatedLength": 1536.6429134392833,
+        "volume": 9346.784641054794,
+        "difficulty": 55.82386363636364,
+        "effort": 521773.6312407009,
+        "time": 28987.423957816718,
+        "bugs": 3.115594880351598
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Billing/Date and Time/PatientDate.js": {
+      "sloc": {
+        "physical": 59,
+        "logical": 78
+      },
+      "cyclomatic": {
+        "value": 14,
+        "density": 17.94871794871795
+      },
+      "halstead": {
+        "distinctOperators": 27,
+        "totalOperators": 277,
+        "distinctOperands": 98,
+        "totalOperands": 332,
+        "vocabulary": 125,
+        "length": 609,
+        "estimatedLength": 826.8387305144012,
+        "volume": 4242.162629359212,
+        "difficulty": 45.734693877551024,
+        "effort": 194014.0092325305,
+        "time": 10778.556068473916,
+        "bugs": 1.414054209786404
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Billing/ServicesCheckbox.js/NeurologyCheckbox.js": {
+      "sloc": {
+        "physical": 93,
+        "logical": 92
+      },
+      "cyclomatic": {
+        "value": 21,
+        "density": 22.82608695652174
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 313,
+        "distinctOperands": 119,
+        "totalOperands": 373,
+        "vocabulary": 140,
+        "length": 686,
+        "estimatedLength": 965.2744868631121,
+        "volume": 4890.688149624247,
+        "difficulty": 32.911764705882355,
+        "effort": 160961.17763028038,
+        "time": 8942.287646126688,
+        "bugs": 1.6302293832080823
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Billing/ServicesCheckbox.js/PathologyCheckbox.js": {
+      "sloc": {
+        "physical": 92,
+        "logical": 91
+      },
+      "cyclomatic": {
+        "value": 20,
+        "density": 21.978021978021978
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 310,
+        "distinctOperands": 119,
+        "totalOperands": 369,
+        "vocabulary": 140,
+        "length": 679,
+        "estimatedLength": 965.2744868631121,
+        "volume": 4840.783168505633,
+        "difficulty": 32.55882352941177,
+        "effort": 157610.20492752164,
+        "time": 8756.122495973425,
+        "bugs": 1.6135943895018776
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Billing/ServicesCheckbox.js/RadiologyCheckbox.js": {
+      "sloc": {
+        "physical": 92,
+        "logical": 91
+      },
+      "cyclomatic": {
+        "value": 20,
+        "density": 21.978021978021978
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 310,
+        "distinctOperands": 119,
+        "totalOperands": 369,
+        "vocabulary": 140,
+        "length": 679,
+        "estimatedLength": 965.2744868631121,
+        "volume": 4840.783168505633,
+        "difficulty": 32.55882352941177,
+        "effort": 157610.20492752164,
+        "time": 8756.122495973425,
+        "bugs": 1.6135943895018776
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/healthCare/src/Component/Patient Billing/ServicesCheckbox.js/ServicesList.js": {
+      "sloc": {
+        "physical": 84,
+        "logical": 124
+      },
+      "cyclomatic": {
+        "value": 34,
+        "density": 27.419354838709676
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 419,
+        "distinctOperands": 140,
+        "totalOperands": 518,
+        "vocabulary": 169,
+        "length": 937,
+        "estimatedLength": 1204.8488298636994,
+        "volume": 6934.624031796407,
+        "difficulty": 53.650000000000006,
+        "effort": 372042.57930587727,
+        "time": 20669.03218365985,
+        "bugs": 2.3115413439321357
+      }
+    }
+  }
+}

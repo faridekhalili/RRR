@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Header />          |
+| <Header></Header>   |
+| <Transi ... sition> |

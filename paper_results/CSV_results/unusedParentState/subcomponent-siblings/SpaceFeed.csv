@@ -1,0 +1,18 @@
+|       sibling       |
++---------------------+
+| <AutoCo ... ion} /> |
+| <PostBo ... ost} /> |
+| <CommentLoading />  |
+| <PostAc ...      /> |
+| <PostAc ...      /> |
+| <PostLoading />     |
+| <Profil ...      /> |
+| <Profil ...      /> |
+| <Profil ...      /> |
+| <SpaceBox />        |
+| <SpaceBox />        |
+| <SpaceBox />        |
+| <SpaceBox />        |
+| <SpaceBox />        |
+| <SpaceBox />        |
+| <SpaceBox />        |

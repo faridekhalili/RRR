@@ -1,0 +1,4 @@
+"col0"
+"src/reader/FeedManager.tsx:<22,9>--<22,59>~~~use_state_to_use_ref"
+"src/reader/FeedManager.tsx:<24,9>--<24,93>~~~use_state_to_use_ref"
+"src/reader/FeedManager.tsx:<26,9>--<26,49>~~~use_state_to_use_ref"

@@ -1,0 +1,21 @@
+|       sibling        |
++----------------------+
+| <LoginPage />        |
+| <LandingPage />      |
+| <Game />             |
+| <Community />        |
+| <Ladder />           |
+| <SecondFactorPage /> |
+| <InputF ... ord} />  |
+| <Single ...      />  |
+| <Get_al ...      />  |
+| <Chat_details />     |
+| <ProfilePicture />   |
+| <LevelI ...      />  |
+| <Status ... wins}/>  |
+| <Achiev ... nts} />  |
+| <Second ... ing} />  |
+| <UserPh ... ard} />  |
+| <UserSt ... ard} />  |
+| <GameHi ... ist} />  |
+| <GameHi ... ist} />  |

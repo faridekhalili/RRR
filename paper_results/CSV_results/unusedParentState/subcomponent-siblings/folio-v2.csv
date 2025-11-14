@@ -1,0 +1,7 @@
+|    sibling    |
++---------------+
+| <Navbar/>     |
+| <Projects/>   |
+| <Contact/>    |
+| <Footer/>     |
+| <Transition/> |

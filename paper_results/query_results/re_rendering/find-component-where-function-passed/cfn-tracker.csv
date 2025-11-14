@@ -1,0 +1,8 @@
+"col0"
+"gui/src/pages/output.tsx:<146,1>--<176,1>~~~memoize"
+"gui/src/pages/output.tsx:<178,1>--<262,1>~~~memoize"
+"gui/src/pages/settings.tsx:<135,1>--<169,1>~~~memoize"
+"gui/src/pages/tracking/tracking-game-picker.tsx:<34,8>--<87,1>~~~memoize"
+"gui/src/ui/button.tsx:<5,8>--<34,1>~~~memoize"
+"gui/src/ui/checkbox.tsx:<5,8>--<21,1>~~~memoize"
+"gui/src/ui/switch.tsx:<5,8>--<26,1>~~~memoize"

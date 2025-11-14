@@ -1,0 +1,11 @@
+|       sibling       |
++---------------------+
+| <Loading />         |
+| <OneBlo ... neBlog> |
+| <OneBlo ... neBlog> |
+| <Footer />          |
+| <Navbar />          |
+| <Loading />         |
+| <DataIt ... or}  /> |
+| <DataIt ... ta}  /> |
+| <Footer />          |

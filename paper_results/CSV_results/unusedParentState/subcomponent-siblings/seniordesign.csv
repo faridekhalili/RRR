@@ -1,0 +1,25 @@
+|       sibling        |
++----------------------+
+| <NavBar />           |
+| <Course ... .id} />  |
+| <Evalua ...      />  |
+| <Worklo ...      />  |
+| <LoadingDots />      |
+| <NavBar />           |
+| <Recomm ...      />  |
+| <Course ... rse} />  |
+| <LoadingDots />      |
+| <LandingLoginForm /> |
+| <Landin ... Form />  |
+| <NavBar />           |
+| <Profil ... sts} />  |
+| <LoadingDots />      |
+| <Profil ...      />  |
+| <Profil ...      />  |
+| <Profil ... Form />  |
+| <Profil ...      />  |
+| <Profil ...      />  |
+| <Profil ...      />  |
+| <Profil ...      />  |
+| <Profil ...      />  |
+| <Endpoints />        |

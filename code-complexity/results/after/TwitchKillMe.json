@@ -1,0 +1,389 @@
+{
+  "project": {
+    "numFiles": 15,
+    "sloc": {
+      "physical": 1957,
+      "logical": 1918
+    },
+    "cyclomatic": {
+      "value": 67,
+      "density": 3.4932221063607924
+    },
+    "halstead": {
+      "distinctOperators": 177,
+      "totalOperators": 7297,
+      "distinctOperands": 3419,
+      "totalOperands": 9158,
+      "vocabulary": 3596,
+      "length": 16455,
+      "estimatedLength": 42214.733911930496,
+      "volume": 194369.37756224023,
+      "difficulty": 237.05264697279907,
+      "effort": 46075775.44158442,
+      "time": 2559765.3023102456,
+      "bugs": 64.78979252074674
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/config.ts": {
+      "sloc": {
+        "physical": 48,
+        "logical": 39
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 2.564102564102564
+      },
+      "halstead": {
+        "distinctOperators": 8,
+        "totalOperators": 59,
+        "distinctOperands": 72,
+        "totalOperands": 92,
+        "vocabulary": 80,
+        "length": 151,
+        "estimatedLength": 493.5940001153849,
+        "volume": 954.6111423279916,
+        "difficulty": 5.111111111111111,
+        "effort": 4879.123616343068,
+        "time": 271.06242313017043,
+        "bugs": 0.3182037141093305
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/env.d.ts": {
+      "sloc": {
+        "physical": 1,
+        "logical": 1
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 100
+      },
+      "halstead": {
+        "distinctOperators": 0,
+        "totalOperators": 0,
+        "distinctOperands": 1,
+        "totalOperands": 1,
+        "vocabulary": 1,
+        "length": 1,
+        "estimatedLength": 0,
+        "volume": 0,
+        "difficulty": 0,
+        "effort": 0,
+        "time": 0,
+        "bugs": 0
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/components/Header.jsx": {
+      "sloc": {
+        "physical": 66,
+        "logical": 85
+      },
+      "cyclomatic": {
+        "value": 20,
+        "density": 23.52941176470588
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 236,
+        "distinctOperands": 114,
+        "totalOperands": 302,
+        "vocabulary": 142,
+        "length": 538,
+        "estimatedLength": 970.2703820113934,
+        "volume": 3846.563950293519,
+        "difficulty": 37.08771929824561,
+        "effort": 142660.2840512368,
+        "time": 7925.5713361798225,
+        "bugs": 1.2821879834311731
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/components/PresetContainer.tsx": {
+      "sloc": {
+        "physical": 20,
+        "logical": 14
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 7.142857142857142
+      },
+      "halstead": {
+        "distinctOperators": 8,
+        "totalOperators": 35,
+        "distinctOperands": 29,
+        "totalOperands": 53,
+        "vocabulary": 37,
+        "length": 88,
+        "estimatedLength": 179.74529681972018,
+        "volume": 458.4318961753476,
+        "difficulty": 7.310344827586207,
+        "effort": 3351.2952410059897,
+        "time": 186.1830689447772,
+        "bugs": 0.15281063205844922
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/components/ShopCart.tsx": {
+      "sloc": {
+        "physical": 40,
+        "logical": 33
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 6.0606060606060606
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 95,
+        "distinctOperands": 65,
+        "totalOperands": 121,
+        "vocabulary": 79,
+        "length": 216,
+        "estimatedLength": 475.7670572292479,
+        "volume": 1361.6166416062542,
+        "difficulty": 13.03076923076923,
+        "effort": 17742.912237546112,
+        "time": 985.7173465303396,
+        "bugs": 0.45387221386875143
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/stores/cartStorage.ts": {
+      "sloc": {
+        "physical": 18,
+        "logical": 14
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 7.142857142857142
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 34,
+        "distinctOperands": 22,
+        "totalOperands": 43,
+        "vocabulary": 31,
+        "length": 77,
+        "estimatedLength": 138.24238017775622,
+        "volume": 381.47311589978943,
+        "difficulty": 8.795454545454545,
+        "effort": 3355.2294512095114,
+        "time": 186.40163617830618,
+        "bugs": 0.1271577052999298
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/types/Presets.ts": {
+      "sloc": {
+        "physical": 34,
+        "logical": 54
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 24.074074074074073
+      },
+      "halstead": {
+        "distinctOperators": 27,
+        "totalOperators": 194,
+        "distinctOperands": 79,
+        "totalOperands": 236,
+        "vocabulary": 106,
+        "length": 430,
+        "estimatedLength": 668.2007593067729,
+        "volume": 2893.0057954621757,
+        "difficulty": 40.32911392405063,
+        "effort": 116672.3603081328,
+        "time": 6481.797794896267,
+        "bugs": 0.9643352651540585
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/types/Shop.ts": {
+      "sloc": {
+        "physical": 5,
+        "logical": 3
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 4,
+        "distinctOperands": 8,
+        "totalOperands": 8,
+        "vocabulary": 12,
+        "length": 12,
+        "estimatedLength": 36,
+        "volume": 43.01955000865388,
+        "difficulty": 2,
+        "effort": 86.03910001730776,
+        "time": 4.779950000961542,
+        "bugs": 0.014339850002884626
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/types/SpigotTypes.ts": {
+      "sloc": {
+        "physical": 1511,
+        "logical": 1509
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 0.06626905235255136
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 6011,
+        "distinctOperands": 2803,
+        "totalOperands": 7492,
+        "vocabulary": 2812,
+        "length": 13503,
+        "estimatedLength": 32205.149953639375,
+        "volume": 154709.01401011646,
+        "difficulty": 12.027827327863005,
+        "effort": 1860813.3065776192,
+        "time": 103378.51703208995,
+        "bugs": 51.56967133670548
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/types/index.ts": {
+      "sloc": {
+        "physical": 38,
+        "logical": 33
+      },
+      "cyclomatic": {
+        "value": 10,
+        "density": 30.303030303030305
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 88,
+        "distinctOperands": 21,
+        "totalOperands": 98,
+        "vocabulary": 34,
+        "length": 186,
+        "estimatedLength": 149.33879237447786,
+        "volume": 946.2680884725632,
+        "difficulty": 30.333333333333336,
+        "effort": 28703.46535033442,
+        "time": 1594.6369639074678,
+        "bugs": 0.3154226961575211
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/components/menu/Menu.jsx": {
+      "sloc": {
+        "physical": 85,
+        "logical": 62
+      },
+      "cyclomatic": {
+        "value": 3,
+        "density": 4.838709677419355
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 372,
+        "distinctOperands": 95,
+        "totalOperands": 487,
+        "vocabulary": 109,
+        "length": 859,
+        "estimatedLength": 716.1142613080733,
+        "volume": 5813.8703349833795,
+        "difficulty": 35.88421052631579,
+        "effort": 208626.1470732457,
+        "time": 11590.341504069205,
+        "bugs": 1.9379567783277931
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/components/menu/MenuElement.jsx": {
+      "sloc": {
+        "physical": 22,
+        "logical": 18
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 22.22222222222222
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 53,
+        "distinctOperands": 35,
+        "totalOperands": 71,
+        "vocabulary": 46,
+        "length": 124,
+        "estimatedLength": 235.94701877946844,
+        "volume": 684.9216825510696,
+        "difficulty": 11.157142857142857,
+        "effort": 7641.769058176933,
+        "time": 424.54272545427403,
+        "bugs": 0.2283072275170232
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/components/menu/MenuSection.jsx": {
+      "sloc": {
+        "physical": 28,
+        "logical": 20
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 10
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 59,
+        "distinctOperands": 36,
+        "totalOperands": 78,
+        "vocabulary": 47,
+        "length": 137,
+        "estimatedLength": 242.98647506778866,
+        "volume": 760.9786726798363,
+        "difficulty": 11.916666666666666,
+        "effort": 9068.32918276805,
+        "time": 503.79606570933606,
+        "bugs": 0.25365955755994546
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/components/presets/SummonPresetDisplay.tsx": {
+      "sloc": {
+        "physical": 13,
+        "logical": 9
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 11.11111111111111
+      },
+      "halstead": {
+        "distinctOperators": 7,
+        "totalOperators": 16,
+        "distinctOperands": 16,
+        "totalOperands": 28,
+        "vocabulary": 23,
+        "length": 44,
+        "estimatedLength": 92,
+        "volume": 199.03672606650858,
+        "difficulty": 6.125,
+        "effort": 1219.099947157365,
+        "time": 67.72777484207583,
+        "bugs": 0.06634557535550285
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/TwitchKillMe/wiki/src/components/presets/index.ts": {
+      "sloc": {
+        "physical": 28,
+        "logical": 24
+      },
+      "cyclomatic": {
+        "value": 6,
+        "density": 25
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 41,
+        "distinctOperands": 23,
+        "totalOperands": 48,
+        "vocabulary": 37,
+        "length": 89,
+        "estimatedLength": 167.37179237410948,
+        "volume": 463.64134954097653,
+        "difficulty": 14.608695652173912,
+        "effort": 6773.195367207309,
+        "time": 376.28863151151717,
+        "bugs": 0.15454711651365885
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+|       sibling        |
++----------------------+
+| <NavLinkProf />      |
+| <LoginButtons />     |
+| <NavLinkProf />      |
+| <Jobs\n  ...      /> |

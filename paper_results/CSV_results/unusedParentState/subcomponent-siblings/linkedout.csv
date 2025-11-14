@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <General />         |
+| <Reports />         |
+| <JobDes ... Job} /> |
+| <JobSea ... ter} /> |
+| <JobDes ... Job} /> |
+| <NewJob />          |
+| <JobDes ... Job} /> |

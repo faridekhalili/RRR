@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <HeroSection/>      |
+| <AboutM ... Ref1}/> |
+| <Testimonials/>     |
+| <Contac ... oRef}/> |
+| <Footer ... oRef}/> |
+| <Footer ... Ref3}/> |
+| <ScrollButton/>     |
+| <Educat ... ills /> |
+| <Profes ... ills /> |
+| <Experi ... eme} /> |
+| <WordPress/>        |

@@ -1,0 +1,13 @@
+|       sibling        |
++----------------------+
+| <SVG name="close" /> |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <TextIn ...      />  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <SVG\n   ...      /> |
+| <SVG\n   ...      /> |
+| <SVG na ... {12} />  |
+| <SVG\n   ...      /> |

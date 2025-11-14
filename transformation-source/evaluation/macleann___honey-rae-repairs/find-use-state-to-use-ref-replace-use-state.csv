@@ -1,0 +1,7 @@
+"col0"
+"src/components/auth/Login.js:<7,11>--<7,61>~~~use_state_to_use_ref"
+"src/components/auth/Register.js:<6,11>--<10,6>~~~use_state_to_use_ref"
+"src/components/profile/CustomerForm.js:<5,11>--<8,6>~~~use_state_to_use_ref"
+"src/components/profile/EmployeeForm.js:<6,11>--<10,6>~~~use_state_to_use_ref"
+"src/components/tickets/TicketEdit.js:<6,11>--<9,6>~~~use_state_to_use_ref"
+"src/components/tickets/TicketForm.js:<10,11>--<13,6>~~~use_state_to_use_ref"

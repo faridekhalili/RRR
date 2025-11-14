@@ -1,0 +1,38 @@
+|       sibling       |
++---------------------+
+| <NewBusiness />     |
+| <MyModa ... Del} /> |
+| <Pagina ...      /> |
+| <NewBusiness />     |
+| <UFText ... tField> |
+| <MyModa ... Del} /> |
+| <Pagina ...      /> |
+| <UFText ... tField> |
+| <Number ...      /> |
+| <Number ... Custom> |
+| <Number ... Custom> |
+| <Checkout />        |
+| <PhoneI ... eInput> |
+| <PhoneI ... eInput> |
+| <CepInp ... pInput> |
+| <Select ... Estado> |
+| <Navbar />          |
+| <Sideba ... ive" /> |
+| <UFText ... tField> |
+| <MyModa ... Del} /> |
+| <Pagina ...      /> |
+| <MyModa ... .id} /> |
+| <Pagina ...      /> |
+| <EditCa ... rys} /> |
+| <EditBr ... uct} /> |
+| <MyModa ... Del} /> |
+| <Pagina ...      /> |
+| <Navbar />          |
+| <Sideba ... ive" /> |
+| <Navbar />          |
+| <Sideba ... ive" /> |
+| <Navbar />          |
+| <Sideba ... ive" /> |
+| <Navbar />          |
+| <Sideba ... ive" /> |
+| <EditPe ... var} /> |

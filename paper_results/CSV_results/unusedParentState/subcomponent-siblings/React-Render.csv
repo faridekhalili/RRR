@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <ChildA />          |
+| <Memozi ...      /> |
+| <Memozi ... name}/> |
+| <Child/>            |
+| <Parent ... entOne> |
+| <ChildOne/>         |
+| <Memozi ... name}/> |

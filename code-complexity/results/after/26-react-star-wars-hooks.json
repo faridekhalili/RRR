@@ -1,0 +1,437 @@
+{
+  "project": {
+    "numFiles": 17,
+    "sloc": {
+      "physical": 547,
+      "logical": 966
+    },
+    "cyclomatic": {
+      "value": 271,
+      "density": 28.05383022774327
+    },
+    "halstead": {
+      "distinctOperators": 349,
+      "totalOperators": 3181,
+      "distinctOperands": 1155,
+      "totalOperands": 3842,
+      "vocabulary": 1504,
+      "length": 7023,
+      "estimatedLength": 15301.210413000343,
+      "volume": 74124.87750533204,
+      "difficulty": 580.4580086580087,
+      "effort": 43026378.78876386,
+      "time": 2390354.3771535475,
+      "bugs": 24.708292501777347
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/App.js": {
+      "sloc": {
+        "physical": 35,
+        "logical": 90
+      },
+      "cyclomatic": {
+        "value": 31,
+        "density": 34.44444444444444
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 297,
+        "distinctOperands": 98,
+        "totalOperands": 344,
+        "vocabulary": 127,
+        "length": 641,
+        "estimatedLength": 840.0681502026316,
+        "volume": 4479.746884220958,
+        "difficulty": 50.89795918367347,
+        "effort": 228009.97406626673,
+        "time": 12667.220781459262,
+        "bugs": 1.4932489614069862
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/index.js": {
+      "sloc": {
+        "physical": 16,
+        "logical": 13
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 15.384615384615385
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 40,
+        "distinctOperands": 26,
+        "totalOperands": 48,
+        "vocabulary": 36,
+        "length": 88,
+        "estimatedLength": 169.21582985307933,
+        "volume": 454.9534001269235,
+        "difficulty": 9.230769230769232,
+        "effort": 4199.569847325448,
+        "time": 233.30943596252487,
+        "bugs": 0.15165113337564118
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/reportWebVitals.js": {
+      "sloc": {
+        "physical": 27,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 27.659574468085108
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 140,
+        "distinctOperands": 53,
+        "totalOperands": 163,
+        "vocabulary": 75,
+        "length": 303,
+        "estimatedLength": 429.59403409224,
+        "volume": 1887.3320632202517,
+        "difficulty": 33.83018867924528,
+        "effort": 63848.7997991304,
+        "time": 3547.1555443961333,
+        "bugs": 0.6291106877400839
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/AboutMe.js": {
+      "sloc": {
+        "physical": 74,
+        "logical": 116
+      },
+      "cyclomatic": {
+        "value": 32,
+        "density": 27.586206896551722
+      },
+      "halstead": {
+        "distinctOperators": 30,
+        "totalOperators": 436,
+        "distinctOperands": 147,
+        "totalOperands": 543,
+        "vocabulary": 177,
+        "length": 979,
+        "estimatedLength": 1274.3420050360367,
+        "volume": 7310.785833531255,
+        "difficulty": 55.40816326530612,
+        "effort": 405077.2150619869,
+        "time": 22504.289725665938,
+        "bugs": 2.436928611177085
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/Contact.js": {
+      "sloc": {
+        "physical": 100,
+        "logical": 238
+      },
+      "cyclomatic": {
+        "value": 68,
+        "density": 28.57142857142857
+      },
+      "halstead": {
+        "distinctOperators": 37,
+        "totalOperators": 747,
+        "distinctOperands": 196,
+        "totalOperands": 974,
+        "vocabulary": 233,
+        "length": 1721,
+        "estimatedLength": 1774.2273936788438,
+        "volume": 13534.264354950015,
+        "difficulty": 91.93367346938776,
+        "effort": 1244254.6398563485,
+        "time": 69125.25776979714,
+        "bugs": 4.511421451650005
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/DreamTeam.js": {
+      "sloc": {
+        "physical": 26,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 27.659574468085108
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 155,
+        "distinctOperands": 62,
+        "totalOperands": 181,
+        "vocabulary": 84,
+        "length": 336,
+        "estimatedLength": 500.1524900724976,
+        "volume": 2147.8186540536635,
+        "difficulty": 32.112903225806456,
+        "effort": 68972.69258420717,
+        "time": 3831.816254678176,
+        "bugs": 0.7159395513512212
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/FarGalaxy.js": {
+      "sloc": {
+        "physical": 50,
+        "logical": 95
+      },
+      "cyclomatic": {
+        "value": 32,
+        "density": 33.68421052631579
+      },
+      "halstead": {
+        "distinctOperators": 31,
+        "totalOperators": 309,
+        "distinctOperands": 112,
+        "totalOperands": 354,
+        "vocabulary": 143,
+        "length": 663,
+        "estimatedLength": 973.4517538542373,
+        "volume": 4746.994696284072,
+        "difficulty": 48.99107142857142,
+        "effort": 232560.3562367027,
+        "time": 12920.019790927929,
+        "bugs": 1.5823315654280241
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/Footer.js": {
+      "sloc": {
+        "physical": 23,
+        "logical": 44
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 29.545454545454547
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 152,
+        "distinctOperands": 62,
+        "totalOperands": 179,
+        "vocabulary": 83,
+        "length": 331,
+        "estimatedLength": 494.1982937621107,
+        "volume": 2110.1380517758325,
+        "difficulty": 30.31451612903226,
+        "effort": 63967.81400504318,
+        "time": 3553.7674447246213,
+        "bugs": 0.7033793505919442
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/Friend.js": {
+      "sloc": {
+        "physical": 26,
+        "logical": 22
+      },
+      "cyclomatic": {
+        "value": 4,
+        "density": 18.181818181818183
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 54,
+        "distinctOperands": 35,
+        "totalOperands": 66,
+        "vocabulary": 49,
+        "length": 120,
+        "estimatedLength": 251.33486783030332,
+        "volume": 673.765181293825,
+        "difficulty": 13.2,
+        "effort": 8893.700393078489,
+        "time": 494.0944662821382,
+        "bugs": 0.22458839376460832
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/Header.js": {
+      "sloc": {
+        "physical": 20,
+        "logical": 43
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 30.23255813953488
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 145,
+        "distinctOperands": 55,
+        "totalOperands": 169,
+        "vocabulary": 76,
+        "length": 314,
+        "estimatedLength": 439.3833382278741,
+        "volume": 1961.849239221286,
+        "difficulty": 32.263636363636365,
+        "effort": 63296.39045451223,
+        "time": 3516.4661363617906,
+        "bugs": 0.6539497464070954
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/Hero.js": {
+      "sloc": {
+        "physical": 21,
+        "logical": 44
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 29.545454545454547
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 141,
+        "distinctOperands": 56,
+        "totalOperands": 163,
+        "vocabulary": 77,
+        "length": 304,
+        "estimatedLength": 447.1663289984356,
+        "volume": 1905.10310837125,
+        "difficulty": 30.5625,
+        "effort": 58224.71374959633,
+        "time": 3234.7063194220186,
+        "bugs": 0.6350343694570834
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/Home.js": {
+      "sloc": {
+        "physical": 19,
+        "logical": 43
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 30.23255813953488
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 153,
+        "distinctOperands": 55,
+        "totalOperands": 177,
+        "vocabulary": 76,
+        "length": 330,
+        "estimatedLength": 439.3833382278741,
+        "volume": 2061.8160794363835,
+        "difficulty": 33.79090909090909,
+        "effort": 69670.63970240943,
+        "time": 3870.5910945783016,
+        "bugs": 0.6872720264787945
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/NavItem.js": {
+      "sloc": {
+        "physical": 19,
+        "logical": 16
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 12.5
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 40,
+        "distinctOperands": 26,
+        "totalOperands": 49,
+        "vocabulary": 37,
+        "length": 89,
+        "estimatedLength": 173.91626957122043,
+        "volume": 463.64134954097653,
+        "difficulty": 10.365384615384615,
+        "effort": 4805.820911588199,
+        "time": 266.99005064378883,
+        "bugs": 0.15454711651365885
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/Navigation.js": {
+      "sloc": {
+        "physical": 25,
+        "logical": 20
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 10
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 59,
+        "distinctOperands": 34,
+        "totalOperands": 72,
+        "vocabulary": 45,
+        "length": 131,
+        "estimatedLength": 228.9358278562653,
+        "volume": 719.4327556191874,
+        "difficulty": 11.647058823529411,
+        "effort": 8379.275624270536,
+        "time": 465.5153124594742,
+        "bugs": 0.23981091853972916
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/Main.js": {
+      "sloc": {
+        "physical": 27,
+        "logical": 25
+      },
+      "cyclomatic": {
+        "value": 5,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 14,
+        "totalOperators": 78,
+        "distinctOperands": 36,
+        "totalOperands": 87,
+        "vocabulary": 50,
+        "length": 165,
+        "estimatedLength": 258.4962500721156,
+        "volume": 931.2362713128296,
+        "difficulty": 16.916666666666664,
+        "effort": 15753.413589708698,
+        "time": 875.1896438727055,
+        "bugs": 0.31041209043760987
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/components/StarWars.js": {
+      "sloc": {
+        "physical": 18,
+        "logical": 42
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 30.952380952380953
+      },
+      "halstead": {
+        "distinctOperators": 21,
+        "totalOperators": 142,
+        "distinctOperands": 55,
+        "totalOperands": 163,
+        "vocabulary": 76,
+        "length": 305,
+        "estimatedLength": 439.3833382278741,
+        "volume": 1905.6178916002937,
+        "difficulty": 31.11818181818182,
+        "effort": 59299.364026798234,
+        "time": 3294.409112599902,
+        "bugs": 0.6352059638667645
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/src/utils/constants.js": {
+      "sloc": {
+        "physical": 21,
+        "logical": 21
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 9.523809523809524
+      },
+      "halstead": {
+        "distinctOperators": 13,
+        "totalOperators": 93,
+        "distinctOperands": 47,
+        "totalOperands": 110,
+        "vocabulary": 60,
+        "length": 203,
+        "estimatedLength": 333.27533110065826,
+        "volume": 1199.0987909085293,
+        "difficulty": 15.212765957446809,
+        "effort": 18241.609265948904,
+        "time": 1013.4227369971613,
+        "bugs": 0.39969959696950974
+      }
+    }
+  }
+}

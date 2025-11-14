@@ -1,0 +1,4 @@
+"col0"
+"frontend/components/FileInput.tsx:<9,16>--<23,1>~~~memoize"
+"frontend/components/Form.tsx:<9,16>--<46,1>~~~memoize"
+"frontend/components/TextInput.tsx:<10,16>--<27,1>~~~memoize"

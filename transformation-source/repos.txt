@@ -1,0 +1,83 @@
+
+git clone https://github.com/rerendering-evaluation/16-feb-react-grupo-1.git
+cd /home/spitfire/react-rerendering/candidates/16-feb-react-grupo-1/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/gorkavillara___16-feb-react-grupo-1/"
+
+
+git clone git@github.com:rerendering-evaluation/26-react-star-wars-hooks.git
+cd /home/spitfire/react-rerendering/candidates/26-react-star-wars-hooks/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/TimurMP___26-react-star-wars-hooks/"
+
+
+git clone git@github.com:rerendering-evaluation/30days-30projects.git
+cd /home/spitfire/react-rerendering/candidates/30days-30projects/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/zackarydevove___30days-30projects/"
+
+
+git clone git@github.com:rerendering-evaluation/age-react.git
+cd /home/spitfire/react-rerendering/candidates/age-react/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/VLK2021___age-react/"
+
+
+git clone git@github.com:rerendering-evaluation/AI-chat-powered-by-open-ai-api-react-node.git
+cd /home/spitfire/react-rerendering/candidates/AI-chat-powered-by-open-ai-api-react-node/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/karimbaggari___AI-chat-powered-by-open-ai-api-react-node/"
+
+
+git clone git@github.com:rerendering-evaluation/API-Search.git
+cd /home/spitfire/react-rerendering/candidates/API-Search/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/eric-prog___API-Search/"
+
+
+git clone git@github.com:rerendering-evaluation/Calculadora.git
+cd /home/spitfire/react-rerendering/candidates/Calculadora/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/Contimp___Calculadora/"
+
+
+git clone git@github.com:rerendering-evaluation/CashTrackr.git
+cd /home/spitfire/react-rerendering/candidates/CashTrackr/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/Nishant-Bhosale___CashTrackr/"
+
+
+git clone git@github.com:rerendering-evaluation/CRUD-Context-React.git
+cd /home/spitfire/react-rerendering/candidates/CRUD-Context-React/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/JeanSantosReyes___CRUD-Context-React/"
+
+
+git clone git@github.com:rerendering-evaluation/hackaton-euraz-2023.git
+cd /home/spitfire/react-rerendering/candidates/hackaton-euraz-2023/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/SolarSnowLight___hackaton-euraz-2023/"
+
+
+git clone https://github.com/rerendering-evaluation/hacker-news-app-2023.git
+cd /home/spitfire/react-rerendering/candidates/hacker-news-app-2023/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/junesdream___hacker-news-app-2023/"
+
+
+git clone git@github.com:rerendering-evaluation/healthCare.git
+cd /home/spitfire/react-rerendering/candidates/healthCare/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/ruthhegade___healthCare/"
+
+
+git clone git@github.com:rerendering-evaluation/honey-rae-repairs.git
+cd /home/spitfire/react-rerendering/candidates/honey-rae-repairs/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/macleann___honey-rae-repairs/"
+
+
+git clone git@github.com:rerendering-evaluation/hooksMixed-1.git
+cd /home/spitfire/react-rerendering/candidates/hooksMixed-1/
+git checkout .
+node "../../rendering-optimization/transformation-source/dist/transformation-source.js" --transformations "../../rendering-optimization/transformation-source/evaluation/vtrev05___hooksMixed-1/"

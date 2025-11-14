@@ -1,0 +1,149 @@
+{
+  "project": {
+    "numFiles": 5,
+    "sloc": {
+      "physical": 194,
+      "logical": 324
+    },
+    "cyclomatic": {
+      "value": 82,
+      "density": 25.308641975308642
+    },
+    "halstead": {
+      "distinctOperators": 78,
+      "totalOperators": 965,
+      "distinctOperands": 320,
+      "totalOperands": 1251,
+      "vocabulary": 398,
+      "length": 2216,
+      "estimatedLength": 3312.12738176517,
+      "volume": 19138.76015912473,
+      "difficulty": 152.465625,
+      "effort": 2918003.029386051,
+      "time": 162111.27941033617,
+      "bugs": 6.379586719708243
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/AI-chat-powered-by-open-ai-api-react-node/src/App.js": {
+      "sloc": {
+        "physical": 139,
+        "logical": 253
+      },
+      "cyclomatic": {
+        "value": 64,
+        "density": 25.296442687747035
+      },
+      "halstead": {
+        "distinctOperators": 35,
+        "totalOperators": 751,
+        "distinctOperands": 214,
+        "totalOperands": 996,
+        "vocabulary": 249,
+        "length": 1747,
+        "estimatedLength": 1927.6252796138856,
+        "volume": 13906.123375322937,
+        "difficulty": 81.44859813084112,
+        "effort": 1132634.2543545738,
+        "time": 62924.12524192077,
+        "bugs": 4.635374458440979
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/AI-chat-powered-by-open-ai-api-react-node/src/App.test.js": {
+      "sloc": {
+        "physical": 10,
+        "logical": 10
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 20
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 29,
+        "distinctOperands": 24,
+        "totalOperands": 36,
+        "vocabulary": 34,
+        "length": 65,
+        "estimatedLength": 155.88872502451932,
+        "volume": 330.6850846812721,
+        "difficulty": 7.5,
+        "effort": 2480.1381351095406,
+        "time": 137.78545195053005,
+        "bugs": 0.11022836156042402
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/AI-chat-powered-by-open-ai-api-react-node/src/index.js": {
+      "sloc": {
+        "physical": 15,
+        "logical": 12
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 16.666666666666664
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 44,
+        "distinctOperands": 26,
+        "totalOperands": 53,
+        "vocabulary": 36,
+        "length": 97,
+        "estimatedLength": 169.21582985307933,
+        "volume": 501.4827251399043,
+        "difficulty": 10.192307692307692,
+        "effort": 5111.26623700287,
+        "time": 283.95923538904833,
+        "bugs": 0.1671609083799681
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/AI-chat-powered-by-open-ai-api-react-node/src/reportWebVitals.js": {
+      "sloc": {
+        "physical": 27,
+        "logical": 47
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 27.659574468085108
+      },
+      "halstead": {
+        "distinctOperators": 22,
+        "totalOperators": 140,
+        "distinctOperands": 53,
+        "totalOperands": 163,
+        "vocabulary": 75,
+        "length": 303,
+        "estimatedLength": 429.59403409224,
+        "volume": 1887.3320632202517,
+        "difficulty": 33.83018867924528,
+        "effort": 63848.7997991304,
+        "time": 3547.1555443961333,
+        "bugs": 0.6291106877400839
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/AI-chat-powered-by-open-ai-api-react-node/src/setupTests.js": {
+      "sloc": {
+        "physical": 3,
+        "logical": 2
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 50
+      },
+      "halstead": {
+        "distinctOperators": 1,
+        "totalOperators": 1,
+        "distinctOperands": 3,
+        "totalOperands": 3,
+        "vocabulary": 4,
+        "length": 4,
+        "estimatedLength": 6.339850002884624,
+        "volume": 8,
+        "difficulty": 0.5,
+        "effort": 4,
+        "time": 0.2222222222222222,
+        "bugs": 0.0026666666666666666
+      }
+    }
+  }
+}

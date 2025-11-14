@@ -1,0 +1,24 @@
+|       sibling       |
++---------------------+
+| <UserInfo />        |
+| <Spacer />          |
+| <Calendar />        |
+| <Spacer />          |
+| <CrossI ... ter" /> |
+| <Spacer />          |
+| <Button ...      /> |
+| <Member ...      /> |
+| <Spacer />          |
+| <CrossI ... ter" /> |
+| <TextFi ... ame" /> |
+| <TextFi ... hor" /> |
+| <TextFi ...      /> |
+| <Spacer />          |
+| <Button ... con} /> |
+| <Spacer />          |
+| <CrossI ... ter" /> |
+| <Spacer />          |
+| <Button ... con} /> |
+| <Fade g ... 800" /> |
+| <Dashbaord />       |
+| <Members />         |

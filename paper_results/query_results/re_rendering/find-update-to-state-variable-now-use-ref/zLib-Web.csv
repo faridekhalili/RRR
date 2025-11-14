@@ -1,0 +1,6 @@
+"col0"
+"src/views/Home.tsx:<43,13>--<43,44>~~~set_state_to_assignment_current_value???{varName:complexVal}"
+"src/views/Home.tsx:<44,13>--<44,29>~~~set_state_to_assignment_current_value???{varName:tipState}"
+"src/views/Home.tsx:<54,9>--<54,26>~~~set_state_to_assignment_current_value???{varName:tipState}"
+"src/views/Home.tsx:<55,9>--<55,41>~~~set_state_to_assignment_current_value???{varName:complexVal}"
+"src/views/Home.tsx:<71,29>--<71,48>~~~set_state_to_assignment_current_value???{varName:tipState}"

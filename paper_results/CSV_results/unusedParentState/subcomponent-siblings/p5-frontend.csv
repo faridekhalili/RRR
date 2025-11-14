@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <Navbar />          |
+| <HomePage />        |
+| <UserCa ... ser} /> |
+| <UserEd ... ser} /> |
+| <EmailForm />       |
+| <Signup />          |
+| <Authen ... User /> |

@@ -1,0 +1,6 @@
+|  sibling   |
++------------+
+| <NavBar /> |
+| <Footer /> |
+| <NavBar /> |
+| <Footer /> |

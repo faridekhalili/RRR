@@ -1,0 +1,14 @@
+|       sibling       |
++---------------------+
+| <Loader />          |
+| <Accoun ... unt} /> |
+| <Create ...      /> |
+| <Transa ...      /> |
+| <Create ...      /> |
+| <Accoun ... unt} /> |
+| <Loader />          |
+| <CardSu ... ard} /> |
+| <Create ...      /> |
+| <Transa ...      /> |
+| <Create ...      /> |
+| <Credit ... ard} /> |

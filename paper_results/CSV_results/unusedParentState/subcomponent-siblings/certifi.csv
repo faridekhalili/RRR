@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <ProfileArea />     |
+| <ProfileArea />     |
+| <ProfileArea />     |
+| <Succes ... odal}/> |
+| <FullLoader/>       |
+| <Failur ... odal}/> |
+| <TableLoader />     |
+| <TableLoader />     |

@@ -1,0 +1,5 @@
+|       sibling       |
++---------------------+
+| <Text s ... </Text> |
+| <Custom ... Button> |
+| <GithubLink />      |

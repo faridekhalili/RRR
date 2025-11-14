@@ -1,0 +1,17 @@
+|       sibling       |
++---------------------+
+| <AddCompany />      |
+| <Compan ...      /> |
+| <AddCreator />      |
+| <Recomm ...      /> |
+| <Recomm ...      /> |
+| <Creato ... nfo} /> |
+| <Detail ... ter} /> |
+| <BackToTop />       |
+| <CardLi ... rdList> |
+| <Creato ... tem} /> |
+| <Creato ... tem} /> |
+| <BackToTop />       |
+| <Catego ...      /> |
+| <ImageC ...      /> |
+| <ImageC ...      /> |

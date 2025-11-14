@@ -1,0 +1,4 @@
+"col0"
+"frontend/src/Components/BuyCoins.jsx:<14,18>--<257,1>~~~memoize"
+"frontend/src/Components/ResetVirtualBalance.jsx:<7,29>--<97,1>~~~memoize"
+"frontend/src/Components/SellCoins.jsx:<15,19>--<259,1>~~~memoize"

@@ -1,0 +1,437 @@
+{
+  "project": {
+    "numFiles": 17,
+    "sloc": {
+      "physical": 1252,
+      "logical": 1937
+    },
+    "cyclomatic": {
+      "value": 444,
+      "density": 22.922044398554466
+    },
+    "halstead": {
+      "distinctOperators": 385,
+      "totalOperators": 5547,
+      "distinctOperands": 1797,
+      "totalOperands": 7440,
+      "vocabulary": 2182,
+      "length": 12987,
+      "estimatedLength": 23590.419581238693,
+      "volume": 144044.47136218467,
+      "difficulty": 796.9949916527546,
+      "effort": 114802722.25092982,
+      "time": 6377929.013940546,
+      "bugs": 48.01482378739489
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/preload/index.d.ts": {
+      "sloc": {
+        "physical": 5,
+        "logical": 3
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 33.33333333333333
+      },
+      "halstead": {
+        "distinctOperators": 4,
+        "totalOperators": 4,
+        "distinctOperands": 8,
+        "totalOperands": 8,
+        "vocabulary": 12,
+        "length": 12,
+        "estimatedLength": 36,
+        "volume": 43.01955000865388,
+        "difficulty": 2,
+        "effort": 86.03910001730776,
+        "time": 4.779950000961542,
+        "bugs": 0.014339850002884626
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/preload/index.ts": {
+      "sloc": {
+        "physical": 23,
+        "logical": 11
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 18.181818181818183
+      },
+      "halstead": {
+        "distinctOperators": 7,
+        "totalOperators": 24,
+        "distinctOperands": 16,
+        "totalOperands": 29,
+        "vocabulary": 23,
+        "length": 53,
+        "estimatedLength": 92,
+        "volume": 239.7487836710217,
+        "difficulty": 6.34375,
+        "effort": 1520.9063464130438,
+        "time": 84.49479702294688,
+        "bugs": 0.0799162612236739
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/main/src/app.controller.spec.ts": {
+      "sloc": {
+        "physical": 35,
+        "logical": 131
+      },
+      "cyclomatic": {
+        "value": 37,
+        "density": 28.24427480916031
+      },
+      "halstead": {
+        "distinctOperators": 34,
+        "totalOperators": 410,
+        "distinctOperands": 109,
+        "totalOperands": 565,
+        "vocabulary": 143,
+        "length": 975,
+        "estimatedLength": 967.8503584431004,
+        "volume": 6980.874553358929,
+        "difficulty": 88.11926605504587,
+        "effort": 615149.542064335,
+        "time": 34174.97455912972,
+        "bugs": 2.3269581844529763
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/main/src/app.controller.ts": {
+      "sloc": {
+        "physical": 39,
+        "logical": 63
+      },
+      "cyclomatic": {
+        "value": 18,
+        "density": 28.57142857142857
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 271,
+        "distinctOperands": 90,
+        "totalOperands": 353,
+        "vocabulary": 118,
+        "length": 624,
+        "estimatedLength": 766.0386653669017,
+        "volume": 4294.769262801789,
+        "difficulty": 54.91111111111111,
+        "effort": 235830.55218629382,
+        "time": 13101.69734368299,
+        "bugs": 1.431589754267263
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/main/src/app.module.ts": {
+      "sloc": {
+        "physical": 23,
+        "logical": 43
+      },
+      "cyclomatic": {
+        "value": 14,
+        "density": 32.55813953488372
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 149,
+        "distinctOperands": 65,
+        "totalOperands": 178,
+        "vocabulary": 93,
+        "length": 327,
+        "estimatedLength": 560.0802066116462,
+        "volume": 2138.3049312323265,
+        "difficulty": 38.33846153846154,
+        "effort": 81979.32136355319,
+        "time": 4554.406742419622,
+        "bugs": 0.7127683104107755
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/main/src/app.service.ts": {
+      "sloc": {
+        "physical": 82,
+        "logical": 148
+      },
+      "cyclomatic": {
+        "value": 49,
+        "density": 33.108108108108105
+      },
+      "halstead": {
+        "distinctOperators": 34,
+        "totalOperators": 616,
+        "distinctOperands": 183,
+        "totalOperands": 746,
+        "vocabulary": 217,
+        "length": 1362,
+        "estimatedLength": 1630.9068649076373,
+        "volume": 10571.232778589381,
+        "difficulty": 69.30054644808743,
+        "effort": 732592.2081861778,
+        "time": 40699.56712145432,
+        "bugs": 3.523744259529794
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/main/src/electron.ts": {
+      "sloc": {
+        "physical": 92,
+        "logical": 155
+      },
+      "cyclomatic": {
+        "value": 38,
+        "density": 24.516129032258064
+      },
+      "halstead": {
+        "distinctOperators": 34,
+        "totalOperators": 477,
+        "distinctOperands": 144,
+        "totalOperands": 652,
+        "vocabulary": 178,
+        "length": 1129,
+        "estimatedLength": 1276.2466502567318,
+        "volume": 8440.103043561063,
+        "difficulty": 76.97222222222221,
+        "effort": 649653.4870474362,
+        "time": 36091.860391524235,
+        "bugs": 2.813367681187021
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/main/src/main.ts": {
+      "sloc": {
+        "physical": 38,
+        "logical": 135
+      },
+      "cyclomatic": {
+        "value": 38,
+        "density": 28.14814814814815
+      },
+      "halstead": {
+        "distinctOperators": 34,
+        "totalOperators": 413,
+        "distinctOperands": 101,
+        "totalOperands": 567,
+        "vocabulary": 135,
+        "length": 980,
+        "estimatedLength": 898.8585501714924,
+        "volume": 6935.279285109815,
+        "difficulty": 95.43564356435643,
+        "effort": 661872.8418730049,
+        "time": 36770.71343738916,
+        "bugs": 2.3117597617032715
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/renderer/src/App.tsx": {
+      "sloc": {
+        "physical": 97,
+        "logical": 185
+      },
+      "cyclomatic": {
+        "value": 47,
+        "density": 25.405405405405407
+      },
+      "halstead": {
+        "distinctOperators": 34,
+        "totalOperators": 536,
+        "distinctOperands": 151,
+        "totalOperands": 712,
+        "vocabulary": 185,
+        "length": 1248,
+        "estimatedLength": 1339.1048767751397,
+        "volume": 9399.164062724358,
+        "difficulty": 80.15894039735099,
+        "effort": 753427.0318888451,
+        "time": 41857.057327158065,
+        "bugs": 3.133054687574786
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/renderer/src/env.d.ts": {
+      "sloc": {
+        "physical": 1,
+        "logical": 1
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 100
+      },
+      "halstead": {
+        "distinctOperators": 0,
+        "totalOperators": 0,
+        "distinctOperands": 1,
+        "totalOperands": 1,
+        "vocabulary": 1,
+        "length": 1,
+        "estimatedLength": 0,
+        "volume": 0,
+        "difficulty": 0,
+        "effort": 0,
+        "time": 0,
+        "bugs": 0
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/renderer/src/main.tsx": {
+      "sloc": {
+        "physical": 24,
+        "logical": 20
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 10
+      },
+      "halstead": {
+        "distinctOperators": 11,
+        "totalOperators": 69,
+        "distinctOperands": 44,
+        "totalOperands": 84,
+        "vocabulary": 55,
+        "length": 153,
+        "estimatedLength": 300.26873902505133,
+        "volume": 884.548036169273,
+        "difficulty": 10.5,
+        "effort": 9287.754379777367,
+        "time": 515.9863544320759,
+        "bugs": 0.29484934538975766
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/renderer/src/const/color.ts": {
+      "sloc": {
+        "physical": 273,
+        "logical": 248
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 0.4032258064516129
+      },
+      "halstead": {
+        "distinctOperators": 7,
+        "totalOperators": 278,
+        "distinctOperands": 254,
+        "totalOperands": 501,
+        "vocabulary": 261,
+        "length": 779,
+        "estimatedLength": 2085.0467032475353,
+        "volume": 6253.73877132794,
+        "difficulty": 6.903543307086615,
+        "effort": 43172.95643906907,
+        "time": 2398.497579948282,
+        "bugs": 2.084579590442647
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/renderer/src/queries/cameraQuery.tsx": {
+      "sloc": {
+        "physical": 42,
+        "logical": 136
+      },
+      "cyclomatic": {
+        "value": 36,
+        "density": 26.47058823529412
+      },
+      "halstead": {
+        "distinctOperators": 34,
+        "totalOperators": 422,
+        "distinctOperands": 110,
+        "totalOperands": 586,
+        "vocabulary": 144,
+        "length": 1008,
+        "estimatedLength": 976.515798747551,
+        "volume": 7227.284401453851,
+        "difficulty": 90.56363636363636,
+        "effort": 654529.1564298479,
+        "time": 36362.73091276933,
+        "bugs": 2.4090948004846173
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/renderer/src/router/index.tsx": {
+      "sloc": {
+        "physical": 23,
+        "logical": 19
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 10.526315789473683
+      },
+      "halstead": {
+        "distinctOperators": 12,
+        "totalOperators": 54,
+        "distinctOperands": 33,
+        "totalOperands": 69,
+        "vocabulary": 45,
+        "length": 123,
+        "estimatedLength": 226.9977353711304,
+        "volume": 675.49793084855,
+        "difficulty": 12.545454545454545,
+        "effort": 8474.428587009083,
+        "time": 470.80158816717125,
+        "bugs": 0.22516597694951668
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/renderer/src/services/cameraSvc.ts": {
+      "sloc": {
+        "physical": 33,
+        "logical": 129
+      },
+      "cyclomatic": {
+        "value": 37,
+        "density": 28.68217054263566
+      },
+      "halstead": {
+        "distinctOperators": 34,
+        "totalOperators": 400,
+        "distinctOperands": 94,
+        "totalOperands": 557,
+        "vocabulary": 128,
+        "length": 957,
+        "estimatedLength": 838.9873730147376,
+        "volume": 6699,
+        "difficulty": 100.73404255319149,
+        "effort": 674817.3510638297,
+        "time": 37489.85283687943,
+        "bugs": 2.233
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/renderer/src/pages/Camera/index.tsx": {
+      "sloc": {
+        "physical": 13,
+        "logical": 9
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 11.11111111111111
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 29,
+        "distinctOperands": 27,
+        "totalOperands": 38,
+        "vocabulary": 36,
+        "length": 67,
+        "estimatedLength": 171.1759500778849,
+        "volume": 346.3849750966349,
+        "difficulty": 6.333333333333334,
+        "effort": 2193.7715089453545,
+        "time": 121.87619494140858,
+        "bugs": 0.11546165836554496
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/laser-shooting/src/renderer/src/pages/Setting/index.tsx": {
+      "sloc": {
+        "physical": 409,
+        "logical": 501
+      },
+      "cyclomatic": {
+        "value": 120,
+        "density": 23.952095808383234
+      },
+      "halstead": {
+        "distinctOperators": 41,
+        "totalOperators": 1395,
+        "distinctOperands": 367,
+        "totalOperands": 1794,
+        "vocabulary": 408,
+        "length": 3189,
+        "estimatedLength": 3476.011591160031,
+        "volume": 27656.364415547097,
+        "difficulty": 100.20980926430516,
+        "effort": 2771439.003026091,
+        "time": 153968.8335014495,
+        "bugs": 9.218788138515698
+      }
+    }
+  }
+}

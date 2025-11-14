@@ -1,0 +1,7 @@
+|       sibling        |
++----------------------+
+| <Arrow  ... ion} />  |
+| <Arrow\n ...      /> |
+| <UsernameInput />    |
+| <CheckboxControls /> |
+| <Custom ... rols />  |

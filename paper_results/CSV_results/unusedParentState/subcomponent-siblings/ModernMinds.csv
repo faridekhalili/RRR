@@ -1,0 +1,7 @@
+|      sibling      |
++-------------------+
+| <ExploreModal />  |
+| <ExploreModal />  |
+| <Login />         |
+| <Register />      |
+| <PasswordReset /> |

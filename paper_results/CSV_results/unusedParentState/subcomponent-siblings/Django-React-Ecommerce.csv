@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <Anouncement/>      |
+| <Navbar />          |
+| <Home/>             |
+| <Login/>            |
+| <Register/>         |
+| <Cart/>             |
+| <ContactUs/>        |
+| <Requir ... reAuth> |
+| <Checkout/>         |
+| <Error/>            |
+| <Footer />          |

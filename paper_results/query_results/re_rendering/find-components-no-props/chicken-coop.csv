@@ -1,0 +1,8 @@
+"col0"
+"src/App.js:<4,1>--<10,1>~~~component_no_props"
+"src/Components/Buttons/InstallPWAButton.js:<4,26>--<40,1>~~~component_no_props"
+"src/Components/Buttons/ToogleTheme.js:<4,16>--<21,1>~~~component_no_props"
+"src/Components/Shared/Footer/Footer.js:<3,20>--<13,1>~~~component_no_props"
+"src/Components/Shared/Footer/Footer.js:<15,16>--<50,1>~~~component_no_props"
+"src/Pages/AvailableClasses/AvailableClasses.js:<9,26>--<96,1>~~~component_no_props"
+"src/Pages/Home/Home.js:<9,14>--<64,1>~~~component_no_props"

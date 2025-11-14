@@ -1,0 +1,5 @@
+"col0"
+"src/options/hooks/useHash.ts:<9,5>--<9,19>~~~set_state_to_assignment_current???{varName:hashId}"
+"src/options/hooks/useHash.ts:<10,5>--<10,39>~~~set_state_to_assignment_current???{varName:hashNewUrl}"
+"src/options/hooks/useProtos.ts:<13,9>--<13,42>~~~set_state_to_assignment_current???{varName:protos}"
+"src/options/options.tsx:<30,7>--<35,7>~~~set_state_to_assignment_current???{varName:allCssProtosById}"

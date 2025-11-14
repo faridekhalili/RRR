@@ -1,0 +1,4 @@
+"col0"
+"frontend/src/components/common/gas-wallet/gas-wallet.tsx:<11,8>--<22,1>~~~memoize"
+"frontend/src/components/common/player-domino/player-domino.tsx:<12,29>--<18,1>~~~memoize"
+"frontend/src/components/popups/select-account-popup/select-account-popup.tsx:<11,35>--<27,1>~~~memoize"

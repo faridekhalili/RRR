@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Button ... Button> |
+| <Button ... Button> |
+| <Error  ... /Error> |
+| <Error  ... /Error> |
+| <Button ... Button> |
+| <Button ... Button> |
+| <Button ... Button> |
+| <Button ... Button> |

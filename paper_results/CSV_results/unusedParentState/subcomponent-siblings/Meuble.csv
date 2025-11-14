@@ -1,0 +1,7 @@
+|     sibling      |
++------------------+
+| <Filtre />       |
+| <Product />      |
+| <ProgressBar />  |
+| <Commentaires /> |
+| <Footer />       |

@@ -1,0 +1,6 @@
+"col0"
+"src/Component/Patient Services/MainTable.js:<53,5>--<53,21>~~~set_state_to_assignment_current???{varName:index1}"
+"src/Component/Patient Services/Select.js:<25,5>--<25,34>~~~set_state_to_assignment_current???{varName:selectedVal}"
+"src/Component/Services/PatientServices.js:<123,9>--<123,25>~~~set_state_to_assignment_current???{varName:schedule}"
+"src/Component/Services/ServicesContextApi.jsx:<67,3>--<67,23>~~~set_state_to_assignment_current???{varName:updateIndex}"
+"src/Component/Services/ServicesContextApi.jsx:<68,3>--<76,3>~~~set_state_to_assignment_current???{varName:addPatient}"

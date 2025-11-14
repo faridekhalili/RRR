@@ -1,0 +1,24 @@
+|       sibling       |
++---------------------+
+| <InputE ... t-2" /> |
+| <Dialog ... Footer> |
+| <Second ... Button> |
+| <Primar ... Button> |
+| <FormSe ... ection> |
+| <Action ... essage> |
+| <Primar ... Button> |
+| <InputL ... tLabel> |
+| <InputE ...      /> |
+| <InputL ... tLabel> |
+| <Checkb ...      /> |
+| <SectionBorder />   |
+| <Action ... ection> |
+| <Primar ... Button> |
+| <Primar ... Button> |
+| <Dialog ... ontent> |
+| <Dialog ... ontent> |
+| <Checkb ...      /> |
+| <Primar ... Button> |
+| <Confir ... ontent> |
+| <Danger ... Button> |
+| <NavLin ... avLink> |

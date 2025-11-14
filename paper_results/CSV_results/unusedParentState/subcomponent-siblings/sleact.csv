@@ -1,0 +1,21 @@
+|       sibling       |
++---------------------+
+| <Menu s ... </Menu> |
+| <Menu s ... </Menu> |
+| <ChannelList />     |
+| <DMList />          |
+| <Modal  ... /Modal> |
+| <ChatBo ... orm} /> |
+| <Menu s ... </Menu> |
+| <Menu s ... </Menu> |
+| <ChannelList />     |
+| <DMList />          |
+| <Modal  ... /Modal> |
+| <ChatLi ...      /> |
+| <ChatBo ...      /> |
+| <Menu s ... </Menu> |
+| <Menu s ... </Menu> |
+| <ChannelList />     |
+| <DMList />          |
+| <Modal  ... /Modal> |
+| <ChatBo ... orm} /> |

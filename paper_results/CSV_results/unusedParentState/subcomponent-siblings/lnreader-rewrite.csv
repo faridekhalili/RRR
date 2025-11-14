@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <Text p ... </Text> |
+| <SettingBanners />  |
+| <Search ...      /> |
+| <LoadingScreen />   |
+| <ErrorS ... ror} /> |
+| <Button ...      /> |
+| <Librar ... Ref} /> |
+| <Appbar ...      /> |
+| <NovelD ... Ref} /> |
+| <NovelD ... Ref} /> |
+| <JumpTo ...      /> |

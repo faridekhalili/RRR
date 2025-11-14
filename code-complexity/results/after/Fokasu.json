@@ -1,0 +1,101 @@
+{
+  "project": {
+    "numFiles": 3,
+    "sloc": {
+      "physical": 190,
+      "logical": 312
+    },
+    "cyclomatic": {
+      "value": 85,
+      "density": 27.24358974358974
+    },
+    "halstead": {
+      "distinctOperators": 74,
+      "totalOperators": 940,
+      "distinctOperands": 304,
+      "totalOperands": 1229,
+      "vocabulary": 378,
+      "length": 2169,
+      "estimatedLength": 3117.716600081675,
+      "volume": 18571.50381813551,
+      "difficulty": 149.5822368421053,
+      "effort": 2777967.0826384085,
+      "time": 154331.5045910227,
+      "bugs": 6.1905012727118365
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/Fokasu/src/components/Timer.tsx": {
+      "sloc": {
+        "physical": 124,
+        "logical": 230
+      },
+      "cyclomatic": {
+        "value": 64,
+        "density": 27.82608695652174
+      },
+      "halstead": {
+        "distinctOperators": 38,
+        "totalOperators": 700,
+        "distinctOperands": 188,
+        "totalOperands": 931,
+        "vocabulary": 226,
+        "length": 1631,
+        "estimatedLength": 1707.337080479146,
+        "volume": 12754.711887699174,
+        "difficulty": 94.09042553191489,
+        "effort": 1200096.2690505886,
+        "time": 66672.01494725492,
+        "bugs": 4.251570629233058
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/Fokasu/src/pages/_app.tsx": {
+      "sloc": {
+        "physical": 13,
+        "logical": 9
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 11.11111111111111
+      },
+      "halstead": {
+        "distinctOperators": 8,
+        "totalOperators": 16,
+        "distinctOperands": 17,
+        "totalOperands": 25,
+        "vocabulary": 25,
+        "length": 41,
+        "estimatedLength": 102.1865710312585,
+        "volume": 190.3981037807637,
+        "difficulty": 5.882352941176471,
+        "effort": 1119.9888457691984,
+        "time": 62.221602542733244,
+        "bugs": 0.0634660345935879
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/Fokasu/src/pages/index.tsx": {
+      "sloc": {
+        "physical": 53,
+        "logical": 73
+      },
+      "cyclomatic": {
+        "value": 20,
+        "density": 27.397260273972602
+      },
+      "halstead": {
+        "distinctOperators": 28,
+        "totalOperators": 224,
+        "distinctOperands": 99,
+        "totalOperands": 273,
+        "vocabulary": 127,
+        "length": 497,
+        "estimatedLength": 841.9282907501104,
+        "volume": 3473.3762893257667,
+        "difficulty": 38.60606060606061,
+        "effort": 134093.37553336445,
+        "time": 7449.631974075803,
+        "bugs": 1.1577920964419222
+      }
+    }
+  }
+}

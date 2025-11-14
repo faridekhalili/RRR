@@ -1,0 +1,17 @@
+|       sibling        |
++----------------------+
+| <Header />           |
+| <CopiedAlert />      |
+| <Mainte ... reen />  |
+| <MailsScreen />      |
+| <RobberyScreen />    |
+| <CamerasScreen />    |
+| <ClassicScreen />    |
+| <MoonshotScreen />   |
+| <BillingScreen />    |
+| <FastScreen />       |
+| <TechnicianScreen /> |
+| <SupportScreen />    |
+| <Footer />           |
+| <BackgroundPatron /> |
+| <Switcher />         |

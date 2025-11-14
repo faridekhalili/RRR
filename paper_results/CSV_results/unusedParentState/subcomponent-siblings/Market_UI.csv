@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <Meta t ... re"} /> |
+| <BreadC ... ore" /> |
+| <Color />           |
+| <Produc ... rid} /> |
+| <Meta t ... me"} /> |
+| <BreadC ... ame" /> |
+| <Color />           |
+| <Contai ... tainer> |
+| <Contai ... tainer> |
+| <Contai ... tainer> |
+| <ProductCard />     |

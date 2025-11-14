@@ -1,0 +1,18 @@
+|       sibling        |
++----------------------+
+| <Button ... Button>  |
+| <Input\n ...      /> |
+| <Modal  ... /Modal>  |
+| <Input  ...      />  |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <Input\n ...      /> |
+| <Modal  ... /Modal>  |
+| <Input\n ...      /> |
+| <Button ... Button>  |
+| <Button ... Button>  |
+| <HooksP ... ovider>  |
+| <Layout/>            |
+| <HooksP ... ovider>  |
+| <Layout/>            |
+| <AboutPageChunk/>    |

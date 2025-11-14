@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <AlbumListPage/>    |
+| <AlbumDetailPage/>  |
+| <MsgViewer/>        |
+| <AlbumS ...      /> |

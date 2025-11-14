@@ -1,0 +1,8 @@
+|    sibling     |
++----------------+
+| <Home />       |
+| <Plans />      |
+| <Motivation /> |
+| <Diet />       |
+| <Fitness />    |
+| <Navbar />     |

@@ -1,0 +1,3 @@
+"col0"
+"src/PromptManager.tsx:<34,9>--<34,71>~~~use_state_to_use_ref"
+"src/options.tsx:<45,7>--<45,62>~~~use_state_to_use_ref"

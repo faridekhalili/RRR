@@ -1,0 +1,3 @@
+"col0"
+"react-native/verification-tool/src/screen/burst-capture-screen/burst-capture-screen.tsx:<256,15>--<256,65>~~~self_referential_set_state???{varName:captureOptions}"
+"react-native/verification-tool/src/screen/list-files-screen/list-files-screen.tsx:<63,5>--<63,41>~~~self_referential_set_state???{varName:refreshCounter}"

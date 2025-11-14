@@ -1,0 +1,6 @@
+|       sibling        |
++----------------------+
+| <Panel\n ... /Panel> |
+| <Table\n ...      /> |
+| <Panel\n ... /Panel> |
+| <Table\n ...      /> |

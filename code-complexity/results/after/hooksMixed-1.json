@@ -1,0 +1,101 @@
+{
+  "project": {
+    "numFiles": 3,
+    "sloc": {
+      "physical": 127,
+      "logical": 235
+    },
+    "cyclomatic": {
+      "value": 78,
+      "density": 33.191489361702125
+    },
+    "halstead": {
+      "distinctOperators": 78,
+      "totalOperators": 837,
+      "distinctOperands": 284,
+      "totalOperands": 979,
+      "vocabulary": 362,
+      "length": 1816,
+      "estimatedLength": 2950.208457260695,
+      "volume": 15435.720130943102,
+      "difficulty": 134.44014084507043,
+      "effort": 2075180.3884490796,
+      "time": 115287.7993582822,
+      "bugs": 5.145240043647701
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/hooksMixed-1/src/App.js": {
+      "sloc": {
+        "physical": 54,
+        "logical": 111
+      },
+      "cyclomatic": {
+        "value": 38,
+        "density": 34.234234234234236
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 373,
+        "distinctOperands": 119,
+        "totalOperands": 432,
+        "vocabulary": 148,
+        "length": 805,
+        "estimatedLength": 1020.4330289695756,
+        "volume": 5803.609959331304,
+        "difficulty": 52.63865546218487,
+        "effort": 305494.2250861453,
+        "time": 16971.901393674736,
+        "bugs": 1.9345366531104347
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hooksMixed-1/src/TaskList.jsx": {
+      "sloc": {
+        "physical": 62,
+        "logical": 86
+      },
+      "cyclomatic": {
+        "value": 27,
+        "density": 31.3953488372093
+      },
+      "halstead": {
+        "distinctOperators": 29,
+        "totalOperators": 332,
+        "distinctOperands": 114,
+        "totalOperands": 396,
+        "vocabulary": 143,
+        "length": 728,
+        "estimatedLength": 977.1032720255581,
+        "volume": 5212.386333174667,
+        "difficulty": 50.36842105263158,
+        "effort": 262539.669518324,
+        "time": 14585.537195462446,
+        "bugs": 1.7374621110582222
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/hooksMixed-1/src/index.js": {
+      "sloc": {
+        "physical": 11,
+        "logical": 38
+      },
+      "cyclomatic": {
+        "value": 13,
+        "density": 34.21052631578947
+      },
+      "halstead": {
+        "distinctOperators": 20,
+        "totalOperators": 132,
+        "distinctOperands": 51,
+        "totalOperands": 151,
+        "vocabulary": 71,
+        "length": 283,
+        "estimatedLength": 402.7421992799762,
+        "volume": 1740.378434819825,
+        "difficulty": 29.607843137254903,
+        "effort": 51528.85169760659,
+        "time": 2862.713983200366,
+        "bugs": 0.5801261449399417
+      }
+    }
+  }
+}

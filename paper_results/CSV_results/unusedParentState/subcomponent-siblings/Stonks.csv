@@ -1,0 +1,15 @@
+|       sibling       |
++---------------------+
+| <Loader />          |
+| <Histor ... ncy} /> |
+| <Histor ...      /> |
+| <LiveCh ...      /> |
+| <Compan ... ame} /> |
+| <CoinSt ...      /> |
+| <Loader />          |
+| <Faq ti ...  </Faq> |
+| <Faq ti ...  </Faq> |
+| <Faq ti ...  </Faq> |
+| <Faq ti ...  </Faq> |
+| <Faq ti ...  </Faq> |
+| <Logout />          |

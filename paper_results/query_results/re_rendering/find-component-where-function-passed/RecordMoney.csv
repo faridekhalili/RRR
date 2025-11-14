@@ -1,0 +1,5 @@
+"col0"
+"views/calendar/additionally/InputDate.tsx:<36,19>--<65,1>~~~memoize"
+"views/modular_components/CardSwipe.tsx:<68,16>--<160,1>~~~memoize"
+"views/modular_components/CardWithButtons.tsx:<32,16>--<43,1>~~~memoize"
+"views/modular_components/Header.tsx:<43,16>--<88,1>~~~memoize"

@@ -1,0 +1,10 @@
+|       sibling       |
++---------------------+
+| <Theme />           |
+| <Landin ...      /> |
+| <Landin ...      /> |
+| <LinkBu ...    } /> |
+| <LinkBu ...    } /> |
+| <Theme />           |
+| <LinkBu ...      /> |
+| <LinkBu ...      /> |

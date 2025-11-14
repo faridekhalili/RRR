@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Loading />         |
+| <Navbar></Navbar>   |
+| <Sidebar></Sidebar> |
+| <Produc ... ctCard> |
+| <Footer></Footer>   |

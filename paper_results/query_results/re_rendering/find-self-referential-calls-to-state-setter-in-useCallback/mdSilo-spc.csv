@@ -1,0 +1,3 @@
+"col0"
+"src/reader/ReaderPage.tsx:<52,7>--<52,29>~~~self_referential_set_state???{varName:doneNum}"
+"src/reader/ReaderPage.tsx:<58,5>--<58,32>~~~self_referential_set_state???{varName:showManager}"

@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Loading />         |
+| <Layout />          |
+| <Home />            |
+| <Instruct />        |
+| <Result ... ata} /> |
+| <Invalid />         |
+| <Footer />          |
+| <Loading />         |
+| <Search />          |

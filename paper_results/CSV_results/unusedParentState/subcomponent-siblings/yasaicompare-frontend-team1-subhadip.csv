@@ -1,0 +1,11 @@
+|       sibling        |
++----------------------+
+| <AddIcon />          |
+| <Addres ...      />  |
+| <VendorBox />        |
+| <Grocer ...      />  |
+| <Messag ...      />  |
+| <FilterIcon />       |
+| <Rating total={5} /> |
+| <Vendor ...      />  |
+| <Vendor ...      />  |

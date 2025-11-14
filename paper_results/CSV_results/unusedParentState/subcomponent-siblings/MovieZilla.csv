@@ -1,0 +1,8 @@
+|   sibling   |
++-------------+
+| <Header/>   |
+| <Cards/>    |
+| <AddMovie/> |
+| <Details/>  |
+| <Signup/>   |
+| <Login/>    |

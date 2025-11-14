@@ -1,0 +1,50 @@
+|       sibling        |
++----------------------+
+| <SearchBox />        |
+| <ProductScreen />    |
+| <CartScreen />       |
+| <SearchScreen />     |
+| <SigninScreen />     |
+| <SignupScreen />     |
+| <Protec ... dRoute>  |
+| <ProfileScreen />    |
+| <Protec ... dRoute>  |
+| <MapScreen />        |
+| <PlaceOrderScreen /> |
+| <Protec ... dRoute>  |
+| <OrderScreen />      |
+| <Protec ... dRoute>  |
+| <OrderH ... reen />  |
+| <Shippi ... reen />  |
+| <Paymen ... reen />  |
+| <AdminR ... nRoute>  |
+| <DashboardScreen />  |
+| <AdminR ... nRoute>  |
+| <OrderListScreen />  |
+| <AdminR ... nRoute>  |
+| <UserListScreen />   |
+| <AdminR ... nRoute>  |
+| <Produc ... reen />  |
+| <AdminR ... nRoute>  |
+| <Produc ... reen />  |
+| <AdminR ... nRoute>  |
+| <UserEditScreen />   |
+| <HomeScreen />       |
+| <Checko ... tSteps>  |
+| <Loadin ... ingBox>  |
+| <Messag ... ageBox>  |
+| <Loadin ... ingBox>  |
+| <Messag ... ageBox>  |
+| <Loadin ... ingBox>  |
+| <Loadin ... ingBox>  |
+| <LoadingBox />       |
+| <Messag ... ageBox>  |
+| <Rating ... Rating>  |
+| <Messag ... ageBox>  |
+| <Rating ... Rating>  |
+| <Loadin ... ingBox>  |
+| <Messag ... ageBox>  |
+| <Checko ... tSteps>  |
+| <Loadin ... ingBox>  |
+| <Messag ... ageBox>  |
+| <Loadin ... ingBox>  |

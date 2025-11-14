@@ -1,0 +1,8 @@
+transformation
+/home/spitfire/react-rerendering/rendering-optimization/transformation-source/tests/original/pattern1/useRef.tsx:<0,0>--<0,0>~~~import-use-ref
+/home/spitfire/react-rerendering/rendering-optimization/transformation-source/tests/original/pattern1/useRef.tsx:<7,9>--<7,43>~~~use-state-to-use-ref
+/home/spitfire/react-rerendering/rendering-optimization/transformation-source/tests/original/pattern1/useRef.tsx:<14,64>--<14,67>~~~add-dot-current
+/home/spitfire/react-rerendering/rendering-optimization/transformation-source/tests/original/pattern1/useRef.tsx:<17,92>--<17,95>~~~add-dot-current
+/home/spitfire/react-rerendering/rendering-optimization/transformation-source/tests/original/pattern1/useRef.tsx:<25,53>--<25,56>~~~add-dot-current
+/home/spitfire/react-rerendering/rendering-optimization/transformation-source/tests/original/pattern1/useRef.tsx:<15,20>--<15,36>~~~set-state-to-assignment???{"varName":"city"}
+/home/spitfire/react-rerendering/rendering-optimization/transformation-source/tests/original/pattern1/useRef.tsx:<25,76>--<25,98>~~~set-state-to-assignment???{"varName":"city"}

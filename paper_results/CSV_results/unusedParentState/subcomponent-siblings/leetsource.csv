@@ -1,0 +1,16 @@
+|       sibling        |
++----------------------+
+| <ResCar ...      />  |
+| <Card\n  ...      /> |
+| <Loader ... der} />  |
+| <Form t ... ern} />  |
+| <Loader ... der} />  |
+| <Card\n  ...      /> |
+| <Form t ... ern} />  |
+| <ResCar ...      />  |
+| <Card\n  ...      /> |
+| <Loader ... der} />  |
+| <Nav />              |
+| <Loader ... der} />  |
+| <Nav />              |
+| <Card\n  ...      /> |

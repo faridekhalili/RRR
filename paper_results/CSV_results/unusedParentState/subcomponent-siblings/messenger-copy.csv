@@ -1,0 +1,56 @@
+|         sibling         |
++-------------------------+
+| <ToolBar />             |
+| <Dashboard />           |
+| <Profile />             |
+| <Friends />             |
+| <Settings />            |
+| <PrivacyPolicy />       |
+| <ResetPassword />       |
+| <Login />               |
+| <Signup />              |
+| <SetNewPassword />      |
+| <TabBar />              |
+| <Avatar ... rue} />     |
+| <Pinned ... tal' />     |
+| <Avatar ... URL} />     |
+| <ChatsL ... hat} />     |
+| <Avatar ...  ''} />     |
+| <Avatar ...  ''} />     |
+| <Avatar ...  ''} />     |
+| <Avatar ...  ''} />     |
+| <Pinned ... cal' />     |
+| <Avatar ... rue} />     |
+| <GoogleButton />        |
+| <GithubButton />        |
+| <GoogleButton />        |
+| <GithubButton />        |
+| <Avatar ... URL} />     |
+| <Avatar ...  ''} />     |
+| <Avatar ... rue} />     |
+| <ThemeP ... }\n\t\t\t/> |
+| <Respon ... nse} />     |
+| <Messag ... hat} />     |
+| <Avatar ... rue} />     |
+| <Messag ... hat} />     |
+| <Toolti ... ooltip>     |
+| <Avatar ...  ''} />     |
+| <Avatar ... URL} />     |
+| <Avatar ... URL} />     |
+| <Toolti ... ooltip>     |
+| <FriendsList />         |
+| <AddFriend />           |
+| <PendingInvites />      |
+| <Avatar ... .id} />     |
+| <Avatar ... URL} />     |
+| <Avatar ... uid} />     |
+| <AccountDetails />      |
+| <Profile />             |
+| <Theme />               |
+| <Premium />             |
+| <Privac ... rity />     |
+| <Loader />              |
+| <Loader />              |
+| <Loader />              |
+| <Loader />              |
+| <Loader />              |

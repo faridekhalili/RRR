@@ -1,0 +1,26 @@
+|              sibling               |
++------------------------------------+
+| <Header ... Out} />                |
+| <Protec ...      />                |
+| <Protec ...      />                |
+| <Protec ...      />                |
+| <Protec ...      />                |
+| <Protec ...      />                |
+| <Protec ...      />                |
+| <Protec ...      />                |
+| <Single ...      />                |
+| <Main\n  ...      />               |
+| <SignIn ...      />                |
+| <SignUp ...      />                |
+| <Footer />                         |
+| <Title  ... \u043f\u0442\u0430' /> |
+| <Checkb ...      />                |
+| <Button ... Button>                |
+| <Title  ... \u043f\u0442\u0430' /> |
+| <Checkb ...      />                |
+| <Button ... Button>                |
+| <Title\n ...      />               |
+| <Checkb ...      />                |
+| <CardLi ... rdList>                |
+| <Card\n  ...      />               |
+| <Pagina ...      />                |

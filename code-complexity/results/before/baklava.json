@@ -1,0 +1,77 @@
+{
+  "project": {
+    "numFiles": 2,
+    "sloc": {
+      "physical": 19,
+      "logical": 17
+    },
+    "cyclomatic": {
+      "value": 3,
+      "density": 17.647058823529413
+    },
+    "halstead": {
+      "distinctOperators": 19,
+      "totalOperators": 57,
+      "distinctOperands": 43,
+      "totalOperands": 73,
+      "vocabulary": 62,
+      "length": 130,
+      "estimatedLength": 336.42841479153003,
+      "volume": 774.0455203502938,
+      "difficulty": 16.127906976744185,
+      "effort": 12483.734147975087,
+      "time": 693.5407859986159,
+      "bugs": 0.25801517345009795
+    }
+  },
+  "files": {
+    "/home/spitfire/react-rerendering/candidates/baklava/web/app/src/App.jsx": {
+      "sloc": {
+        "physical": 12,
+        "logical": 9
+      },
+      "cyclomatic": {
+        "value": 1,
+        "density": 11.11111111111111
+      },
+      "halstead": {
+        "distinctOperators": 9,
+        "totalOperators": 22,
+        "distinctOperands": 22,
+        "totalOperands": 31,
+        "vocabulary": 31,
+        "length": 53,
+        "estimatedLength": 138.24238017775622,
+        "volume": 262.5724044505044,
+        "difficulty": 6.340909090909092,
+        "effort": 1664.9477464020622,
+        "time": 92.49709702233679,
+        "bugs": 0.0875241348168348
+      }
+    },
+    "/home/spitfire/react-rerendering/candidates/baklava/web/app/src/main.jsx": {
+      "sloc": {
+        "physical": 7,
+        "logical": 8
+      },
+      "cyclomatic": {
+        "value": 2,
+        "density": 25
+      },
+      "halstead": {
+        "distinctOperators": 10,
+        "totalOperators": 35,
+        "distinctOperands": 21,
+        "totalOperands": 42,
+        "vocabulary": 31,
+        "length": 77,
+        "estimatedLength": 136.16184010614157,
+        "volume": 381.47311589978943,
+        "difficulty": 10,
+        "effort": 3814.7311589978945,
+        "time": 211.92950883321635,
+        "bugs": 0.1271577052999298
+      }
+    }
+  }
+}

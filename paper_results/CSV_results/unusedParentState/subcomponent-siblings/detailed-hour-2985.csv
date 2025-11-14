@@ -1,0 +1,8 @@
+|     sibling      |
++------------------+
+| <PersonelInfo /> |
+| <Cart />         |
+| <Wishlist />     |
+| <Logoutpage />   |
+| <Myorders />     |
+| <MegaMenu />     |

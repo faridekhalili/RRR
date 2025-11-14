@@ -1,0 +1,5 @@
+"col0"
+"src/App.tsx:<8,20>--<25,1>~~~component_no_props"
+"src/components/header/index.tsx:<5,23>--<14,1>~~~component_no_props"
+"src/components/list-items/index.tsx:<6,26>--<20,1>~~~component_no_props"
+"src/components/toggle-theme/index.tsx:<6,28>--<19,1>~~~component_no_props"

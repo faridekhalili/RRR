@@ -1,0 +1,19 @@
+|       sibling        |
++----------------------+
+| <PageTi ... eTitle>  |
+| <Button ... Button>  |
+| <ViewTi ...      />  |
+| <WeeklyLetters />    |
+| <Weekly ...      />  |
+| <Weekly ...      />  |
+| <Progre ... ={3} />  |
+| <PageTi ... eTitle>  |
+| <Pill\n  ... </Pill> |
+| <Button ... Button>  |
+| <Progre ... ={1} />  |
+| <PageTi ... eTitle>  |
+| <PageTi ... eTitle>  |
+| <PageTi ... eTitle>  |
+| <Pill\n  ... </Pill> |
+| <Pill\n  ... </Pill> |
+| <Button ... Button>  |

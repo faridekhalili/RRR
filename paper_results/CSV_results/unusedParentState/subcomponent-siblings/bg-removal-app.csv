@@ -1,0 +1,7 @@
+|       sibling        |
++----------------------+
+| <Hero\n  ...      /> |
+| <Upload ... oad} />  |
+| <UsageBar />         |
+| <Spinner />          |
+| <Spinner />          |

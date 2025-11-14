@@ -1,0 +1,15 @@
+|         sibling          |
++--------------------------+
+| <Label  ... /Label>      |
+| <Button ... Button>      |
+| <Label  ... /Label>      |
+| <Label  ... /Label>      |
+| <Button ... \t\t\t\t\t/> |
+| <Label  ... /Label>      |
+| <Label  ... /Label>      |
+| <Label  ... /Label>      |
+| <Label  ... /Label>      |
+| <ModalM ... enu} />      |
+| <Label  ... /Label>      |
+| <Button ... Button>      |
+| <Label  ... /Label>      |

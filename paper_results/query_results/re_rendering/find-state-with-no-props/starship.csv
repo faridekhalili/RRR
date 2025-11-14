@@ -1,0 +1,4 @@
+"col0"
+"ui/src/components/NoticeIcon/index.tsx:<75,9>--<75,67>~~~use_state_to_use_ref"
+"ui/src/pages/CreateModule/index.tsx:<13,9>--<13,58>~~~use_state_to_use_ref"
+"ui/src/pages/User/Login/index.tsx:<40,9>--<40,76>~~~use_state_to_use_ref"

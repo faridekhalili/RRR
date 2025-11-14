@@ -1,0 +1,94 @@
+|       sibling       |
++---------------------+
+| <Login />           |
+| <Login />           |
+| <Home />            |
+| <Watch />           |
+| <Queue />           |
+| <ProfileUser />     |
+| <Tfa />             |
+| <FriendProfile />   |
+| <AddFriend />       |
+| <Block />           |
+| <Friend ... Text"/> |
+| <ArrowD ... Text"/> |
+| <ArrowU ... Text"/> |
+| <Member ... arch}/> |
+| <Exclam ... tion'/> |
+| <PlusIc ...  h-3'/> |
+| <CheckI ...  h-3'/> |
+| <Points ... ext" /> |
+| <LockIc ... ext" /> |
+| <Points ... Text'/> |
+| <CheckI ... Text'/> |
+| <CheckI ... Text'/> |
+| <CheckI ... Text'/> |
+| <Exclam ... -0.5"/> |
+| <Exclam ... -0.5"/> |
+| <EyeOnP ... hape'/> |
+| <EyeOff ... hape'/> |
+| <Exclam ... -0.5"/> |
+| <Search ... ive" /> |
+| <Search ... ive" /> |
+| <PlusIc ... ext" /> |
+| <CardFr ...      /> |
+| <CardFr ...      /> |
+| <Naviga ...      /> |
+| <Modal  ... /Modal> |
+| <ModalH ... Header> |
+| <ModalB ... alBody> |
+| <Settin ... ame} /> |
+| <Modal  ... /Modal> |
+| <ModalH ... Header> |
+| <ModalB ... alBody> |
+| <Create ... eate}/> |
+| <Modal  ... /Modal> |
+| <ModalH ... Header> |
+| <ModalB ... alBody> |
+| <Member ... tate}/> |
+| <Modal  ... /Modal> |
+| <ModalH ... Header> |
+| <ModalB ... alBody> |
+| <AddMem ... tate}/> |
+| <Modal  ... /Modal> |
+| <ModalH ... Header> |
+| <ModalB ... alBody> |
+| <Passwo ... tate}/> |
+| <CardSt ... tAdd}/> |
+| <CardSt ... tAdd}/> |
+| <Contro ... w-7" /> |
+| <Modal  ... /Modal> |
+| <ModalH ... Header> |
+| <ModalB ... alBody> |
+| <ArrowD ... ext" /> |
+| <ArrowU ... ext' /> |
+| <Settin ... ext' /> |
+| <Logout ... Text'/> |
+| <Search ... w-4" /> |
+| <Contro ... w-7" /> |
+| <Modal  ... /Modal> |
+| <ModalH ... Header> |
+| <ModalB ... alBody> |
+| <ArrowD ... ext" /> |
+| <ArrowU ... ext' /> |
+| <Settin ... ext' /> |
+| <Logout ... Text'/> |
+| <EyeOnP ... ape" /> |
+| <EyeOff ... ape" /> |
+| <Exclam ... -0.5"/> |
+| <Search ... ive" /> |
+| <EditAv ... ext" /> |
+| <Exclam ... -0.5"/> |
+| <Exclam ... -0.5"/> |
+| <Header ... User}/> |
+| <BoxMes ...      /> |
+| <BoxMes ...      /> |
+| <BoxMes ...      /> |
+| <BoxMes ...      /> |
+| <Nomess ... Text"/> |
+| <SendIc ... ite" /> |
+| <Messag ...      /> |
+| <CardPr ... User}/> |
+| <Switch ... ment}/> |
+| <KeyIco ... ht-4'/> |
+| <Exclam ... -0.5"/> |

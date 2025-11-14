@@ -1,0 +1,16 @@
+|       sibling        |
++----------------------+
+| <HomePage />         |
+| <ProductsShopPage /> |
+| <DetailProduct />    |
+| <CartPage />         |
+| <AdminLayout />      |
+| <Admin />            |
+| <EditPage />         |
+| <AddPage />          |
+| <NotFoundPage />     |
+| <Header />           |
+| <Categiores />       |
+| <Loading />          |
+| <Produc ... rch} />  |
+| <Footer />           |

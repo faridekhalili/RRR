@@ -1,0 +1,9 @@
+|     sibling     |
++-----------------+
+| <NavBar />      |
+| <LoginButton /> |
+| <Footer />      |
+| <NavBar />      |
+| <Footer />      |
+| <NavBar />      |
+| <Footer />      |

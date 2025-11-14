@@ -1,0 +1,25 @@
+|       sibling        |
++----------------------+
+| <Button />           |
+| <Button ...      />  |
+| <Gap width={30} />   |
+| <Button ...      />  |
+| <Gap height={40} />  |
+| <Gap height={100} /> |
+| <Gap height={30} />  |
+| <Gap height={50} />  |
+| <Button ...      />  |
+| <Gap width={20} />   |
+| <Button ...      />  |
+| <Gap height={100} /> |
+| <Gap height={50} />  |
+| <Button ... ncel />  |
+| <Gap width={10} />   |
+| <Button ...      />  |
+| <Gap width={10} />   |
+| <Gap width={10} />   |
+| <Button ...      />  |
+| <Gap width={20} />   |
+| <Gap height={20} />  |
+| <Gap height={20} />  |
+| <Button ...      />  |

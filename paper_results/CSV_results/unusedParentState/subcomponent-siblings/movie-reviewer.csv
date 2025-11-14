@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <Header />          |
+| <Layout />          |
+| <Home m ... ies} /> |
+| <Trailer/>          |
+| <NotFound/>         |

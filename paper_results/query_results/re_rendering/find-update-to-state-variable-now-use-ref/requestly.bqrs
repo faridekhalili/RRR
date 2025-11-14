@@ -1,0 +1,139 @@
+∏Fµapp/src/components/features/mocksV2/MockEditorIndex/Editor/Header/PasswordPopup/PasswordPopup.tsx:<55,26>--<55,57>~~~set_state_to_assignment_current_value???{varName:inputPassword}ìapp/src/components/features/mocksV2/MockEditorIndex/Editor/index.tsx:<264,28>--<264,39>~~~set_state_to_assignment_current_value???{varName:method}åapp/src/components/features/rules/RenameGroupModal/index.js:<38,82>--<38,109>~~~set_state_to_assignment_current_value???{varName:groupName}çapp/src/components/features/rules/RenameGroupModal/index.js:<112,11>--<112,34>~~~set_state_to_assignment_current_value???{varName:groupName}∫app/src/components/features/rules/RulePairs/Pairs/ResponseRulePair/GraphqlRequestPayload/index.tsx:<85,5>--<85,49>~~~set_state_to_assignment_current_value???{varName:gqlOperationFilter}ºapp/src/components/features/rules/RulePairs/Pairs/ResponseRulePair/GraphqlRequestPayload/index.tsx:<105,5>--<105,70>~~~set_state_to_assignment_current_value???{varName:gqlOperationFilter}ºapp/src/components/features/rules/RulePairs/Pairs/ResponseRulePair/GraphqlRequestPayload/index.tsx:<120,5>--<120,60>~~~set_state_to_assignment_current_value???{varName:gqlOperationFilter}ºapp/src/components/features/rules/RulePairs/Pairs/ResponseRulePair/GraphqlRequestPayload/index.tsx:<137,5>--<137,74>~~~set_state_to_assignment_current_value???{varName:gqlOperationFilter}∞app/src/components/mode-specific/desktop/MySources/Sources/LaunchButtonDropDown/index.js:<20,7>--<20,31>~~~set_state_to_assignment_current_value???{varName:launchArgsStrInput}±app/src/components/mode-specific/desktop/MySources/Sources/LaunchButtonDropDown/index.js:<48,32>--<48,68>~~~set_state_to_assignment_current_value???{varName:launchArgsStrInput}±app/src/components/mode-specific/desktop/MySources/Sources/LaunchButtonDropDown/index.js:<50,17>--<50,44>~~~set_state_to_assignment_current_value???{varName:launchArgsStrInput}°app/src/componentsV2/modals/CreateWorkspaceModalV2/CreateWorkspaceModal.tsx:<264,26>--<264,57>~~~set_state_to_assignment_current_value???{varName:workspaceName}¬app/src/features/apiClient/screens/apiClient/components/modals/ApiClientSnippetModal/ApiClientSnippetModal.tsx:<67,51>--<67,73>~~~set_state_to_assignment_current_value???{varName:snippetTypeId}◊app/src/features/apiClient/screens/apiClient/components/sidebar/components/collectionsList/newRecordNameInput/NewRecordNameInput.tsx:<189,13>--<189,41>~~~set_state_to_assignment_current_value???{varName:recordName}ﬁapp/src/features/apiClient/screens/environment/components/environmentsList/components/environmentsListItem/EnvironmentsListItem.tsx:<152,26>--<152,62>~~~set_state_to_assignment_current_value???{varName:newEnvironmentName}æapp/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<52,5>--<52,33>~~~set_state_to_assignment_current_value???{varName:collectionName}≈app/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<53,5>--<53,47>~~~set_state_to_assignment_current_value???{varName:collectionDescription}æapp/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<54,5>--<54,36>~~~set_state_to_assignment_current_value???{varName:collectionPath}æapp/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<57,7>--<57,27>~~~set_state_to_assignment_current_value???{varName:collectionName}≈app/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<58,7>--<58,34>~~~set_state_to_assignment_current_value???{varName:collectionDescription}æapp/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<59,7>--<59,27>~~~set_state_to_assignment_current_value???{varName:collectionPath}≈app/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<65,7>--<65,36>~~~set_state_to_assignment_current_value???{varName:isCollectionPathValid}∆app/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<78,11>--<78,41>~~~set_state_to_assignment_current_value???{varName:isCollectionPathValid}¡app/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<160,15>--<160,47>~~~set_state_to_assignment_current_value???{varName:collectionName}»app/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<193,15>--<193,44>~~~set_state_to_assignment_current_value???{varName:isCollectionPathValid}¡app/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<194,15>--<194,47>~~~set_state_to_assignment_current_value???{varName:collectionPath}»app/src/features/mocks/modals/CreateOrUpdateCollectionModalWrapper/CreateOrUpdateCollectionModal/index.tsx:<208,15>--<208,54>~~~set_state_to_assignment_current_value???{varName:collectionDescription}∂app/src/features/mocks/modals/UpdateMocksCollectionModalWrapper/UpdateMocksCollectionModal/index.tsx:<46,7>--<46,45>~~~set_state_to_assignment_current_value???{varName:collectionId}∂app/src/features/mocks/modals/UpdateMocksCollectionModalWrapper/UpdateMocksCollectionModal/index.tsx:<71,5>--<71,33>~~~set_state_to_assignment_current_value???{varName:collectionId}∏app/src/features/mocks/modals/UpdateMocksCollectionModalWrapper/UpdateMocksCollectionModal/index.tsx:<72,5>--<72,53>~~~set_state_to_assignment_current_value???{varName:collectionName}∏app/src/features/mocks/modals/UpdateMocksCollectionModalWrapper/UpdateMocksCollectionModal/index.tsx:<74,5>--<74,40>~~~set_state_to_assignment_current_value???{varName:collectionPath}æapp/src/features/rules/screens/sharedLists/components/SharedLists/modals/ImportSharedListFromURLModal/index.jsx:<60,30>--<60,56>~~~set_state_to_assignment_current_value???{varName:inputURL}éapp/src/features/settings/components/DesktopSettings/index.jsx:<93,36>--<93,63>~~~set_state_to_assignment_current_value???{varName:portInput}æapp/src/features/settings/components/Profile/ManageTeams/TeamViewer/TeamSettings/DeleteWorkspaceModal/index.tsx:<38,50>--<38,76>~~~set_state_to_assignment_current_value???{varName:teamName}£app/src/features/settings/components/Profile/ManageTeams/TeamViewer/TeamSettings/index.js:<91,9>--<91,30>~~~set_state_to_assignment_current_value???{varName:name}•app/src/features/settings/components/Profile/ManageTeams/TeamViewer/TeamSettings/index.js:<101,5>--<101,27>~~~set_state_to_assignment_current_value???{varName:name}•app/src/features/settings/components/Profile/ManageTeams/TeamViewer/TeamSettings/index.js:<118,9>--<118,33>~~~set_state_to_assignment_current_value???{varName:name}∆app/src/lib/design-system/components/RQNetworkTable/GenericNetworkTable/components/FiltersToolbar/FiltersToolbar.tsx:<48,11>--<48,40>~~~set_state_to_assignment_current_value???{varName:searchValue}èapp/src/lib/design-system-v2/components/RQBreadcrumb/RQBreadcrumb.tsx:<56,5>--<56,23>~~~set_state_to_assignment_current_value???{varName:name}èapp/src/lib/design-system-v2/components/RQBreadcrumb/RQBreadcrumb.tsx:<91,5>--<91,25>~~~set_state_to_assignment_current_value???{varName:name}ëapp/src/lib/design-system-v2/components/RQBreadcrumb/RQBreadcrumb.tsx:<100,7>--<100,25>~~~set_state_to_assignment_current_value???{varName:name}©app/src/views/features/rules/RuleEditor/components/Header/EditorGroupDropdown/index.tsx:<60,5>--<60,35>~~~set_state_to_assignment_current_value???{varName:newGroupName}©app/src/views/features/rules/RuleEditor/components/Header/EditorGroupDropdown/index.tsx:<78,5>--<78,23>~~~set_state_to_assignment_current_value???{varName:newGroupName}©app/src/views/features/rules/RuleEditor/components/Header/EditorGroupDropdown/index.tsx:<85,7>--<85,25>~~~set_state_to_assignment_current_value???{varName:newGroupName}ñapp/src/views/features/sessions/SessionViewer/SessionViewerTitle.tsx:<44,9>--<44,45>~~~set_state_to_assignment_current_value???{varName:sessionTitle}óapp/src/views/features/sessions/SessionViewer/SessionViewerTitle.tsx:<47,33>--<47,69>~~~set_state_to_assignment_current_value???{varName:sessionTitle}óapp/src/views/features/sessions/SessionViewer/SessionViewerTitle.tsx:<65,32>--<65,62>~~~set_state_to_assignment_current_value???{varName:sessionTitle}©app/src/views/features/sessions/SessionsIndexPageContainer/NetworkSessions/SessionSaveModal.tsx:<62,5>--<62,15>~~~set_state_to_assignment_current_value???{varName:name}™app/src/views/features/sessions/SessionsIndexPageContainer/NetworkSessions/SessionSaveModal.tsx:<90,30>--<90,52>~~~set_state_to_assignment_current_value???{varName:name}àapp/src/views/misc/SeleniumImporter/SeleniumImporterPage.jsx:<25,7>--<25,32>~~~set_state_to_assignment_current_value???{varName:apiKey}ãapp/src/views/misc/SeleniumImporter/SeleniumImporterPage.jsx:<185,30>--<185,54>~~~set_state_to_assignment_current_value???{varName:apiKey}r#select3 s ∂ ◊Â†›ö	◊
+à∫Ïé—©à«çÃã—ê÷ù!ﬂ"®$Í%≥'Í(°*⁄+ì-“.·/†1ƒ2Í3ê5◊6Á7˜8â:≥;›<á>û?∂@ŒA¯B£D¨EÙ ---
+run:
+  queries:
+   -
+    pack: react-rerendering-detection#1
+    relativeQueryPath: re_rendering/find-update-to-state-variable-now-use-ref.ql
+    relativeBqrsPath: react-rerendering-detection/re_rendering/find-update-to-state-variable-now-use-ref.bqrs
+    metadata: {}
+    queryHelp: null
+  extensionPacks: []
+  packs:
+    codeql/javascript-all#0:
+      name: codeql/javascript-all
+      version: 0.7.1
+      localPath: /Users/faridehkhalili/Documents/Packages/codeql/qlpacks/codeql/javascript-all/0.7.1
+      runDataExtensions: []
+    react-rerendering-detection#1:
+      name: react-rerendering-detection
+      version: 0.0.0
+      localPath: /Users/faridehkhalili/Documents/research/PaperArtifacts/Reactor/codeql-development/query_running/queries
+      runDataExtensions:
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/data/internal/model.yml
+        index: 0
+        firstRowId: 0
+        rowCount: 0
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 0
+        firstRowId: 75
+        rowCount: 26
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 1
+        firstRowId: 101
+        rowCount: 611
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 2
+        firstRowId: 712
+        rowCount: 32
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mongodb/model.yml
+        index: 3
+        firstRowId: 744
+        rowCount: 102
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mssql/model.yml
+        index: 0
+        firstRowId: 846
+        rowCount: 34
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mysql/model.yml
+        index: 0
+        firstRowId: 880
+        rowCount: 57
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/mysql/model.yml
+        index: 1
+        firstRowId: 937
+        rowCount: 3
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 0
+        firstRowId: 940
+        rowCount: 65
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 1
+        firstRowId: 1005
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/pg/model.yml
+        index: 2
+        firstRowId: 1010
+        rowCount: 23
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 0
+        firstRowId: 1033
+        rowCount: 7
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 1
+        firstRowId: 1040
+        rowCount: 248
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 2
+        firstRowId: 1288
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sequelize/model.yml
+        index: 3
+        firstRowId: 1293
+        rowCount: 2
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/spanner/model.yml
+        index: 0
+        firstRowId: 1295
+        rowCount: 174
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/spanner/model.yml
+        index: 1
+        firstRowId: 1469
+        rowCount: 5
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sqlite3/model.yml
+        index: 0
+        firstRowId: 1474
+        rowCount: 15
+       -
+        pack: codeql/javascript-all#0
+        relativePath: semmle/javascript/frameworks/sqlite3/model.yml
+        index: 1
+        firstRowId: 1489
+        rowCount: 3
+runFileName: null
+relativeBqrsPath: null
+metadata: {}

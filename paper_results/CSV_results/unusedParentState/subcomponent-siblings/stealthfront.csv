@@ -1,0 +1,6 @@
+|     sibling      |
++------------------+
+| <Nav />          |
+| <Login />        |
+| <Responsepage /> |
+| <Footer />       |

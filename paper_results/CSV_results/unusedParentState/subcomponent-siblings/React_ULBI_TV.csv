@@ -1,0 +1,13 @@
+|       sibling       |
++---------------------+
+| <Navbar/>           |
+| <AppRouter/>        |
+| <MyButt ... Button> |
+| <PostFo ... Post}/> |
+| <PostFo ... Post}/> |
+| <PostLi ...  JS"}/> |
+| <Loader/>           |
+| <Pagina ...      /> |
+| <\u0421ounter/>     |
+| <ClassCounter/>     |
+| <PostLi ... act"}/> |

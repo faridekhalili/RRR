@@ -1,0 +1,4 @@
+"col0"
+"src/widgets/intent/Intent.tsx:<82,8>--<183,1>~~~memoize"
+"src/widgets/interactive_table/RenameTableColumnPopover.tsx:<26,8>--<87,1>~~~memoize"
+"src/widgets/trrack/Trrack.tsx:<20,8>--<155,1>~~~memoize"

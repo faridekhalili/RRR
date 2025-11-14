@@ -1,0 +1,19 @@
+|       sibling       |
++---------------------+
+| <MiniDrawer />      |
+| <MiniDrawer />      |
+| <FoodCa ... rys} /> |
+| <MiniDrawer />      |
+| <FoodsT ... ods} /> |
+| <MiniDrawer />      |
+| <Orders ... ers} /> |
+| <MiniDrawer />      |
+| <Paymen ... age} /> |
+| <MiniDrawer />      |
+| <Produc ... cts} /> |
+| <MiniDrawer />      |
+| <RolesT ... les} /> |
+| <MiniDrawer />      |
+| <UsersT ... ers} /> |
+| <MiniDrawer />      |
+| <WareHo ... ses} /> |

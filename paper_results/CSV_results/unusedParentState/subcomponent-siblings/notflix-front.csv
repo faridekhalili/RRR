@@ -1,0 +1,17 @@
+|       sibling       |
++---------------------+
+| <PrivateRoutes/>    |
+| <Layout/>           |
+| <GenrePage/>        |
+| <MediaPage/>        |
+| <SearchBar />       |
+| <Bookmarks />       |
+| <SignIn />          |
+| <SignUp />          |
+| <ResetPassword/>    |
+| <Error404/>         |
+| <Loading />         |
+| <Bookma ...      /> |
+| <Loadin ... 0vh" /> |
+| <Bookma ... iaId}/> |
+| <Loadin ... "90" /> |

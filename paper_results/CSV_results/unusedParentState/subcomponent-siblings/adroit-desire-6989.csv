@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <Sidebar />         |
+| <Navbar/>           |
+| <Produc ... ery} /> |
+| <Footer/>           |

@@ -1,0 +1,18 @@
+|       sibling        |
++----------------------+
+| <Step i ... </Step>  |
+| <PageCo ... ontent>  |
+| <Input\n ...      /> |
+| <Input  ... tle" />  |
+| <Input  ... o")} />  |
+| <Input  ... m")} />  |
+| <Input  ... o")} />  |
+| <Input  ... m")} />  |
+| <Graph  ... ark} />  |
+| <Step k ... </Step>  |
+| <PageCo ... ontent>  |
+| <Input\n ...      /> |
+| <Graph\n ...      /> |
+| <Graph\n ...      /> |
+| <Input\n ...      /> |
+| <Input\n ...      /> |

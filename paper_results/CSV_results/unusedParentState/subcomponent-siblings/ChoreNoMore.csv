@@ -1,0 +1,6 @@
+|       sibling       |
++---------------------+
+| <TaskChores/>       |
+| <GoogleSignIn />    |
+| <Chorec ... name}/> |
+| <Chores ... pId} /> |

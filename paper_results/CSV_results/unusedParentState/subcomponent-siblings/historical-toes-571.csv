@@ -1,0 +1,8 @@
+|       sibling       |
++---------------------+
+| <Card i ... ice} /> |
+| <Footer />          |
+| <Card   ... ice} /> |
+| <Footer />          |
+| <Card   ... ice} /> |
+| <Footer />          |

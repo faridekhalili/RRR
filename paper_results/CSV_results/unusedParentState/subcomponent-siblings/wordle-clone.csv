@@ -1,0 +1,7 @@
+|   sibling    |
++--------------+
+| <Gameboard/> |
+| <Keyboard /> |
+| <GameOver /> |
+| <Gameboard/> |
+| <Keyboard /> |

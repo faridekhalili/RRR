@@ -1,0 +1,4 @@
+"col0"
+"src/reader/FeedManager.tsx:<86,15>--<86,58>~~~onChange_to_ref???{varName:feedUrl}"
+"src/reader/FeedManager.tsx:<97,15>--<97,60>~~~onChange_to_ref???{varName:feedTitle}"
+"src/reader/FeedManager.tsx:<134,13>--<137,14>~~~onChange_to_ref???{varName:searchText}"

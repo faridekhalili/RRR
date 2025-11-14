@@ -1,0 +1,15 @@
+|       sibling       |
++---------------------+
+| <Shimmer />         |
+| <Skelet ... es'} /> |
+| <NavItem {...ele}/> |
+| <Shimmer />         |
+| <AddToC ... artbtn> |
+| <Shimmer />         |
+| <Skelet ... es'} /> |
+| <Skelet ... es'} /> |
+| <Shimmer />         |
+| <Shimmer/>          |
+| <Shimmer />         |
+| <Shimmer />         |
+| <Shimmer />         |

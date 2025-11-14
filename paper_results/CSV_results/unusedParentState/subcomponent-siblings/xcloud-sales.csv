@@ -1,0 +1,16 @@
+|       sibling        |
++----------------------+
+| <XCombi ...  {}} />  |
+| <XGoods model={x} /> |
+| <XCheck ... ems} />  |
+| <XItem  ... ={2} />  |
+| <XGoods ... dId} />  |
+| <XItem  ... ods} />  |
+| <XBackt ... ops} />  |
+| <XItem  ... m }} />  |
+| <DictIt ...      />  |
+| <XBackT ... ops} />  |
+| <XDetai ...      />  |
+| <XEmpty />           |
+| <XUserC ... ={x} />  |
+| <XItem\n ...      /> |

@@ -1,0 +1,11 @@
+|         sibling          |
++--------------------------+
+| <ImageD ... \r\n\t\t\t/> |
+| <Result ... \n\t\t\t\t/> |
+| <RowIma ... \t\t\t\t\t/> |
+| <RowAct ... \t\t\t\t\t/> |
+| <CardTi ... Header>      |
+| <FetchP ... tton />      |
+| <Loader ... \t\t\t\t\t/> |
+| <FormInputs />           |
+| <FetchP ... tton />      |

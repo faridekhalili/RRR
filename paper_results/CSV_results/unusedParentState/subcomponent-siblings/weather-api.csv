@@ -1,0 +1,7 @@
+|       sibling       |
++---------------------+
+| <MyNavbar />        |
+| <Locati ... ion} /> |
+| <Weathe ... ler} /> |
+| <Timeli ... ata} /> |
+| <MyFooter />        |

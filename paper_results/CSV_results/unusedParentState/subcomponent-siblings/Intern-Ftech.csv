@@ -1,0 +1,13 @@
+|     sibling      |
++------------------+
+| <Home />         |
+| <About />        |
+| <ChatBox />      |
+| <PostListPage /> |
+| <ShowPost />     |
+| <PostsList />    |
+| <FormNew />      |
+| <FormFields />   |
+| <Profile />      |
+| <Login />        |
+| <Register />     |

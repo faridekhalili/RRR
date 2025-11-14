@@ -1,0 +1,68 @@
+|       sibling        |
++----------------------+
+| <Box>\n  ...  </Box> |
+| <Loader ...      />  |
+| <Loader ... "xs" />  |
+| <Conten ... "xl" />  |
+| <Vertic ...      />  |
+| <Header ...      />  |
+| <ColorC ... rCover>  |
+| <Gradie ...      />  |
+| <Conten ...      />  |
+| <Conten ...      />  |
+| <Conten ... tes} />  |
+| <Center ... ntered>  |
+| <Inform ... mation>  |
+| <Inform ... mation>  |
+| <Inform ... ors} />  |
+| <Inform ... mation>  |
+| <Inform ... ers} />  |
+| <Inform ... mation>  |
+| <Inform ... mation>  |
+| <Inform ... mation>  |
+| <Inform ... mation>  |
+| <Inform ... ies} />  |
+| <Inform ... mation>  |
+| <Center ... ntered>  |
+| <Conten ...      />  |
+| <Header ...      />  |
+| <ColorC ... rCover>  |
+| <Icon s ... ID)} />  |
+| <Gradie ...      />  |
+| <Gradie ...      />  |
+| <Toucha ... chable>  |
+| <ImageB ... ground>  |
+| <Loader ... 00%" />  |
+| <NoCove ... 0.7} />  |
+| <Loader ... {30} />  |
+| <Loader ... {12} />  |
+| <Center ... ntered>  |
+| <Loader ... 0.7} />  |
+| <MoreLe ... ssText>  |
+| <Center ... ntered>  |
+| <ListLoader />       |
+| <Movies ... ies} />  |
+| <Center ... ntered>  |
+| <ListLoader />       |
+| <TvShow ... ows} />  |
+| <Conten ...      />  |
+| <Conten ...      />  |
+| <Conten ... tes} />  |
+| <Center ... ntered>  |
+| <Loader ... {80} />  |
+| <Loader ... {80} />  |
+| <Loader ... {80} />  |
+| <Season ...      />  |
+| <Center ... ntered>  |
+| <Inform ... mation>  |
+| <Inform ... mation>  |
+| <Inform ... ors} />  |
+| <Inform ... mation>  |
+| <Box fl ...  </Box>  |
+| <Inform ... mation>  |
+| <Inform ... mation>  |
+| <Inform ... mation>  |
+| <Inform ... mation>  |
+| <Inform ... rks} />  |
+| <Inform ... mation>  |
+| <Conten ...      />  |

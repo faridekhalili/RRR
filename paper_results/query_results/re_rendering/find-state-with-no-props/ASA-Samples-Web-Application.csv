@@ -1,0 +1,5 @@
+"col0"
+"client/src/App.tsx:<14,9>--<14,42>~~~use_state_to_use_ref"
+"client/src/App.tsx:<15,9>--<15,42>~~~use_state_to_use_ref"
+"client/src/components/todoItemListPane.tsx:<61,11>--<61,71>~~~use_state_to_use_ref"
+"client/src/components/todoItemListPane.tsx:<62,11>--<62,81>~~~use_state_to_use_ref"

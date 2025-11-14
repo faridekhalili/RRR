@@ -1,0 +1,9 @@
+|       sibling       |
++---------------------+
+| <Contac ... hone}/> |
+| <SellerForm/>       |
+| <BuyerForm/>        |
+| <AddItem/>          |
+| <Details {...obj}/> |
+| <Items/>            |
+| <Tradings/>         |

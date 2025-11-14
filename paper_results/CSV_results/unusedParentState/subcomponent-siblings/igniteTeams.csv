@@ -1,0 +1,12 @@
+|       sibling       |
++---------------------+
+| <Header ... tton /> |
+| <Highli ...      /> |
+| <Button ...      /> |
+| <Header ... tton /> |
+| <Highli ...      /> |
+| <Button ...      /> |
+| <Loading />         |
+| <Player ...      /> |
+| <EmptyL ... me.' /> |
+| <Button ...      /> |
