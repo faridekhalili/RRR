@@ -1,4 +1,14 @@
 # RRR Artifact
+---
+
+## **Citation & Paper Reference**
+
+This repository serves as the **artifact** for the following ICSE 2026 paper:
+
+**Farideh Khalili, Satyajit Gokhale, Alexi Turcotte, Dale Xu, and Frank Tip. 2026. *Remediating Superfluous Superfluous Re-Rendering in React Applications*. In 2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE ’26), April 12–18, 2026, Rio de Janeiro, Brazil. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3744916.3773235**
+
+If you use this artifact in academic work, please cite the paper above.
+---
 
 This repository provides a self-contained environment for reproducing key elements of the RRR paper. This artifact includes:
 
