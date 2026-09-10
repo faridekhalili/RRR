@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this artifact in academic work, please cite the associated ICSE 2026 paper."
+title: "RRR Artifact"
+type: software
+version: "1.0.0"
+date-released: 2026-09-10
+repository-code: "https://github.com/faridekhalili/RRR"
+
+authors:
+  - family-names: "Khalili"
+    given-names: "Farideh"
+  - family-names: "Gokhale"
+    given-names: "Satyajit"
+  - family-names: "Turcotte"
+    given-names: "Alexi"
+  - family-names: "Xu"
+    given-names: "Dale"
+  - family-names: "Tip"
+    given-names: "Frank"
+
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: "Khalili"
+      given-names: "Farideh"
+    - family-names: "Gokhale"
+      given-names: "Satyajit"
+    - family-names: "Turcotte"
+      given-names: "Alexi"
+    - family-names: "Xu"
+      given-names: "Dale"
+    - family-names: "Tip"
+      given-names: "Frank"
+  title: "Remediating Superfluous Re-Rendering in React Applications"
+  year: 2026
+  conference:
+    name: "2026 IEEE/ACM 48th International Conference on Software Engineering (ICSE '26)"
+  doi: "10.1145/3744916.3773235"
